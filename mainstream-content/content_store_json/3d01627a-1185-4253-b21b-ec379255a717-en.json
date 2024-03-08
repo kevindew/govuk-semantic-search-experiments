@@ -1,0 +1,1076 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-if-you-need-tax-return",
+  "content_id": "3d01627a-1185-4253-b21b-ec379255a717",
+  "description": "Use this tool to find out if you need to send a tax return for the 2022 to 2023 tax year (6 April 2022 to 5 April 2023).",
+  "details": {
+    "body": "<p>Use this tool to find out if you need to send a tax return for the 2022 to 2023 tax year (6 April 2022 to 5 April 2023).</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/gwirio-angen-ffurflen-dreth\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<p>The tool will not send your details to HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>).</p>\n\n",
+    "external_related_links": [
+      {
+        "title": "Self Assessment: chat",
+        "url": "https://www.tax.service.gov.uk/ask-hmrc/chat/self-assessment?_ga=2.14757750.1749777676.1640718022-667890269.1633006830"
+      }
+    ],
+    "nodes": [
+      {
+        "body": "<p>You may have worked for yourself as a sole trader, a business partner or a director of a limited company - even if you had another job as well. Check if you’re not sure <a href=\"/working-for-yourself\">what working for yourself means</a>.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-2",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-4",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-1",
+        "title": "Did you work for yourself between 6 April 2022 and 5 April 2023?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Self-employed as a sole trader",
+            "next_node": "question-3",
+            "slug": "self-employed-as-a-sole-trader"
+          },
+          {
+            "label": "Partner in a business partnership",
+            "next_node": "outcome-2",
+            "slug": "partner-in-a-business-partnership"
+          },
+          {
+            "label": "Director of a limited company",
+            "next_node": "question-4",
+            "slug": "director-of-a-limited-company"
+          }
+        ],
+        "slug": "question-2",
+        "title": "What was your work status when you worked for yourself?"
+      },
+      {
+        "body": "<p>This is the amount you earned, including any coronavirus (COVID-19) support payments you received, before taking off any expenses.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-1",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-4",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-3",
+        "title": "Did you earn more than £1,000 from working for yourself? "
+      },
+      {
+        "body": "<p>You’re an off-payroll worker (also sometimes called a contractor) if you provide services to a client through an intermediary such as:</p>\n\n<ul>\n  <li>your own limited company</li>\n  <li>a partnership</li>\n  <li>a personal service company</li>\n  <li>an individual</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-5",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-6",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-4",
+        "title": "Did you work as an ‘off-payroll worker’?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-4",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-6",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-5",
+        "title": "Do you have a student loan?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes, state pension only",
+            "next_node": "question-7",
+            "slug": "yes-state-pension-only"
+          },
+          {
+            "label": "Yes, I get some or all of my pension income from a private pension",
+            "next_node": "question-9",
+            "slug": "yes-i-get-some-or-all-of-my-pension-income-from-a-private-pension"
+          },
+          {
+            "label": "Yes, a pension from outside the UK",
+            "next_node": "outcome-7",
+            "slug": "yes-a-pension-from-outside-the-uk"
+          },
+          {
+            "label": "No",
+            "next_node": "question-9",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-6",
+        "title": "Did you get a pension?"
+      },
+      {
+        "body": "<p>Other income could include money from property or investments.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-9",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-3",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-7",
+        "title": "Do you have any other form of income, apart from your State Pension?"
+      },
+      {
+        "body": "<p>Income could be from:<br>\n- your pension<br>\n- salary before tax and pension contributions<br>\n- any taxable benefits (such as a company car)<br>\n- property or investments</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Between £0 and £50,000",
+            "next_node": "question-11",
+            "slug": "between-0-and-50-000"
+          },
+          {
+            "label": "Between £50,000 and £100,000",
+            "next_node": "question-10",
+            "slug": "between-50-000-and-100-000"
+          },
+          {
+            "label": "More than £100,000",
+            "next_node": "outcome-4",
+            "slug": "more-than-100-000"
+          }
+        ],
+        "slug": "question-9",
+        "title": "What was your total income for the year?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-5",
+            "slug": "yes"
+          },
+          {
+            "label": "No, but my partner did",
+            "next_node": "outcome-5",
+            "slug": "no-but-my-partner-did"
+          },
+          {
+            "label": "No, but someone claimed it for a child that lived with me at the time and they contributed at least as much as me towards the child’s upkeep",
+            "next_node": "outcome-5",
+            "slug": "no-but-someone-claimed-it-for-a-child-that-lived-with-me-at-the-time-and-they-contributed-at-least-as-much-as-me-towards-the-child-s-upkeep"
+          },
+          {
+            "label": "No, I do not have children or did not claim",
+            "next_node": "question-11",
+            "slug": "no-i-do-not-have-children-or-did-not-claim"
+          }
+        ],
+        "slug": "question-10",
+        "title": "Did you claim Child Benefit?"
+      },
+      {
+        "body": "<p>This includes renting out a property or using your home as a short-term holiday let.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-13",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-14",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-11",
+        "title": "Did any of your income come from UK property or land?"
+      },
+      {
+        "body": "<p>To work this out, add up your total income from property or land. That’s your gross earnings. To get your net earnings, deduct any allowable expenses - for example, maintenance and repair costs.</p>\n\n<p>The rules are different <a href=\"/tax-uk-income-live-abroad/rent\">if you’re a non-resident landlord</a>.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Less than £2,500 net",
+            "next_node": "question-14",
+            "slug": "less-than-2-500-net"
+          },
+          {
+            "label": "More than £2,500 net (or more than £10,000 gross)",
+            "next_node": "outcome-4",
+            "slug": "more-than-2-500-net-or-more-than-10-000-gross"
+          }
+        ],
+        "slug": "question-13",
+        "title": "How much did you get from UK property or land (gross and net)?"
+      },
+      {
+        "body": "<p>Income from savings and investments includes:</p>\n\n<ul>\n  <li>savings interest</li>\n  <li>money from bare trusts</li>\n  <li>interest in possession trusts</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes, I got more than £10,000 from savings and investments",
+            "next_node": "outcome-4",
+            "slug": "yes-i-got-more-than-10-000-from-savings-and-investments"
+          },
+          {
+            "label": "Yes, I got more than £10,000 from share dividends",
+            "next_node": "outcome-4",
+            "slug": "yes-i-got-more-than-10-000-from-share-dividends"
+          },
+          {
+            "label": "No",
+            "next_node": "question-15",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-14",
+        "title": "Did you get more than £10,000 from dividends or savings and investments?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Income from a trust",
+            "next_node": "outcome-6",
+            "slug": "income-from-a-trust"
+          },
+          {
+            "label": "Income from outside the UK (includes pensions)",
+            "next_node": "outcome-7",
+            "slug": "income-from-outside-the-uk-includes-pensions"
+          },
+          {
+            "label": "£2,500 or more in commission or cash in hand payments",
+            "next_node": "outcome-4",
+            "slug": "2-500-or-more-in-commission-or-cash-in-hand-payments"
+          },
+          {
+            "label": "A payment or charge on a private pension",
+            "next_node": "question-16",
+            "slug": "a-payment-or-charge-on-a-private-pension"
+          },
+          {
+            "label": "A Self-Employment Income Support Scheme (SEISS) grant ",
+            "next_node": "outcome-4",
+            "slug": "a-self-employment-income-support-scheme-seiss-grant"
+          },
+          {
+            "label": "None of these",
+            "next_node": "question-17",
+            "slug": "none-of-these"
+          }
+        ],
+        "slug": "question-15",
+        "title": "Do you need to pay tax on any of the following?"
+      },
+      {
+        "body": "<p>Ask your pension provider if you’re not sure.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Money in my pension pots above my annual or lifetime allowance",
+            "next_node": "outcome-4",
+            "slug": "money-in-my-pension-pots-above-my-annual-or-lifetime-allowance"
+          },
+          {
+            "label": "Unauthorised payments from a pension scheme",
+            "next_node": "outcome-4",
+            "slug": "unauthorised-payments-from-a-pension-scheme"
+          },
+          {
+            "label": "Overseas payment charges",
+            "next_node": "outcome-4",
+            "slug": "overseas-payment-charges"
+          },
+          {
+            "label": "None of these",
+            "next_node": "question-17",
+            "slug": "none-of-these"
+          }
+        ],
+        "slug": "question-16",
+        "title": "Which pension payment or charge do you need to tell HMRC about?"
+      },
+      {
+        "body": "<p>You usually have to pay Capital Gains Tax when you sell or give away:</p>\n\n<ul>\n  <li>most personal possessions worth £6,000 or more (apart from your car)</li>\n  <li>any other assets, such as shares or a holiday home</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-18",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-19",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-17",
+        "title": "Do you need to pay any Capital Gains Tax?"
+      },
+      {
+        "body": "<p>The positions that affect how you’re taxed are:</p>\n\n<ul>\n  <li>religious minister</li>\n  <li>Lloyd’s underwriter</li>\n  <li>examiner, exam moderator or invigilator</li>\n  <li>share fisherman</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-8",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-9",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-18",
+        "title": "Did you hold a position that affects how you’re taxed?"
+      },
+      {
+        "body": "<p>The positions that affect how you’re taxed are:</p>\n\n<ul>\n  <li>religious minister</li>\n  <li>Lloyd’s underwriter</li>\n  <li>examiner, exam moderator or invigilator</li>\n  <li>share fisherman</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-8",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-10",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-19",
+        "title": "Did you hold a position that affects how you’re taxed?"
+      },
+      {
+        "body": "<p>Based on your answers, you need to send a return for 2022 to 2023 because you’re a self-employed sole trader.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n\n<p>You must <a href=\"/register-for-self-assessment\">register for Self Assessment</a> if you’ve not sent a tax return before.  </p>\n\n<p>It can take up to 10 working days (21 working days if you’re abroad) for your registration to be confirmed. </p>\n\n<p>If you’ve registered before but did not send a return last year, <a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=/account/&amp;origin=SA-frontend\">sign in to your tax account</a> to reactivate your Self Assessment.</p>\n\n<p>If you’re already registered, <a href=\"/log-in-file-self-assessment-tax-return\">send your tax return by the deadline</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-1",
+        "title": "You need to send a Self Assessment tax return"
+      },
+      {
+        "body": "<p>Based on your answers, you need to send a return for 2022 to 2023 because you’re a partner or partnership.</p>\n\n<p>You must <a href=\"/register-for-self-assessment\">register for Self Assessment</a> if you’ve not sent a tax return before.  </p>\n\n<p>It can take up to 10 working days (21 working days if you’re abroad) for your registration to be confirmed. </p>\n\n<p>If you’ve registered before but did not send a return last year, <a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=/account/&amp;origin=SA-frontend\">sign in to your tax account</a> to reactivate your Self Assessment.</p>\n\n<p>If you’re already registered, <a href=\"/log-in-file-self-assessment-tax-return\">send your tax return by the deadline</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-2",
+        "title": "You need to send a Self Assessment tax return "
+      },
+      {
+        "body": "<p>Based on your answers, you do not need to send a return for 2022 to 2023 because your only income is the State Pension. </p>\n\n<p>If your State Pension payments have gone over your Personal Allowance, HM Revenue &amp; Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) will write and tell you what you owe.</p>\n\n<p>You do not need to confirm to <abbr title=\"HM Revenue and Customs\">HMRC</abbr> that you will not be sending a return - unless they asked you to send one.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You can choose to send a return (for example, to claim some allowances or income tax reliefs) – find out more about <a href=\"/self-assessment-tax-returns/who-must-send-a-tax-return\">sending a return for any other reason</a>. </p>\n</div>\n\n<h2 id=\"if-hmrc-asked-you-to-send-a-return\">If <abbr title=\"HM Revenue and Customs\">HMRC</abbr> asked you to send a return </h2>\n\n<p>If <abbr title=\"HM Revenue and Customs\">HMRC</abbr> wrote to you asking you to send a return but you believe you do not need to, you’ll need to contact them and explain this. They may need to update their records.</p>\n\n<p><a href=\"/self-assessment-tax-returns/no-longer-need-to-send-a-tax-return\">Tell <abbr title=\"HM Revenue and Customs\">HMRC</abbr> you no longer need to send a tax return</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-3",
+        "title": "You do not need to send a Self Assessment tax return "
+      },
+      {
+        "body": "<p>Based on your answers, you need to send a return for 2022 to 2023.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n\n<p>You must <a href=\"/register-for-self-assessment\">register for Self Assessment</a> if you’ve not sent a tax return before.  </p>\n\n<p>It can take up to 10 working days (21 working days if you’re abroad) for your registration to be confirmed. </p>\n\n<p>If you’ve registered before but did not send a return last year, <a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=/account/&amp;origin=SA-frontend\">sign in to your tax account</a> to reactivate your Self Assessment.</p>\n\n<p>If you’re already registered, <a href=\"/log-in-file-self-assessment-tax-return\">send your tax return by the deadline</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-4",
+        "title": "You need to send a Self Assessment tax return "
+      },
+      {
+        "body": "<p>You or your partner may need to send a return for 2022 to 2023 to pay the High Income Child Benefit Charge.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n\n<p>Use the <a href=\"/child-benefit-tax-calculator\">Child Benefit tax calculator</a> to work out if you or your partner have to pay the charge.</p>\n\n<p>If you or your partner do have to pay, then:</p>\n\n<ol class=\"steps\">\n<li>\n<p>If you’ve never sent a tax return, <a href=\"/register-for-self-assessment\">register now</a> - allow 10 working days to register (21 working days if you’re abroad).</p>\n</li>\n<li>\n<p><a href=\"/self-assessment-tax-returns/sending-return\">Check how to send a tax return</a> and when you or your partner has to send it.</p>\n</li>\n<li>\n<p><a href=\"/log-in-file-self-assessment-tax-return\">Send the tax return</a>.</p>\n</li>\n</ol>\n<p>If you’ve registered before but did not send a return last year, <a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=/account/&amp;origin=SA-frontend\">sign in to your tax account</a> to reactivate your Self Assessment.</p>\n\n<p>You can <a href=\"/government/organisations/hm-revenue-customs/contact/self-assessment\">contact <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> if you need help.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-5",
+        "title": "You or your partner (if you have one) may need to send a Self Assessment tax return"
+      },
+      {
+        "body": "<p>You need to send a return if you owe Income Tax on a trust for 2022 to 2023.</p>\n\n<p>You must <a href=\"/register-for-self-assessment\">register for Self Assessment</a> if you’ve not sent a tax return before.  </p>\n\n<p>It can take up to 10 working days (21 working days if you’re abroad) for your registration to be confirmed. </p>\n\n<p>If you’ve registered before but did not send a return last year, <a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=/account/&amp;origin=SA-frontend\">sign in to your tax account</a> to reactivate your Self Assessment.</p>\n\n<p>If you’re already registered, <a href=\"/log-in-file-self-assessment-tax-return\">send your tax return by the deadline</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-6",
+        "title": "You need to send a Self Assessment tax return"
+      },
+      {
+        "body": "<p>You need to send a return if you owe tax on foreign income for 2022 to 2023.</p>\n\n<p>You must <a href=\"/register-for-self-assessment\">register for Self Assessment</a> if you’ve not sent a tax return before.  </p>\n\n<p>It can take up to 10 working days (21 working days if you’re abroad) for your registration to be confirmed. </p>\n\n<p>If you’ve registered before but did not send a return last year, <a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=/account/&amp;origin=SA-frontend\">sign in to your tax account</a> to reactivate your Self Assessment.</p>\n\n<p>If you’re already registered, <a href=\"/log-in-file-self-assessment-tax-return\">send your tax return by the deadline</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-7",
+        "title": "You need to send a Self Assessment tax return"
+      },
+      {
+        "body": "<p>Based on your answers, you need to send a return for 2022 to 2023.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n\n<p>You must <a href=\"/register-for-self-assessment\">register for Self Assessment</a> if you’ve not sent a tax return before.  </p>\n\n<p>It can take up to 10 working days (21 working days if you’re abroad) for your registration to be confirmed. </p>\n\n<p>If you’ve registered before but did not send a return last year, <a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=/account/&amp;origin=SA-frontend\">sign in to your tax account</a> to reactivate your Self Assessment.</p>\n\n<p>If you’re already registered, <a href=\"/log-in-file-self-assessment-tax-return\">send your tax return by the deadline</a>.</p>\n\n<p>When you fill in your return, make sure you tell <abbr title=\"HM Revenue and Customs\">HMRC</abbr> about the position you held that affects how you’re taxed.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-8",
+        "title": "You need to send a Self Assessment tax return"
+      },
+      {
+        "body": "<p>Based on your answers, you have Capital Gains Tax to report.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n\n<p>You must <a href=\"/register-for-self-assessment\">register for Self Assessment</a> if you’ve not sent a tax return before.  </p>\n\n<p>It can take up to 10 working days (21 working days if you’re abroad) for your registration to be confirmed. </p>\n\n<p>If you’ve registered before but did not send a return last year, <a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=/account/&amp;origin=SA-frontend\">sign in to your tax account</a> to reactivate your Self Assessment.</p>\n\n<p>If you’re already registered, <a href=\"/log-in-file-self-assessment-tax-return\">send your tax return by the deadline</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-9",
+        "title": "You may need to send a Self Assessment tax return to pay Capital Gains Tax"
+      },
+      {
+        "body": "<p>Based on your answers, you do not need to send a return for 2022 to 2023.</p>\n\n<p>You do not need to confirm to <abbr title=\"HM Revenue and Customs\">HMRC</abbr> that you will not be sending a return - unless they asked you to send one.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You can choose to send a return (for example, to claim some allowances or income tax reliefs) – find out more about <a href=\"/self-assessment-tax-returns/who-must-send-a-tax-return\">sending a return for any other reason</a>.</p>\n</div>\n\n<h2 id=\"if-hmrc-asked-you-to-send-a-return\">If <abbr title=\"HM Revenue and Customs\">HMRC</abbr> asked you to send a return</h2>\n\n<p>If <abbr title=\"HM Revenue and Customs\">HMRC</abbr> wrote to you asking you to send a return but you believe you no longer need to, you’ll need to contact them and explain this. For example, if you have stopped working for yourself, <abbr title=\"HM Revenue and Customs\">HMRC</abbr> might not be aware – you’ll need to tell them so they can update their records.</p>\n\n<p><a href=\"/self-assessment-tax-returns/no-longer-need-to-send-a-tax-return\">Tell <abbr title=\"HM Revenue and Customs\">HMRC</abbr> you no longer need to send a tax return</a>.</p>\n\n<h2 id=\"if-you-had-untaxed-income\">If you had untaxed income</h2>\n\n<p>You must tell <abbr title=\"HM Revenue and Customs\">HMRC</abbr> if you had:</p>\n\n<ul>\n  <li>more than £2,000 income from share dividends</li>\n  <li>between £1,000 and £2,500 in any other untaxed income, such as commission or money from renting out a property</li>\n</ul>\n\n<p>You do not need to send a return for this. You can either:</p>\n\n<ul>\n  <li>\n<a href=\"/check-income-tax-current-year\">check your Income Tax</a> and go to ‘Tell us about a change’</li>\n  <li><a href=\"/government/organisations/hm-revenue-customs/contact/income-tax-enquiries-for-individuals-pensioners-and-employees\">call <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a></li>\n</ul>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-10",
+        "title": "You do not need to send a Self Assessment tax return"
+      }
+    ],
+    "start_button_text": "Continue"
+  },
+  "document_type": "simple_smart_answer",
+  "first_published_at": "2018-11-20T09:00:08Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-if-you-need-tax-return",
+        "api_url": "https://www.gov.uk/api/content/check-if-you-need-tax-return",
+        "base_path": "/check-if-you-need-tax-return",
+        "content_id": "3d01627a-1185-4253-b21b-ec379255a717",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-11-28T13:27:21Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Check if you need to send a Self Assessment tax return",
+        "web_url": "https://www.gov.uk/check-if-you-need-tax-return",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/self-assessment-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/self-assessment-detailed-information",
+        "base_path": "/government/collections/self-assessment-detailed-information",
+        "content_id": "74cdc9d3-8864-4032-9a30-08d0d795b0c4",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/check-if-you-need-tax-return",
+              "api_url": "https://www.gov.uk/api/content/check-if-you-need-tax-return",
+              "base_path": "/check-if-you-need-tax-return",
+              "content_id": "3d01627a-1185-4253-b21b-ec379255a717",
+              "document_type": "simple_smart_answer",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2018-11-28T13:27:21Z",
+              "schema_name": "simple_smart_answer",
+              "title": "Check if you need to send a Self Assessment tax return",
+              "web_url": "https://www.gov.uk/check-if-you-need-tax-return",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-12T12:09:42Z",
+        "schema_name": "document_collection",
+        "title": "Self Assessment: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/self-assessment-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+        "base_path": "/browse/tax/self-assessment",
+        "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+        "description": "Includes filing, deadlines, pay and tax records",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Self Assessment",
+        "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/register-for-self-assessment",
+        "api_url": "https://www.gov.uk/api/content/register-for-self-assessment",
+        "base_path": "/register-for-self-assessment",
+        "content_id": "d702e58b-d8c6-45de-b92c-9bf938c779c0",
+        "document_type": "simple_smart_answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/self-assessment",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+              "base_path": "/browse/tax/self-assessment",
+              "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+              "description": "Includes filing, deadlines, pay and tax records",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Self Assessment",
+              "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-11-18T15:31:17Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Check how to register for Self Assessment",
+        "web_url": "https://www.gov.uk/register-for-self-assessment",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/log-in-file-self-assessment-tax-return",
+        "api_url": "https://www.gov.uk/api/content/log-in-file-self-assessment-tax-return",
+        "base_path": "/log-in-file-self-assessment-tax-return",
+        "content_id": "6a2bf66e-2313-4204-afd5-9940de5e1d66",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/self-assessment",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+              "base_path": "/browse/tax/self-assessment",
+              "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+              "description": "Includes filing, deadlines, pay and tax records",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Self Assessment",
+              "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-15T16:17:28Z",
+        "schema_name": "answer",
+        "title": "File your Self Assessment tax return online",
+        "web_url": "https://www.gov.uk/log-in-file-self-assessment-tax-return",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/self-assessment-tax-returns",
+        "api_url": "https://www.gov.uk/api/content/self-assessment-tax-returns",
+        "base_path": "/self-assessment-tax-returns",
+        "content_id": "f29ca4a8-8ed9-4b0f-bb6a-11e373095dee",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/income-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+              "base_path": "/browse/tax/income-tax",
+              "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+              "description": "Includes rates and allowances, tax codes and refunds",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Income Tax",
+              "web_url": "https://www.gov.uk/browse/tax/income-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/self-assessment",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+              "base_path": "/browse/tax/self-assessment",
+              "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+              "description": "Includes filing, deadlines, pay and tax records",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Self Assessment",
+              "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-17T10:55:14Z",
+        "schema_name": "guide",
+        "title": "Self Assessment tax returns",
+        "web_url": "https://www.gov.uk/self-assessment-tax-returns",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/organisations/hm-revenue-customs/contact/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs/contact/self-assessment",
+        "base_path": "/government/organisations/hm-revenue-customs/contact/self-assessment",
+        "content_id": "8c478876-b659-4fde-a5ca-2e59dd080168",
+        "details": {
+          "contact_form_links": [
+            {
+              "description": "\n",
+              "link": "https://www.gov.uk/guidance/check-when-you-can-expect-a-reply-from-hmrc",
+              "title": "If you've already contacted HMRC, find out when you should receive a reply"
+            },
+            {
+              "description": "<p>Ask HMRC’s digital assistant to find information about Self Assessment. If the digital assistant cannot help you, you can ask to transfer to an HMRC adviser if they’re available.</p>\n",
+              "link": "https://www.tax.service.gov.uk/ask-hmrc/chat/self-assessment",
+              "title": "Ask HMRC online"
+            },
+            {
+              "description": "<p>This guidance covers:</p>\n\n<ul>\n  <li>how to register</li>\n  <li>filing your return</li>\n  <li>paying your bill</li>\n</ul>\n",
+              "link": "https://www.gov.uk/self-assessment-tax-returns",
+              "title": "Find out more about Self Assessment tax returns"
+            }
+          ],
+          "description": "Contact HMRC for advice on Self Assessment and to change your personal details",
+          "email_addresses": [
+
+          ],
+          "phone_numbers": [
+            {
+              "best_time_to_call": "\n",
+              "description": "<p>Call HMRC for advice on Self Assessment.</p>\n\n<h3 id=\"problems-using-hmrcs-online-services\">Problems using HMRC’s online services</h3>\n\n<p>Contact <a href=\"https://www.gov.uk/government/organisations/hm-revenue-customs/contact/online-services-helpdesk\">HMRC’s online services helpdesk</a> if you:</p>\n\n<ul>\n  <li>have problems submitting your tax return online</li>\n  <li>have lost your online service user name or password</li>\n  <li>get any error messages in your online account or on HMRC forms</li>\n</ul>\n\n<h3 id=\"before-you-call\">Before you call</h3>\n\n<p>If you have a National Insurance number and Self Assessment Unique Taxpayer Reference have them with you.</p>\n\n<p>This helpline uses speech recognition software, so you will be asked why you are calling HMRC. If you cannot use speech recognition software, find out how to get help from HMRC if you <a href=\"https://www.gov.uk/get-help-hmrc-extra-support\">need extra support</a>.</p>\n\n<p>This helpline may also ask you some security questions. Make sure your personal details and address are up to date in your <a href=\"https://www.gov.uk/personal-tax-account\">personal tax account</a> or you could fail telephone security. If you do not have a personal tax account, you can create one before you check your details.</p>\n\n<p>HMRC may ask if you want to add voice identification to your account. You can find out more in the <a href=\"https://www.gov.uk/government/publications/voice-identification-privacy-notice\">Voice Identification Privacy Notice</a>.</p>\n",
+              "fax": "",
+              "international_phone": "+44 161 931 9070",
+              "number": "0300 200 3310",
+              "open_hours": "<p>Monday to Friday: 8am to 6pm</p>\n\n<p>Closed on weekends and bank holidays.</p>\n\n<div class=\"call-to-action\">\n  <p><a href=\"https://www.gov.uk/get-help-hmrc-extra-support\">Get help from HMRC if you need extra support</a>.</p>\n</div>\n",
+              "textphone": "",
+              "title": "Self Assessment Helpline"
+            }
+          ],
+          "post_addresses": [
+            {
+              "description": "<p>Write to HMRC at this address with all Self Assessment queries except if you want to <a href=\"https://www.gov.uk/government/organisations/hm-revenue-customs/contact/complain-about-hmrc\">make a complaint about HMRC</a>.</p>\n\n<p>You do not need to include a street name, city name or PO box when writing to this address.</p>\n\n<p>Couriers should use a <a href=\"https://www.gov.uk/government/organisations/hm-revenue-customs/contact/couriers\">different address</a>.</p>\n",
+              "locality": "",
+              "postal_code": "BX9 1AS",
+              "region": "",
+              "street_address": "HM Revenue and Customs",
+              "title": "Self Assessment",
+              "world_location": "United Kingdom"
+            }
+          ],
+          "title": "Self Assessment: general enquiries"
+        },
+        "document_type": "contact",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-25T12:16:07Z",
+        "schema_name": "contact",
+        "title": "Self Assessment: general enquiries",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs/contact/self-assessment",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+        "base_path": "/browse/tax/self-assessment",
+        "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+        "description": "Includes filing, deadlines, pay and tax records",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Self Assessment",
+        "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/log-in-file-self-assessment-tax-return",
+        "api_url": "https://www.gov.uk/api/content/log-in-file-self-assessment-tax-return",
+        "base_path": "/log-in-file-self-assessment-tax-return",
+        "content_id": "6a2bf66e-2313-4204-afd5-9940de5e1d66",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-15T16:17:28Z",
+        "schema_name": "answer",
+        "title": "File your Self Assessment tax return online",
+        "web_url": "https://www.gov.uk/log-in-file-self-assessment-tax-return",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/self-assessment-tax-returns",
+        "api_url": "https://www.gov.uk/api/content/self-assessment-tax-returns",
+        "base_path": "/self-assessment-tax-returns",
+        "content_id": "f29ca4a8-8ed9-4b0f-bb6a-11e373095dee",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-17T10:55:14Z",
+        "schema_name": "guide",
+        "title": "Self Assessment tax returns",
+        "web_url": "https://www.gov.uk/self-assessment-tax-returns",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-income-tax-current-year",
+        "api_url": "https://www.gov.uk/api/content/check-income-tax-current-year",
+        "base_path": "/check-income-tax-current-year",
+        "content_id": "36f6dee6-2942-4787-85a5-180a9d71e6e0",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-10T15:00:52Z",
+        "schema_name": "answer",
+        "title": "Check your Income Tax for the current year",
+        "web_url": "https://www.gov.uk/check-income-tax-current-year",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pay-self-assessment-tax-bill",
+        "api_url": "https://www.gov.uk/api/content/pay-self-assessment-tax-bill",
+        "base_path": "/pay-self-assessment-tax-bill",
+        "content_id": "999dd0f5-41d3-4a63-8bb9-f00a68c129a8",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-30T10:52:29Z",
+        "schema_name": "guide",
+        "title": "Pay your Self Assessment tax bill",
+        "web_url": "https://www.gov.uk/pay-self-assessment-tax-bill",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/personal-tax-account",
+        "api_url": "https://www.gov.uk/api/content/personal-tax-account",
+        "base_path": "/personal-tax-account",
+        "content_id": "f4f2c99e-6d0a-4f2f-b3d0-ff2d00e33887",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-12T10:04:48Z",
+        "schema_name": "answer",
+        "title": "Personal tax account: sign in or set up",
+        "web_url": "https://www.gov.uk/personal-tax-account",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/money/self-assessment",
+        "base_path": "/money/self-assessment",
+        "content_id": "edb9b4a6-b804-4348-beee-81827c86bf0b",
+        "details": {
+          "internal_name": "Self Assessment [T] (level 2)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:55Z",
+        "schema_name": "taxon",
+        "title": "Self Assessment",
+        "web_url": "https://www.gov.uk/money/self-assessment",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2018-11-28T13:27:21Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1701082148.278-10.13.21.63-51258",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "simple_smart_answer",
+  "title": "Check if you need to send a Self Assessment tax return",
+  "updated_at": "2024-03-05T14:41:44Z",
+  "withdrawn_notice": {
+  }
+}

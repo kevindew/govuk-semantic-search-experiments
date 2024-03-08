@@ -1,0 +1,421 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/find-teaching-job",
+  "content_id": "4094bbda-b093-452b-b9ef-5bc69dfe81e3",
+  "description": "Search for a job in teaching or education in England, including jobs in leadership, education support and special educational needs and disabilities (SEND).",
+  "details": {
+    "department_analytics_profile": "UA-115088897-2",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Search for jobs in state-funded schools and trusts in England.</p>\n\n<p>You can search for jobs in:</p>\n\n<ul>\n  <li>teaching</li>\n  <li>school leadership – for example, headteacher or head of department</li>\n  <li>education support – for example, teaching assistant or learning cover supervisor</li>\n  <li>special educational needs and disabilities (SEND) – for example, a SEND coordinator</li>\n</ul>\n\n<p>For jobs outside England:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"https://teachinscotland.scot/find-a-job/\">search for jobs in Scotland</a></li>\n  <li><a rel=\"external\" href=\"https://www.discoverteaching.wales/jobs/\">search for jobs in Wales</a></li>\n  <li><a rel=\"external\" href=\"https://eani.taleo.net/careersection/external/jobsearch.ftl?lang=en\">search for jobs in Northern Ireland</a></li>\n</ul>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.teaching-vacancies.service.gov.uk/",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2018-10-09T15:49:43Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/find-teaching-job",
+        "api_url": "https://www.gov.uk/api/content/find-teaching-job",
+        "base_path": "/find-teaching-job",
+        "content_id": "4094bbda-b093-452b-b9ef-5bc69dfe81e3",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-11-29T09:19:55Z",
+        "schema_name": "transaction",
+        "title": "Find a job in teaching or education",
+        "web_url": "https://www.gov.uk/find-teaching-job",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/education/school-life",
+        "api_url": "https://www.gov.uk/api/content/browse/education/school-life",
+        "base_path": "/browse/education/school-life",
+        "content_id": "99e2b248-baa4-4bf2-8a96-646fedd4d308",
+        "description": "Help with school costs, the curriculum and school attendance",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:50Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Schools and curriculum",
+        "web_url": "https://www.gov.uk/browse/education/school-life",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/school-performance-tables",
+        "api_url": "https://www.gov.uk/api/content/school-performance-tables",
+        "base_path": "/school-performance-tables",
+        "content_id": "03f86c99-88e5-4823-a38e-9f23343dd7be",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/education/school-admissions-transport",
+              "api_url": "https://www.gov.uk/api/content/browse/education/school-admissions-transport",
+              "base_path": "/browse/education/school-admissions-transport",
+              "content_id": "61778a6b-d0e8-4b75-85a9-8ec2e333581a",
+              "description": "Applying for a school place, home schooling and travel costs",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/education",
+                    "api_url": "https://www.gov.uk/api/content/browse/education",
+                    "base_path": "/browse/education",
+                    "content_id": "4ba04d39-1f8c-4117-89f5-73ec4f1b48e8",
+                    "description": "Includes student loans, admissions and apprenticeships",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:23:24Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Education and learning",
+                    "web_url": "https://www.gov.uk/browse/education",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:41Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "School admissions and transport to school",
+              "web_url": "https://www.gov.uk/browse/education/school-admissions-transport",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/education/school-life",
+              "api_url": "https://www.gov.uk/api/content/browse/education/school-life",
+              "base_path": "/browse/education/school-life",
+              "content_id": "99e2b248-baa4-4bf2-8a96-646fedd4d308",
+              "description": "Help with school costs, the curriculum and school attendance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/education",
+                    "api_url": "https://www.gov.uk/api/content/browse/education",
+                    "base_path": "/browse/education",
+                    "content_id": "4ba04d39-1f8c-4117-89f5-73ec4f1b48e8",
+                    "description": "Includes student loans, admissions and apprenticeships",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:23:24Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Education and learning",
+                    "web_url": "https://www.gov.uk/browse/education",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Schools and curriculum",
+              "web_url": "https://www.gov.uk/browse/education/school-life",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-03T12:24:20Z",
+        "schema_name": "transaction",
+        "title": "Compare the performance of schools and colleges in England",
+        "web_url": "https://www.gov.uk/school-performance-tables",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/types-of-school",
+        "api_url": "https://www.gov.uk/api/content/types-of-school",
+        "base_path": "/types-of-school",
+        "content_id": "4c029b5a-7c1c-4e6b-a893-d056be112756",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/childcare-parenting/schools-education",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/schools-education",
+              "base_path": "/browse/childcare-parenting/schools-education",
+              "content_id": "6e3014fa-5bd1-48b9-9aab-f7b1241afdb6",
+              "description": "Sending a child to school, financial support, dealing with the school",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+                    "base_path": "/browse/childcare-parenting",
+                    "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+                    "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-07-15T11:40:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Childcare and parenting",
+                    "web_url": "https://www.gov.uk/browse/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:34Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Schools and education",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting/schools-education",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/education/school-admissions-transport",
+              "api_url": "https://www.gov.uk/api/content/browse/education/school-admissions-transport",
+              "base_path": "/browse/education/school-admissions-transport",
+              "content_id": "61778a6b-d0e8-4b75-85a9-8ec2e333581a",
+              "description": "Applying for a school place, home schooling and travel costs",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/education",
+                    "api_url": "https://www.gov.uk/api/content/browse/education",
+                    "base_path": "/browse/education",
+                    "content_id": "4ba04d39-1f8c-4117-89f5-73ec4f1b48e8",
+                    "description": "Includes student loans, admissions and apprenticeships",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:23:24Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Education and learning",
+                    "web_url": "https://www.gov.uk/browse/education",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:41Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "School admissions and transport to school",
+              "web_url": "https://www.gov.uk/browse/education/school-admissions-transport",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-01-05T17:24:38Z",
+        "schema_name": "guide",
+        "title": "Types of school",
+        "web_url": "https://www.gov.uk/types-of-school",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D6",
+        "api_path": "/api/content/government/organisations/department-for-education",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-education",
+        "base_path": "/government/organisations/department-for-education",
+        "content_id": "ebd15ade-73b2-4eaf-b1c3-43034a42eb37",
+        "details": {
+          "acronym": "DfE",
+          "brand": "department-for-education",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db2e40f0b649cceb18c3/s960__K1E8325edit.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db2ee5274a7908e352f2/s300__K1E8325edit.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department <br/>for Education"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Education",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-education",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/education/school-life",
+        "api_url": "https://www.gov.uk/api/content/browse/education/school-life",
+        "base_path": "/browse/education/school-life",
+        "content_id": "99e2b248-baa4-4bf2-8a96-646fedd4d308",
+        "description": "Help with school costs, the curriculum and school attendance",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/education",
+              "api_url": "https://www.gov.uk/api/content/browse/education",
+              "base_path": "/browse/education",
+              "content_id": "4ba04d39-1f8c-4117-89f5-73ec4f1b48e8",
+              "description": "Includes student loans, admissions and apprenticeships",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:23:24Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Education and learning",
+              "web_url": "https://www.gov.uk/browse/education",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:50Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Schools and curriculum",
+        "web_url": "https://www.gov.uk/browse/education/school-life",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/guidance/list-a-teaching-job-at-your-school-on-teaching-vacancies",
+        "api_url": "https://www.gov.uk/api/content/guidance/list-a-teaching-job-at-your-school-on-teaching-vacancies",
+        "base_path": "/guidance/list-a-teaching-job-at-your-school-on-teaching-vacancies",
+        "content_id": "fda253aa-10fd-4cbf-b48f-61a3dfb5e643",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-06-04T09:08:15Z",
+        "schema_name": "detailed_guide",
+        "title": "List a teaching job at your school on Teaching Vacancies",
+        "web_url": "https://www.gov.uk/guidance/list-a-teaching-job-at-your-school-on-teaching-vacancies",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-a-job",
+        "api_url": "https://www.gov.uk/api/content/find-a-job",
+        "base_path": "/find-a-job",
+        "content_id": "a01fcb59-5dc8-4bf5-b06d-dd567a6d2f5f",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-26T11:26:56Z",
+        "schema_name": "transaction",
+        "title": "Find a job",
+        "web_url": "https://www.gov.uk/find-a-job",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/types-of-school",
+        "api_url": "https://www.gov.uk/api/content/types-of-school",
+        "base_path": "/types-of-school",
+        "content_id": "4c029b5a-7c1c-4e6b-a893-d056be112756",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-01-05T17:24:38Z",
+        "schema_name": "guide",
+        "title": "Types of school",
+        "web_url": "https://www.gov.uk/types-of-school",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/qualified-teacher-status-qts",
+        "api_url": "https://www.gov.uk/api/content/guidance/qualified-teacher-status-qts",
+        "base_path": "/guidance/qualified-teacher-status-qts",
+        "content_id": "5f4425f3-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-01-10T09:30:00Z",
+        "schema_name": "detailed_guide",
+        "title": "Qualified teacher status (QTS): qualify to teach in England",
+        "web_url": "https://www.gov.uk/guidance/qualified-teacher-status-qts",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/school-performance-tables",
+        "api_url": "https://www.gov.uk/api/content/school-performance-tables",
+        "base_path": "/school-performance-tables",
+        "content_id": "03f86c99-88e5-4823-a38e-9f23343dd7be",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-03T12:24:20Z",
+        "schema_name": "transaction",
+        "title": "Compare the performance of schools and colleges in England",
+        "web_url": "https://www.gov.uk/school-performance-tables",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2018-11-29T09:19:55Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "3567-1663660958.563-10.13.3.206-8325",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Find a job in teaching or education",
+  "updated_at": "2024-01-10T09:30:04Z",
+  "withdrawn_notice": {
+  }
+}

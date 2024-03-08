@@ -1,0 +1,221 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/request-flooding-history",
+  "content_id": "e805e00a-10f7-4ff4-815e-0cf648a98346",
+  "description": "How to get the flooding history of a property in England. ",
+  "details": {
+    "body": "<p>You can request the flooding history of a property in England by sending the property’s address to the Environment Agency.</p>\n\n<p>If you do not know the postcode, you can send a map of the area - attach a file or include a link to an online map.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>The Environment Agency does not have flood records for all properties in England and may not have data for your property. You can also try your lead local flood authority (contact your <a href=\"/find-local-council\">local council</a> for their details) or the <a rel=\"external\" href=\"https://www.ada.org.uk/member_type/idbs/\">Internal Drainage Board</a> in your area.</p>\n</div>\n\n<p>Email your request to:</p>\n<div class=\"contact\">\n<p><a href=\"mailto:enquiries@environment-agency.gov.uk\">enquiries@environment-agency.gov.uk</a></p>\n</div>\n\n<p>You may have to pay a fee depending on how long it will take the Environment Agency to produce the report. They’ll let you know if there’s a fee to pay.</p>\n\n<p>You’ll be sent the report by email within 20 working days.</p>\n\n<p>You can also <a href=\"/check-long-term-flood-risk\">check the long term flood risk of an area in England</a>.</p>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2021-10-13T09:41:59Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/request-flooding-history",
+        "api_url": "https://www.gov.uk/api/content/request-flooding-history",
+        "base_path": "/request-flooding-history",
+        "content_id": "e805e00a-10f7-4ff4-815e-0cf648a98346",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-10-13T09:41:59Z",
+        "schema_name": "answer",
+        "title": "Get the flooding history of a property in England",
+        "web_url": "https://www.gov.uk/request-flooding-history",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/environment-countryside/flooding-extreme-weather",
+        "api_url": "https://www.gov.uk/api/content/browse/environment-countryside/flooding-extreme-weather",
+        "base_path": "/browse/environment-countryside/flooding-extreme-weather",
+        "content_id": "dac60832-f78d-474a-9a07-ce0eb103aa53",
+        "description": "Check flood warnings, how to prepare for flooding, and what to do before, during and after flooding",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-24T11:00:09Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Flooding",
+        "web_url": "https://www.gov.uk/browse/environment-countryside/flooding-extreme-weather",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/check-flooding",
+        "api_url": "https://www.gov.uk/api/content/check-flooding",
+        "base_path": "/check-flooding",
+        "content_id": "7431df0c-b306-4ced-a40a-95edd7ab5604",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/environment-countryside/flooding-extreme-weather",
+              "api_url": "https://www.gov.uk/api/content/browse/environment-countryside/flooding-extreme-weather",
+              "base_path": "/browse/environment-countryside/flooding-extreme-weather",
+              "content_id": "dac60832-f78d-474a-9a07-ce0eb103aa53",
+              "description": "Check flood warnings, how to prepare for flooding, and what to do before, during and after flooding",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/environment-countryside",
+                    "api_url": "https://www.gov.uk/api/content/browse/environment-countryside",
+                    "base_path": "/browse/environment-countryside",
+                    "content_id": "26b81913-d58a-47be-80b7-1e947212779a",
+                    "description": "Includes flooding, recycling, farming and wildlife",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-08-02T10:48:20Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Environment and countryside",
+                    "web_url": "https://www.gov.uk/browse/environment-countryside",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-24T11:00:09Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Flooding",
+              "web_url": "https://www.gov.uk/browse/environment-countryside/flooding-extreme-weather",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2021-10-13T09:38:10Z",
+        "schema_name": "transaction",
+        "title": "Check for flooding ",
+        "web_url": "https://www.gov.uk/check-flooding",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA199",
+        "api_path": "/api/content/government/organisations/environment-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/environment-agency",
+        "base_path": "/government/organisations/environment-agency",
+        "content_id": "16628142-57b2-4611-bc03-5912785acee3",
+        "details": {
+          "acronym": "EA",
+          "brand": "department-for-environment-food-rural-affairs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+          },
+          "logo": {
+            "formatted_title": "Environment Agency",
+            "image": {
+              "alt_text": "Environment Agency",
+              "url": "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+            }
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Environment Agency",
+        "web_url": "https://www.gov.uk/government/organisations/environment-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/environment-countryside/flooding-extreme-weather",
+        "api_url": "https://www.gov.uk/api/content/browse/environment-countryside/flooding-extreme-weather",
+        "base_path": "/browse/environment-countryside/flooding-extreme-weather",
+        "content_id": "dac60832-f78d-474a-9a07-ce0eb103aa53",
+        "description": "Check flood warnings, how to prepare for flooding, and what to do before, during and after flooding",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/environment-countryside",
+              "api_url": "https://www.gov.uk/api/content/browse/environment-countryside",
+              "base_path": "/browse/environment-countryside",
+              "content_id": "26b81913-d58a-47be-80b7-1e947212779a",
+              "description": "Includes flooding, recycling, farming and wildlife",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-02T10:48:20Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Environment and countryside",
+              "web_url": "https://www.gov.uk/browse/environment-countryside",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-24T11:00:09Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Flooding",
+        "web_url": "https://www.gov.uk/browse/environment-countryside/flooding-extreme-weather",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2021-10-13T09:41:59Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "9023-1634118119.147-10.13.1.43-8091",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Get the flooding history of a property in England",
+  "updated_at": "2024-02-26T17:41:19Z",
+  "withdrawn_notice": {
+  }
+}

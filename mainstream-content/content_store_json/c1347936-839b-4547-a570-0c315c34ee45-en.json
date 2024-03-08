@@ -1,0 +1,807 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/get-electronic-visa-waiver",
+  "content_id": "c1347936-839b-4547-a570-0c315c34ee45",
+  "description": "You can no longer apply for a new electronic visa waiver (EVW). Find out what to do if you have an existing EVW",
+  "details": {
+    "body": "<p>You can no longer apply for an electronic visa waiver (<abbr title=\"electronic visa waiver\">EVW</abbr>) to enter the UK.</p>\n\n<p><a href=\"/guidance/apply-for-an-electronic-travel-authorisation-eta\">Apply for an electronic travel authorisation (<abbr title=\"electronic travel authorisation\">ETA</abbr>)</a> instead if you’re a national of:</p>\n\n<ul>\n  <li>Bahrain</li>\n  <li>Kuwait</li>\n  <li>Oman</li>\n  <li>Qatar</li>\n  <li>Saudi Arabia</li>\n  <li>United Arab Emirates</li>\n</ul>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2015-10-23T10:41:00Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/get-electronic-visa-waiver",
+        "api_url": "https://www.gov.uk/api/content/get-electronic-visa-waiver",
+        "base_path": "/get-electronic-visa-waiver",
+        "content_id": "c1347936-839b-4547-a570-0c315c34ee45",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-02-19T14:00:11Z",
+        "schema_name": "answer",
+        "title": "Electronic visa waivers",
+        "web_url": "https://www.gov.uk/get-electronic-visa-waiver",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/visas-immigration/arriving-in-the-uk",
+        "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/arriving-in-the-uk",
+        "base_path": "/browse/visas-immigration/arriving-in-the-uk",
+        "content_id": "2d9903ac-4194-4034-a53b-30d768f4fafb",
+        "description": "Moving your belongings, going through customs and tax",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-09-22T09:45:51Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Travelling to the UK",
+        "web_url": "https://www.gov.uk/browse/visas-immigration/arriving-in-the-uk",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/visas-immigration/tourist-short-stay-visas",
+        "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/tourist-short-stay-visas",
+        "base_path": "/browse/visas-immigration/tourist-short-stay-visas",
+        "content_id": "749762c5-0e80-4d04-b766-9850192764d4",
+        "description": "Visit for tourism, business or a short stay (up to 6 months), airport transit visas",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-20T10:43:05Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Visit the UK",
+        "web_url": "https://www.gov.uk/browse/visas-immigration/tourist-short-stay-visas",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/visas-immigration/what-you-need-to-do",
+        "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+        "base_path": "/browse/visas-immigration/what-you-need-to-do",
+        "content_id": "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+        "description": "Check if you need a UK visa, how to apply, sign in, manage your application, biometric residence permits (BRPs), share codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T12:05:51Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "What you need to do",
+        "web_url": "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/check-uk-visa",
+        "api_url": "https://www.gov.uk/api/content/check-uk-visa",
+        "base_path": "/check-uk-visa",
+        "content_id": "dc1a1744-4089-43b3-b2e3-4e397b6b15b1",
+        "document_type": "smart_answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/visas-immigration/commonwealth-british-nationals-overseas",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/commonwealth-british-nationals-overseas",
+              "base_path": "/browse/visas-immigration/commonwealth-british-nationals-overseas",
+              "content_id": "2aaa0deb-65be-407c-b331-807c54ded5c1",
+              "description": "BNO visa, right of abode, UK Ancestry visa",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:45Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Commonwealth citizens and British nationals (overseas)",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/commonwealth-british-nationals-overseas",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/visas-immigration/eu-eea-swiss",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/eu-eea-swiss",
+              "base_path": "/browse/visas-immigration/eu-eea-swiss",
+              "content_id": "16e8b371-acd2-4b1b-a8a1-a430b04cb475",
+              "description": "Settled and pre-settled status, EU Settlement Scheme family permit, Frontier Worker permit",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:45Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "EU, EEA and Swiss citizens",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/eu-eea-swiss",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/visas-immigration/family-visas",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/family-visas",
+              "base_path": "/browse/visas-immigration/family-visas",
+              "content_id": "ea1f74cd-7c16-48d8-bf79-1a45b80508ef",
+              "description": "Partner, spouse, dependant and family member visas and permits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:26Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Family in the UK",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/family-visas",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/visas-immigration/student-visas",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/student-visas",
+              "base_path": "/browse/visas-immigration/student-visas",
+              "content_id": "f63075f3-d3a1-40d0-846e-6c3330263535",
+              "description": "Student visas for courses, degrees and independent schools",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-11-29T10:46:30Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Study in the UK",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/student-visas",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/visas-immigration/arriving-in-the-uk",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/arriving-in-the-uk",
+              "base_path": "/browse/visas-immigration/arriving-in-the-uk",
+              "content_id": "2d9903ac-4194-4034-a53b-30d768f4fafb",
+              "description": "Moving your belongings, going through customs and tax",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-09-22T09:45:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Travelling to the UK",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/arriving-in-the-uk",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/visas-immigration/tourist-short-stay-visas",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/tourist-short-stay-visas",
+              "base_path": "/browse/visas-immigration/tourist-short-stay-visas",
+              "content_id": "749762c5-0e80-4d04-b766-9850192764d4",
+              "description": "Visit for tourism, business or a short stay (up to 6 months), airport transit visas",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-02-20T10:43:05Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Visit the UK",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/tourist-short-stay-visas",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/visas-immigration/what-you-need-to-do",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+              "base_path": "/browse/visas-immigration/what-you-need-to-do",
+              "content_id": "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+              "description": "Check if you need a UK visa, how to apply, sign in, manage your application, biometric residence permits (BRPs), share codes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T12:05:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "What you need to do",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/visas-immigration/work-visas",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/work-visas",
+              "base_path": "/browse/visas-immigration/work-visas",
+              "content_id": "4ab4764d-d9ce-425f-a8cc-aaba4a38be09",
+              "description": "Skilled Worker visa, Graduate visa, other work visas, right to work",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-13T12:27:58Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Work in the UK",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/work-visas",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2021-06-16T08:18:46Z",
+        "schema_name": "smart_answer",
+        "title": "Check if you need a UK visa",
+        "web_url": "https://www.gov.uk/check-uk-visa",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "OT554",
+        "api_path": "/api/content/government/organisations/uk-visas-and-immigration",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/uk-visas-and-immigration",
+        "base_path": "/government/organisations/uk-visas-and-immigration",
+        "content_id": "04148522-b0c1-4137-b687-5f3c3bdd561a",
+        "details": {
+          "acronym": "UKVI",
+          "brand": "home-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "UK Visas and Immigration"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "UK Visas and Immigration",
+        "web_url": "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/visas-immigration/tourist-short-stay-visas",
+        "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/tourist-short-stay-visas",
+        "base_path": "/browse/visas-immigration/tourist-short-stay-visas",
+        "content_id": "749762c5-0e80-4d04-b766-9850192764d4",
+        "description": "Visit for tourism, business or a short stay (up to 6 months), airport transit visas",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/visas-immigration",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+              "base_path": "/browse/visas-immigration",
+              "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+              "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-06-03T13:56:26Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Visas and immigration",
+              "web_url": "https://www.gov.uk/browse/visas-immigration",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-20T10:43:05Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Visit the UK",
+        "web_url": "https://www.gov.uk/browse/visas-immigration/tourist-short-stay-visas",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/standard-visitor",
+        "api_url": "https://www.gov.uk/api/content/standard-visitor",
+        "base_path": "/standard-visitor",
+        "content_id": "e1067450-7d13-45ff-ada4-5e3dd4025fb7",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-24T09:54:26Z",
+        "schema_name": "guide",
+        "title": "Visit the UK as a Standard Visitor",
+        "web_url": "https://www.gov.uk/standard-visitor",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/uk-border-control",
+        "api_url": "https://www.gov.uk/api/content/uk-border-control",
+        "base_path": "/uk-border-control",
+        "content_id": "435fb04f-2b9f-4f44-8b41-2a962e8c46a8",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-25T13:49:03Z",
+        "schema_name": "guide",
+        "title": "Entering the UK",
+        "web_url": "https://www.gov.uk/uk-border-control",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/registered-traveller",
+        "api_url": "https://www.gov.uk/api/content/registered-traveller",
+        "base_path": "/registered-traveller",
+        "content_id": "0b120e15-3a2d-4ade-b5e2-7cddde69dc6c",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-05T09:00:20Z",
+        "schema_name": "guide",
+        "title": "Registered Traveller: faster entry through the UK border",
+        "web_url": "https://www.gov.uk/registered-traveller",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-to-come-to-the-uk",
+        "api_url": "https://www.gov.uk/api/content/apply-to-come-to-the-uk",
+        "base_path": "/apply-to-come-to-the-uk",
+        "content_id": "76698ffe-70ab-4fda-be0d-755234f6d340",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-06-20T13:46:12Z",
+        "schema_name": "guide",
+        "title": "How to apply for a visa to come to the UK",
+        "web_url": "https://www.gov.uk/apply-to-come-to-the-uk",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/entering-staying-uk/student-visas",
+        "api_url": "https://www.gov.uk/api/content/entering-staying-uk/student-visas",
+        "base_path": "/entering-staying-uk/student-visas",
+        "content_id": "51b699cf-d4dc-488c-a87e-070560d37791",
+        "description": "",
+        "details": {
+          "internal_name": "Student visas",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/entering-staying-uk/visas-entry-clearance",
+              "api_url": "https://www.gov.uk/api/content/entering-staying-uk/visas-entry-clearance",
+              "base_path": "/entering-staying-uk/visas-entry-clearance",
+              "content_id": "29480b00-dc4d-49a0-b48c-25dda8569325",
+              "description": "",
+              "details": {
+                "internal_name": "Visas and entry clearance",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/entering-staying-uk",
+                    "api_url": "https://www.gov.uk/api/content/entering-staying-uk",
+                    "base_path": "/entering-staying-uk",
+                    "content_id": "ba3a9702-da22-487f-86c1-8334a730e559",
+                    "details": {
+                      "internal_name": "Entering and staying in the UK",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-07-11T08:58:32Z",
+                    "schema_name": "taxon",
+                    "title": "Entering and staying in the UK",
+                    "web_url": "https://www.gov.uk/entering-staying-uk",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-07-11T08:58:33Z",
+              "schema_name": "taxon",
+              "title": "Visas and entry clearance",
+              "web_url": "https://www.gov.uk/entering-staying-uk/visas-entry-clearance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-07-11T08:58:33Z",
+        "schema_name": "taxon",
+        "title": "Student visas",
+        "web_url": "https://www.gov.uk/entering-staying-uk/student-visas",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/entering-staying-uk/visit-and-transit-visas",
+        "api_url": "https://www.gov.uk/api/content/entering-staying-uk/visit-and-transit-visas",
+        "base_path": "/entering-staying-uk/visit-and-transit-visas",
+        "content_id": "64f089a8-e342-4a93-9a90-db999bb94719",
+        "description": "",
+        "details": {
+          "internal_name": "Visit and transit visas",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/entering-staying-uk/visas-entry-clearance",
+              "api_url": "https://www.gov.uk/api/content/entering-staying-uk/visas-entry-clearance",
+              "base_path": "/entering-staying-uk/visas-entry-clearance",
+              "content_id": "29480b00-dc4d-49a0-b48c-25dda8569325",
+              "description": "",
+              "details": {
+                "internal_name": "Visas and entry clearance",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/entering-staying-uk",
+                    "api_url": "https://www.gov.uk/api/content/entering-staying-uk",
+                    "base_path": "/entering-staying-uk",
+                    "content_id": "ba3a9702-da22-487f-86c1-8334a730e559",
+                    "details": {
+                      "internal_name": "Entering and staying in the UK",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-07-11T08:58:32Z",
+                    "schema_name": "taxon",
+                    "title": "Entering and staying in the UK",
+                    "web_url": "https://www.gov.uk/entering-staying-uk",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-07-11T08:58:33Z",
+              "schema_name": "taxon",
+              "title": "Visas and entry clearance",
+              "web_url": "https://www.gov.uk/entering-staying-uk/visas-entry-clearance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-07-11T08:58:33Z",
+        "schema_name": "taxon",
+        "title": "Visit and transit visas",
+        "web_url": "https://www.gov.uk/entering-staying-uk/visit-and-transit-visas",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/entering-staying-uk/work-and-investor-visas",
+        "api_url": "https://www.gov.uk/api/content/entering-staying-uk/work-and-investor-visas",
+        "base_path": "/entering-staying-uk/work-and-investor-visas",
+        "content_id": "7b9b52f3-e403-4844-b22b-879daf1cc776",
+        "description": "",
+        "details": {
+          "internal_name": "Work and investor visas",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/entering-staying-uk/visas-entry-clearance",
+              "api_url": "https://www.gov.uk/api/content/entering-staying-uk/visas-entry-clearance",
+              "base_path": "/entering-staying-uk/visas-entry-clearance",
+              "content_id": "29480b00-dc4d-49a0-b48c-25dda8569325",
+              "description": "",
+              "details": {
+                "internal_name": "Visas and entry clearance",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/entering-staying-uk",
+                    "api_url": "https://www.gov.uk/api/content/entering-staying-uk",
+                    "base_path": "/entering-staying-uk",
+                    "content_id": "ba3a9702-da22-487f-86c1-8334a730e559",
+                    "details": {
+                      "internal_name": "Entering and staying in the UK",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-07-11T08:58:32Z",
+                    "schema_name": "taxon",
+                    "title": "Entering and staying in the UK",
+                    "web_url": "https://www.gov.uk/entering-staying-uk",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-07-11T08:58:33Z",
+              "schema_name": "taxon",
+              "title": "Visas and entry clearance",
+              "web_url": "https://www.gov.uk/entering-staying-uk/visas-entry-clearance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-07-11T08:58:33Z",
+        "schema_name": "taxon",
+        "title": "Work and investor visas",
+        "web_url": "https://www.gov.uk/entering-staying-uk/work-and-investor-visas",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-02-19T14:00:11Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1708510666.362-10.13.22.232-7698",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Electronic visa waivers",
+  "updated_at": "2024-02-22T00:01:06Z",
+  "withdrawn_notice": {
+  }
+}

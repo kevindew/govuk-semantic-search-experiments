@@ -1,0 +1,532 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-the-patents-journal",
+  "content_id": "6b17b73a-e81c-4e95-aaf3-3f5878d0af4b",
+  "description": "Check the patents journal to find UK-registered patents granted, published and filed",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Search patent information held by the Intellectual Property Office in the patents journal.</p>\n",
+    "more_information": "<p>The online patents journal is updated every Wednesday and contains information on:</p>\n\n<ul>\n  <li>UK patent applications filed, published and granted</li>\n  <li>European patents that apply in the UK</li>\n  <li>UK patents that have ceased or expired</li>\n  <li>other legal patent proceedings</li>\n</ul>\n\n<p>You can search for information on filed applications from journals dating from October 2006. Other information is available from March 2008.</p>\n\n<p>Patents journal <a href=\"/government/collections/patents-journal-special-notices-2022\">special notices</a> are also published each week.</p>\n\n<h2 id=\"downloadable-journals\">Downloadable journals</h2>\n\n<p><a rel=\"external\" href=\"http://www.ipo.gov.uk/p-pj-download.htm\">Download patents journal data</a> in PDF or XML format.</p>\n\n<h2 id=\"older-journals\">Older journals</h2>\n\n<p>Find <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/20140205082516/http://www.ipo.gov.uk/pro-types/pro-patent/pro-p-os/pro-p-journal/p-pdj.htm\">patent journals from 12 August 1998 to 26 March 2008</a> in the National Archive.</p>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "http://www.ipo.gov.uk/p-pj",
+    "variants": [
+
+    ],
+    "will_continue_on": "IPO online services"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2014-08-07T12:08:01Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-the-patents-journal",
+        "api_url": "https://www.gov.uk/api/content/check-the-patents-journal",
+        "base_path": "/check-the-patents-journal",
+        "content_id": "6b17b73a-e81c-4e95-aaf3-3f5878d0af4b",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-09T16:04:54Z",
+        "schema_name": "transaction",
+        "title": "Check the patents journal",
+        "web_url": "https://www.gov.uk/check-the-patents-journal",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/intellectual-property-patents",
+        "api_url": "https://www.gov.uk/api/content/government/collections/intellectual-property-patents",
+        "base_path": "/government/collections/intellectual-property-patents",
+        "content_id": "ae7b5893-037d-4085-8629-1f4a82617322",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/check-the-patents-journal",
+              "api_url": "https://www.gov.uk/api/content/check-the-patents-journal",
+              "base_path": "/check-the-patents-journal",
+              "content_id": "6b17b73a-e81c-4e95-aaf3-3f5878d0af4b",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2014-12-09T16:04:54Z",
+              "schema_name": "transaction",
+              "title": "Check the patents journal",
+              "web_url": "https://www.gov.uk/check-the-patents-journal",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-20T16:12:54Z",
+        "schema_name": "document_collection",
+        "title": "Intellectual property: Patents",
+        "web_url": "https://www.gov.uk/government/collections/intellectual-property-patents",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/intellectual-property",
+        "api_url": "https://www.gov.uk/api/content/browse/business/intellectual-property",
+        "base_path": "/browse/business/intellectual-property",
+        "content_id": "f4dce598-64e0-4803-8e58-00c8c2b99111",
+        "description": "Includes registering, protecting and applying for designs and patents",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-05-09T12:37:35Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Patents, trade marks, copyright and designs",
+        "web_url": "https://www.gov.uk/browse/business/intellectual-property",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/search-for-patent",
+        "api_url": "https://www.gov.uk/api/content/search-for-patent",
+        "base_path": "/search-for-patent",
+        "content_id": "0b1014ce-b0ad-46c1-9753-ec9a8f21cb87",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/intellectual-property",
+              "api_url": "https://www.gov.uk/api/content/browse/business/intellectual-property",
+              "base_path": "/browse/business/intellectual-property",
+              "content_id": "f4dce598-64e0-4803-8e58-00c8c2b99111",
+              "description": "Includes registering, protecting and applying for designs and patents",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2017-05-09T12:37:35Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Patents, trade marks, copyright and designs",
+              "web_url": "https://www.gov.uk/browse/business/intellectual-property",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-09-07T23:01:09Z",
+        "schema_name": "answer",
+        "title": "Search for a patent",
+        "web_url": "https://www.gov.uk/search-for-patent",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA34",
+        "api_path": "/api/content/government/organisations/intellectual-property-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/intellectual-property-office",
+        "base_path": "/government/organisations/intellectual-property-office",
+        "content_id": "5d6f9583-991f-413d-ae83-be7274e5eae4",
+        "details": {
+          "acronym": "IPO",
+          "brand": "department-for-business-innovation-skills",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db2fe5274a7908e352f4/s960_ipo-default.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db30ed915d5a62fdc77d/s300_ipo-default.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Intellectual<br/>Property <br/>Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Intellectual Property Office",
+        "web_url": "https://www.gov.uk/government/organisations/intellectual-property-office",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/intellectual-property",
+        "api_url": "https://www.gov.uk/api/content/browse/business/intellectual-property",
+        "base_path": "/browse/business/intellectual-property",
+        "content_id": "f4dce598-64e0-4803-8e58-00c8c2b99111",
+        "description": "Includes registering, protecting and applying for designs and patents",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-05-09T12:37:35Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Patents, trade marks, copyright and designs",
+        "web_url": "https://www.gov.uk/browse/business/intellectual-property",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/search-for-patent",
+        "api_url": "https://www.gov.uk/api/content/search-for-patent",
+        "base_path": "/search-for-patent",
+        "content_id": "0b1014ce-b0ad-46c1-9753-ec9a8f21cb87",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-09-07T23:01:09Z",
+        "schema_name": "answer",
+        "title": "Search for a patent",
+        "web_url": "https://www.gov.uk/search-for-patent",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/search-registered-design",
+        "api_url": "https://www.gov.uk/api/content/search-registered-design",
+        "base_path": "/search-registered-design",
+        "content_id": "26670313-5ff5-4848-8838-fce6c2de599f",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-25T17:07:50Z",
+        "schema_name": "transaction",
+        "title": "Find a registered design",
+        "web_url": "https://www.gov.uk/search-registered-design",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/patent-your-invention",
+        "api_url": "https://www.gov.uk/api/content/patent-your-invention",
+        "base_path": "/patent-your-invention",
+        "content_id": "33455ccb-06eb-488a-ba56-bd5b9672a630",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-28T14:31:12Z",
+        "schema_name": "guide",
+        "title": "Apply for a patent",
+        "web_url": "https://www.gov.uk/patent-your-invention",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-trade-marks-journal",
+        "api_url": "https://www.gov.uk/api/content/check-trade-marks-journal",
+        "base_path": "/check-trade-marks-journal",
+        "content_id": "875fbcdb-5d8e-4310-a281-2597ec8b9c40",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-09T16:15:57Z",
+        "schema_name": "transaction",
+        "title": "Check the trade marks journal",
+        "web_url": "https://www.gov.uk/check-trade-marks-journal",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/search-for-trademark",
+        "api_url": "https://www.gov.uk/api/content/search-for-trademark",
+        "base_path": "/search-for-trademark",
+        "content_id": "badb98d7-1c71-4125-83c2-ec0c6c19fcf6",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-09-07T23:01:09Z",
+        "schema_name": "answer",
+        "title": "Search for a trade mark",
+        "web_url": "https://www.gov.uk/search-for-trademark",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/crime-justice-and-law/intellectual-property-law-practice-patents",
+        "api_url": "https://www.gov.uk/api/content/crime-justice-and-law/intellectual-property-law-practice-patents",
+        "base_path": "/crime-justice-and-law/intellectual-property-law-practice-patents",
+        "content_id": "afeebd0f-2494-421e-92b2-d91c3549c432",
+        "details": {
+          "internal_name": "Patents [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/crime-justice-and-law/law-practice",
+              "api_url": "https://www.gov.uk/api/content/crime-justice-and-law/law-practice",
+              "base_path": "/crime-justice-and-law/law-practice",
+              "content_id": "cade4e7d-0397-459d-a880-3d2753dd39c2",
+              "details": {
+                "internal_name": "Law and practice [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/crime-justice-and-law",
+                    "api_url": "https://www.gov.uk/api/content/crime-justice-and-law",
+                    "base_path": "/crime-justice-and-law",
+                    "content_id": "ba951b09-5146-43be-87af-44075eac3ae9",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Crime, justice and law",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:34:51Z",
+                    "schema_name": "taxon",
+                    "title": "Crime, justice and law",
+                    "web_url": "https://www.gov.uk/crime-justice-and-law",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:15:52Z",
+              "schema_name": "taxon",
+              "title": "Law and practice",
+              "web_url": "https://www.gov.uk/crime-justice-and-law/law-practice",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:15:52Z",
+        "schema_name": "taxon",
+        "title": "Patents",
+        "web_url": "https://www.gov.uk/crime-justice-and-law/intellectual-property-law-practice-patents",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/business/patents",
+        "api_url": "https://www.gov.uk/api/content/business/patents",
+        "base_path": "/business/patents",
+        "content_id": "cb162b48-ae42-4c51-9497-7df37e1f5320",
+        "details": {
+          "internal_name": "Patents",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business/intellectual-property",
+              "api_url": "https://www.gov.uk/api/content/business/intellectual-property",
+              "base_path": "/business/intellectual-property",
+              "content_id": "d949275c-88f8-4623-a44b-eb3706651e10",
+              "details": {
+                "internal_name": "Intellectual property",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry/business-regulation",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry/business-regulation",
+                    "base_path": "/business-and-industry/business-regulation",
+                    "content_id": "33bc0eed-62c7-4b0b-9a93-626c9e10c025",
+                    "details": {
+                      "internal_name": "Business regulation [P]",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/business-and-industry",
+                          "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                          "base_path": "/business-and-industry",
+                          "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Business and industry",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-03T15:41:02Z",
+                          "schema_name": "taxon",
+                          "title": "Business and industry",
+                          "web_url": "https://www.gov.uk/business-and-industry",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:03Z",
+                    "schema_name": "taxon",
+                    "title": "Business regulation",
+                    "web_url": "https://www.gov.uk/business-and-industry/business-regulation",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:04Z",
+              "schema_name": "taxon",
+              "title": "Intellectual property",
+              "web_url": "https://www.gov.uk/business/intellectual-property",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:04Z",
+        "schema_name": "taxon",
+        "title": "Patents",
+        "web_url": "https://www.gov.uk/business/patents",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-12-09T16:04:54Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "11489-1641480025.436-10.13.3.253-8494",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Check the patents journal",
+  "updated_at": "2023-12-20T16:12:57Z",
+  "withdrawn_notice": {
+  }
+}

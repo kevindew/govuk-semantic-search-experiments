@@ -1,0 +1,675 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/appeal-parking-fine",
+  "content_id": "5e099acd-7ca2-4dee-bbef-26be2ccac537",
+  "description": "Contact a local council to challenge a parking fine or parking ticket - if it’s a penalty charge notice (PCN)",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Challenge a penalty charge notice (<abbr title=\"penalty charge notice\">PCN</abbr>) for parking with the local council that issued it.</p>\n\n<p>Use the council’s postcode.</p>\n\n",
+    "lgil_code": 8,
+    "lgsl_code": 471,
+    "more_information": "\n",
+    "need_to_know": "<p>Available in England and Wales only.</p>\n\n<p>You have 28 days to challenge a <abbr title=\"penalty charge notice\">PCN</abbr>. If you do it within 14 days and your challenge is rejected, you may only have to pay 50% of the fine.</p>\n\n<h3 id=\"if-your-parking-fine-isnt-from-a-council\">If your parking fine isn’t from a council</h3>\n<p>Check the parking ticket to find out who issued it and <a href=\"/parking-tickets/challenging-a-ticket\">how to challenge it</a>.</p>\n\n",
+    "service_tiers": [
+      "district",
+      "unitary",
+      "county"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2012-01-23T09:55:42Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/appeal-parking-fine",
+        "api_url": "https://www.gov.uk/api/content/appeal-parking-fine",
+        "base_path": "/appeal-parking-fine",
+        "content_id": "5e099acd-7ca2-4dee-bbef-26be2ccac537",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-24T13:22:23Z",
+        "schema_name": "local_transaction",
+        "title": "Challenge a parking fine",
+        "web_url": "https://www.gov.uk/appeal-parking-fine",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/penalty-points-fines-bans",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/penalty-points-fines-bans",
+        "base_path": "/browse/driving/penalty-points-fines-bans",
+        "content_id": "a4ba1e34-fca1-497c-af7b-b7ff55d4e4b4",
+        "description": "Penalties and fines, speeding, drink-driving, parking fines, appeals",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:36Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Penalty points, fines and driving bans",
+        "web_url": "https://www.gov.uk/browse/driving/penalty-points-fines-bans",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/parking-public-transport-environment",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/parking-public-transport-environment",
+        "base_path": "/browse/driving/parking-public-transport-environment",
+        "content_id": "11c4c5fa-9667-4a7a-825f-9e8256f0e225",
+        "description": "Public transport and bus passes, parking, environment and emissions",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-14T14:34:58Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Parking, public transport and the environment",
+        "web_url": "https://www.gov.uk/browse/driving/parking-public-transport-environment",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/parking-tickets",
+        "api_url": "https://www.gov.uk/api/content/parking-tickets",
+        "base_path": "/parking-tickets",
+        "content_id": "5087fb7e-c404-4da9-8702-1701adf07f2a",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/parking-public-transport-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/parking-public-transport-environment",
+              "base_path": "/browse/driving/parking-public-transport-environment",
+              "content_id": "11c4c5fa-9667-4a7a-825f-9e8256f0e225",
+              "description": "Public transport and bus passes, parking, environment and emissions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-12-14T14:34:58Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Parking, public transport and the environment",
+              "web_url": "https://www.gov.uk/browse/driving/parking-public-transport-environment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/penalty-points-fines-bans",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/penalty-points-fines-bans",
+              "base_path": "/browse/driving/penalty-points-fines-bans",
+              "content_id": "a4ba1e34-fca1-497c-af7b-b7ff55d4e4b4",
+              "description": "Penalties and fines, speeding, drink-driving, parking fines, appeals",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:36Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Penalty points, fines and driving bans",
+              "web_url": "https://www.gov.uk/browse/driving/penalty-points-fines-bans",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-11T15:42:13Z",
+        "schema_name": "guide",
+        "title": "Parking fines and penalty charge notices",
+        "web_url": "https://www.gov.uk/parking-tickets",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/parking-permit",
+        "api_url": "https://www.gov.uk/api/content/parking-permit",
+        "base_path": "/parking-permit",
+        "content_id": "d49c7c3c-4910-4cd6-b1eb-3910816cfa90",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/parking-public-transport-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/parking-public-transport-environment",
+              "base_path": "/browse/driving/parking-public-transport-environment",
+              "content_id": "11c4c5fa-9667-4a7a-825f-9e8256f0e225",
+              "description": "Public transport and bus passes, parking, environment and emissions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-12-14T14:34:58Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Parking, public transport and the environment",
+              "web_url": "https://www.gov.uk/browse/driving/parking-public-transport-environment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:16Z",
+        "schema_name": "local_transaction",
+        "title": "Get a parking permit",
+        "web_url": "https://www.gov.uk/parking-permit",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pay-parking-fine",
+        "api_url": "https://www.gov.uk/api/content/pay-parking-fine",
+        "base_path": "/pay-parking-fine",
+        "content_id": "3bdc5e6e-256d-4f8a-ad6b-8e5d4589ac59",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/parking-public-transport-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/parking-public-transport-environment",
+              "base_path": "/browse/driving/parking-public-transport-environment",
+              "content_id": "11c4c5fa-9667-4a7a-825f-9e8256f0e225",
+              "description": "Public transport and bus passes, parking, environment and emissions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-12-14T14:34:58Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Parking, public transport and the environment",
+              "web_url": "https://www.gov.uk/browse/driving/parking-public-transport-environment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/penalty-points-fines-bans",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/penalty-points-fines-bans",
+              "base_path": "/browse/driving/penalty-points-fines-bans",
+              "content_id": "a4ba1e34-fca1-497c-af7b-b7ff55d4e4b4",
+              "description": "Penalties and fines, speeding, drink-driving, parking fines, appeals",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:36Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Penalty points, fines and driving bans",
+              "web_url": "https://www.gov.uk/browse/driving/penalty-points-fines-bans",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-20T14:01:05Z",
+        "schema_name": "local_transaction",
+        "title": "Pay a parking fine",
+        "web_url": "https://www.gov.uk/pay-parking-fine",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1342",
+        "api_path": "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "base_path": "/government/organisations/department-for-levelling-up-housing-and-communities",
+        "content_id": "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+        "details": {
+          "acronym": "DLUHC",
+          "brand": "department-for-levelling-up-housing-and-communities",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for Levelling Up,<br/>Housing &amp; Communities"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Levelling Up, Housing and Communities ",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/penalty-points-fines-bans",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/penalty-points-fines-bans",
+        "base_path": "/browse/driving/penalty-points-fines-bans",
+        "content_id": "a4ba1e34-fca1-497c-af7b-b7ff55d4e4b4",
+        "description": "Penalties and fines, speeding, drink-driving, parking fines, appeals",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:36Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Penalty points, fines and driving bans",
+        "web_url": "https://www.gov.uk/browse/driving/penalty-points-fines-bans",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/parking-tickets",
+        "api_url": "https://www.gov.uk/api/content/parking-tickets",
+        "base_path": "/parking-tickets",
+        "content_id": "5087fb7e-c404-4da9-8702-1701adf07f2a",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-11T15:42:13Z",
+        "schema_name": "guide",
+        "title": "Parking fines and penalty charge notices",
+        "web_url": "https://www.gov.uk/parking-tickets",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/appeal-against-a-penalty-charge-notice",
+        "api_url": "https://www.gov.uk/api/content/appeal-against-a-penalty-charge-notice",
+        "base_path": "/appeal-against-a-penalty-charge-notice",
+        "content_id": "092f4200-81a4-4fe6-8e90-806569c536af",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-05-19T16:28:37Z",
+        "schema_name": "guide",
+        "title": "Appeal against a penalty charge notice",
+        "web_url": "https://www.gov.uk/appeal-against-a-penalty-charge-notice",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pay-parking-fine",
+        "api_url": "https://www.gov.uk/api/content/pay-parking-fine",
+        "base_path": "/pay-parking-fine",
+        "content_id": "3bdc5e6e-256d-4f8a-ad6b-8e5d4589ac59",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-20T14:01:05Z",
+        "schema_name": "local_transaction",
+        "title": "Pay a parking fine",
+        "web_url": "https://www.gov.uk/pay-parking-fine",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/parking-permit",
+        "api_url": "https://www.gov.uk/api/content/parking-permit",
+        "base_path": "/parking-permit",
+        "content_id": "d49c7c3c-4910-4cd6-b1eb-3910816cfa90",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:16Z",
+        "schema_name": "local_transaction",
+        "title": "Get a parking permit",
+        "web_url": "https://www.gov.uk/parking-permit",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/penalty-points-fines-and-driving-bans",
+        "api_url": "https://www.gov.uk/api/content/transport/penalty-points-fines-and-driving-bans",
+        "base_path": "/transport/penalty-points-fines-and-driving-bans",
+        "content_id": "0366b522-dd0d-41f9-a72f-54a68ae0256d",
+        "description": "How to pay or challenge fines, including parking tickets, penalty charges and DVLA fines.",
+        "details": {
+          "internal_name": "Penalty points, fines and driving bans",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/road-safety-driving-rules-and-penalties",
+              "api_url": "https://www.gov.uk/api/content/transport/road-safety-driving-rules-and-penalties",
+              "base_path": "/transport/road-safety-driving-rules-and-penalties",
+              "content_id": "3b1f1d58-dcd5-4d7e-adb6-fcc4c56324d0",
+              "description": "Road safety law and advice, information about driving penalties and paying fines.",
+              "details": {
+                "internal_name": "Road safety, driving rules and penalties",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:14Z",
+              "schema_name": "taxon",
+              "title": "Road safety, driving rules and penalties",
+              "web_url": "https://www.gov.uk/transport/road-safety-driving-rules-and-penalties",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:14Z",
+        "schema_name": "taxon",
+        "title": "Penalty points, fines and driving bans",
+        "web_url": "https://www.gov.uk/transport/penalty-points-fines-and-driving-bans",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/transport/parking",
+        "api_url": "https://www.gov.uk/api/content/transport/parking",
+        "base_path": "/transport/parking",
+        "content_id": "6d65a934-1129-4713-9c90-39b235cb1693",
+        "description": "Parking strategies, enforcement, restrictions, suspension signs, bays and charges.",
+        "details": {
+          "internal_name": "Parking",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/road-infrastructure",
+              "api_url": "https://www.gov.uk/api/content/transport/road-infrastructure",
+              "base_path": "/transport/road-infrastructure",
+              "content_id": "95202728-fb55-4aac-a53e-6a8f1553348a",
+              "description": "Operation of the road network including speed limits, signage and road signs.",
+              "details": {
+                "internal_name": "Road infrastructure",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport",
+                    "api_url": "https://www.gov.uk/api/content/transport",
+                    "base_path": "/transport",
+                    "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                    "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                    "details": {
+                      "internal_name": "Transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-15T14:31:46Z",
+                    "schema_name": "taxon",
+                    "title": "Transport",
+                    "web_url": "https://www.gov.uk/transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:16Z",
+              "schema_name": "taxon",
+              "title": "Road infrastructure",
+              "web_url": "https://www.gov.uk/transport/road-infrastructure",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:17Z",
+        "schema_name": "taxon",
+        "title": "Parking",
+        "web_url": "https://www.gov.uk/transport/parking",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-03-24T13:22:23Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15543-1504182739.513-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Challenge a parking fine",
+  "updated_at": "2024-03-01T16:01:14Z",
+  "withdrawn_notice": {
+  }
+}

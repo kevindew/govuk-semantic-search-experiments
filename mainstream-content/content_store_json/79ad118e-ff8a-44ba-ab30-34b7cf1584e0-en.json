@@ -1,0 +1,328 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/apply-for-photo-id-voter-authority-certificate",
+  "content_id": "79ad118e-ff8a-44ba-ab30-34b7cf1584e0",
+  "description": "Apply for photo ID to vote (Voter Authority Certificate) in some elections and referendums in Great Britain if you do not have an accepted form of ID.",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Use this service to apply for a ‘Voter Authority Certificate’. You can use it to vote in person in some elections and referendums in Great Britain (England, Scotland and Wales). You cannot use it as proof of identification for any other reason.</p>\n\n<p>You cannot use a Voter Authority Certificate in Northern Ireland. <a rel=\"external\" href=\"https://www.eoni.org.uk/Electoral-Identity-Card/Electoral-Identity-Card-FAQs\">Find out what ID you can use to vote in Northern Ireland</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/ceisio-am-lun-id-tystysgrif-awdurdod-pleidleiswyr\">in Welsh (<span lang=\"cy\">Cymraeg</span>)</a></p>\n</div>\n\n<p>You only need to apply for a Voter Authority Certificate if:</p>\n\n<ul>\n  <li>you do not have accepted photo ID</li>\n  <li>you no longer look like the photo on your ID</li>\n  <li>the name on your photo ID is different to your name on the electoral register</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If the name on your photo ID is different, you can <a href=\"/register-to-vote\">register to vote</a> again or take a document with you to vote that proves that you have changed your name.</p>\n</div>\n\n<h2 id=\"check-if-you-have-accepted-photo-id\">Check if you have accepted photo ID</h2>\n\n<p>Before you apply for a Voter Authority Certificate, <a href=\"/how-to-vote/photo-id-youll-need\">check if you already have accepted photo ID</a> and when you need it to vote.</p>\n\n<h2 id=\"apply-for-photo-id-to-vote\">Apply for photo ID to vote</h2>\n\n<p>It’s free to apply. You’ll need:</p>\n\n<ul>\n  <li>a recent, digital photo of yourself</li>\n  <li>your National Insurance number</li>\n</ul>\n\n<p>You can still apply if you do not have a National Insurance number. You’ll need to provide other documents to prove your identity, for example a birth certificate, bank statement and utility bill.</p>\n",
+    "other_ways_to_apply": "<p>You can also <a href=\"/government/publications/apply-for-a-voter-authority-certificate-by-post-if-youre-living-in-the-uk\">apply by post</a>.</p>\n\n<p>There’s a different form for <a href=\"/government/publications/apply-by-post-for-a-voter-authority-certificate-if-youre-living-abroad-in-the-armed-forces-a-crown-servant-or-a-british-council-employee\">applying by post if you live abroad, you’re in the armed forces, a Crown Servant or a British Council employee</a>.</p>\n\n<p>You’ll need to print, fill out and send the form to your <a href=\"/contact-electoral-registration-office\">local Electoral Registration Office</a>.</p>\n\n<h2 id=\"get-help-applying\">Get help applying</h2>\n\n<p>You can get help applying from your local <a href=\"https://www.gov.uk/contact-electoral-registration-office\">Electoral Registration Office</a>.</p>\n\n<p>There’s an <a href=\"https://www.gov.uk/government/publications/voter-authority-certificate-easy-read-guide\">easy read guide about applying for a Voter Authority Certificate</a>.</p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://voter-authority-certificate.service.gov.uk/start",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2023-01-16T00:01:06Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/apply-for-photo-id-voter-authority-certificate",
+        "api_url": "https://www.gov.uk/api/content/apply-for-photo-id-voter-authority-certificate",
+        "base_path": "/apply-for-photo-id-voter-authority-certificate",
+        "content_id": "79ad118e-ff8a-44ba-ab30-34b7cf1584e0",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-01-16T00:15:31Z",
+        "schema_name": "transaction",
+        "title": "Apply for photo ID to vote (called a ‘Voter Authority Certificate’)",
+        "web_url": "https://www.gov.uk/apply-for-photo-id-voter-authority-certificate",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/citizenship/voting",
+        "api_url": "https://www.gov.uk/api/content/browse/citizenship/voting",
+        "base_path": "/browse/citizenship/voting",
+        "content_id": "b2363441-b46d-4045-a7ed-828c354558f2",
+        "description": "Register to vote, getting on the electoral register and voting by proxy",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:42Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Voting",
+        "web_url": "https://www.gov.uk/browse/citizenship/voting",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/how-to-vote",
+        "api_url": "https://www.gov.uk/api/content/how-to-vote",
+        "base_path": "/how-to-vote",
+        "content_id": "9315bc67-33e7-42e9-8dea-e022f56dabfa",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/citizenship/voting",
+              "api_url": "https://www.gov.uk/api/content/browse/citizenship/voting",
+              "base_path": "/browse/citizenship/voting",
+              "content_id": "b2363441-b46d-4045-a7ed-828c354558f2",
+              "description": "Register to vote, getting on the electoral register and voting by proxy",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/citizenship",
+                    "api_url": "https://www.gov.uk/api/content/browse/citizenship",
+                    "base_path": "/browse/citizenship",
+                    "content_id": "764a2ce0-eae5-414a-a4a9-2217507165fb",
+                    "description": "Voting, community participation, life in the UK, international projects",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:44Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Citizenship and living in the UK",
+                    "web_url": "https://www.gov.uk/browse/citizenship",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Voting",
+              "web_url": "https://www.gov.uk/browse/citizenship/voting",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-27T16:38:00Z",
+        "schema_name": "guide",
+        "title": "How to vote",
+        "web_url": "https://www.gov.uk/how-to-vote",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/register-to-vote",
+        "api_url": "https://www.gov.uk/api/content/register-to-vote",
+        "base_path": "/register-to-vote",
+        "content_id": "834a7921-260b-4061-9de1-edda3e998c68",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/citizenship/voting",
+              "api_url": "https://www.gov.uk/api/content/browse/citizenship/voting",
+              "base_path": "/browse/citizenship/voting",
+              "content_id": "b2363441-b46d-4045-a7ed-828c354558f2",
+              "description": "Register to vote, getting on the electoral register and voting by proxy",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/citizenship",
+                    "api_url": "https://www.gov.uk/api/content/browse/citizenship",
+                    "base_path": "/browse/citizenship",
+                    "content_id": "764a2ce0-eae5-414a-a4a9-2217507165fb",
+                    "description": "Voting, community participation, life in the UK, international projects",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:44Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Citizenship and living in the UK",
+                    "web_url": "https://www.gov.uk/browse/citizenship",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Voting",
+              "web_url": "https://www.gov.uk/browse/citizenship/voting",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-12-08T11:00:49Z",
+        "schema_name": "transaction",
+        "title": "Register to vote",
+        "web_url": "https://www.gov.uk/register-to-vote",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/contact-electoral-registration-office",
+        "api_url": "https://www.gov.uk/api/content/contact-electoral-registration-office",
+        "base_path": "/contact-electoral-registration-office",
+        "content_id": "09c874bc-8b98-4108-bc1d-68ddeeee1c58",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/citizenship/voting",
+              "api_url": "https://www.gov.uk/api/content/browse/citizenship/voting",
+              "base_path": "/browse/citizenship/voting",
+              "content_id": "b2363441-b46d-4045-a7ed-828c354558f2",
+              "description": "Register to vote, getting on the electoral register and voting by proxy",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/citizenship",
+                    "api_url": "https://www.gov.uk/api/content/browse/citizenship",
+                    "base_path": "/browse/citizenship",
+                    "content_id": "764a2ce0-eae5-414a-a4a9-2217507165fb",
+                    "description": "Voting, community participation, life in the UK, international projects",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:44Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Citizenship and living in the UK",
+                    "web_url": "https://www.gov.uk/browse/citizenship",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Voting",
+              "web_url": "https://www.gov.uk/browse/citizenship/voting",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-05-31T14:39:44Z",
+        "schema_name": "local_transaction",
+        "title": "Contact your local Electoral Registration Office",
+        "web_url": "https://www.gov.uk/contact-electoral-registration-office",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1342",
+        "api_path": "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "base_path": "/government/organisations/department-for-levelling-up-housing-and-communities",
+        "content_id": "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+        "details": {
+          "acronym": "DLUHC",
+          "brand": "department-for-levelling-up-housing-and-communities",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for Levelling Up,<br/>Housing &amp; Communities"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Levelling Up, Housing and Communities ",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/citizenship/voting",
+        "api_url": "https://www.gov.uk/api/content/browse/citizenship/voting",
+        "base_path": "/browse/citizenship/voting",
+        "content_id": "b2363441-b46d-4045-a7ed-828c354558f2",
+        "description": "Register to vote, getting on the electoral register and voting by proxy",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/citizenship",
+              "api_url": "https://www.gov.uk/api/content/browse/citizenship",
+              "base_path": "/browse/citizenship",
+              "content_id": "764a2ce0-eae5-414a-a4a9-2217507165fb",
+              "description": "Voting, community participation, life in the UK, international projects",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-04-08T10:48:44Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Citizenship and living in the UK",
+              "web_url": "https://www.gov.uk/browse/citizenship",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:42Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Voting",
+        "web_url": "https://www.gov.uk/browse/citizenship/voting",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2023-01-16T00:15:31Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1696001192.240-10.13.20.204-10450",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Apply for photo ID to vote (called a ‘Voter Authority Certificate’)",
+  "updated_at": "2024-03-01T16:01:38Z",
+  "withdrawn_notice": {
+  }
+}

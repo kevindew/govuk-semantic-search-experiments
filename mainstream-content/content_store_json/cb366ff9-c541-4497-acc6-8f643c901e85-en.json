@@ -1,0 +1,819 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-national-insurance-record",
+  "content_id": "cb366ff9-c541-4497-acc6-8f643c901e85",
+  "description": "Find out if you've paid enough National Insurance to qualify for the full State Pension - check gaps, contributions and credits, get a National Insurance statement, call the helpline.",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>You can check your National Insurance record online to see:</p>\n\n<ul>\n  <li>what you’ve paid, up to the start of the current tax year (6 April 2023)</li>\n  <li>any <a href=\"/national-insurance-credits\">National Insurance credits</a> you’ve received</li>\n  <li>if gaps in contributions or credits mean some years do not count towards your State Pension (they are not ‘qualifying years’)</li>\n  <li>if you can pay <a href=\"/voluntary-national-insurance-contributions\">voluntary contributions</a> to fill any gaps and how much this will cost</li>\n</ul>\n\n<p>Your online record does not cover how much <a href=\"/check-state-pension\">State Pension you’re likely to get</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/gwirio-cofnod-yswiriant-gwladol\">in Welsh (Cymraeg)</a>.</p>\n</div>\n",
+    "more_information": "<p>To check your National Insurance record, you’ll need to sign in to your personal tax account using your Government Gateway user ID and password.</p>\n\n<h3 id=\"if-you-do-not-have-a-personal-tax-account\">If you do not have a personal tax account</h3>\n\n<p>You need a Government Gateway user ID and password to set up a personal tax account. If you do not already have a user ID, you can create one when you sign in for the first time.</p>\n\n<p>You’ll need your National Insurance number or postcode and 2 of the following:</p>\n\n<ul>\n  <li>a valid UK passport</li>\n  <li>a UK photocard driving licence issued by the DVLA (or DVA in Northern Ireland)</li>\n  <li>a payslip from the last 3 months or a P60 from your employer for the last tax year</li>\n  <li>details of a tax credit claim, if you made one</li>\n  <li>details from a Self Assessment tax return in the last 2 years, if you made one</li>\n  <li>information held on your credit record if you have one (such as loans, credit cards or mortgages)</li>\n</ul>\n\n<h2 id=\"other-ways-to-apply\">Other ways to apply</h2>\n\n<p>You can request a printed National Insurance statement:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"https://online.hmrc.gov.uk/shortforms/form/NIStatement\">online, if you live in the UK</a></li>\n  <li><a href=\"/government/publications/national-insurance-statement-of-national-insurance-contributions-ca3916\">online or by post, if you live abroad</a></li>\n  <li><a href=\"/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals\">by phone</a></li>\n</ul>\n\n<p>You’ll need to say which years you want your statement to cover. You cannot request statements for the current or previous tax year.</p>\n\n<p>You can also write to HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>).</p>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nNational Insurance contributions and Employers Office \n<br>HM Revenue and Customs \n<br>BX9 1AN\n<br>\n</p></div></div>\n\n<h2 id=\"if-youve-paid-national-insurance-in-the-isle-of-man\">If you’ve paid National Insurance in the Isle of Man</h2>\n\n<p>Your record will not show National Insurance contributions from the Isle of Man if you reach State Pension age after 5 April 2016.</p>\n\n<p>Email the National Insurance office in the Isle of Man to find out how much you’ve paid.</p>\n\n<div class=\"contact\">\n<p>Isle of Man National Insurance office<br>\n<a href=\"mailto:nationalinsurance.itd@gov.im\">nationalinsurance.itd@gov.im</a></p>\n</div>\n\n<p>You can also write to the office.</p>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nNational Insurance contributions\n<br>Income Tax Division\n<br>Government Office\n<br>Bucks Road\n<br>Douglas\n<br>Isle of Man\n<br>IM1 3TX \n<br>\n</p></div></div>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.tax.service.gov.uk/gg/sign-in?continue=/personal-account/national-insurance-summary&accountType=individual&origin=PTA-nationalinsurance",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2014-07-25T11:02:21Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-national-insurance-record",
+        "api_url": "https://www.gov.uk/api/content/check-national-insurance-record",
+        "base_path": "/check-national-insurance-record",
+        "content_id": "cb366ff9-c541-4497-acc6-8f643c901e85",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-24T16:00:51Z",
+        "schema_name": "transaction",
+        "title": "Check your National Insurance record",
+        "web_url": "https://www.gov.uk/check-national-insurance-record",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/national-insurance-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/national-insurance-detailed-information",
+        "base_path": "/government/collections/national-insurance-detailed-information",
+        "content_id": "b9320dc1-a423-4cd9-accf-58d7f60e4ab9",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/check-national-insurance-record",
+              "api_url": "https://www.gov.uk/api/content/check-national-insurance-record",
+              "base_path": "/check-national-insurance-record",
+              "content_id": "cb366ff9-c541-4497-acc6-8f643c901e85",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-04-24T16:00:51Z",
+              "schema_name": "transaction",
+              "title": "Check your National Insurance record",
+              "web_url": "https://www.gov.uk/check-national-insurance-record",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-08T00:00:00Z",
+        "schema_name": "document_collection",
+        "title": "National Insurance: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/national-insurance-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/national-insurance",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+        "base_path": "/browse/tax/national-insurance",
+        "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+        "description": "Voluntary contributions and credits, numbers, rates and classes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "National Insurance",
+        "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/national-insurance",
+        "api_url": "https://www.gov.uk/api/content/national-insurance",
+        "base_path": "/national-insurance",
+        "content_id": "c995522c-4020-4d54-ae5d-271d4b3a8777",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+              "base_path": "/browse/tax/national-insurance",
+              "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+              "description": "Voluntary contributions and credits, numbers, rates and classes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/tax-minimum-wage",
+              "api_url": "https://www.gov.uk/api/content/browse/working/tax-minimum-wage",
+              "base_path": "/browse/working/tax-minimum-wage",
+              "content_id": "a3e4b233-e2f3-4709-b531-8da7f21a3f6d",
+              "description": "Includes National Minimum Wage rates, keeping pay records and pay rights",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Your pay, tax and the National Minimum Wage",
+              "web_url": "https://www.gov.uk/browse/working/tax-minimum-wage",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-15T17:11:10Z",
+        "schema_name": "guide",
+        "title": "National Insurance: introduction",
+        "web_url": "https://www.gov.uk/national-insurance",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/national-insurance-credits",
+        "api_url": "https://www.gov.uk/api/content/national-insurance-credits",
+        "base_path": "/national-insurance-credits",
+        "content_id": "84b8f145-e877-41d7-bd51-305b0aeabd00",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/working/state-pension",
+              "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+              "base_path": "/browse/working/state-pension",
+              "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+              "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:19Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "State Pension",
+              "web_url": "https://www.gov.uk/browse/working/state-pension",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+              "base_path": "/browse/tax/national-insurance",
+              "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+              "description": "Voluntary contributions and credits, numbers, rates and classes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-18T23:28:36Z",
+        "schema_name": "guide",
+        "title": "National Insurance credits",
+        "web_url": "https://www.gov.uk/national-insurance-credits",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/voluntary-national-insurance-contributions",
+        "api_url": "https://www.gov.uk/api/content/voluntary-national-insurance-contributions",
+        "base_path": "/voluntary-national-insurance-contributions",
+        "content_id": "0693ad2b-8185-4e5a-b817-377b0c23a228",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/working/state-pension",
+              "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+              "base_path": "/browse/working/state-pension",
+              "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+              "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:19Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "State Pension",
+              "web_url": "https://www.gov.uk/browse/working/state-pension",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+              "base_path": "/browse/tax/national-insurance",
+              "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+              "description": "Voluntary contributions and credits, numbers, rates and classes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-24T13:51:47Z",
+        "schema_name": "guide",
+        "title": "Voluntary National Insurance",
+        "web_url": "https://www.gov.uk/voluntary-national-insurance-contributions",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/lost-national-insurance-number",
+        "api_url": "https://www.gov.uk/api/content/lost-national-insurance-number",
+        "base_path": "/lost-national-insurance-number",
+        "content_id": "fb24cc90-bfc0-4744-a160-d28e69079f0d",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+              "base_path": "/browse/tax/national-insurance",
+              "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+              "description": "Voluntary contributions and credits, numbers, rates and classes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-17T16:26:40Z",
+        "schema_name": "answer",
+        "title": "Find a lost National Insurance number ",
+        "web_url": "https://www.gov.uk/lost-national-insurance-number",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D10",
+        "api_path": "/api/content/government/organisations/department-for-work-pensions",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-work-pensions",
+        "base_path": "/government/organisations/department-for-work-pensions",
+        "content_id": "b548a09f-8b35-4104-89f4-f1a40bf3136d",
+        "details": {
+          "acronym": "DWP",
+          "brand": "department-for-work-pensions",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab1e5274a7908e35204/s960_dwp-caxton-house-logo-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab040f0b649cfaf7b4b/s300_dwp-caxton-house-logo-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Work &amp; <br/>Pensions"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Work and Pensions",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/national-insurance",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+        "base_path": "/browse/tax/national-insurance",
+        "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+        "description": "Voluntary contributions and credits, numbers, rates and classes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "National Insurance",
+        "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/national-insurance",
+        "api_url": "https://www.gov.uk/api/content/national-insurance",
+        "base_path": "/national-insurance",
+        "content_id": "c995522c-4020-4d54-ae5d-271d4b3a8777",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-15T17:11:10Z",
+        "schema_name": "guide",
+        "title": "National Insurance: introduction",
+        "web_url": "https://www.gov.uk/national-insurance",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/new-state-pension",
+        "api_url": "https://www.gov.uk/api/content/new-state-pension",
+        "base_path": "/new-state-pension",
+        "content_id": "27ebbb86-7d5a-4aef-bba6-2631f45d3355",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-01T17:25:50Z",
+        "schema_name": "guide",
+        "title": "The new State Pension",
+        "web_url": "https://www.gov.uk/new-state-pension",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pay-voluntary-class-3-national-insurance",
+        "api_url": "https://www.gov.uk/api/content/pay-voluntary-class-3-national-insurance",
+        "base_path": "/pay-voluntary-class-3-national-insurance",
+        "content_id": "33703bef-c745-4fa3-9ef4-dd9fd83aec2b",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-23T15:27:15Z",
+        "schema_name": "guide",
+        "title": "Pay voluntary Class 3 National Insurance",
+        "web_url": "https://www.gov.uk/pay-voluntary-class-3-national-insurance",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/lost-national-insurance-number",
+        "api_url": "https://www.gov.uk/api/content/lost-national-insurance-number",
+        "base_path": "/lost-national-insurance-number",
+        "content_id": "fb24cc90-bfc0-4744-a160-d28e69079f0d",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-17T16:26:40Z",
+        "schema_name": "answer",
+        "title": "Find a lost National Insurance number ",
+        "web_url": "https://www.gov.uk/lost-national-insurance-number",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/future-pension-centre",
+        "api_url": "https://www.gov.uk/api/content/future-pension-centre",
+        "base_path": "/future-pension-centre",
+        "content_id": "cfb64a86-67d1-4c0a-af5f-f4d8de8add7a",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-09T02:00:06Z",
+        "schema_name": "answer",
+        "title": "Contact the Future Pension Centre",
+        "web_url": "https://www.gov.uk/future-pension-centre",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/personal-tax-national-insurance-national-insurance-numbers",
+        "api_url": "https://www.gov.uk/api/content/money/personal-tax-national-insurance-national-insurance-numbers",
+        "base_path": "/money/personal-tax-national-insurance-national-insurance-numbers",
+        "content_id": "2f9e3f9e-e2f0-4654-88a6-7ba0f251d76e",
+        "details": {
+          "internal_name": "National Insurance numbers [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/money/national-insurance",
+              "base_path": "/money/national-insurance",
+              "content_id": "cc195f93-4244-489a-97e9-22480113c770",
+              "details": {
+                "internal_name": "National Insurance [T] (money)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money/personal-tax",
+                    "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+                    "base_path": "/money/personal-tax",
+                    "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+                    "details": {
+                      "internal_name": "Personal tax [T]",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/money",
+                          "api_url": "https://www.gov.uk/api/content/money",
+                          "base_path": "/money",
+                          "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Money",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T20:35:25Z",
+                          "schema_name": "taxon",
+                          "title": "Money",
+                          "web_url": "https://www.gov.uk/money",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-05T16:19:54Z",
+                    "schema_name": "taxon",
+                    "title": "Personal tax",
+                    "web_url": "https://www.gov.uk/money/personal-tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/money/national-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:54Z",
+        "schema_name": "taxon",
+        "title": "National Insurance numbers",
+        "web_url": "https://www.gov.uk/money/personal-tax-national-insurance-national-insurance-numbers",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/national-insurance",
+        "api_url": "https://www.gov.uk/api/content/money/national-insurance",
+        "base_path": "/money/national-insurance",
+        "content_id": "cc195f93-4244-489a-97e9-22480113c770",
+        "details": {
+          "internal_name": "National Insurance [T] (money)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:54Z",
+        "schema_name": "taxon",
+        "title": "National Insurance",
+        "web_url": "https://www.gov.uk/money/national-insurance",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-04-24T16:00:51Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1692784234.605-10.13.21.185-11140",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Check your National Insurance record",
+  "updated_at": "2024-03-06T08:35:16Z",
+  "withdrawn_notice": {
+  }
+}

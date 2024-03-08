@@ -1,0 +1,517 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/report-terrorism",
+  "content_id": "dbd5d39a-a49e-4d88-863b-7c2eac8d03ab",
+  "description": "Report internet content promoting terrorism, extremism or violence - your report will be treated anonymously.",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Report illegal or harmful information, pictures or videos you’ve found on the internet.</p>\n\n<p>You can report things like:</p>\n\n<ul>\n  <li>articles, images, speeches or videos that promote terrorism or encourage violence</li>\n  <li>websites made by terrorist or extremist organisations</li>\n  <li>videos of terrorist attacks</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You can make your report without leaving your name and contact details.</p>\n</div>\n\n",
+    "more_information": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Call 999 if you are reporting a crime that is in progress or if someone is in immediate danger.</p>\n</div>\n\n<p>You do not have to provide evidence. However it can help an investigation if you include:</p>\n\n<ul>\n  <li>screenshots</li>\n  <li>links to the website or platform (for example an app)</li>\n</ul>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.report-terrorist-material.homeoffice.gov.uk/evidence-url",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2011-12-12T11:40:12Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/report-terrorism",
+        "api_url": "https://www.gov.uk/api/content/report-terrorism",
+        "base_path": "/report-terrorism",
+        "content_id": "dbd5d39a-a49e-4d88-863b-7c2eac8d03ab",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-04-15T13:39:16Z",
+        "schema_name": "transaction",
+        "title": "Report online material promoting terrorism or extremism",
+        "web_url": "https://www.gov.uk/report-terrorism",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/justice/reporting-crimes",
+        "api_url": "https://www.gov.uk/api/content/browse/justice/reporting-crimes",
+        "base_path": "/browse/justice/reporting-crimes",
+        "content_id": "b17b99b8-a791-48f9-8eab-c78c39abf890",
+        "description": "Includes antisocial behaviour, abuse, benefit fraud and terrorism",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:48Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Reporting crimes",
+        "web_url": "https://www.gov.uk/browse/justice/reporting-crimes",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/terrorism-national-emergency",
+        "api_url": "https://www.gov.uk/api/content/terrorism-national-emergency",
+        "base_path": "/terrorism-national-emergency",
+        "content_id": "6326c645-48d3-464a-b9f8-086fe04d3186",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/justice/reporting-crimes",
+              "api_url": "https://www.gov.uk/api/content/browse/justice/reporting-crimes",
+              "base_path": "/browse/justice/reporting-crimes",
+              "content_id": "b17b99b8-a791-48f9-8eab-c78c39abf890",
+              "description": "Includes antisocial behaviour, abuse, benefit fraud and terrorism",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/justice",
+                    "api_url": "https://www.gov.uk/api/content/browse/justice",
+                    "base_path": "/browse/justice",
+                    "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+                    "description": "Legal processes, courts and the police",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2022-04-06T18:09:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Crime, justice and the law",
+                    "web_url": "https://www.gov.uk/browse/justice",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Reporting crimes",
+              "web_url": "https://www.gov.uk/browse/justice/reporting-crimes",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-04T12:54:58Z",
+        "schema_name": "guide",
+        "title": "Terrorism and national emergencies",
+        "web_url": "https://www.gov.uk/terrorism-national-emergency",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/report-suspicious-activity-to-mi5",
+        "api_url": "https://www.gov.uk/api/content/report-suspicious-activity-to-mi5",
+        "base_path": "/report-suspicious-activity-to-mi5",
+        "content_id": "427f520b-c4a2-4855-8f00-cb0ff102980d",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/justice/reporting-crimes",
+              "api_url": "https://www.gov.uk/api/content/browse/justice/reporting-crimes",
+              "base_path": "/browse/justice/reporting-crimes",
+              "content_id": "b17b99b8-a791-48f9-8eab-c78c39abf890",
+              "description": "Includes antisocial behaviour, abuse, benefit fraud and terrorism",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/justice",
+                    "api_url": "https://www.gov.uk/api/content/browse/justice",
+                    "base_path": "/browse/justice",
+                    "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+                    "description": "Legal processes, courts and the police",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2022-04-06T18:09:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Crime, justice and the law",
+                    "web_url": "https://www.gov.uk/browse/justice",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Reporting crimes",
+              "web_url": "https://www.gov.uk/browse/justice/reporting-crimes",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-10-14T10:22:50Z",
+        "schema_name": "transaction",
+        "title": "Report suspicious activity to MI5",
+        "web_url": "https://www.gov.uk/report-suspicious-activity-to-mi5",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/report-hate-crime",
+        "api_url": "https://www.gov.uk/api/content/report-hate-crime",
+        "base_path": "/report-hate-crime",
+        "content_id": "35a65d0a-b354-46ab-a40f-7955ff6aef8a",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/justice/reporting-crimes",
+              "api_url": "https://www.gov.uk/api/content/browse/justice/reporting-crimes",
+              "base_path": "/browse/justice/reporting-crimes",
+              "content_id": "b17b99b8-a791-48f9-8eab-c78c39abf890",
+              "description": "Includes antisocial behaviour, abuse, benefit fraud and terrorism",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/justice",
+                    "api_url": "https://www.gov.uk/api/content/browse/justice",
+                    "base_path": "/browse/justice",
+                    "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+                    "description": "Legal processes, courts and the police",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2022-04-06T18:09:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Crime, justice and the law",
+                    "web_url": "https://www.gov.uk/browse/justice",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Reporting crimes",
+              "web_url": "https://www.gov.uk/browse/justice/reporting-crimes",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-27T17:05:54Z",
+        "schema_name": "answer",
+        "title": "Report hate crime",
+        "web_url": "https://www.gov.uk/report-hate-crime",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D16",
+        "api_path": "/api/content/government/organisations/home-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/home-office",
+        "base_path": "/government/organisations/home-office",
+        "content_id": "06056197-bc69-4147-aa28-070bca132178",
+        "details": {
+          "acronym": "Home Office",
+          "brand": "home-office",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db3ce5274a7908e3530c/s960_home-office.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db3c40f0b649cceb18de/s300_home-office.jpg"
+          },
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "Home Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Home Office",
+        "web_url": "https://www.gov.uk/government/organisations/home-office",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/justice/reporting-crimes",
+        "api_url": "https://www.gov.uk/api/content/browse/justice/reporting-crimes",
+        "base_path": "/browse/justice/reporting-crimes",
+        "content_id": "b17b99b8-a791-48f9-8eab-c78c39abf890",
+        "description": "Includes antisocial behaviour, abuse, benefit fraud and terrorism",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/justice",
+              "api_url": "https://www.gov.uk/api/content/browse/justice",
+              "base_path": "/browse/justice",
+              "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+              "description": "Legal processes, courts and the police",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2022-04-06T18:09:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Crime, justice and the law",
+              "web_url": "https://www.gov.uk/browse/justice",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:48Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Reporting crimes",
+        "web_url": "https://www.gov.uk/browse/justice/reporting-crimes",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/terrorism-national-emergency",
+        "api_url": "https://www.gov.uk/api/content/terrorism-national-emergency",
+        "base_path": "/terrorism-national-emergency",
+        "content_id": "6326c645-48d3-464a-b9f8-086fe04d3186",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-04T12:54:58Z",
+        "schema_name": "guide",
+        "title": "Terrorism and national emergencies",
+        "web_url": "https://www.gov.uk/terrorism-national-emergency",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/report-suspicious-activity-to-mi5",
+        "api_url": "https://www.gov.uk/api/content/report-suspicious-activity-to-mi5",
+        "base_path": "/report-suspicious-activity-to-mi5",
+        "content_id": "427f520b-c4a2-4855-8f00-cb0ff102980d",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-10-14T10:22:50Z",
+        "schema_name": "transaction",
+        "title": "Report suspicious activity to MI5",
+        "web_url": "https://www.gov.uk/report-suspicious-activity-to-mi5",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/report-hate-crime",
+        "api_url": "https://www.gov.uk/api/content/report-hate-crime",
+        "base_path": "/report-hate-crime",
+        "content_id": "35a65d0a-b354-46ab-a40f-7955ff6aef8a",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-27T17:05:54Z",
+        "schema_name": "answer",
+        "title": "Report hate crime",
+        "web_url": "https://www.gov.uk/report-hate-crime",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/prevent-duty-guidance",
+        "api_url": "https://www.gov.uk/api/content/government/publications/prevent-duty-guidance",
+        "base_path": "/government/publications/prevent-duty-guidance",
+        "content_id": "d084f401-d99a-4b86-9e82-9a44d65cf585",
+        "document_type": "statutory_guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-03-06T11:17:24Z",
+        "schema_name": "publication",
+        "title": "Prevent duty guidance: England and Wales (2023)",
+        "web_url": "https://www.gov.uk/government/publications/prevent-duty-guidance",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/society-and-culture/online-safety",
+        "api_url": "https://www.gov.uk/api/content/society-and-culture/online-safety",
+        "base_path": "/society-and-culture/online-safety",
+        "content_id": "ecc8978c-cc6b-463e-a3d5-d5428c3e9f7d",
+        "description": "",
+        "details": {
+          "internal_name": "Online safety",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/society-and-culture",
+              "api_url": "https://www.gov.uk/api/content/society-and-culture",
+              "base_path": "/society-and-culture",
+              "content_id": "e2ca2f1a-0ff3-43ce-b813-16645ff27904",
+              "description": "",
+              "details": {
+                "internal_name": "Society and culture",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:31:27Z",
+              "schema_name": "taxon",
+              "title": "Society and culture",
+              "web_url": "https://www.gov.uk/society-and-culture",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2020-09-29T14:04:46Z",
+        "schema_name": "taxon",
+        "title": "Online safety",
+        "web_url": "https://www.gov.uk/society-and-culture/online-safety",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/crime-justice-and-law/reporting-crimes-compensation",
+        "api_url": "https://www.gov.uk/api/content/crime-justice-and-law/reporting-crimes-compensation",
+        "base_path": "/crime-justice-and-law/reporting-crimes-compensation",
+        "content_id": "fa5b3b7e-682a-49fd-bf99-d2cfe3e16a26",
+        "details": {
+          "internal_name": "Reporting crimes and getting compensation [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/crime-justice-and-law",
+              "api_url": "https://www.gov.uk/api/content/crime-justice-and-law",
+              "base_path": "/crime-justice-and-law",
+              "content_id": "ba951b09-5146-43be-87af-44075eac3ae9",
+              "description": "",
+              "details": {
+                "internal_name": "Crime, justice and law",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:34:51Z",
+              "schema_name": "taxon",
+              "title": "Crime, justice and law",
+              "web_url": "https://www.gov.uk/crime-justice-and-law",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:15:52Z",
+        "schema_name": "taxon",
+        "title": "Reporting crimes and getting compensation",
+        "web_url": "https://www.gov.uk/crime-justice-and-law/reporting-crimes-compensation",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-04-15T13:39:16Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "14358-1629470147.844-10.13.1.43-8046",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Report online material promoting terrorism or extremism",
+  "updated_at": "2024-03-07T11:17:45Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,865 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/prepare-charitys-annual-accounts",
+  "content_id": "d61927bf-bae2-43df-a51b-9f7294929b38",
+  "description": "How to prepare the right annual accounts for your charity's structure and income",
+  "details": {
+    "body": "<p>Find out how to prepare the right annual accounts for your charity’s structure and income.</p>\n\n<p>You should follow different guidance if your charity is:</p>\n\n<ul>\n  <li>\n<a rel=\"external\" href=\"http://www.charitysorp.org/\">exempt</a> - because it’s not regulated by the Charity Commission</li>\n  <li>in <a rel=\"external\" href=\"https://www.oscr.org.uk/managing-a-charity/charity-accounting/\">Scotland</a> or <a rel=\"external\" href=\"https://www.charitycommissionni.org.uk/manage-your-charity/annual-reporting/\">Northern Ireland</a>\n</li>\n</ul>\n\n",
+    "external_related_links": [
+
+    ],
+    "nodes": [
+      {
+        "body": "<p>Charitable incorporated organisations (<abbr title=\"Charitable Incorporated Organisations\">CIOs</abbr>) aren’t companies.</p>\n\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-5",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-8",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-1",
+        "title": "Is your charity a company?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Up to £25,000",
+            "next_node": "outcome-3",
+            "slug": "up-to-25-000"
+          },
+          {
+            "label": "Over £25,000 to £250,000",
+            "next_node": "outcome-4",
+            "slug": "over-25-000-to-250-000"
+          },
+          {
+            "label": "Over £250,000 to £500,000",
+            "next_node": "question-10",
+            "slug": "over-250-000-to-500-000"
+          },
+          {
+            "label": "Over £500,000 to £1 million",
+            "next_node": "question-11",
+            "slug": "over-500-000-to-1-million"
+          },
+          {
+            "label": "Over £1 million",
+            "next_node": "outcome-9",
+            "slug": "over-1-million"
+          }
+        ],
+        "slug": "question-5",
+        "title": "How much money does your charitable company make each year?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Up to £25,000",
+            "next_node": "outcome-1",
+            "slug": "up-to-25-000"
+          },
+          {
+            "label": "Over £25,000 to £250,000",
+            "next_node": "outcome-2",
+            "slug": "over-25-000-to-250-000"
+          },
+          {
+            "label": "Over £250,000 to £500,000",
+            "next_node": "question-12",
+            "slug": "over-250-000-to-500-000"
+          },
+          {
+            "label": "Over £500,000 to £1 million",
+            "next_node": "question-9",
+            "slug": "over-500-000-to-1-million"
+          },
+          {
+            "label": "Over £1 million",
+            "next_node": "outcome-7",
+            "slug": "over-1-million"
+          }
+        ],
+        "slug": "question-8",
+        "title": "How much money does your charity make each year?"
+      },
+      {
+        "body": "<p>Assets can be property, shares or anything else with value.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-7",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-8",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-9",
+        "title": "Does your charity own more than £3.26 million in assets?"
+      },
+      {
+        "body": "<p>Assets can be property, shares or anything else with value.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-6",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-5",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-10",
+        "title": "Does your charity own more than £3.26 million in assets?"
+      },
+      {
+        "body": "<p>Assets can be property, shares or anything else with value.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-9",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-10",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-11",
+        "title": "Does your charity own more than £3.26 million in assets?"
+      },
+      {
+        "body": "<p>Assets can be property, shares or anything else with value.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-11",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-12",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-12",
+        "title": "Does your charity own more than £3.26 million in assets?"
+      },
+      {
+        "body": "<p>You can choose which type of accounts you prepare.</p>\n\n<h2 id=\"receipts-and-payments-accounts\">Receipts and payments accounts</h2>\n\n<p>Receipts and payments accounting is a summary of all the money you received and paid out in the year.</p>\n\n<p>You need to list assets (things your charity owns or money it is owed) and liabilities (money your charity owes to others).</p>\n\n<p><a href=\"/government/collections/receipts-and-payments-accounts-pack-cc16\">Download templates for preparing receipts and payments accounts</a>.</p>\n\n<h3 id=\"charitable-incorporated-organisations-cios\">Charitable incorporated organisations (<abbr title=\"Charitable Incorporated Organisations\">CIOs</abbr>)</h3>\n\n<p>If you’re preparing receipts and payments accounts for a <abbr title=\"Charitable Incorporated Organisation\">CIO</abbr>, you must also include details of any loans:</p>\n\n<ul>\n  <li>someone else has agreed to pay if the <abbr title=\"Charitable Incorporated Organisation\">CIO</abbr> can’t (‘under guarantee’)</li>\n  <li>secured against the <abbr title=\"Charitable Incorporated Organisation\">CIO</abbr>’s assets, for example property</li>\n</ul>\n\n<h2 id=\"accruals-accounts\">Accruals accounts</h2>\n\n<p>Accruals accounts include details of:</p>\n\n<ul>\n  <li>how your charity gets its money</li>\n  <li>how your charity spends money</li>\n  <li>money in your charity’s bank account</li>\n  <li>assets</li>\n  <li>liabilities</li>\n  <li>other important information, such as related party transactions</li>\n</ul>\n\n<p>You can choose to describe your charity’s income and expenditure using either:</p>\n\n<ul>\n  <li>categories that you’re free to decide (known as ‘natural categories’), for example donations, wages, rent</li>\n  <li>activity categories as listed in <a rel=\"external\" href=\"http://www.charitysorp.org/\">the statement of recommended practice (<abbr title=\"statement of recommended practice\">SORP</abbr>)</a>\n</li>\n</ul>\n\n<p>You can <a href=\"/government/collections/accruals-accounts-pack-cc17-sorp-frs-102\">download templates for preparing accruals accounts</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You don’t need to have your accounts examined or audited unless your charity’s governing document or the Charity Commission asks you to.</p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-1",
+        "title": "You can prepare either receipts and payments or accruals accounts."
+      },
+      {
+        "body": "<p>You can choose which type of accounts you prepare - either receipts and payments accounts or accruals accounts.</p>\n\n<h2 id=\"receipts-and-payments-accounts\">Receipts and payments accounts</h2>\n\n<p>Receipts and payments accounting is a summary of all the money you received and paid out in the year.</p>\n\n<p>You need to list assets (things your charity owns or money it is owed) and liabilities (money your charity owes to others).</p>\n\n<p><a href=\"/government/publications/charity-accounting-templates-receipts-and-payments-accounts\">Download templates for preparing receipts and payments accounts</a>.</p>\n\n<h3 id=\"charitable-incorporated-organisations-cios\">Charitable incorporated organisations (<abbr title=\"charitable Incorporated Organisations\">CIOs</abbr>)</h3>\n\n<p>If you’re preparing receipts and payments accounts for a <abbr title=\"Charitable Incorporated Organisation\">CIO</abbr>, you must also include details of any loans:</p>\n\n<ul>\n  <li>someone else has agreed to pay if the <abbr title=\"Charitable Incorporated Organisation\">CIO</abbr> can’t (‘under guarantee’)</li>\n  <li>secured against the <abbr title=\"Charitable Incorporated Organisation\">CIO</abbr>’s assets (for example property)</li>\n</ul>\n\n<h2 id=\"accruals-accounts\">Accruals accounts</h2>\n\n<p>Accruals accounts include details of:</p>\n\n<ul>\n  <li>how your charity gets its money</li>\n  <li>how your charity spends money</li>\n  <li>money in your charity’s bank account</li>\n  <li>assets</li>\n  <li>liabilities</li>\n  <li>other important information, such as related party transactions</li>\n</ul>\n\n<p>You can choose to describe your charity’s income and expenditure using either:</p>\n\n<ul>\n  <li>categories that you’re free to decide (known as ‘natural categories’), for example donations, wages, rent</li>\n  <li>activity categories as listed in <a rel=\"external\" href=\"http://www.charitysorp.org/\">the statement of recommended practice (<abbr title=\"statement of recommended practice\">SORP</abbr>)</a>\n</li>\n</ul>\n\n<p>You can <a href=\"/government/collections/accruals-accounts-pack-cc17-sorp-frs-102\">download templates for preparing accruals accounts</a>.</p>\n\n<h2 id=\"get-your-accounts-checked\">Get your accounts checked</h2>\n\n<p>You must have your accounts independently examined or audited. You can choose which you do unless your governing document specifies an audit.</p>\n\n<h3 id=\"using-an-independent-examiner\">Using an independent examiner</h3>\n\n<p>An independent examination is less thorough than an audit.</p>\n\n<p>The examiner must:</p>\n\n<ul>\n  <li>have the ability and experience to conduct the examination</li>\n  <li>not have a close relationship with any of the charity’s trustees</li>\n  <li>not be involved in the day-to-day running of the charity</li>\n</ul>\n\n<p><a href=\"https://www.gov.uk/government/publications/independent-examination-of-charity-accounts-trustees-cc31\">Read guidance on independent examination of accounts</a>.</p>\n\n<h3 id=\"using-an-auditor\">Using an auditor</h3>\n\n<p><a rel=\"external\" href=\"http://www.auditregister.org.uk/Forms/Default.aspx\">Find an auditor</a> using the register of statutory auditors.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-2",
+        "title": "You can prepare either receipts and payments or accruals accounts but must have them checked."
+      },
+      {
+        "body": "<p>Accruals accounts include details of:</p>\n\n<ul>\n  <li>how your charity gets its money</li>\n  <li>how your charity spends money</li>\n  <li>money in your charity’s bank account</li>\n  <li>assets (things your charity owns or money it is owed)</li>\n  <li>liabilities (money your charity owes)</li>\n  <li>other important information, such as related party transactions</li>\n</ul>\n\n<p>You can choose to describe your charity’s income and expenditure using either:</p>\n\n<ul>\n  <li>categories that you’re free to decide (known as ‘natural categories’), for example donations, wages, rent</li>\n  <li>activity categories as listed in <a rel=\"external\" href=\"http://www.charitysorp.org/\">the statement of recommended practice (<abbr title=\"statement of recommended practice\">SORP</abbr>)</a>\n</li>\n</ul>\n\n<p>You can <a href=\"/government/collections/accruals-accounts-pack-cc17-sorp-frs-102-for-charitable-companies\">download templates for preparing accruals accounts</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You don’t need to have your accounts examined or audited unless your charity’s governing document or the Charity Commission asks you to.</p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-3",
+        "title": "You must prepare accruals accounts."
+      },
+      {
+        "body": "<p>Accruals accounts include details of:</p>\n\n<ul>\n  <li>how your charity gets its money</li>\n  <li>how your charity spends money</li>\n  <li>money in your charity’s bank account</li>\n  <li>assets (things your charity owns or money it is owed)</li>\n  <li>liabilities (money your charity owes)</li>\n  <li>other important information, such as related party transactions</li>\n</ul>\n\n<p>You can choose to describe your charity’s income and expenditure using either:</p>\n\n<ul>\n  <li>categories that you’re free to decide (known as ‘natural categories’), for example donations, wages, rent</li>\n  <li>activity categories as listed in <a rel=\"external\" href=\"http://www.charitysorp.org/\">the statement of recommended practice (<abbr title=\"statement of recommended practice\">SORP</abbr>)</a>\n</li>\n</ul>\n\n<p>You can <a href=\"/government/collections/accruals-accounts-pack-cc17-sorp-frs-102-for-charitable-companies\">download templates for preparing accruals accounts</a>.</p>\n\n<h2 id=\"get-your-accounts-checked\">Get your accounts checked</h2>\n\n<p>You must have your accounts independently examined or audited. You can choose which you do unless your governing document specifies an audit.</p>\n\n<h3 id=\"using-an-independent-examiner\">Using an independent examiner</h3>\n\n<p>An independent examination is less thorough than an audit.</p>\n\n<p>The examiner must:</p>\n\n<ul>\n  <li>have the ability and experience to conduct the examination</li>\n  <li>not have a close relationship with any of the charity’s trustees</li>\n  <li>not be involved in the day-to-day running of the charity</li>\n</ul>\n\n<p><a href=\"https://www.gov.uk/government/publications/independent-examination-of-charity-accounts-trustees-cc31\">Read guidance on independent examination of accounts</a>.</p>\n\n<h3 id=\"using-an-auditor\">Using an auditor</h3>\n\n<p><a rel=\"external\" href=\"http://www.auditregister.org.uk/Forms/Default.aspx\">Find an auditor</a> using the register of statutory auditors.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-4",
+        "title": "You must prepare accruals accounts and have them checked."
+      },
+      {
+        "body": "<p>Accruals accounts include details of:</p>\n\n<ul>\n  <li>how your charity gets its money</li>\n  <li>how your charity spends money</li>\n  <li>money in your charity’s bank account</li>\n  <li>assets (things your charity owns or money it is owed)</li>\n  <li>liabilities (money your charity owes)</li>\n  <li>other important information, such as related party transactions</li>\n</ul>\n\n<p>You can choose to describe your charity’s income and expenditure using either:</p>\n\n<ul>\n  <li>categories that you’re free to decide (known as ‘natural categories’), for example donations, wages, rent</li>\n  <li>activity categories as listed in <a rel=\"external\" href=\"http://www.charitysorp.org/\">the statement of recommended practice (<abbr title=\"statement of recommended practice\">SORP</abbr>)</a>\n</li>\n</ul>\n\n<p>You can <a href=\"/government/collections/accruals-accounts-pack-cc17-sorp-frs-102-for-charitable-companies\">download templates for preparing accruals accounts</a>.</p>\n\n<h2 id=\"get-your-accounts-checked\">Get your accounts checked</h2>\n\n<p>You must have your accounts independently examined or audited. You can choose which you do unless your governing document specifies an audit.</p>\n\n<p>If you use an independent examiner they must be a member of one of the following:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"http://www.icaew.com\">Institute of Chartered Accountants in England and Wales</a></li>\n  <li><a rel=\"external\" href=\"http://icas.org.uk\">Institute of Chartered Accountants of Scotland</a></li>\n  <li><a rel=\"external\" href=\"http://www.charteredaccountants.ie\">Institute of Chartered Accountants in Ireland</a></li>\n  <li><a rel=\"external\" href=\"https://www.acca-business.org/dom/\">Association of Chartered Certified Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.accaglobal.org.uk/en/aapa.html\">Association of Authorised Public Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.aat.org.uk\">Association of Accounting Technicians</a></li>\n  <li><a rel=\"external\" href=\"http://www.aiaworldwide.com\">Association of International Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.cimaglobal.com\">Chartered Institute of Management Accountants</a></li>\n  <li><a rel=\"external\" href=\"https://www.icsa.org.uk/\">Institute of Chartered Secretaries and Administrators</a></li>\n  <li><a rel=\"external\" href=\"http://www.cipfa.org\">Chartered Institute of Public Finance and Accountancy</a></li>\n  <li><a rel=\"external\" href=\"http://www.acie.org.uk/membership_full.htm\">Association of Charity Independent Examiners</a></li>\n  <li><a rel=\"external\" href=\"http://www.ifa.org.uk/\">Institute of Financial Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.acpa.org.uk/\">Certified Public Accountants Association</a></li>\n</ul>\n\n<p><a href=\"https://www.gov.uk/government/publications/independent-examination-of-charity-accounts-trustees-cc31\">Read guidance on independent examination of accounts</a>.</p>\n\n<p><a rel=\"external\" href=\"http://www.auditregister.org.uk/Forms/Default.aspx\">Find an auditor</a> using the register of statutory auditors.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-5",
+        "title": "You must prepare accruals accounts and have them checked."
+      },
+      {
+        "body": "<p>Accruals accounts include details of:</p>\n\n<ul>\n  <li>how your charity gets its money</li>\n  <li>how your charity spends money</li>\n  <li>money in your charity’s bank account</li>\n  <li>assets (things your charity owns or money it is owed)</li>\n  <li>liabilities (money your charity owes)</li>\n  <li>other important information, such as related party transactions</li>\n</ul>\n\n<p>You can choose to describe your charity’s income and expenditure using either:</p>\n\n<ul>\n  <li>categories that you’re free to decide (known as ‘natural categories’), for example donations, wages, rent</li>\n  <li>activity categories as listed in <a rel=\"external\" href=\"http://www.charitysorp.org/\">the statement of recommended practice (<abbr title=\"statement of recommended practice\">SORP</abbr>)</a>\n</li>\n</ul>\n\n<p>You can <a href=\"/government/collections/accruals-accounts-pack-cc17-sorp-frs-102-for-charitable-companies\">download templates for preparing accruals accounts</a>.</p>\n\n<h2 id=\"get-your-accounts-checked\">Get your accounts checked</h2>\n\n<p>You must have your accounts audited by a statutory auditor.</p>\n\n<p><a rel=\"external\" href=\"http://www.auditregister.org.uk/Forms/Default.aspx\">Find an auditor</a> using the register of statutory auditors.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-6",
+        "title": "You must prepare accruals accounts and have them checked by an auditor."
+      },
+      {
+        "body": "<p>Accruals accounts include details of:</p>\n\n<ul>\n  <li>how your charity gets its money</li>\n  <li>how your charity spends money</li>\n  <li>money in your charity’s bank account</li>\n  <li>assets (things your charity owns or money it is owed)</li>\n  <li>liabilities (money your charity owes)</li>\n  <li>other important information, such as related party transactions</li>\n</ul>\n\n<p>You must <a rel=\"external\" href=\"http://www.charitysorp.org/\">use the statement of recommended practice (<abbr title=\"statement of recommended practice\">SORP</abbr>)</a> to prepare your accounts. This includes describing your charity’s income and expenditure using the categories listed in the <abbr title=\"statement of recommended practice\">SORP</abbr>.</p>\n\n<h2 id=\"get-your-accounts-checked\">Get your accounts checked</h2>\n\n<p>You must have your accounts audited by a statutory auditor.</p>\n\n<p><a rel=\"external\" href=\"http://www.auditregister.org.uk/Forms/Default.aspx\">Find an auditor</a> using the register of statutory auditors.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-7",
+        "title": "You must prepare accruals accounts and have them checked by an auditor."
+      },
+      {
+        "body": "<p>Accruals accounts include details of:</p>\n\n<ul>\n  <li>how your charity gets its money</li>\n  <li>how your charity spends money</li>\n  <li>money in your charity’s bank account</li>\n  <li>assets (things your charity owns or money it is owed)</li>\n  <li>liabilities (money your charity owes)</li>\n  <li>other important information, such as related party transactions</li>\n</ul>\n\n<p>You must <a rel=\"external\" href=\"http://www.charitysorp.org/\">use the statement of recommended practice (<abbr title=\"statement of recommended practice\">SORP</abbr>)</a> to prepare your accounts. This includes describing your charity’s income and expenditure using the categories listed in the <abbr title=\"statement of recommended practice\">SORP</abbr>.</p>\n\n<h2 id=\"get-your-accounts-checked\">Get your accounts checked</h2>\n\n<p>You must have your accounts independently examined or audited. You can choose which you do unless your governing document specifies an audit.</p>\n\n<p>If you use an independent examiner they must be a member of one of the following:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"http://www.icaew.com\">Institute of Chartered Accountants in England and Wales</a></li>\n  <li><a rel=\"external\" href=\"http://icas.org.uk\">Institute of Chartered Accountants of Scotland</a></li>\n  <li><a rel=\"external\" href=\"http://www.charteredaccountants.ie\">Institute of Chartered Accountants in Ireland</a></li>\n  <li><a rel=\"external\" href=\"https://www.acca-business.org/dom/\">Association of Chartered Certified Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.accaglobal.org.uk/en/aapa.html\">Association of Authorised Public Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.aat.org.uk\">Association of Accounting Technicians</a></li>\n  <li><a rel=\"external\" href=\"http://www.aiaworldwide.com\">Association of International Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.cimaglobal.com\">Chartered Institute of Management Accountants</a></li>\n  <li><a rel=\"external\" href=\"https://www.icsa.org.uk/\">Institute of Chartered Secretaries and Administrators</a></li>\n  <li><a rel=\"external\" href=\"http://www.cipfa.org\">Chartered Institute of Public Finance and Accountancy</a></li>\n  <li><a rel=\"external\" href=\"http://www.acie.org.uk/membership_full.htm\">Association of Charity Independent Examiners</a></li>\n  <li><a rel=\"external\" href=\"http://www.ifa.org.uk/\">Institute of Financial Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.acpa.org.uk/\">Certified Public Accountants Association</a></li>\n</ul>\n\n<p><a href=\"https://www.gov.uk/government/publications/independent-examination-of-charity-accounts-trustees-cc31\">Read guidance on independent examination of accounts</a>.</p>\n\n<p><a rel=\"external\" href=\"http://www.auditregister.org.uk/Forms/Default.aspx\">Find an auditor</a> using the register of statutory auditors.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-8",
+        "title": "You must prepare accruals accounts and have them checked."
+      },
+      {
+        "body": "<p>Accruals accounts include details of:</p>\n\n<ul>\n  <li>how your charity gets its money</li>\n  <li>how your charity spends money</li>\n  <li>money in your charity’s bank account</li>\n  <li>assets (things your charity owns or money it is owed)</li>\n  <li>liabilities (money your charity owes)</li>\n  <li>other important information, such as related party transactions</li>\n</ul>\n\n<p>You must <a rel=\"external\" href=\"http://www.charitysorp.org/\">use the statement of recommended practice (<abbr title=\"statement of recommended practice\">SORP</abbr>)</a> to prepare your accounts. This includes describing your charity’s income and expenditure using the categories listed in the <abbr title=\"statement of recommended practice\">SORP</abbr>.</p>\n\n<h2 id=\"get-your-accounts-checked\">Get your accounts checked</h2>\n\n<p>You must have your accounts audited by a statutory auditor.</p>\n\n<p><a rel=\"external\" href=\"http://www.auditregister.org.uk/Forms/Default.aspx\">Find an auditor</a> using the register of statutory auditors.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-9",
+        "title": "You must prepare accruals accounts and have them checked by an auditor."
+      },
+      {
+        "body": "<p>Accruals accounts include details of:</p>\n\n<ul>\n  <li>how your charity gets its money</li>\n  <li>how your charity spends money</li>\n  <li>money in your charity’s bank account</li>\n  <li>assets (things your charity owns or money it is owed)</li>\n  <li>liabilities (money your charity owes)</li>\n  <li>other important information, such as related party transactions</li>\n</ul>\n\n<p>You must <a rel=\"external\" href=\"http://www.charitysorp.org/\">use the statement of recommended practice (<abbr title=\"statement of recommended practice\">SORP</abbr>)</a> to prepare your accounts. This includes describing your charity’s income and expenditure using the categories listed in the <abbr title=\"statement of recommended practice\">SORP</abbr>.</p>\n\n<h2 id=\"get-your-accounts-checked\">Get your accounts checked</h2>\n\n<p>You must have your accounts independently examined or audited. You can choose which you do unless your governing document specifies an audit.</p>\n\n<p>If you use an independent examiner they must be a member of one of the following:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"http://www.icaew.com\">Institute of Chartered Accountants in England and Wales</a></li>\n  <li><a rel=\"external\" href=\"http://icas.org.uk\">Institute of Chartered Accountants of Scotland</a></li>\n  <li><a rel=\"external\" href=\"http://www.charteredaccountants.ie\">Institute of Chartered Accountants in Ireland</a></li>\n  <li><a rel=\"external\" href=\"https://www.acca-business.org/dom/\">Association of Chartered Certified Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.accaglobal.org.uk/en/aapa.html\">Association of Authorised Public Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.aat.org.uk\">Association of Accounting Technicians</a></li>\n  <li><a rel=\"external\" href=\"http://www.aiaworldwide.com\">Association of International Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.cimaglobal.com\">Chartered Institute of Management Accountants</a></li>\n  <li><a rel=\"external\" href=\"https://www.icsa.org.uk/\">Institute of Chartered Secretaries and Administrators</a></li>\n  <li><a rel=\"external\" href=\"http://www.cipfa.org\">Chartered Institute of Public Finance and Accountancy</a></li>\n  <li><a rel=\"external\" href=\"http://www.acie.org.uk/membership_full.htm\">Association of Charity Independent Examiners</a></li>\n  <li><a rel=\"external\" href=\"http://www.ifa.org.uk/\">Institute of Financial Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.acpa.org.uk/\">Certified Public Accountants Association</a></li>\n</ul>\n\n<p><a href=\"https://www.gov.uk/government/publications/independent-examination-of-charity-accounts-trustees-cc31\">Read guidance on independent examination of accounts</a>.</p>\n\n<p><a rel=\"external\" href=\"http://www.auditregister.org.uk/Forms/Default.aspx\">Find an auditor</a> using the register of statutory auditors.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-10",
+        "title": "You must prepare accruals accounts and have them checked."
+      },
+      {
+        "body": "<p>Accruals accounts include details of:</p>\n\n<ul>\n  <li>how your charity gets its money</li>\n  <li>how your charity spends money</li>\n  <li>money in your charity’s bank account</li>\n  <li>assets (things your charity owns or money it is owed)</li>\n  <li>liabilities (money your charity owes)</li>\n  <li>other important information, such as related party transactions</li>\n</ul>\n\n<p>You can choose to describe your charity’s income and expenditure using either:</p>\n\n<ul>\n  <li>categories that you’re free to decide (known as ‘natural categories’), for example donations, wages, rent</li>\n  <li>activity categories as listed in <a rel=\"external\" href=\"http://www.charitysorp.org/\">the statement of recommended practice (<abbr title=\"statement of recommended practice\">SORP</abbr>)</a>\n</li>\n</ul>\n\n<p>You can <a href=\"/government/collections/accruals-accounts-pack-cc17-sorp-frs-102\">download templates for preparing accruals accounts</a>.</p>\n\n<h2 id=\"get-your-accounts-checked\">Get your accounts checked</h2>\n\n<p>You must have your accounts audited by a statutory auditor.</p>\n\n<p><a rel=\"external\" href=\"http://www.auditregister.org.uk/Forms/Default.aspx\">Find an auditor</a> using the register of statutory auditors.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-11",
+        "title": "You must prepare accruals accounts and have them checked by an auditor."
+      },
+      {
+        "body": "<p>Accruals accounts include details of:</p>\n\n<ul>\n  <li>how your charity gets its money</li>\n  <li>how your charity spends money</li>\n  <li>money in your charity’s bank account</li>\n  <li>assets (things your charity owns or money it is owed)</li>\n  <li>liabilities (money your charity owes)</li>\n  <li>other important information, such as related party transactions</li>\n</ul>\n\n<p>You can choose to describe your charity’s income and expenditure using either:</p>\n\n<ul>\n  <li>categories that you’re free to decide (known as ‘natural categories’), for example donations, wages, rent</li>\n  <li>activity categories as listed in <a rel=\"external\" href=\"http://www.charitysorp.org/\">the statement of recommended practice (<abbr title=\"statement of recommended practice\">SORP</abbr>)</a>\n</li>\n</ul>\n\n<p>You can <a href=\"/government/collections/accruals-accounts-pack-cc17-sorp-frs-102\">download templates for preparing accruals accounts</a>.</p>\n\n<h2 id=\"get-your-accounts-checked\">Get your accounts checked</h2>\n\n<p>You must have your accounts independently examined or audited. You can choose which you do unless your governing document specifies an audit.</p>\n\n<p>If you use an independent examiner they must be a member of one of the following:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"http://www.icaew.com\">Institute of Chartered Accountants in England and Wales</a></li>\n  <li><a rel=\"external\" href=\"http://icas.org.uk\">Institute of Chartered Accountants of Scotland</a></li>\n  <li><a rel=\"external\" href=\"http://www.charteredaccountants.ie\">Institute of Chartered Accountants in Ireland</a></li>\n  <li><a rel=\"external\" href=\"https://www.acca-business.org/dom/\">Association of Chartered Certified Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.accaglobal.org.uk/en/aapa.html\">Association of Authorised Public Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.aat.org.uk\">Association of Accounting Technicians</a></li>\n  <li><a rel=\"external\" href=\"http://www.aiaworldwide.com\">Association of International Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.cimaglobal.com\">Chartered Institute of Management Accountants</a></li>\n  <li><a rel=\"external\" href=\"https://www.icsa.org.uk/\">Institute of Chartered Secretaries and Administrators</a></li>\n  <li><a rel=\"external\" href=\"http://www.cipfa.org\">Chartered Institute of Public Finance and Accountancy</a></li>\n  <li><a rel=\"external\" href=\"http://www.acie.org.uk/membership_full.htm\">Association of Charity Independent Examiners</a></li>\n  <li><a rel=\"external\" href=\"http://www.ifa.org.uk/\">Institute of Financial Accountants</a></li>\n  <li><a rel=\"external\" href=\"http://www.acpa.org.uk/\">Certified Public Accountants Association</a></li>\n</ul>\n\n<p><a href=\"https://www.gov.uk/government/publications/independent-examination-of-charity-accounts-trustees-cc31\">Read guidance on independent examination of accounts</a>.</p>\n\n<p><a rel=\"external\" href=\"http://www.auditregister.org.uk/Forms/Default.aspx\">Find an auditor</a> using the register of statutory auditors.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-12",
+        "title": "You must prepare accruals accounts and have them checked."
+      }
+    ],
+    "start_button_text": "Start now"
+  },
+  "document_type": "simple_smart_answer",
+  "first_published_at": "2014-06-03T09:49:49Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/prepare-charitys-annual-accounts",
+        "api_url": "https://www.gov.uk/api/content/prepare-charitys-annual-accounts",
+        "base_path": "/prepare-charitys-annual-accounts",
+        "content_id": "d61927bf-bae2-43df-a51b-9f7294929b38",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-11T14:51:00Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Prepare a charity's annual accounts",
+        "web_url": "https://www.gov.uk/prepare-charitys-annual-accounts",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/citizenship/charities-honours",
+        "api_url": "https://www.gov.uk/api/content/browse/citizenship/charities-honours",
+        "base_path": "/browse/citizenship/charities-honours",
+        "content_id": "7ef2c175-8a4b-4eb9-969b-304c6b9a1452",
+        "description": "Nominating someone for an honour, setting up a charity, community participation",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:46Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Charities, volunteering and honours",
+        "web_url": "https://www.gov.uk/browse/citizenship/charities-honours",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/prepare-accounts-for-our-charity",
+        "api_url": "https://www.gov.uk/api/content/needs/prepare-accounts-for-our-charity",
+        "base_path": "/needs/prepare-accounts-for-our-charity",
+        "content_id": "8cef08ed-77ee-48cc-bd7f-170b9b414660",
+        "details": {
+          "benefit": "I can submit charity accounts correctly/legally",
+          "goal": "prepare accounts for our charity",
+          "justifications": [
+            "It's something only government does",
+            "The government is legally obliged to provide it",
+            "It's inherent to a person's or an organisation's rights and obligations",
+            "It's something that people can do or it's something people need to know before they can do something that's regulated by/related to government",
+            "There is clear demand for it from users",
+            "It's something the government provides/does/pays for",
+            "It's straightforward advice that helps people to comply with their statutory obligations"
+          ],
+          "met_when": [
+            "Knows which accounting method to use",
+            "Prepares accounts",
+            "Gets the right level of scrutiny",
+            "knows the correct documents to send"
+          ],
+          "role": "Charity trustee or employee"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a Charity trustee or employee, I need to prepare accounts for our charity, so that I can submit charity accounts correctly/legally (100167)",
+        "web_url": "https://www.gov.uk/needs/prepare-accounts-for-our-charity",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/file-your-company-accounts-and-tax-return",
+        "api_url": "https://www.gov.uk/api/content/file-your-company-accounts-and-tax-return",
+        "base_path": "/file-your-company-accounts-and-tax-return",
+        "content_id": "0a8423f3-8f91-4769-85a7-f5e985e69009",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/business-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/business/business-tax",
+              "base_path": "/browse/business/business-tax",
+              "content_id": "b7d6588c-a056-47fc-9528-0b9ff42c3866",
+              "description": "Includes Corporation Tax, Capital Gains Tax, Construction Industry Scheme (CIS) and VAT",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:20Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/browse/business/business-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/business/limited-company",
+              "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+              "base_path": "/browse/business/limited-company",
+              "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+              "description": "Includes registering, setting up, company accounts and tax returns",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:30Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Running a limited company",
+              "web_url": "https://www.gov.uk/browse/business/limited-company",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-28T10:17:01Z",
+        "schema_name": "transaction",
+        "title": "File your accounts and Company Tax Return",
+        "web_url": "https://www.gov.uk/file-your-company-accounts-and-tax-return",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/file-your-confirmation-statement-with-companies-house",
+        "api_url": "https://www.gov.uk/api/content/file-your-confirmation-statement-with-companies-house",
+        "base_path": "/file-your-confirmation-statement-with-companies-house",
+        "content_id": "2bedc7e2-3142-491a-9cb4-36c7eb235af5",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/limited-company",
+              "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+              "base_path": "/browse/business/limited-company",
+              "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+              "description": "Includes registering, setting up, company accounts and tax returns",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:30Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Running a limited company",
+              "web_url": "https://www.gov.uk/browse/business/limited-company",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-12-18T16:56:42Z",
+        "schema_name": "transaction",
+        "title": "File your confirmation statement (annual return) with Companies House",
+        "web_url": "https://www.gov.uk/file-your-confirmation-statement-with-companies-house",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D98",
+        "api_path": "/api/content/government/organisations/charity-commission",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/charity-commission",
+        "base_path": "/government/organisations/charity-commission",
+        "content_id": "489e651f-34c8-4b34-bdd7-e13c2324cde3",
+        "details": {
+          "acronym": "Charity Commission",
+          "brand": null,
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5dce6f2440f0b608cddd9b92/s960_press_release_image_2018_colour.png",
+            "url": "https://assets.publishing.service.gov.uk/media/5dce6f2440f0b608ce37b5c0/s300_press_release_image_2018_colour.png"
+          },
+          "logo": {
+            "formatted_title": "Charity Commission",
+            "image": {
+              "alt_text": "The Charity Commission",
+              "url": "https://assets.publishing.service.gov.uk/media/59fa00e640f0b62eeb2ec8e4/Home_page.jpg"
+            }
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "The Charity Commission",
+        "web_url": "https://www.gov.uk/government/organisations/charity-commission",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/citizenship/charities-honours",
+        "api_url": "https://www.gov.uk/api/content/browse/citizenship/charities-honours",
+        "base_path": "/browse/citizenship/charities-honours",
+        "content_id": "7ef2c175-8a4b-4eb9-969b-304c6b9a1452",
+        "description": "Nominating someone for an honour, setting up a charity, community participation",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/citizenship",
+              "api_url": "https://www.gov.uk/api/content/browse/citizenship",
+              "base_path": "/browse/citizenship",
+              "content_id": "764a2ce0-eae5-414a-a4a9-2217507165fb",
+              "description": "Voting, community participation, life in the UK, international projects",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-04-08T10:48:44Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Citizenship and living in the UK",
+              "web_url": "https://www.gov.uk/browse/citizenship",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:46Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Charities, volunteering and honours",
+        "web_url": "https://www.gov.uk/browse/citizenship/charities-honours",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/government/publications/charity-accounting-templates-receipts-and-payments-accounts",
+        "api_url": "https://www.gov.uk/api/content/government/publications/charity-accounting-templates-receipts-and-payments-accounts",
+        "base_path": "/government/publications/charity-accounting-templates-receipts-and-payments-accounts",
+        "content_id": "5ff00abd-7631-11e4-a3cb-005056011aef",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2013-03-31T23:00:00Z",
+        "schema_name": "publication",
+        "title": "Charity accounting template: receipts and payments accounts (CC16)",
+        "web_url": "https://www.gov.uk/government/publications/charity-accounting-templates-receipts-and-payments-accounts",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/prepare-a-charity-annual-return",
+        "api_url": "https://www.gov.uk/api/content/guidance/prepare-a-charity-annual-return",
+        "base_path": "/guidance/prepare-a-charity-annual-return",
+        "content_id": "5fec94c4-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-05T08:21:17Z",
+        "schema_name": "detailed_guide",
+        "title": "Prepare a charity annual return",
+        "web_url": "https://www.gov.uk/guidance/prepare-a-charity-annual-return",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/trustees-annual-report-template",
+        "api_url": "https://www.gov.uk/api/content/government/publications/trustees-annual-report-template",
+        "base_path": "/government/publications/trustees-annual-report-template",
+        "content_id": "5ff010a2-7631-11e4-a3cb-005056011aef",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2013-03-31T23:00:00Z",
+        "schema_name": "publication",
+        "title": "Trustees' annual report template (SORP 2005)",
+        "web_url": "https://www.gov.uk/government/publications/trustees-annual-report-template",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/prepare-a-charity-trustees-annual-report",
+        "api_url": "https://www.gov.uk/api/content/guidance/prepare-a-charity-trustees-annual-report",
+        "base_path": "/guidance/prepare-a-charity-trustees-annual-report",
+        "content_id": "5feebf0e-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2013-05-09T23:00:00Z",
+        "schema_name": "detailed_guide",
+        "title": "Prepare a charity trustees' annual report",
+        "web_url": "https://www.gov.uk/guidance/prepare-a-charity-trustees-annual-report",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/charity-accounting-templates-accruals-accounts-cc17-sorp-frs-102",
+        "api_url": "https://www.gov.uk/api/content/government/publications/charity-accounting-templates-accruals-accounts-cc17-sorp-frs-102",
+        "base_path": "/government/publications/charity-accounting-templates-accruals-accounts-cc17-sorp-frs-102",
+        "content_id": "5da634b1-6488-4694-a1fe-a5b409969bd3",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-09-09T12:28:00Z",
+        "schema_name": "publication",
+        "title": "Charity accounting template: accruals accounts (CC17) - SORP FRS 102",
+        "web_url": "https://www.gov.uk/government/publications/charity-accounting-templates-accruals-accounts-cc17-sorp-frs-102",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/society-and-culture/charities-honours",
+        "api_url": "https://www.gov.uk/api/content/society-and-culture/charities-honours",
+        "base_path": "/society-and-culture/charities-honours",
+        "content_id": "0bb6e269-4c6d-432d-96b6-f2b343a7603c",
+        "details": {
+          "internal_name": "Charities, volunteering and honours [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/society-and-culture",
+              "api_url": "https://www.gov.uk/api/content/society-and-culture",
+              "base_path": "/society-and-culture",
+              "content_id": "e2ca2f1a-0ff3-43ce-b813-16645ff27904",
+              "description": "",
+              "details": {
+                "internal_name": "Society and culture",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:31:27Z",
+              "schema_name": "taxon",
+              "title": "Society and culture",
+              "web_url": "https://www.gov.uk/society-and-culture",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:12:16Z",
+        "schema_name": "taxon",
+        "title": "Charities, volunteering and honours",
+        "web_url": "https://www.gov.uk/society-and-culture/charities-honours",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/business-and-industry/running-charity-money-accounts",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/running-charity-money-accounts",
+        "base_path": "/business-and-industry/running-charity-money-accounts",
+        "content_id": "2fed9b31-6440-451f-a54b-222f06b4e64e",
+        "details": {
+          "internal_name": "Charity money, tax and accounts",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/charities-and-social-enterprises",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/charities-and-social-enterprises",
+              "base_path": "/business-and-industry/charities-and-social-enterprises",
+              "content_id": "80cb30f4-0361-49ea-ad84-bc10910318bf",
+              "details": {
+                "internal_name": "Charities and social enterprises",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                    "base_path": "/business-and-industry",
+                    "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Business and industry",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Business and industry",
+                    "web_url": "https://www.gov.uk/business-and-industry",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:05Z",
+              "schema_name": "taxon",
+              "title": "Charities and social enterprises",
+              "web_url": "https://www.gov.uk/business-and-industry/charities-and-social-enterprises",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:05Z",
+        "schema_name": "taxon",
+        "title": "Charity money, tax and accounts",
+        "web_url": "https://www.gov.uk/business-and-industry/running-charity-money-accounts",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-11-11T14:51:00Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "7106-1662462921.887-10.13.3.26-47845",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "simple_smart_answer",
+  "title": "Prepare a charity's annual accounts",
+  "updated_at": "2024-02-06T14:04:13Z",
+  "withdrawn_notice": {
+  }
+}

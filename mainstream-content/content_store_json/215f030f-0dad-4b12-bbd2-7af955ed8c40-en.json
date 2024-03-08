@@ -1,0 +1,351 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/pay-maintenance-order-online",
+  "content_id": "215f030f-0dad-4b12-bbd2-7af955ed8c40",
+  "description": "Pay a maintenance order online or by telephone using a credit or debit card",
+  "details": {
+    "body": "<p>Use this service to pay a maintenance order online.</p>\n\n<p>You need:</p>\n\n<ul>\n  <li>a debit or credit card</li>\n  <li>your account number - this is 8 numbers followed by a letter (you can find this on any letter you get from the court)</li>\n</ul>\n\n<p>You cannot use this service if any of the following apply:</p>\n\n<ul>\n  <li>your order was registered in Scotland or Northern Ireland</li>\n  <li>you’ve been ordered by the court to pay the other party directly</li>\n  <li>your case is being handled by the Child Maintenance Service or Child Support Agency (<abbr title=\"Child Support Agency\">CSA</abbr>)</li>\n</ul>\n\n<p>You can use this service to pay a maintenance order that was registered by a court in England or Wales, even if you live in another country.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/talu-gorchymyn-cynhaliaeth-ar-lein\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<p><a class=\"gem-c-button govuk-button govuk-button--start\" role=\"button\" data-module=\"govuk-button\" draggable=\"false\" href=\"https://courtfines.justice.gov.uk/courtfines/pages/preselect.do\"><span> Start now </span><svg class=\"govuk-button__start-icon govuk-!-display-none-print\" xmlns=\"http://www.w3.org/2000/svg\" width=\"17.5\" height=\"19\" viewbox=\"0 0 33 40\" focusable=\"false\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M0 0h13l20 20-20 20H0l20-20z\"></path></svg></a></p>\n\n<p>Your payment must be received on or before the date specified.</p>\n\n<h2 id=\"if-youve-lost-your-account-number\">If you’ve lost your account number</h2>\n\n<p>Contact the Maintenance Enforcement Business Centre (MEBC) if you’ve lost your account number.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There is now only one MEBC for the whole of England and Wales. MEBC Wales and MEBC London are closed.</p>\n</div>\n\n<h3 id=\"england-and-wales\">England and Wales</h3>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n  \nBury St Edmunds Maintenance Enforcement Business Centre  \n<br>Triton House     \n<br>St Andrews Street North    \n<br>Bury St Edmunds   \n<br>Suffolk   \n<br>IP33 1TR  \n<br>\n</p></div></div>\n\n<div class=\"contact\">\n<p><a href=\"mailto:mebc.bse@justice.gov.uk\">mebc.bse@justice.gov.uk</a></p>\n</div>\n\n<h2 id=\"other-ways-to-pay\">Other ways to pay</h2>\n\n<p>You can pay your maintenance order by telephone using a debit or credit card.</p>\n\n<div class=\"contact\">\n<p>HM Courts and Tribunals Service payment service<br>\nTelephone: 0300 790 9901 (English)<br>\nTelephone: 0300 790 9980 (Welsh)<br>\nMonday to Friday, 9am to 5pm <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2015-08-25T10:39:45Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/pay-maintenance-order-online",
+        "api_url": "https://www.gov.uk/api/content/pay-maintenance-order-online",
+        "base_path": "/pay-maintenance-order-online",
+        "content_id": "215f030f-0dad-4b12-bbd2-7af955ed8c40",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-06-14T10:42:47Z",
+        "schema_name": "answer",
+        "title": "Pay a maintenance order online",
+        "web_url": "https://www.gov.uk/pay-maintenance-order-online",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/pay-court-fine-online",
+        "api_url": "https://www.gov.uk/api/content/pay-court-fine-online",
+        "base_path": "/pay-court-fine-online",
+        "content_id": "6ae16c12-a554-44e2-b3e3-596375aa1b9a",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/justice/courts-sentencing-tribunals",
+              "api_url": "https://www.gov.uk/api/content/browse/justice/courts-sentencing-tribunals",
+              "base_path": "/browse/justice/courts-sentencing-tribunals",
+              "content_id": "6a7a5105-b09c-44ab-af8c-be64b20a0068",
+              "description": "Includes going to court, paying fines, appealing a sentence, jury service and tribunals",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/justice",
+                    "api_url": "https://www.gov.uk/api/content/browse/justice",
+                    "base_path": "/browse/justice",
+                    "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+                    "description": "Legal processes, courts and the police",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2022-04-06T18:09:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Crime, justice and the law",
+                    "web_url": "https://www.gov.uk/browse/justice",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:21Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Courts, tribunals and appeals",
+              "web_url": "https://www.gov.uk/browse/justice/courts-sentencing-tribunals",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-21T16:42:30Z",
+        "schema_name": "answer",
+        "title": "Pay a court fine",
+        "web_url": "https://www.gov.uk/pay-court-fine-online",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money-property-when-relationship-ends",
+        "api_url": "https://www.gov.uk/api/content/money-property-when-relationship-ends",
+        "base_path": "/money-property-when-relationship-ends",
+        "content_id": "373762a3-aa76-4bab-b59c-406cedcfaca7",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/marriage-divorce",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/marriage-divorce",
+              "base_path": "/browse/births-deaths-marriages/marriage-divorce",
+              "content_id": "a1c39054-4fd5-44e9-8d1d-0c7acd57a6a4",
+              "description": "Includes getting married abroad, decree absolutes and looking after children",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:23Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Marriage, civil partnership and divorce",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/marriage-divorce",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/capital-gains",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/capital-gains",
+              "base_path": "/browse/tax/capital-gains",
+              "content_id": "d6007553-8ed9-46bd-a5a6-de12f5e64491",
+              "description": "Tax when you sell property, shares, personal possessions and business assets",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:57Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Capital Gains Tax",
+              "web_url": "https://www.gov.uk/browse/tax/capital-gains",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-21T11:42:01Z",
+        "schema_name": "guide",
+        "title": "Money and property when you divorce or separate",
+        "web_url": "https://www.gov.uk/money-property-when-relationship-ends",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA73",
+        "api_path": "/api/content/government/organisations/hm-courts-and-tribunals-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-courts-and-tribunals-service",
+        "base_path": "/government/organisations/hm-courts-and-tribunals-service",
+        "content_id": "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+        "details": {
+          "acronym": "HMCTS",
+          "brand": "ministry-of-justice",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "HM Courts &amp; <br/>Tribunals Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Courts & Tribunals Service",
+        "web_url": "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D18",
+        "api_path": "/api/content/government/organisations/ministry-of-justice",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/ministry-of-justice",
+        "base_path": "/government/organisations/ministry-of-justice",
+        "content_id": "dcc907d6-433c-42df-9ffb-d9c68be5dc4d",
+        "details": {
+          "acronym": "MOJ",
+          "brand": "ministry-of-justice",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db21ed915d5a62fdc762/s960_ministry-of-justice.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db21e5274a7908e352d9/s300_ministry-of-justice.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Ministry<br/>of Justice"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Ministry of Justice",
+        "web_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/money-property-when-relationship-ends",
+        "api_url": "https://www.gov.uk/api/content/money-property-when-relationship-ends",
+        "base_path": "/money-property-when-relationship-ends",
+        "content_id": "373762a3-aa76-4bab-b59c-406cedcfaca7",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-21T11:42:01Z",
+        "schema_name": "guide",
+        "title": "Money and property when you divorce or separate",
+        "web_url": "https://www.gov.uk/money-property-when-relationship-ends",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/child-maintenance-if-one-parent-lives-abroad",
+        "api_url": "https://www.gov.uk/api/content/child-maintenance-if-one-parent-lives-abroad",
+        "base_path": "/child-maintenance-if-one-parent-lives-abroad",
+        "content_id": "c1e59e21-72cc-451a-9e59-1ff4fff5e07f",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-05T12:59:54Z",
+        "schema_name": "guide",
+        "title": "Child maintenance if a parent lives abroad",
+        "web_url": "https://www.gov.uk/child-maintenance-if-one-parent-lives-abroad",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry",
+        "base_path": "/business-and-industry",
+        "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+        "description": "",
+        "details": {
+          "internal_name": "Business and industry",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": true
+        },
+        "document_type": "taxon",
+        "links": {
+          "root_taxon": [
+            {
+              "api_path": "/api/content/",
+              "api_url": "https://www.gov.uk/api/content/",
+              "base_path": "/",
+              "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+              "document_type": "homepage",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-06-28T09:32:34Z",
+              "schema_name": "homepage",
+              "title": "GOV.UK homepage",
+              "web_url": "https://www.gov.uk/",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:02Z",
+        "schema_name": "taxon",
+        "title": "Business and industry",
+        "web_url": "https://www.gov.uk/business-and-industry",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-06-14T10:42:47Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1695897146.664-10.13.20.204-9356",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Pay a maintenance order online",
+  "updated_at": "2024-03-06T12:28:01Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/find-a-community-support-group-or-organisation",
+  "content_id": "f7bc5569-2c6d-4b2b-bf4a-5792cb3135b8",
+  "description": "Your local council may have details of organisations in your community that can give help and support - contact your council to find out more",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Your local council may have details of organisations in your community that can give help and support.</p>\n",
+    "lgil_code": 8,
+    "lgsl_code": 297,
+    "more_information": "\n",
+    "need_to_know": "<ul>\n  <li>Takes around 10 minutes</li>\n  <li>Available in England and Wales only</li>\n</ul>\n",
+    "service_tiers": [
+      "district",
+      "unitary",
+      "county"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2011-09-16T15:55:43Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/find-a-community-support-group-or-organisation",
+        "api_url": "https://www.gov.uk/api/content/find-a-community-support-group-or-organisation",
+        "base_path": "/find-a-community-support-group-or-organisation",
+        "content_id": "f7bc5569-2c6d-4b2b-bf4a-5792cb3135b8",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:26:44Z",
+        "schema_name": "local_transaction",
+        "title": "Find a community support group or organisation",
+        "web_url": "https://www.gov.uk/find-a-community-support-group-or-organisation",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/apply-funding-community-project",
+        "api_url": "https://www.gov.uk/api/content/apply-funding-community-project",
+        "base_path": "/apply-funding-community-project",
+        "content_id": "d6447bf7-1ddb-48e0-91ca-f47a47997c3b",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/local-councils",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+              "base_path": "/browse/housing-local-services/local-councils",
+              "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+              "description": "Find and access local services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Local councils and services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/citizenship/charities-honours",
+              "api_url": "https://www.gov.uk/api/content/browse/citizenship/charities-honours",
+              "base_path": "/browse/citizenship/charities-honours",
+              "content_id": "7ef2c175-8a4b-4eb9-969b-304c6b9a1452",
+              "description": "Nominating someone for an honour, setting up a charity, community participation",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/citizenship",
+                    "api_url": "https://www.gov.uk/api/content/browse/citizenship",
+                    "base_path": "/browse/citizenship",
+                    "content_id": "764a2ce0-eae5-414a-a4a9-2217507165fb",
+                    "description": "Voting, community participation, life in the UK, international projects",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:44Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Citizenship and living in the UK",
+                    "web_url": "https://www.gov.uk/browse/citizenship",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:46Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Charities, volunteering and honours",
+              "web_url": "https://www.gov.uk/browse/citizenship/charities-honours",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:19Z",
+        "schema_name": "local_transaction",
+        "title": "Apply for funding for community projects",
+        "web_url": "https://www.gov.uk/apply-funding-community-project",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1342",
+        "api_path": "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "base_path": "/government/organisations/department-for-levelling-up-housing-and-communities",
+        "content_id": "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+        "details": {
+          "acronym": "DLUHC",
+          "brand": "department-for-levelling-up-housing-and-communities",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for Levelling Up,<br/>Housing &amp; Communities"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Levelling Up, Housing and Communities ",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/housing-local-services",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+              "base_path": "/browse/housing-local-services",
+              "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+              "description": "Owning or renting and council services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Housing and local services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/apply-funding-community-project",
+        "api_url": "https://www.gov.uk/api/content/apply-funding-community-project",
+        "base_path": "/apply-funding-community-project",
+        "content_id": "d6447bf7-1ddb-48e0-91ca-f47a47997c3b",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:19Z",
+        "schema_name": "local_transaction",
+        "title": "Apply for funding for community projects",
+        "web_url": "https://www.gov.uk/apply-funding-community-project",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/financial-help-disabled",
+        "api_url": "https://www.gov.uk/api/content/financial-help-disabled",
+        "base_path": "/financial-help-disabled",
+        "content_id": "d1d66f56-3a29-449c-9639-787f02a576e1",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-11T16:09:53Z",
+        "schema_name": "guide",
+        "title": "Financial help if you're disabled",
+        "web_url": "https://www.gov.uk/financial-help-disabled",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pip",
+        "api_url": "https://www.gov.uk/api/content/pip",
+        "base_path": "/pip",
+        "content_id": "56ffb2a7-f45f-4e6c-bbfe-3d898a3358d8",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-09T14:46:50Z",
+        "schema_name": "guide",
+        "title": "Personal Independence Payment (PIP)",
+        "web_url": "https://www.gov.uk/pip",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/dla-disability-living-allowance-benefit",
+        "api_url": "https://www.gov.uk/api/content/dla-disability-living-allowance-benefit",
+        "base_path": "/dla-disability-living-allowance-benefit",
+        "content_id": "d1ff0616-4efa-42cd-b8a2-273e72fcde1b",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-18T10:41:52Z",
+        "schema_name": "guide",
+        "title": "Disability Living Allowance (DLA) for adults",
+        "web_url": "https://www.gov.uk/dla-disability-living-allowance-benefit",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/support-group-for-children-young-people-families",
+        "api_url": "https://www.gov.uk/api/content/support-group-for-children-young-people-families",
+        "base_path": "/support-group-for-children-young-people-families",
+        "content_id": "db0039b0-fdf9-44b0-a2b5-caa0da8843a7",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-10-04T14:46:59Z",
+        "schema_name": "local_transaction",
+        "title": "Find a local support group for children, young people and families",
+        "web_url": "https://www.gov.uk/support-group-for-children-young-people-families",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/regional-and-local-government/local-councils",
+        "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-councils",
+        "base_path": "/regional-and-local-government/local-councils",
+        "content_id": "15191831-40b4-4f6e-ade3-e82d7c775afd",
+        "details": {
+          "internal_name": "Local councils and services [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/regional-and-local-government",
+              "api_url": "https://www.gov.uk/api/content/regional-and-local-government",
+              "base_path": "/regional-and-local-government",
+              "content_id": "503c5bc7-809a-47b9-83e2-bd0c212dbabb",
+              "description": "",
+              "details": {
+                "internal_name": "Regional and local government",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:30:05Z",
+              "schema_name": "taxon",
+              "title": "Regional and local government",
+              "web_url": "https://www.gov.uk/regional-and-local-government",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:09:40Z",
+        "schema_name": "taxon",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/regional-and-local-government/local-councils",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-05-02T16:26:44Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "3592-1504182736.062-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Find a community support group or organisation",
+  "updated_at": "2024-03-01T16:02:44Z",
+  "withdrawn_notice": {
+  }
+}

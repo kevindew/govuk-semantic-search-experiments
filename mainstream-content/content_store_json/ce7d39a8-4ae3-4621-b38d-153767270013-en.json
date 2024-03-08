@@ -1,0 +1,382 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-immigration-status",
+  "content_id": "ce7d39a8-4ae3-4621-b38d-153767270013",
+  "description": "Check someone's immigration status, and that they can access services like the NHS and benefits in the UK",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Use this service to check someone’s immigration status if you have their ‘share code’.</p>\n\n<p>The share code will have been emailed to you or given to you by the person whose status you’re checking. It expires after 90 days. You will also need the person’s date of birth.</p>\n\n<p>The service will show if they have the right to live in the UK, and any restrictions on their rights or access to benefits and services.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Use a different service to <a href=\"/view-right-to-work\">check someone’s right to work</a> or to <a href=\"/view-right-to-rent\">check their right to rent</a>. </p>\n</div>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://view-immigration-status.service.gov.uk/view/checker-details",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2019-09-30T10:30:05Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-immigration-status",
+        "api_url": "https://www.gov.uk/api/content/check-immigration-status",
+        "base_path": "/check-immigration-status",
+        "content_id": "ce7d39a8-4ae3-4621-b38d-153767270013",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-11-21T14:44:39Z",
+        "schema_name": "transaction",
+        "title": "Check someone's immigration status: use their share code",
+        "web_url": "https://www.gov.uk/check-immigration-status",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/guidance-for-schools-during-the-transition-period-and-after-1-january-2021",
+        "api_url": "https://www.gov.uk/api/content/government/collections/guidance-for-schools-during-the-transition-period-and-after-1-january-2021",
+        "base_path": "/government/collections/guidance-for-schools-during-the-transition-period-and-after-1-january-2021",
+        "content_id": "804eed2f-840c-4ad5-92f7-fa69f1039a4b",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/check-immigration-status",
+              "api_url": "https://www.gov.uk/api/content/check-immigration-status",
+              "base_path": "/check-immigration-status",
+              "content_id": "ce7d39a8-4ae3-4621-b38d-153767270013",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2019-11-21T14:44:39Z",
+              "schema_name": "transaction",
+              "title": "Check someone's immigration status: use their share code",
+              "web_url": "https://www.gov.uk/check-immigration-status",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-11-17T15:00:28Z",
+        "schema_name": "document_collection",
+        "title": "The schools sector and the EU",
+        "web_url": "https://www.gov.uk/government/collections/guidance-for-schools-during-the-transition-period-and-after-1-january-2021",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/collections/guidance-for-local-authority-childrens-services-during-the-transition-period-and-after-1-january-2021",
+        "api_url": "https://www.gov.uk/api/content/government/collections/guidance-for-local-authority-childrens-services-during-the-transition-period-and-after-1-january-2021",
+        "base_path": "/government/collections/guidance-for-local-authority-childrens-services-during-the-transition-period-and-after-1-january-2021",
+        "content_id": "b03e74af-13a1-4db1-bf49-de024cad02af",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/check-immigration-status",
+              "api_url": "https://www.gov.uk/api/content/check-immigration-status",
+              "base_path": "/check-immigration-status",
+              "content_id": "ce7d39a8-4ae3-4621-b38d-153767270013",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2019-11-21T14:44:39Z",
+              "schema_name": "transaction",
+              "title": "Check someone's immigration status: use their share code",
+              "web_url": "https://www.gov.uk/check-immigration-status",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-11-17T15:00:35Z",
+        "schema_name": "document_collection",
+        "title": "Local authority children's services and the EU",
+        "web_url": "https://www.gov.uk/government/collections/guidance-for-local-authority-childrens-services-during-the-transition-period-and-after-1-january-2021",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/collections/guidance-for-higher-education-providers-during-the-transition-period-and-after-1-january-2021",
+        "api_url": "https://www.gov.uk/api/content/government/collections/guidance-for-higher-education-providers-during-the-transition-period-and-after-1-january-2021",
+        "base_path": "/government/collections/guidance-for-higher-education-providers-during-the-transition-period-and-after-1-january-2021",
+        "content_id": "2447a975-b42d-42be-940f-73d09f9ea44c",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/check-immigration-status",
+              "api_url": "https://www.gov.uk/api/content/check-immigration-status",
+              "base_path": "/check-immigration-status",
+              "content_id": "ce7d39a8-4ae3-4621-b38d-153767270013",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2019-11-21T14:44:39Z",
+              "schema_name": "transaction",
+              "title": "Check someone's immigration status: use their share code",
+              "web_url": "https://www.gov.uk/check-immigration-status",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-12-21T17:54:44Z",
+        "schema_name": "document_collection",
+        "title": "The higher education sector and the EU",
+        "web_url": "https://www.gov.uk/government/collections/guidance-for-higher-education-providers-during-the-transition-period-and-after-1-january-2021",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/collections/guidance-for-providers-of-further-education-and-apprenticeships-during-the-transition-period-and-after-1-january-2021",
+        "api_url": "https://www.gov.uk/api/content/government/collections/guidance-for-providers-of-further-education-and-apprenticeships-during-the-transition-period-and-after-1-january-2021",
+        "base_path": "/government/collections/guidance-for-providers-of-further-education-and-apprenticeships-during-the-transition-period-and-after-1-january-2021",
+        "content_id": "c9a28412-be92-426a-b15e-983b9c97a591",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/check-immigration-status",
+              "api_url": "https://www.gov.uk/api/content/check-immigration-status",
+              "base_path": "/check-immigration-status",
+              "content_id": "ce7d39a8-4ae3-4621-b38d-153767270013",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2019-11-21T14:44:39Z",
+              "schema_name": "transaction",
+              "title": "Check someone's immigration status: use their share code",
+              "web_url": "https://www.gov.uk/check-immigration-status",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2021-10-25T10:58:57Z",
+        "schema_name": "document_collection",
+        "title": "Further education and apprenticeships and the EU",
+        "web_url": "https://www.gov.uk/government/collections/guidance-for-providers-of-further-education-and-apprenticeships-during-the-transition-period-and-after-1-january-2021",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/visas-immigration/what-you-need-to-do",
+        "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+        "base_path": "/browse/visas-immigration/what-you-need-to-do",
+        "content_id": "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+        "description": "Check if you need a UK visa, how to apply, sign in, manage your application, biometric residence permits (BRPs), share codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T12:05:51Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "What you need to do",
+        "web_url": "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/check-job-applicant-right-to-work",
+        "api_url": "https://www.gov.uk/api/content/check-job-applicant-right-to-work",
+        "base_path": "/check-job-applicant-right-to-work",
+        "content_id": "63fe19b5-bbcd-4712-9250-a1cd3125c470",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/recruiting-hiring",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/recruiting-hiring",
+              "base_path": "/browse/employing-people/recruiting-hiring",
+              "content_id": "18316184-f6ff-4581-a487-83935a490074",
+              "description": "Advertise a job, Disclosure and Barring (DBS) checks, right to work checks, discrimination law and apprenticeships",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-08-03T13:11:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Recruiting and hiring",
+              "web_url": "https://www.gov.uk/browse/employing-people/recruiting-hiring",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/visas-immigration/work-visas",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/work-visas",
+              "base_path": "/browse/visas-immigration/work-visas",
+              "content_id": "4ab4764d-d9ce-425f-a8cc-aaba4a38be09",
+              "description": "Skilled Worker visa, Graduate visa, other work visas, right to work",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-13T12:27:58Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Work in the UK",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/work-visas",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-24T15:40:43Z",
+        "schema_name": "answer",
+        "title": "Checking a job applicant's right to work",
+        "web_url": "https://www.gov.uk/check-job-applicant-right-to-work",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D16",
+        "api_path": "/api/content/government/organisations/home-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/home-office",
+        "base_path": "/government/organisations/home-office",
+        "content_id": "06056197-bc69-4147-aa28-070bca132178",
+        "details": {
+          "acronym": "Home Office",
+          "brand": "home-office",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db3ce5274a7908e3530c/s960_home-office.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db3c40f0b649cceb18de/s300_home-office.jpg"
+          },
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "Home Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Home Office",
+        "web_url": "https://www.gov.uk/government/organisations/home-office",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "OT554",
+        "api_path": "/api/content/government/organisations/uk-visas-and-immigration",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/uk-visas-and-immigration",
+        "base_path": "/government/organisations/uk-visas-and-immigration",
+        "content_id": "04148522-b0c1-4137-b687-5f3c3bdd561a",
+        "details": {
+          "acronym": "UKVI",
+          "brand": "home-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "UK Visas and Immigration"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "UK Visas and Immigration",
+        "web_url": "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2019-11-21T14:44:39Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "30969-1667320284.770-10.13.1.173-8214",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Check someone's immigration status: use their share code",
+  "updated_at": "2024-03-07T11:17:36Z",
+  "withdrawn_notice": {
+  }
+}

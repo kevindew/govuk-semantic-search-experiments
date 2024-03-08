@@ -1,0 +1,367 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/correct-employee-overpaid-ni",
+  "content_id": "2e55e671-15f0-4eec-af15-b93f2e5b6f2f",
+  "description": "Fix a National Insurance contribution payment if you paid an employee the wrong amount after 6 November 2022.",
+  "details": {
+    "body": "<p>National Insurance rates changed on 6 November 2022. As a result, you might need to make a correction to National Insurance contributions.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This tool is also available <a href=\"/cywiro-cyg-a-ordalwyd-gan-gyflogai\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<p>You can use this tool if you’re an employer and both of the following are true:</p>\n\n<ul>\n  <li>you paid your employee on or after 6 November 2022</li>\n  <li>your payroll software had not updated to use the new <a href=\"/national-insurance-rates-letters\">National Insurance rate</a> when you made the payment</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Find out <a href=\"/payroll-errors\">how to fix another type of payroll problem</a>.</p>\n</div>\n",
+    "external_related_links": [
+
+    ],
+    "nodes": [
+      {
+        "body": "<p>You can usually amend an incorrect National Insurance contribution payment calculation in your next regular Full Payment Submission (FPS).</p>\n\n<p>In some cases, you might not be able to send a revised FPS. For example, if you’ve gone bankrupt or if the employee has left and you do not have their details.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes, I can submit a revised FPS",
+            "next_node": "question-2",
+            "slug": "yes-i-can-submit-a-revised-fps"
+          },
+          {
+            "label": "No, I cannot submit a revised FPS",
+            "next_node": "question-3",
+            "slug": "no-i-cannot-submit-a-revised-fps"
+          }
+        ],
+        "slug": "question-1",
+        "title": "Can you submit a revised Full Payment Submission?"
+      },
+      {
+        "body": "<p>After you’ve submitted a revised Full Payment Submission (FPS), you need to refund your employee any National Insurance contributions they overpaid.</p>\n\n<p>In some cases, you might not be able to refund an employee. For example, if they no longer work for you.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes, I can refund my employee",
+            "next_node": "outcome-1",
+            "slug": "yes-i-can-refund-my-employee"
+          },
+          {
+            "label": "No, I cannot refund my employee",
+            "next_node": "outcome-2",
+            "slug": "no-i-cannot-refund-my-employee"
+          }
+        ],
+        "slug": "question-2",
+        "title": "Can you refund any overpayments?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "30 or more employees",
+            "next_node": "outcome-3",
+            "slug": "30-or-more-employees"
+          },
+          {
+            "label": "Fewer than 30 employees",
+            "next_node": "outcome-4",
+            "slug": "fewer-than-30-employees"
+          }
+        ],
+        "slug": "question-3",
+        "title": "How many employees are you making a correction for?"
+      },
+      {
+        "body": "<p>To fix incorrect payments you should:</p>\n\n<ol class=\"steps\">\n<li>\n<p>Work out the correct National Insurance contributions for any payments made between 6 November and the date when your software was updated.</p>\n</li>\n<li>\n<p>Either report the correct figures on your next <a href=\"/running-payroll/reporting-to-hmrc\">Full Payment Submission (FPS)</a> or send an additional FPS before your next regular FPS is due. Do not resubmit individual payments.</p>\n</li>\n</ol>\n<p>Refund any overpayments of National Insurance contributions to your employee with their next pay.</p>\n\n<h2 id=\"sending-an-additional-fps\">Sending an additional FPS</h2>\n\n<p>To do this, you need to:</p>\n\n<ul>\n  <li>update the ‘this pay period’ figures with the difference between what you originally reported and the correct figures</li>\n  <li>correct the year-to-date figures</li>\n  <li>use the same payment date as the original FPS</li>\n  <li>put the same pay frequency as the original FPS</li>\n  <li>put ‘H - Correction to earlier submission’ in the ‘Late reporting reason’ field</li>\n</ul>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-1",
+        "title": "Submit an FPS and refund overpayments"
+      },
+      {
+        "body": "<p>To fix incorrect payments you should:</p>\n\n<ol class=\"steps\">\n<li>\n<p>Work out the correct National Insurance contributions for any payments made between 6 November and the date when your software was updated.</p>\n</li>\n<li>\n<p>Either report the correct figures on your next <a href=\"/running-payroll/reporting-to-hmrc\">Full Payment Submission (FPS)</a> or send an additional FPS before your next regular FPS is due. Do not resubmit individual payments.</p>\n</li>\n</ol>\n\n<h2 id=\"sending-an-additional-fps\">Sending an additional FPS</h2>\n\n<p>To do this, you need to:</p>\n\n<ul>\n  <li>update the ‘this pay period’ figures with the difference between what you originally reported and the correct figures</li>\n  <li>correct the year-to-date figures</li>\n  <li>use the same payment date as the original FPS</li>\n  <li>put the same pay frequency as the original FPS</li>\n  <li>put ‘H - Correction to earlier submission’ in the ‘Late reporting reason’ field</li>\n</ul>\n\n<h2 id=\"refund-the-overpayment-to-your-employee\">Refund the overpayment to your employee</h2>\n\n<p>You’ll need to write to HMRC.</p>\n\n<p>In the letter, include:</p>\n\n<ul>\n  <li>the reference ‘NILEVY061122’</li>\n  <li>the name, date of birth and National Insurance number for each employee</li>\n  <li>that your application is for a refund of National Insurance contributions due to the National Insurance rate change</li>\n  <li>why you cannot submit a revised Full Payment Submission (FPS)</li>\n  <li>which tax years you overpaid in</li>\n  <li>how much National Insurance you overpaid</li>\n  <li>why you cannot make the payment to the employee</li>\n</ul>\n\n<p>For a claim for one employee, send the letter to:</p>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nHM Revenue and Customs   \n<br>National Insurance Contributions and Employer Office   \n<br>BX9 1AN  \n<br>\n</p></div></div>\n\n<p>For a claim for 2 or more employees, send the letter to:</p>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n  \nHM Revenue and Customs   \n<br>National Insurance Contributions and Employer Office   \n<br>BX9 1BX  \n<br>\n</p></div></div>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-2",
+        "title": "Submit an FPS and write to HMRC"
+      },
+      {
+        "body": "<p>You need to write to HMRC.</p>\n\n<p>In the letter, include:</p>\n\n<ul>\n  <li>the reference ‘NILEVY061122’</li>\n  <li>the name, date of birth and National Insurance number for each employee</li>\n  <li>that your application is for a refund of National Insurance contributions due to the National Insurance rate change</li>\n  <li>why you cannot submit a revised Full Payment Submission (FPS)</li>\n</ul>\n\n<p>Send the letter to:</p>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nHM Revenue and Customs   \n<br>National Insurance Contributions and Employer Office   \n<br>BX9 1BX\n<br>\n</p></div></div>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-3",
+        "title": "Make a correction for 30 or more employees"
+      },
+      {
+        "body": "<p>You can submit a correction form. You’ll need a Government Gateway ID.</p>\n\n<p><a class=\"gem-c-button govuk-button govuk-button--start\" role=\"button\" data-module=\"govuk-button\" draggable=\"false\" href=\"https://www.tax.service.gov.uk/submissions/new-form/ask-hmrc-to-check-if-you-have-declared-too-much-national-insurance-contributions-in-2022-2023\"><span> Start now </span><svg class=\"govuk-button__start-icon govuk-!-display-none-print\" xmlns=\"http://www.w3.org/2000/svg\" width=\"17.5\" height=\"19\" viewbox=\"0 0 33 40\" focusable=\"false\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M0 0h13l20 20-20 20H0l20-20z\"></path></svg></a></p>\n\n<h2 id=\"after-you-submit-your-application\">After you submit your application</h2>\n\n<p>HMRC will write to you and tell you what to do next.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-4",
+        "title": "Make a correction for fewer than 30 employees"
+      }
+    ],
+    "start_button_text": "Start now"
+  },
+  "document_type": "simple_smart_answer",
+  "first_published_at": "2023-05-04T23:01:01Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/correct-employee-overpaid-ni",
+        "api_url": "https://www.gov.uk/api/content/correct-employee-overpaid-ni",
+        "base_path": "/correct-employee-overpaid-ni",
+        "content_id": "2e55e671-15f0-4eec-af15-b93f2e5b6f2f",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-05-11T10:31:27Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Correct an employee’s overpaid National Insurance contributions",
+        "web_url": "https://www.gov.uk/correct-employee-overpaid-ni",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/employing-people/payroll",
+        "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+        "base_path": "/browse/employing-people/payroll",
+        "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+        "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:57:08Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Payroll",
+        "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/employing-people/payroll",
+        "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+        "base_path": "/browse/employing-people/payroll",
+        "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+        "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/employing-people",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+              "base_path": "/browse/employing-people",
+              "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+              "description": "Includes pay, contracts, hiring and redundancies",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-07-09T12:54:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Employing people",
+              "web_url": "https://www.gov.uk/browse/employing-people",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:57:08Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Payroll",
+        "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/payroll",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/payroll",
+        "base_path": "/business-and-industry/payroll",
+        "content_id": "2f4d2d6b-e023-4933-bfdf-a23537783f20",
+        "details": {
+          "internal_name": "Payroll",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/employing-people",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/employing-people",
+              "base_path": "/business-and-industry/employing-people",
+              "content_id": "35f5b496-add7-4263-8084-8510461881fe",
+              "details": {
+                "internal_name": "Employing people",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry/running-a-business",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+                    "base_path": "/business-and-industry/running-a-business",
+                    "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+                    "details": {
+                      "internal_name": "Running a business",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/business-and-industry",
+                          "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                          "base_path": "/business-and-industry",
+                          "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Business and industry",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-03T15:41:02Z",
+                          "schema_name": "taxon",
+                          "title": "Business and industry",
+                          "web_url": "https://www.gov.uk/business-and-industry",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Running a business",
+                    "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Employing people",
+              "web_url": "https://www.gov.uk/business-and-industry/employing-people",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:03Z",
+        "schema_name": "taxon",
+        "title": "Payroll",
+        "web_url": "https://www.gov.uk/business-and-industry/payroll",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2023-05-11T10:31:27Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1687859342.504-10.13.21.62-17923",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "simple_smart_answer",
+  "title": "Correct an employee’s overpaid National Insurance contributions",
+  "updated_at": "2024-01-03T10:43:44Z",
+  "withdrawn_notice": {
+  }
+}

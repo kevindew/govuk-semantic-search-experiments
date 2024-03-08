@@ -1,0 +1,166 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/find-gender-pay-gap-data",
+  "content_id": "95762c4b-0c83-4fc9-a720-c853aa60fc78",
+  "description": "Search gender pay gap data for organisations in the UK, and download data by organisation size or business sector  ",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Use this service to find gender pay gap data for organisations in the UK.</p>\n\n<p>The gender pay gap is the average difference between how much men and women are paid in an organisation.</p>\n\n<p>You can find and compare:</p>\n\n<ul>\n  <li>the average difference between men and women’s hourly and bonus pay</li>\n  <li>the percentage of men and women in the highest, middle and lowest pay groups in a company</li>\n</ul>\n\n<p>You can also download data by organisation size or business sector.</p>\n\n<p>Only companies with more than 250 employees have to declare their gender pay gap data.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p><a href=\"https://www.gov.uk/guidance/gender-pay-gap-reporting-overview\">Find out if you need to report your company’s data</a>.</p>\n</div>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://gender-pay-gap.service.gov.uk/",
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2018-04-03T12:59:06Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/find-gender-pay-gap-data",
+        "api_url": "https://www.gov.uk/api/content/find-gender-pay-gap-data",
+        "base_path": "/find-gender-pay-gap-data",
+        "content_id": "95762c4b-0c83-4fc9-a720-c853aa60fc78",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-04-03T12:58:40Z",
+        "schema_name": "transaction",
+        "title": "Find and compare gender pay gap data",
+        "web_url": "https://www.gov.uk/find-gender-pay-gap-data",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/working/contract-working-hours",
+        "api_url": "https://www.gov.uk/api/content/browse/working/contract-working-hours",
+        "base_path": "/browse/working/contract-working-hours",
+        "content_id": "6b2f82a9-17c6-4a26-9c8a-9b4b10234891",
+        "description": "Includes employment status, workers' rights and changes to contracts",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:42Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Your contract and working hours",
+        "web_url": "https://www.gov.uk/browse/working/contract-working-hours",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "OT506",
+        "api_path": "/api/content/government/organisations/government-equalities-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-equalities-office",
+        "base_path": "/government/organisations/government-equalities-office",
+        "content_id": "3df55660-43a9-4494-8146-a0a492a975b6",
+        "details": {
+          "acronym": "GEO",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government<br/>Equalities Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Equalities Office",
+        "web_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/working/contract-working-hours",
+        "api_url": "https://www.gov.uk/api/content/browse/working/contract-working-hours",
+        "base_path": "/browse/working/contract-working-hours",
+        "content_id": "6b2f82a9-17c6-4a26-9c8a-9b4b10234891",
+        "description": "Includes employment status, workers' rights and changes to contracts",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/working",
+              "api_url": "https://www.gov.uk/api/content/browse/working",
+              "base_path": "/browse/working",
+              "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+              "description": "Includes holidays, finding a job and redundancy",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-07-09T12:54:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/browse/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:42Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Your contract and working hours",
+        "web_url": "https://www.gov.uk/browse/working/contract-working-hours",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2018-04-03T12:58:40Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "11927-1522760344.930-213.86.153.212-7254",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Find and compare gender pay gap data",
+  "updated_at": "2023-12-18T08:18:41Z",
+  "withdrawn_notice": {
+  }
+}

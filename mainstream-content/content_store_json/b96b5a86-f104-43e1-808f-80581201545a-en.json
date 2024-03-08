@@ -1,0 +1,500 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/expenses-and-benefits-works-bus-services",
+  "content_id": "b96b5a86-f104-43e1-808f-80581201545a",
+  "description": "Tax and reporting rules for employers providing works bus services",
+  "details": {
+    "body": "<p>As an employer, you don’t have to report the cost of providing a bus to bring your employees to work. You don’t pay tax or National Insurance on these costs.</p>\n\n<p>The bus must be for journeys:</p>\n\n<ul>\n  <li>between home and work</li>\n  <li>from one workplace to another</li>\n  <li>from work to shops or other local amenities (no more than 10 miles away)</li>\n</ul>\n\n<p>The service must be:</p>\n\n<ul>\n  <li>available to all your employees, whether or not they use it</li>\n  <li>used almost entirely by employees and their children</li>\n  <li>a bus that can carry 12 or more passengers, or a minibus that can carry 9 or more passengers</li>\n</ul>\n\n<h2 id=\"salary-sacrifice-arrangements\">Salary sacrifice arrangements</h2>\n\n<p>If you provide the bus service as part of a salary sacrifice arrangement it won’t be exempt. You’ll need to report on <a href=\"https://www.gov.uk/employer-reporting-expenses-benefits/reporting-and-paying\">form P11D</a> whichever amount is higher:</p>\n\n<ul>\n  <li>the salary given up</li>\n  <li>how much you paid for the bus service</li>\n</ul>\n\n<p>These rules don’t apply to arrangements made before 6 April 2017 - check <a href=\"/guidance/salary-sacrifice-and-the-effects-on-paye\">when the rules will change</a>.</p>\n\n<h2 id=\"technical-guidance\">Technical guidance</h2>\n\n<p>Read more detailed information on <a rel=\"external\" href=\"http://www.hmrc.gov.uk/manuals/eimanual/eim21850.htm\">exemption for works buses.</a></p>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-10-04T16:27:48Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/expenses-and-benefits-works-bus-services",
+        "api_url": "https://www.gov.uk/api/content/expenses-and-benefits-works-bus-services",
+        "base_path": "/expenses-and-benefits-works-bus-services",
+        "content_id": "b96b5a86-f104-43e1-808f-80581201545a",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-08-11T15:40:19Z",
+        "schema_name": "answer",
+        "title": "Expenses and benefits: works bus services",
+        "web_url": "https://www.gov.uk/expenses-and-benefits-works-bus-services",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/report-certain-expenses-and-benefits-to-hmrc",
+        "api_url": "https://www.gov.uk/api/content/needs/report-certain-expenses-and-benefits-to-hmrc",
+        "base_path": "/needs/report-certain-expenses-and-benefits-to-hmrc",
+        "content_id": "a61b0966-4798-4d92-a56f-3d92cd2ad862",
+        "details": {
+          "benefit": "I pay the appropriate tax and National Insurance",
+          "goal": "report certain expenses and benefits to HMRC",
+          "justifications": null,
+          "met_when": null,
+          "role": "someone who provides employee benefits and pays their business expenses or as a company director with expenses and benefits"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a someone who provides employee benefits and pays their business expenses or as a company director with expenses and benefits, I need to report certain expenses and benefits to HMRC, so that I pay the appropriate tax and National Insurance (102282)",
+        "web_url": "https://www.gov.uk/needs/report-certain-expenses-and-benefits-to-hmrc",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/employer-reporting-expenses-benefits",
+        "api_url": "https://www.gov.uk/api/content/employer-reporting-expenses-benefits",
+        "base_path": "/employer-reporting-expenses-benefits",
+        "content_id": "6d40aebf-c225-4d3c-a751-fa8f543e27b8",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/expenses-employee-benefits",
+              "api_url": "https://www.gov.uk/api/content/browse/business/expenses-employee-benefits",
+              "base_path": "/browse/business/expenses-employee-benefits",
+              "content_id": "0d72ae71-5930-43ae-89ea-7cf4cee5b122",
+              "description": "Includes company cars and paying tax on employee benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:29Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Expenses and employee benefits",
+              "web_url": "https://www.gov.uk/browse/business/expenses-employee-benefits",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/employing-people/payroll",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+              "base_path": "/browse/employing-people/payroll",
+              "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+              "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:57:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Payroll",
+              "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-28T09:37:42Z",
+        "schema_name": "guide",
+        "title": "Expenses and benefits for employers",
+        "web_url": "https://www.gov.uk/employer-reporting-expenses-benefits",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/running-payroll",
+        "api_url": "https://www.gov.uk/api/content/running-payroll",
+        "base_path": "/running-payroll",
+        "content_id": "88309f75-af24-42e9-b30d-e36157cf918b",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/payroll",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+              "base_path": "/browse/employing-people/payroll",
+              "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+              "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:57:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Payroll",
+              "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-29T13:39:14Z",
+        "schema_name": "guide",
+        "title": "Running payroll",
+        "web_url": "https://www.gov.uk/running-payroll",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/hmrc-internal-manuals/employment-income-manual",
+        "api_url": "https://www.gov.uk/api/content/hmrc-internal-manuals/employment-income-manual",
+        "base_path": "/hmrc-internal-manuals/employment-income-manual",
+        "content_id": "2f85e33a-3f79-52e8-b7f8-75b38958e568",
+        "document_type": "hmrc_manual",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-29T13:52:39Z",
+        "schema_name": "hmrc_manual",
+        "title": "Employment Income Manual",
+        "web_url": "https://www.gov.uk/hmrc-internal-manuals/employment-income-manual",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/expenses-and-benefits-public-transport",
+        "api_url": "https://www.gov.uk/api/content/expenses-and-benefits-public-transport",
+        "base_path": "/expenses-and-benefits-public-transport",
+        "content_id": "1763a293-1940-4cd0-826c-e2c60b3e9104",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-07-08T16:47:53Z",
+        "schema_name": "guide",
+        "title": "Expenses and benefits: public transport",
+        "web_url": "https://www.gov.uk/expenses-and-benefits-public-transport",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employer-reporting-expenses-benefits",
+        "api_url": "https://www.gov.uk/api/content/employer-reporting-expenses-benefits",
+        "base_path": "/employer-reporting-expenses-benefits",
+        "content_id": "6d40aebf-c225-4d3c-a751-fa8f543e27b8",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-28T09:37:42Z",
+        "schema_name": "guide",
+        "title": "Expenses and benefits for employers",
+        "web_url": "https://www.gov.uk/employer-reporting-expenses-benefits",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/expenses-benefits-items-for-disabled-employees",
+        "api_url": "https://www.gov.uk/api/content/expenses-benefits-items-for-disabled-employees",
+        "base_path": "/expenses-benefits-items-for-disabled-employees",
+        "content_id": "c1244d0a-c871-4705-915c-eb734e9cb3f1",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-08-15T09:16:36Z",
+        "schema_name": "answer",
+        "title": "Expenses and benefits: items for disabled employees",
+        "web_url": "https://www.gov.uk/expenses-benefits-items-for-disabled-employees",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/expenses-and-benefits-homeworking",
+        "api_url": "https://www.gov.uk/api/content/expenses-and-benefits-homeworking",
+        "base_path": "/expenses-and-benefits-homeworking",
+        "content_id": "8789f4d1-faf7-42bb-9a10-9fea7b5b05c0",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-24T16:29:18Z",
+        "schema_name": "guide",
+        "title": "Expenses and benefits: homeworking",
+        "web_url": "https://www.gov.uk/expenses-and-benefits-homeworking",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/regional-and-local-government/local-government",
+        "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-government",
+        "base_path": "/regional-and-local-government/local-government",
+        "content_id": "c914fd40-dd0a-45c4-a6ff-bce0cda31bde",
+        "details": {
+          "internal_name": "Local government (merged, Level 2)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/regional-and-local-government",
+              "api_url": "https://www.gov.uk/api/content/regional-and-local-government",
+              "base_path": "/regional-and-local-government",
+              "content_id": "503c5bc7-809a-47b9-83e2-bd0c212dbabb",
+              "description": "",
+              "details": {
+                "internal_name": "Regional and local government",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:30:05Z",
+              "schema_name": "taxon",
+              "title": "Regional and local government",
+              "web_url": "https://www.gov.uk/regional-and-local-government",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:09:38Z",
+        "schema_name": "taxon",
+        "title": "Local government",
+        "web_url": "https://www.gov.uk/regional-and-local-government/local-government",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/transport/buses",
+        "api_url": "https://www.gov.uk/api/content/transport/buses",
+        "base_path": "/transport/buses",
+        "content_id": "5c76ad4e-4b4d-4f72-a6ef-b277b31b98a1",
+        "description": "Bus operations, services, emissions, funding, security, passenger experience and accessibility.",
+        "details": {
+          "internal_name": "Buses",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/local-transport",
+              "api_url": "https://www.gov.uk/api/content/transport/local-transport",
+              "base_path": "/transport/local-transport",
+              "content_id": "3b4d6319-fcef-4637-b35a-e3df76321894",
+              "description": "Local transport funding, concessionary travel, buses, taxis, private hire vehicles and trams.",
+              "details": {
+                "internal_name": "Local transport",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport",
+                    "api_url": "https://www.gov.uk/api/content/transport",
+                    "base_path": "/transport",
+                    "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                    "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                    "details": {
+                      "internal_name": "Transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-15T14:31:46Z",
+                    "schema_name": "taxon",
+                    "title": "Transport",
+                    "web_url": "https://www.gov.uk/transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:20Z",
+              "schema_name": "taxon",
+              "title": "Local transport",
+              "web_url": "https://www.gov.uk/transport/local-transport",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:20Z",
+        "schema_name": "taxon",
+        "title": "Buses",
+        "web_url": "https://www.gov.uk/transport/buses",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-08-11T15:40:19Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "25490-1504537049.560-213.86.153.205-7363",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Expenses and benefits: works bus services",
+  "updated_at": "2024-02-29T13:52:57Z",
+  "withdrawn_notice": {
+  }
+}

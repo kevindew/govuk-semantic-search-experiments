@@ -1,0 +1,628 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/find-weighbridge",
+  "content_id": "2f3568f3-d9ef-4395-b413-161402063cb7",
+  "description": "Find your nearest weighbridge if you need to weigh your van, lorry, trailer, tractor or other vehicle",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Find your nearest weighbridge if you need to weigh your van, lorry, trailer, tractor or other vehicle.</p>\n",
+    "lgil_code": 8,
+    "lgsl_code": 1742,
+    "more_information": "<p>Most weighbridges are operated by private businesses.</p>\n\n<p>You should contact the weighbridge operator before going to check:</p>\n\n<ul>\n  <li>how much it costs to use</li>\n  <li>how to get there</li>\n  <li>their operating hours</li>\n</ul>\n\n<p>You should also tell the operator if you have a very large vehicle, to make sure it will fit on the weighbridge.</p>\n",
+    "need_to_know": "\n",
+    "service_tiers": [
+      "county",
+      "unitary"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2014-12-17T11:43:49Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/find-weighbridge",
+        "api_url": "https://www.gov.uk/api/content/find-weighbridge",
+        "base_path": "/find-weighbridge",
+        "content_id": "2f3568f3-d9ef-4395-b413-161402063cb7",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-04-13T12:23:52Z",
+        "schema_name": "local_transaction",
+        "title": "Find a weighbridge",
+        "web_url": "https://www.gov.uk/find-weighbridge",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/drivers-lorries-buses",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/drivers-lorries-buses",
+        "base_path": "/browse/driving/drivers-lorries-buses",
+        "content_id": "13a30e05-d75e-45d8-95d9-0445042a4066",
+        "description": "Become a HGV or bus driver, find training, drivers' hours rules, specialist tests",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:15Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "HGV, bus and coach drivers",
+        "web_url": "https://www.gov.uk/browse/driving/drivers-lorries-buses",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/businesses",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+        "base_path": "/browse/driving/businesses",
+        "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+        "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-22T16:19:11Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Transport and driving businesses",
+        "web_url": "https://www.gov.uk/browse/driving/businesses",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/find-a-weighbridge-to-weigh-my-vehicle",
+        "api_url": "https://www.gov.uk/api/content/needs/find-a-weighbridge-to-weigh-my-vehicle",
+        "base_path": "/needs/find-a-weighbridge-to-weigh-my-vehicle",
+        "content_id": "18c8b71d-fd2a-4191-98a0-4d5db425b6d6",
+        "details": {
+          "benefit": "I don't break the law",
+          "goal": "find a weighbridge to weigh my vehicle",
+          "justifications": [
+            "It's inherent to a person's or an organisation's rights and obligations",
+            "It's something that people can do or it's something people need to know before they can do something that's regulated by/related to government"
+          ],
+          "met_when": [
+            "knows where to find a weighbridge",
+            "knows how to find out about restrictions on using the weighbridge"
+          ],
+          "role": "vehicle owner"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a vehicle owner, I need to find a weighbridge to weigh my vehicle, so that I don't break the law (103225)",
+        "web_url": "https://www.gov.uk/needs/find-a-weighbridge-to-weigh-my-vehicle",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/vehicle-weights-explained",
+        "api_url": "https://www.gov.uk/api/content/vehicle-weights-explained",
+        "base_path": "/vehicle-weights-explained",
+        "content_id": "4b5e77f7-69e5-45a9-9061-348cdce876fb",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/driving-licences",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+              "base_path": "/browse/driving/driving-licences",
+              "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+              "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-26T14:10:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving licences",
+              "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-02-07T14:22:48Z",
+        "schema_name": "answer",
+        "title": "Vehicle weights explained",
+        "web_url": "https://www.gov.uk/vehicle-weights-explained",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D9",
+        "api_path": "/api/content/government/organisations/department-for-transport",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-transport",
+        "base_path": "/government/organisations/department-for-transport",
+        "content_id": "4c717efc-f47b-478e-a76d-ce1ae0af1946",
+        "details": {
+          "acronym": "DfT",
+          "brand": "department-for-transport",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/654bbccfe2e16a000d42abe1/s960_dft-gmh-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/654bbccfe70413000dfc4a51/s300_dft-gmh-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Transport"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Transport",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "EA1114",
+        "api_path": "/api/content/government/organisations/highways-england",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/highways-england",
+        "base_path": "/government/organisations/highways-england",
+        "content_id": "ddad017a-eb20-41d9-8386-56293be68aab",
+        "details": {
+          "acronym": "Highways England",
+          "brand": null,
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db33e5274a7908e352fb/s960_Generic_works_photo.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db3340f0b649cceb18cb/s300_Generic_works_photo.jpg"
+          },
+          "logo": {
+            "formatted_title": "Highways England",
+            "image": {
+              "alt_text": "Highways England",
+              "url": "https://assets.publishing.service.gov.uk/media/59fa00e6e5274a5654e4e399/Highways_England_Logo_240x100px.jpg"
+            }
+          },
+          "organisation_govuk_status": {
+            "status": "replaced",
+            "updated_at": "2021-08-01T00:00:00.000+01:00",
+            "url": ""
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Highways England",
+        "web_url": "https://www.gov.uk/government/organisations/highways-england",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/businesses",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+        "base_path": "/browse/driving/businesses",
+        "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+        "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-22T16:19:11Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Transport and driving businesses",
+        "web_url": "https://www.gov.uk/browse/driving/businesses",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/vehicle-weights-explained",
+        "api_url": "https://www.gov.uk/api/content/vehicle-weights-explained",
+        "base_path": "/vehicle-weights-explained",
+        "content_id": "4b5e77f7-69e5-45a9-9061-348cdce876fb",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-02-07T14:22:48Z",
+        "schema_name": "answer",
+        "title": "Vehicle weights explained",
+        "web_url": "https://www.gov.uk/vehicle-weights-explained",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/vosa-operated-vehicle-weighbridges-f0005175",
+        "api_url": "https://www.gov.uk/api/content/government/publications/vosa-operated-vehicle-weighbridges-f0005175",
+        "base_path": "/government/publications/vosa-operated-vehicle-weighbridges-f0005175",
+        "content_id": "5e60a020-7631-11e4-a3cb-005056011aef",
+        "document_type": "foi_release",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2013-08-13T10:50:40Z",
+        "schema_name": "publication",
+        "title": "VOSA-operated vehicle weighbridges (F0005175)",
+        "web_url": "https://www.gov.uk/government/publications/vosa-operated-vehicle-weighbridges-f0005175",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/drivers-hours-goods-vehicles",
+        "api_url": "https://www.gov.uk/api/content/guidance/drivers-hours-goods-vehicles",
+        "base_path": "/guidance/drivers-hours-goods-vehicles",
+        "content_id": "e23ceb73-38b9-4fb0-b27e-1de121937a84",
+        "document_type": "manual",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-09-02T09:32:27Z",
+        "schema_name": "manual",
+        "title": "Drivers’ hours and tachographs: goods vehicles",
+        "web_url": "https://www.gov.uk/guidance/drivers-hours-goods-vehicles",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/specialist-tests-for-lorries",
+        "api_url": "https://www.gov.uk/api/content/specialist-tests-for-lorries",
+        "base_path": "/specialist-tests-for-lorries",
+        "content_id": "41d974bd-3d05-41c7-b8ec-f51b718ee7bf",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-27T12:09:29Z",
+        "schema_name": "guide",
+        "title": "Specialist tests for lorries",
+        "web_url": "https://www.gov.uk/specialist-tests-for-lorries",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/hgv-and-goods-carriage-vehicle-licensing",
+        "api_url": "https://www.gov.uk/api/content/transport/hgv-and-goods-carriage-vehicle-licensing",
+        "base_path": "/transport/hgv-and-goods-carriage-vehicle-licensing",
+        "content_id": "8ff5779f-5825-4aed-8a5f-6b99bc4654db",
+        "description": "Apply for and manage an HGV operators licence.",
+        "details": {
+          "internal_name": "HGV and goods carriage vehicle licensing",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/vehicle-operator-licences",
+              "api_url": "https://www.gov.uk/api/content/transport/vehicle-operator-licences",
+              "base_path": "/transport/vehicle-operator-licences",
+              "content_id": "7bf5c281-681a-4ea3-bd22-d1ed96d421aa",
+              "description": "Apply for and manage your vehicle operator licence.",
+              "details": {
+                "internal_name": "Vehicle operator licences",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/transport-businesses-and-vehicle-operator-licences",
+                    "api_url": "https://www.gov.uk/api/content/transport/transport-businesses-and-vehicle-operator-licences",
+                    "base_path": "/transport/transport-businesses-and-vehicle-operator-licences",
+                    "content_id": "693b7a9e-688f-4278-9375-9841f4187b23",
+                    "description": "Operator licensing for PSVs, HGVs and private hire vehicles, tachograph, speed limiter and driver CPC training centres.",
+                    "details": {
+                      "internal_name": "Transport businesses and vehicle operator licences",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport/driving-and-road-transport",
+                          "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                          "base_path": "/transport/driving-and-road-transport",
+                          "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                          "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                          "details": {
+                            "internal_name": "Driving and road transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": false
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "parent_taxons": [
+                              {
+                                "api_path": "/api/content/transport",
+                                "api_url": "https://www.gov.uk/api/content/transport",
+                                "base_path": "/transport",
+                                "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                                "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                                "details": {
+                                  "internal_name": "Transport",
+                                  "notes_for_editors": "",
+                                  "visible_to_departmental_editors": true
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                  "root_taxon": [
+                                    {
+                                      "api_path": "/api/content/",
+                                      "api_url": "https://www.gov.uk/api/content/",
+                                      "base_path": "/",
+                                      "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                      "document_type": "homepage",
+                                      "links": {
+                                      },
+                                      "locale": "en",
+                                      "public_updated_at": "2023-06-28T09:32:34Z",
+                                      "schema_name": "homepage",
+                                      "title": "GOV.UK homepage",
+                                      "web_url": "https://www.gov.uk/",
+                                      "withdrawn": false
+                                    }
+                                  ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-06-15T14:31:46Z",
+                                "schema_name": "taxon",
+                                "title": "Transport",
+                                "web_url": "https://www.gov.uk/transport",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-14T09:27:13Z",
+                          "schema_name": "taxon",
+                          "title": "Driving and road transport",
+                          "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Transport businesses and vehicle operator licences",
+                    "web_url": "https://www.gov.uk/transport/transport-businesses-and-vehicle-operator-licences",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:13Z",
+              "schema_name": "taxon",
+              "title": "Vehicle operator licences",
+              "web_url": "https://www.gov.uk/transport/vehicle-operator-licences",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-11-22T12:19:17Z",
+        "schema_name": "taxon",
+        "title": "HGV and goods carriage vehicle licensing",
+        "web_url": "https://www.gov.uk/transport/hgv-and-goods-carriage-vehicle-licensing",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/transport/road-haulage",
+        "api_url": "https://www.gov.uk/api/content/transport/road-haulage",
+        "base_path": "/transport/road-haulage",
+        "content_id": "2f9dba8b-83a2-4d99-b61b-a8738fa4e855",
+        "description": "Transporting non-dangerous goods by road including regulations, guidance, funding opportunities, statistics, longer semi-trailer trial.",
+        "details": {
+          "internal_name": "Road haulage",
+          "notes_for_editors": "",
+          "url_override": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/freight-haulage-and-cargo",
+              "api_url": "https://www.gov.uk/api/content/transport/freight-haulage-and-cargo",
+              "base_path": "/transport/freight-haulage-and-cargo",
+              "content_id": "3e4df71e-474d-4a40-bd6a-b3072affa151",
+              "description": "Freight and logistic industry and the safe and secure movement of goods by air, rail, road, waterways or sea.",
+              "details": {
+                "internal_name": "Freight, haulage and cargo",
+                "notes_for_editors": "",
+                "url_override": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport",
+                    "api_url": "https://www.gov.uk/api/content/transport",
+                    "base_path": "/transport",
+                    "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                    "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                    "details": {
+                      "internal_name": "Transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-15T14:31:46Z",
+                    "schema_name": "taxon",
+                    "title": "Transport",
+                    "web_url": "https://www.gov.uk/transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2021-11-04T09:25:44Z",
+              "schema_name": "taxon",
+              "title": "Freight, haulage and cargo",
+              "web_url": "https://www.gov.uk/transport/freight-haulage-and-cargo",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2021-11-04T09:29:39Z",
+        "schema_name": "taxon",
+        "title": "Road haulage",
+        "web_url": "https://www.gov.uk/transport/road-haulage",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-04-13T12:23:52Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15545-1504182737.735-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Find a weighbridge",
+  "updated_at": "2024-02-22T16:19:14Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/private-keeper-to-motor-trader",
+  "content_id": "e03739cc-03e8-485c-b544-b99ef06cf1b9",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "promotion": {
+      "category": "organ_donor",
+      "opt_in_url": "",
+      "opt_out_url": "",
+      "url": "https://www.organdonation.nhs.uk/register-your-decision/donate/?campaign=2443&utm_source=dvla_private_to_trade&utm_medium=referral&utm_campaign=partner&utm_content=web_endoftransaction&utm_term=allaudiences"
+    }
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2015-07-16T11:33:39Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/private-keeper-to-motor-trader",
+        "api_url": "https://www.gov.uk/api/content/done/private-keeper-to-motor-trader",
+        "base_path": "/done/private-keeper-to-motor-trader",
+        "content_id": "e03739cc-03e8-485c-b544-b99ef06cf1b9",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-06-28T13:40:57Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Sold a vehicle to the motor trade",
+        "web_url": "https://www.gov.uk/done/private-keeper-to-motor-trader",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/transfer-the-registration-of-my-vehicle-to-a-new-owner",
+        "api_url": "https://www.gov.uk/api/content/needs/transfer-the-registration-of-my-vehicle-to-a-new-owner",
+        "base_path": "/needs/transfer-the-registration-of-my-vehicle-to-a-new-owner",
+        "content_id": "ef240302-942f-4757-b84a-2292902c8f62",
+        "details": {
+          "benefit": "I am no longer responsible for the vehicle",
+          "goal": "transfer the registration of my vehicle to a new owner",
+          "justifications": [
+            "The government is legally obliged to provide it",
+            "It's inherent to a person's or an organisation's rights and obligations"
+          ],
+          "met_when": [
+            "knows how to transfer the registration",
+            "knows what happens after they transfer the registration",
+            "know where to get help",
+            "knows when they have to transfer"
+          ],
+          "role": "vehicle owner"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a vehicle owner, I need to transfer the registration of my vehicle to a new owner, so that I am no longer responsible for the vehicle (103310)",
+        "web_url": "https://www.gov.uk/needs/transfer-the-registration-of-my-vehicle-to-a-new-owner",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA74",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-licensing-agency",
+        "content_id": "70580624-93b5-4aed-823b-76042486c769",
+        "details": {
+          "acronym": "DVLA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Licensing<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Licensing Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-06-28T13:40:57Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629921.141-10.13.26.132-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Sold a vehicle to the motor trade",
+  "updated_at": "2024-02-06T13:29:36Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/view-right-to-rent",
+  "content_id": "88e4e053-8345-4015-b747-5e74941553ec",
+  "description": "Check details of a tenant's right to rent if they’re not a British or Irish citizen and they’ve given you a share code.",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Use a share code to check a tenant’s right to rent your residential property in England, if you are:</p>\n\n<ul>\n  <li>the landlord</li>\n  <li>an agent acting on behalf of the landlord</li>\n  <li>a tenant subletting without a landlord’s permission</li>\n</ul>\n\n<p>British and Irish citizens cannot get a share code. You can <a href=\"/landlord-immigration-check\">check their physical documents yourself</a> or use <a href=\"https://www.gov.uk/government/publications/digital-identity-certification-for-right-to-work-right-to-rent-and-criminal-record-checks/digital-identity-certification-for-right-to-work-right-to-rent-and-criminal-record-checks\">an online identity service provider (IDSP)</a> to check them.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You do not need to check a tenant’s right to rent property in Wales, Scotland or Northern Ireland.</p>\n</div>\n\n<h2 id=\"what-your-tenant-needs\">What your tenant needs</h2>\n\n<p>You can use this service if your tenant:</p>\n\n<ul>\n  <li>has a biometric residence card or permit</li>\n  <li>has <a href=\"https://www.gov.uk/settled-status-eu-citizens-families/what-settled-and-presettled-status-means\">settled or pre-settled status</a>\n</li>\n  <li>applied for a visa and used the ‘UK Immigration: ID Check’ app to scan their identity document on their phone</li>\n</ul>\n\n<p>You can also <a href=\"/landlord-immigration-check\">check their original documents</a> instead - for example if you do not have a share code.</p>\n\n<h2 id=\"view-a-tenants-right-to-rent\">View a tenant’s right to rent</h2>\n\n<p>You will need the tenant’s:</p>\n\n<ul>\n  <li>date of birth</li>\n  <li>share code</li>\n</ul>\n\n<p>The share code will be emailed to you or given to you by the tenant.</p>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://right-to-rent.service.gov.uk/rtr-view",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2020-11-25T12:00:01Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/view-right-to-rent",
+        "api_url": "https://www.gov.uk/api/content/view-right-to-rent",
+        "base_path": "/view-right-to-rent",
+        "content_id": "88e4e053-8345-4015-b747-5e74941553ec",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-01-06T16:08:02Z",
+        "schema_name": "transaction",
+        "title": "Check a tenant's right to rent in England: use their share code",
+        "web_url": "https://www.gov.uk/view-right-to-rent",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/landlords",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/landlords",
+        "base_path": "/browse/housing-local-services/landlords",
+        "content_id": "ed816ec5-727e-4e1b-bc29-ab067df2e594",
+        "description": "Includes right to rent checks, evicting tenants, tenancy agreements and deposit protection schemes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-29T13:40:19Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Being a landlord and renting out a room",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/landlords",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/visas-immigration/what-you-need-to-do",
+        "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+        "base_path": "/browse/visas-immigration/what-you-need-to-do",
+        "content_id": "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+        "description": "Check if you need a UK visa, how to apply, sign in, manage your application, biometric residence permits (BRPs), share codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T12:05:51Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "What you need to do",
+        "web_url": "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/guidance/coronavirus-covid-19-landlord-right-to-rent-checks",
+        "api_url": "https://www.gov.uk/api/content/guidance/coronavirus-covid-19-landlord-right-to-rent-checks",
+        "base_path": "/guidance/coronavirus-covid-19-landlord-right-to-rent-checks",
+        "content_id": "1be27ffd-9844-4473-a8b1-d5add0bb4ae5",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-03-23T15:25:00Z",
+        "schema_name": "detailed_guide",
+        "title": "Coronavirus (COVID-19): landlord right to rent checks",
+        "web_url": "https://www.gov.uk/guidance/coronavirus-covid-19-landlord-right-to-rent-checks",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1342",
+        "api_path": "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "base_path": "/government/organisations/department-for-levelling-up-housing-and-communities",
+        "content_id": "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+        "details": {
+          "acronym": "DLUHC",
+          "brand": "department-for-levelling-up-housing-and-communities",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for Levelling Up,<br/>Housing &amp; Communities"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Levelling Up, Housing and Communities ",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D16",
+        "api_path": "/api/content/government/organisations/home-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/home-office",
+        "base_path": "/government/organisations/home-office",
+        "content_id": "06056197-bc69-4147-aa28-070bca132178",
+        "details": {
+          "acronym": "Home Office",
+          "brand": "home-office",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db3ce5274a7908e3530c/s960_home-office.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db3c40f0b649cceb18de/s300_home-office.jpg"
+          },
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "Home Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Home Office",
+        "web_url": "https://www.gov.uk/government/organisations/home-office",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "OT554",
+        "api_path": "/api/content/government/organisations/uk-visas-and-immigration",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/uk-visas-and-immigration",
+        "base_path": "/government/organisations/uk-visas-and-immigration",
+        "content_id": "04148522-b0c1-4137-b687-5f3c3bdd561a",
+        "details": {
+          "acronym": "UKVI",
+          "brand": "home-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "UK Visas and Immigration"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "UK Visas and Immigration",
+        "web_url": "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/landlords",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/landlords",
+        "base_path": "/browse/housing-local-services/landlords",
+        "content_id": "ed816ec5-727e-4e1b-bc29-ab067df2e594",
+        "description": "Includes right to rent checks, evicting tenants, tenancy agreements and deposit protection schemes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/housing-local-services",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+              "base_path": "/browse/housing-local-services",
+              "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+              "description": "Owning or renting and council services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Housing and local services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-29T13:40:19Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Being a landlord and renting out a room",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/landlords",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2021-01-06T16:08:02Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1682520405.168-10.13.22.231-9196",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Check a tenant's right to rent in England: use their share code",
+  "updated_at": "2024-03-07T11:16:31Z",
+  "withdrawn_notice": {
+  }
+}

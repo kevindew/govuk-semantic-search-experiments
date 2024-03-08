@@ -1,0 +1,300 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-house-price-trends",
+  "content_id": "76e82c22-cfff-4875-9e27-e8c6d70f8928",
+  "description": "Find out property price trends in the UK from the house price index",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Find out property price trends in the UK.</p>\n",
+    "more_information": "<p>You can search by:</p>\n\n<ul>\n  <li>date</li>\n  <li>property type</li>\n  <li>region, county or local authority</li>\n</ul>\n\n<p>You can find average prices for properties in:</p>\n\n<ul>\n  <li>England and Wales since January 1995</li>\n  <li>Scotland since January 2004</li>\n  <li>Northern Ireland since January 2005</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You can search instead for <a href=\"/search-house-prices\">how much a specific property sold for</a> in England or Wales using the price paid data service.</p>\n</div>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "http://landregistry.data.gov.uk/app/ukhpi",
+    "will_continue_on": "the UK house price index service"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2016-06-14T09:00:01Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-house-price-trends",
+        "api_url": "https://www.gov.uk/api/content/check-house-price-trends",
+        "base_path": "/check-house-price-trends",
+        "content_id": "76e82c22-cfff-4875-9e27-e8c6d70f8928",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-06-14T09:00:00Z",
+        "schema_name": "transaction",
+        "title": "Check UK property price trends",
+        "web_url": "https://www.gov.uk/check-house-price-trends",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/search-house-prices",
+        "api_url": "https://www.gov.uk/api/content/search-house-prices",
+        "base_path": "/search-house-prices",
+        "content_id": "1aa96e6c-6dbf-4960-9049-2fdf6dbb9bc7",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/planning-permission-regulations-information",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/planning-permission-regulations-information",
+              "base_path": "/browse/housing-local-services/planning-permission-regulations-information",
+              "content_id": "0d605105-67ff-426f-8436-2459d4a9a4c1",
+              "description": "Includes building regulations, planning permission and finding land and property information",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-25T10:44:13Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Planning permission and building regulations ",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/planning-permission-regulations-information",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-20T15:20:34Z",
+        "schema_name": "transaction",
+        "title": "Search sold property prices",
+        "web_url": "https://www.gov.uk/search-house-prices",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/buy-sell-your-home",
+        "api_url": "https://www.gov.uk/api/content/buy-sell-your-home",
+        "base_path": "/buy-sell-your-home",
+        "content_id": "9a6202a7-f9c0-4332-af72-7bf07b9adbe4",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/buying-owning-property",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/buying-owning-property",
+              "base_path": "/browse/housing-local-services/buying-owning-property",
+              "content_id": "a5bc96b7-10c3-4014-8fff-4571b5b5586b",
+              "description": "Includes buying and selling your home, home ownership schemes, mortgages and compensation",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Buying and owning a property",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/buying-owning-property",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-03T13:31:13Z",
+        "schema_name": "guide",
+        "title": "Buying or selling your home",
+        "web_url": "https://www.gov.uk/buy-sell-your-home",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D69",
+        "api_path": "/api/content/government/organisations/land-registry",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/land-registry",
+        "base_path": "/government/organisations/land-registry",
+        "content_id": "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+        "details": {
+          "acronym": "HM Land Registry",
+          "brand": "department-for-levelling-up-housing-and-communities",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+          },
+          "logo": {
+            "formatted_title": "HM Land Registry",
+            "image": {
+              "alt_text": "HM Land Registry",
+              "url": "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+            }
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Land Registry",
+        "web_url": "https://www.gov.uk/government/organisations/land-registry",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/search-property-information-land-registry",
+        "api_url": "https://www.gov.uk/api/content/search-property-information-land-registry",
+        "base_path": "/search-property-information-land-registry",
+        "content_id": "321333cd-da30-4c5a-92ef-a9d1abe733c6",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-05T10:42:27Z",
+        "schema_name": "transaction",
+        "title": "Search for land and property information",
+        "web_url": "https://www.gov.uk/search-property-information-land-registry",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/buy-sell-your-home",
+        "api_url": "https://www.gov.uk/api/content/buy-sell-your-home",
+        "base_path": "/buy-sell-your-home",
+        "content_id": "9a6202a7-f9c0-4332-af72-7bf07b9adbe4",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-03T13:31:13Z",
+        "schema_name": "guide",
+        "title": "Buying or selling your home",
+        "web_url": "https://www.gov.uk/buy-sell-your-home",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/council-tax-bands",
+        "api_url": "https://www.gov.uk/api/content/council-tax-bands",
+        "base_path": "/council-tax-bands",
+        "content_id": "515c819e-34bd-421d-8261-eaa06c4786c5",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-14T13:47:41Z",
+        "schema_name": "transaction",
+        "title": "Check your Council Tax band",
+        "web_url": "https://www.gov.uk/council-tax-bands",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/get-information-about-property-and-land",
+        "api_url": "https://www.gov.uk/api/content/get-information-about-property-and-land",
+        "base_path": "/get-information-about-property-and-land",
+        "content_id": "0f2e8c41-78fa-40f9-9eea-857c07bacd80",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-02T10:00:01Z",
+        "schema_name": "guide",
+        "title": "Get information about property and land",
+        "web_url": "https://www.gov.uk/get-information-about-property-and-land",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/statistics/uk-house-price-index-england-october-2018",
+        "api_url": "https://www.gov.uk/api/content/government/statistics/uk-house-price-index-england-october-2018",
+        "base_path": "/government/statistics/uk-house-price-index-england-october-2018",
+        "content_id": "730816ef-1eef-47ad-a26c-84523520624a",
+        "document_type": "national_statistics",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-12-19T09:30:00Z",
+        "schema_name": "publication",
+        "title": "UK House Price Index England: October 2018",
+        "web_url": "https://www.gov.uk/government/statistics/uk-house-price-index-england-october-2018",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-06-14T09:00:00Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15544-1504183247.560-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Check UK property price trends",
+  "updated_at": "2024-02-27T16:26:26Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/report-smuggling",
+  "content_id": "49896b5e-a187-4b79-89fb-8ecfc1626f15",
+  "description": "Report someone who's smuggling people, goods or cash into the UK illegally",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Contact the Home Office if you think someone is smuggling people, goods or cash into the UK illegally.</p>\n",
+    "more_information": "<p>You don’t have to give your name and address.</p>\n\n<p>Any information will be treated as confidential.</p>\n\n<h2 id=\"other-ways-to-report\">Other ways to report</h2>\n\n<p>Contact <a rel=\"external\" href=\"https://crimestoppers-uk.org/give-information/give-information-online/\">Crimestoppers</a> or the <a rel=\"external\" href=\"https://www.met.police.uk/tell-us-about/possible-terrorist-activity/report-possible-terrorist-activity2/?stepid=1\">Confidential Anti-Terrorist Hotline</a> anonymously.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Call 999 if you’re reporting a crime that’s in progress or if someone is in immediate danger.</p>\n</div>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.amsallegations.homeoffice.gov.uk/default.aspx/RenderForm/?F.Name=Lf62UB7cz4C",
+    "will_continue_on": "the Home Office website"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2014-01-17T14:03:24Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/report-smuggling",
+        "api_url": "https://www.gov.uk/api/content/report-smuggling",
+        "base_path": "/report-smuggling",
+        "content_id": "49896b5e-a187-4b79-89fb-8ecfc1626f15",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-12T12:25:53Z",
+        "schema_name": "transaction",
+        "title": "Report smuggling",
+        "web_url": "https://www.gov.uk/report-smuggling",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/justice/reporting-crimes",
+        "api_url": "https://www.gov.uk/api/content/browse/justice/reporting-crimes",
+        "base_path": "/browse/justice/reporting-crimes",
+        "content_id": "b17b99b8-a791-48f9-8eab-c78c39abf890",
+        "description": "Includes antisocial behaviour, abuse, benefit fraud and terrorism",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:48Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Reporting crimes",
+        "web_url": "https://www.gov.uk/browse/justice/reporting-crimes",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/report-crime-anti-social-behaviour",
+        "api_url": "https://www.gov.uk/api/content/report-crime-anti-social-behaviour",
+        "base_path": "/report-crime-anti-social-behaviour",
+        "content_id": "2bba9556-89cb-44e7-855e-17729be61a88",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/justice/reporting-crimes",
+              "api_url": "https://www.gov.uk/api/content/browse/justice/reporting-crimes",
+              "base_path": "/browse/justice/reporting-crimes",
+              "content_id": "b17b99b8-a791-48f9-8eab-c78c39abf890",
+              "description": "Includes antisocial behaviour, abuse, benefit fraud and terrorism",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/justice",
+                    "api_url": "https://www.gov.uk/api/content/browse/justice",
+                    "base_path": "/browse/justice",
+                    "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+                    "description": "Legal processes, courts and the police",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2022-04-06T18:09:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Crime, justice and the law",
+                    "web_url": "https://www.gov.uk/browse/justice",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Reporting crimes",
+              "web_url": "https://www.gov.uk/browse/justice/reporting-crimes",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-25T16:41:15Z",
+        "schema_name": "answer",
+        "title": "Report a crime or antisocial behaviour",
+        "web_url": "https://www.gov.uk/report-crime-anti-social-behaviour",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "OT535",
+        "api_path": "/api/content/government/organisations/border-force",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/border-force",
+        "base_path": "/government/organisations/border-force",
+        "content_id": "3808b369-f1d6-44d3-a5b2-a7b7ac931106",
+        "details": {
+          "acronym": "",
+          "brand": "home-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "Border Force"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Border Force",
+        "web_url": "https://www.gov.uk/government/organisations/border-force",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D16",
+        "api_path": "/api/content/government/organisations/home-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/home-office",
+        "base_path": "/government/organisations/home-office",
+        "content_id": "06056197-bc69-4147-aa28-070bca132178",
+        "details": {
+          "acronym": "Home Office",
+          "brand": "home-office",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db3ce5274a7908e3530c/s960_home-office.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db3c40f0b649cceb18de/s300_home-office.jpg"
+          },
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "Home Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Home Office",
+        "web_url": "https://www.gov.uk/government/organisations/home-office",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "OT554",
+        "api_path": "/api/content/government/organisations/uk-visas-and-immigration",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/uk-visas-and-immigration",
+        "base_path": "/government/organisations/uk-visas-and-immigration",
+        "content_id": "04148522-b0c1-4137-b687-5f3c3bdd561a",
+        "details": {
+          "acronym": "UKVI",
+          "brand": "home-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "UK Visas and Immigration"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "UK Visas and Immigration",
+        "web_url": "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/justice/reporting-crimes",
+        "api_url": "https://www.gov.uk/api/content/browse/justice/reporting-crimes",
+        "base_path": "/browse/justice/reporting-crimes",
+        "content_id": "b17b99b8-a791-48f9-8eab-c78c39abf890",
+        "description": "Includes antisocial behaviour, abuse, benefit fraud and terrorism",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/justice",
+              "api_url": "https://www.gov.uk/api/content/browse/justice",
+              "base_path": "/browse/justice",
+              "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+              "description": "Legal processes, courts and the police",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2022-04-06T18:09:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Crime, justice and the law",
+              "web_url": "https://www.gov.uk/browse/justice",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:48Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Reporting crimes",
+        "web_url": "https://www.gov.uk/browse/justice/reporting-crimes",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/report-tobacco-or-alcohol-tax-evasion",
+        "api_url": "https://www.gov.uk/api/content/report-tobacco-or-alcohol-tax-evasion",
+        "base_path": "/report-tobacco-or-alcohol-tax-evasion",
+        "content_id": "b25448cc-5342-4d9a-ac4c-379119e75164",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-12T13:00:32Z",
+        "schema_name": "answer",
+        "title": "Report tobacco or alcohol tax evasion",
+        "web_url": "https://www.gov.uk/report-tobacco-or-alcohol-tax-evasion",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/report-immigration-crime",
+        "api_url": "https://www.gov.uk/api/content/report-immigration-crime",
+        "base_path": "/report-immigration-crime",
+        "content_id": "7ec46a32-8930-4ba5-bb02-fb0c123e4851",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-05T10:38:54Z",
+        "schema_name": "transaction",
+        "title": "Report an immigration or border crime",
+        "web_url": "https://www.gov.uk/report-immigration-crime",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/report-crime-anti-social-behaviour",
+        "api_url": "https://www.gov.uk/api/content/report-crime-anti-social-behaviour",
+        "base_path": "/report-crime-anti-social-behaviour",
+        "content_id": "2bba9556-89cb-44e7-855e-17729be61a88",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-25T16:41:15Z",
+        "schema_name": "answer",
+        "title": "Report a crime or antisocial behaviour",
+        "web_url": "https://www.gov.uk/report-crime-anti-social-behaviour",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/crime-justice-and-law/reporting-crimes-compensation",
+        "api_url": "https://www.gov.uk/api/content/crime-justice-and-law/reporting-crimes-compensation",
+        "base_path": "/crime-justice-and-law/reporting-crimes-compensation",
+        "content_id": "fa5b3b7e-682a-49fd-bf99-d2cfe3e16a26",
+        "details": {
+          "internal_name": "Reporting crimes and getting compensation [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/crime-justice-and-law",
+              "api_url": "https://www.gov.uk/api/content/crime-justice-and-law",
+              "base_path": "/crime-justice-and-law",
+              "content_id": "ba951b09-5146-43be-87af-44075eac3ae9",
+              "description": "",
+              "details": {
+                "internal_name": "Crime, justice and law",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:34:51Z",
+              "schema_name": "taxon",
+              "title": "Crime, justice and law",
+              "web_url": "https://www.gov.uk/crime-justice-and-law",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:15:52Z",
+        "schema_name": "taxon",
+        "title": "Reporting crimes and getting compensation",
+        "web_url": "https://www.gov.uk/crime-justice-and-law/reporting-crimes-compensation",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-11-12T12:25:53Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "14219-1512131228.513-90.222.22.63-6858",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Report smuggling",
+  "updated_at": "2024-03-07T11:19:16Z",
+  "withdrawn_notice": {
+  }
+}

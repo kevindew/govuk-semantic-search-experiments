@@ -1,0 +1,741 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/apply-direct-payments",
+  "content_id": "151192b8-2e9d-4b0f-a0ab-636eb72899a2",
+  "description": "If you get help from social services, direct payments let you choose and buy the services you need yourself, instead of getting them from your council",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>If you or someone you care for get help from social services, you can apply for direct payments. These let you choose and buy the services you need yourself, instead of getting them from your council.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You may become an employer if you <a href=\"/au-pairs-employment-law/\">pay someone to care for you</a>.</p>\n</div>\n",
+    "lgil_code": 0,
+    "lgsl_code": 287,
+    "more_information": "<p>You can only get direct payments if you’ve been assessed by social services as needing care and support services.</p>\n\n<p>Direct payments can be made to:</p>\n\n<ul>\n  <li>disabled people aged 16 or over (with short or long-term needs)</li>\n  <li>disabled parents for children’s services</li>\n  <li>carers aged 16 or over (including people with parental responsibility for a disabled child)</li>\n  <li>elderly people who need community care services</li>\n</ul>\n",
+    "need_to_know": "<ul>\n  <li>Available in England, Scotland and Wales. If you live in Scotland or Wales, contact your council directly</li>\n  <li>You must be over 16</li>\n</ul>\n",
+    "service_tiers": [
+      "county",
+      "unitary"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2011-09-12T17:53:46Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/apply-direct-payments",
+        "api_url": "https://www.gov.uk/api/content/apply-direct-payments",
+        "base_path": "/apply-direct-payments",
+        "content_id": "151192b8-2e9d-4b0f-a0ab-636eb72899a2",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-09-21T11:40:59Z",
+        "schema_name": "local_transaction",
+        "title": "Apply for direct payments",
+        "web_url": "https://www.gov.uk/apply-direct-payments",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/financial-help-disabled",
+        "api_url": "https://www.gov.uk/api/content/financial-help-disabled",
+        "base_path": "/financial-help-disabled",
+        "content_id": "d1d66f56-3a29-449c-9639-787f02a576e1",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/disability",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/disability",
+              "base_path": "/browse/benefits/disability",
+              "content_id": "55137051-1759-4251-a94c-476239ddfb36",
+              "description": "Help if you're living with a health condition or disability. Includes Employment and Support Allowance (ESA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're disabled or have a health condition",
+              "web_url": "https://www.gov.uk/browse/benefits/disability",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/disabilities/benefits",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/benefits",
+              "base_path": "/browse/disabilities/benefits",
+              "content_id": "126f9803-4689-468f-b46e-552ce57e1ee4",
+              "description": "Includes Disability Living Allowance, Employment and Support Allowance and Attendance Allowance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial help",
+              "web_url": "https://www.gov.uk/browse/disabilities/benefits",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/armed-forces",
+              "api_url": "https://www.gov.uk/api/content/browse/working/armed-forces",
+              "base_path": "/browse/working/armed-forces",
+              "content_id": "201306e2-65d1-409a-92f6-d266f8151b8d",
+              "description": "Includes reserve forces and armed forces pensions, benefits and financial assistance. ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-10-09T15:02:15Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Armed forces",
+              "web_url": "https://www.gov.uk/browse/working/armed-forces",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-11T16:09:53Z",
+        "schema_name": "guide",
+        "title": "Financial help if you're disabled",
+        "web_url": "https://www.gov.uk/financial-help-disabled",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/help-for-disabled-child",
+        "api_url": "https://www.gov.uk/api/content/help-for-disabled-child",
+        "base_path": "/help-for-disabled-child",
+        "content_id": "16c39c48-c2e5-46e8-a71f-7f1c965f9c51",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/families",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/families",
+              "base_path": "/browse/benefits/families",
+              "content_id": "64e7bfb6-5213-425b-9e44-5c7eca17ad75",
+              "description": "Help if you look after children or plan to have or adopt a child. Includes Child Benefit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:25Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support for families",
+              "web_url": "https://www.gov.uk/browse/benefits/families",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/benefits/disability",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/disability",
+              "base_path": "/browse/benefits/disability",
+              "content_id": "55137051-1759-4251-a94c-476239ddfb36",
+              "description": "Help if you're living with a health condition or disability. Includes Employment and Support Allowance (ESA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're disabled or have a health condition",
+              "web_url": "https://www.gov.uk/browse/benefits/disability",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/child-adoption",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/child-adoption",
+              "base_path": "/browse/births-deaths-marriages/child-adoption",
+              "content_id": "932a86f4-4916-4d9f-99cb-dfd34d7ee5d1",
+              "description": "Legal rights, birth certificates, parental rights and child maintenance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Having a child, parenting and adoption",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/child-adoption",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/childcare-parenting/financial-help-children",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/financial-help-children",
+              "base_path": "/browse/childcare-parenting/financial-help-children",
+              "content_id": "e027612d-17f3-4183-ae8d-cde8f43dc471",
+              "description": "Includes help when having a baby or adopting, child benefit and tax credits, support for childcare",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+                    "base_path": "/browse/childcare-parenting",
+                    "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+                    "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-07-15T11:40:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Childcare and parenting",
+                    "web_url": "https://www.gov.uk/browse/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Financial help if you have children",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting/financial-help-children",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/disabilities/carers",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/carers",
+              "base_path": "/browse/disabilities/carers",
+              "content_id": "747191a7-f514-46d5-b107-dc65f4a3d547",
+              "description": "Includes Carer's Allowance, disabled children and disability day care centres",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Carers",
+              "web_url": "https://www.gov.uk/browse/disabilities/carers",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-13T15:03:48Z",
+        "schema_name": "guide",
+        "title": "Help if you have a disabled child",
+        "web_url": "https://www.gov.uk/help-for-disabled-child",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/au-pairs-employment-law",
+        "api_url": "https://www.gov.uk/api/content/au-pairs-employment-law",
+        "base_path": "/au-pairs-employment-law",
+        "content_id": "61289398-23be-4fad-b7c0-0da35e512148",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/childcare-parenting/childcare",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/childcare",
+              "base_path": "/browse/childcare-parenting/childcare",
+              "content_id": "1159936b-be05-44cb-b52c-87b3c9153959",
+              "description": "Finding childcare, financial support for childcare and childcare for school-age children",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+                    "base_path": "/browse/childcare-parenting",
+                    "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+                    "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-07-15T11:40:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Childcare and parenting",
+                    "web_url": "https://www.gov.uk/browse/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:34Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Childcare",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting/childcare",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/income-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+              "base_path": "/browse/tax/income-tax",
+              "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+              "description": "Includes rates and allowances, tax codes and refunds",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Income Tax",
+              "web_url": "https://www.gov.uk/browse/tax/income-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/contract-working-hours",
+              "api_url": "https://www.gov.uk/api/content/browse/working/contract-working-hours",
+              "base_path": "/browse/working/contract-working-hours",
+              "content_id": "6b2f82a9-17c6-4a26-9c8a-9b4b10234891",
+              "description": "Includes employment status, workers' rights and changes to contracts",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Your contract and working hours",
+              "web_url": "https://www.gov.uk/browse/working/contract-working-hours",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-28T12:23:23Z",
+        "schema_name": "guide",
+        "title": "Employing someone to work in your home",
+        "web_url": "https://www.gov.uk/au-pairs-employment-law",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1342",
+        "api_path": "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "base_path": "/government/organisations/department-for-levelling-up-housing-and-communities",
+        "content_id": "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+        "details": {
+          "acronym": "DLUHC",
+          "brand": "department-for-levelling-up-housing-and-communities",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for Levelling Up,<br/>Housing &amp; Communities"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Levelling Up, Housing and Communities ",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/housing-local-services",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+              "base_path": "/browse/housing-local-services",
+              "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+              "description": "Owning or renting and council services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Housing and local services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/au-pairs-employment-law",
+        "api_url": "https://www.gov.uk/api/content/au-pairs-employment-law",
+        "base_path": "/au-pairs-employment-law",
+        "content_id": "61289398-23be-4fad-b7c0-0da35e512148",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-28T12:23:23Z",
+        "schema_name": "guide",
+        "title": "Employing someone to work in your home",
+        "web_url": "https://www.gov.uk/au-pairs-employment-law",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/financial-help-disabled",
+        "api_url": "https://www.gov.uk/api/content/financial-help-disabled",
+        "base_path": "/financial-help-disabled",
+        "content_id": "d1d66f56-3a29-449c-9639-787f02a576e1",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-11T16:09:53Z",
+        "schema_name": "guide",
+        "title": "Financial help if you're disabled",
+        "web_url": "https://www.gov.uk/financial-help-disabled",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/help-for-disabled-child",
+        "api_url": "https://www.gov.uk/api/content/help-for-disabled-child",
+        "base_path": "/help-for-disabled-child",
+        "content_id": "16c39c48-c2e5-46e8-a71f-7f1c965f9c51",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-13T15:03:48Z",
+        "schema_name": "guide",
+        "title": "Help if you have a disabled child",
+        "web_url": "https://www.gov.uk/help-for-disabled-child",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-short-term-care-for-child",
+        "api_url": "https://www.gov.uk/api/content/apply-short-term-care-for-child",
+        "base_path": "/apply-short-term-care-for-child",
+        "content_id": "bb3155b9-f466-4b96-88cf-b5b8ba5d774b",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-12-23T10:53:16Z",
+        "schema_name": "local_transaction",
+        "title": "Apply for short-term care for your child",
+        "web_url": "https://www.gov.uk/apply-short-term-care-for-child",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-disabled-facilities-grant",
+        "api_url": "https://www.gov.uk/api/content/apply-disabled-facilities-grant",
+        "base_path": "/apply-disabled-facilities-grant",
+        "content_id": "8875fa6f-eebc-4365-8924-fff822c6aab8",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-02-16T14:10:12Z",
+        "schema_name": "local_transaction",
+        "title": "Apply for a Disabled Facilities Grant",
+        "web_url": "https://www.gov.uk/apply-disabled-facilities-grant",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/regional-and-local-government/local-councils",
+        "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-councils",
+        "base_path": "/regional-and-local-government/local-councils",
+        "content_id": "15191831-40b4-4f6e-ade3-e82d7c775afd",
+        "details": {
+          "internal_name": "Local councils and services [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/regional-and-local-government",
+              "api_url": "https://www.gov.uk/api/content/regional-and-local-government",
+              "base_path": "/regional-and-local-government",
+              "content_id": "503c5bc7-809a-47b9-83e2-bd0c212dbabb",
+              "description": "",
+              "details": {
+                "internal_name": "Regional and local government",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:30:05Z",
+              "schema_name": "taxon",
+              "title": "Regional and local government",
+              "web_url": "https://www.gov.uk/regional-and-local-government",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:09:40Z",
+        "schema_name": "taxon",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/regional-and-local-government/local-councils",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-09-21T11:40:59Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "3592-1504182738.396-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Apply for direct payments",
+  "updated_at": "2024-03-01T15:59:26Z",
+  "withdrawn_notice": {
+  }
+}

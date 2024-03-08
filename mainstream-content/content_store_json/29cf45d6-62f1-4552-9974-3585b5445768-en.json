@@ -1,0 +1,388 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/report-problem-medicine-medical-device",
+  "content_id": "29cf45d6-62f1-4552-9974-3585b5445768",
+  "description": "Report a problem ('adverse incident') with a medical device or medicine to MHRA using the Yellow Card Scheme",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+      {
+        "title": "NHS Choices",
+        "url": "http://www.nhs.uk/Pages/HomePage.aspx"
+      }
+    ],
+    "introductory_paragraph": "<p>Report a suspected problem (‘adverse incident’) with a medicine or medical device using the Yellow Card Scheme as soon as possible, for example if:</p>\n\n<ul>\n  <li>a medicine causes side effects</li>\n  <li>someone’s injured (or almost injured) by a medical device, either because its labelling or instructions aren’t clear, it’s broken or has been misused</li>\n  <li>a patient’s treatment is interrupted because of a faulty device</li>\n  <li>someone receives the wrong diagnosis because of a medical device</li>\n  <li>a medicine doesn’t work properly</li>\n  <li>a medicine is of a poor quality</li>\n  <li>you think a medicine or medical device is fake or counterfeit</li>\n</ul>\n\n<p>Anyone can report a problem.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>The Yellow Card Scheme can’t give you medical advice - talk to a doctor or pharmacist.</p>\n</div>\n",
+    "more_information": "<p>There’s a different way to report a problem with a medical device if you’re in <a rel=\"external\" href=\"http://www.wales.nhs.uk/governance-emanual/reporting-adverse-incidents-and-dissemin\">Wales</a>, <a rel=\"external\" href=\"http://www.hfs.scot.nhs.uk/services/incident-reporting-and-investigation-centre-iric-1/how-to-report-an-adverse-incident/\">Scotland</a> or <a rel=\"external\" href=\"https://www.health-ni.gov.uk/articles/reporting-adverse-incident\">Northern Ireland</a>.</p>\n\n<h2 id=\"what-happens-next\">What happens next</h2>\n\n<p>The Medicines and Healthcare products Regulatory Agency, the manufacturer or a medical specialist may investigate the problem depending on how serious it is. It’ll be recorded to help prevent similar incidents in future, even if it’s not investigated.</p>\n\n<p>You’ll receive a confirmation of your report. You’ll be contacted if you need to provide more information.</p>\n\n<h2 id=\"more-information-on-medicines\">More information on medicines</h2>\n\n<p>Read the <a rel=\"external\" href=\"http://www.mhra.gov.uk/Safetyinformation/Medicinesinformation/SPCandPILs/index.htm\">patient information leaflet</a> for the type of medicine you want to report if you had a side effect (for example drowsiness or nausea) - it will give you advice on what you should do.</p>\n\n<p>You can also read <a rel=\"external\" href=\"https://yellowcard.mhra.gov.uk/idap\">a list of reported side effects</a>.</p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "http://www.mhra.gov.uk/yellowcard",
+    "variants": [
+
+    ],
+    "will_continue_on": "the Yellow Card Scheme website"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2014-12-24T11:17:15Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/report-problem-medicine-medical-device",
+        "api_url": "https://www.gov.uk/api/content/report-problem-medicine-medical-device",
+        "base_path": "/report-problem-medicine-medical-device",
+        "content_id": "29cf45d6-62f1-4552-9974-3585b5445768",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-24T11:41:50Z",
+        "schema_name": "transaction",
+        "title": "Report a problem with a medicine or medical device",
+        "web_url": "https://www.gov.uk/report-problem-medicine-medical-device",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/justice/your-rights-legal-support",
+        "api_url": "https://www.gov.uk/api/content/browse/justice/your-rights-legal-support",
+        "base_path": "/browse/justice/your-rights-legal-support",
+        "content_id": "d91316d1-6f52-4350-be20-b2d98ba34b6c",
+        "description": "Includes legal aid, consumer advice, discrimination, work and residential property disputes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:47Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Your rights and legal support",
+        "web_url": "https://www.gov.uk/browse/justice/your-rights-legal-support",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/consumer-advice",
+        "api_url": "https://www.gov.uk/api/content/consumer-advice",
+        "base_path": "/consumer-advice",
+        "content_id": "d0d97ae6-4e86-485e-9fd0-7b22a07a4ff2",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/justice/your-rights-legal-support",
+              "api_url": "https://www.gov.uk/api/content/browse/justice/your-rights-legal-support",
+              "base_path": "/browse/justice/your-rights-legal-support",
+              "content_id": "d91316d1-6f52-4350-be20-b2d98ba34b6c",
+              "description": "Includes legal aid, consumer advice, discrimination, work and residential property disputes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/justice",
+                    "api_url": "https://www.gov.uk/api/content/browse/justice",
+                    "base_path": "/browse/justice",
+                    "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+                    "description": "Legal processes, courts and the police",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2022-04-06T18:09:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Crime, justice and the law",
+                    "web_url": "https://www.gov.uk/browse/justice",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Your rights and legal support",
+              "web_url": "https://www.gov.uk/browse/justice/your-rights-legal-support",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-05-22T15:48:19Z",
+        "schema_name": "answer",
+        "title": "Consumer advice",
+        "web_url": "https://www.gov.uk/consumer-advice",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/consumer-protection-rights",
+        "api_url": "https://www.gov.uk/api/content/consumer-protection-rights",
+        "base_path": "/consumer-protection-rights",
+        "content_id": "c9bcd962-c689-4193-b75a-ae01f6b62ad8",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/justice/your-rights-legal-support",
+              "api_url": "https://www.gov.uk/api/content/browse/justice/your-rights-legal-support",
+              "base_path": "/browse/justice/your-rights-legal-support",
+              "content_id": "d91316d1-6f52-4350-be20-b2d98ba34b6c",
+              "description": "Includes legal aid, consumer advice, discrimination, work and residential property disputes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/justice",
+                    "api_url": "https://www.gov.uk/api/content/browse/justice",
+                    "base_path": "/browse/justice",
+                    "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+                    "description": "Legal processes, courts and the police",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2022-04-06T18:09:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Crime, justice and the law",
+                    "web_url": "https://www.gov.uk/browse/justice",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Your rights and legal support",
+              "web_url": "https://www.gov.uk/browse/justice/your-rights-legal-support",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-02T17:04:04Z",
+        "schema_name": "answer",
+        "title": "Consumer rights",
+        "web_url": "https://www.gov.uk/consumer-protection-rights",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA63",
+        "api_path": "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+        "base_path": "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+        "content_id": "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+        "details": {
+          "acronym": "MHRA",
+          "brand": "department-of-health",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Medicines &amp; Healthcare products<br/>Regulatory Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Medicines and Healthcare products Regulatory Agency",
+        "web_url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/justice/your-rights-legal-support",
+        "api_url": "https://www.gov.uk/api/content/browse/justice/your-rights-legal-support",
+        "base_path": "/browse/justice/your-rights-legal-support",
+        "content_id": "d91316d1-6f52-4350-be20-b2d98ba34b6c",
+        "description": "Includes legal aid, consumer advice, discrimination, work and residential property disputes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/justice",
+              "api_url": "https://www.gov.uk/api/content/browse/justice",
+              "base_path": "/browse/justice",
+              "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+              "description": "Legal processes, courts and the police",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2022-04-06T18:09:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Crime, justice and the law",
+              "web_url": "https://www.gov.uk/browse/justice",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:47Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Your rights and legal support",
+        "web_url": "https://www.gov.uk/browse/justice/your-rights-legal-support",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/drug-analysis-prints",
+        "api_url": "https://www.gov.uk/api/content/drug-analysis-prints",
+        "base_path": "/drug-analysis-prints",
+        "content_id": "d0ad9e57-c4db-475d-a13f-52fd73437e24",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-25T10:37:40Z",
+        "schema_name": "transaction",
+        "title": "Check drug analysis profiles (iDAPs)",
+        "web_url": "https://www.gov.uk/drug-analysis-prints",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/the-yellow-card-scheme-guidance-for-healthcare-professionals",
+        "api_url": "https://www.gov.uk/api/content/guidance/the-yellow-card-scheme-guidance-for-healthcare-professionals",
+        "base_path": "/guidance/the-yellow-card-scheme-guidance-for-healthcare-professionals",
+        "content_id": "5f18c10a-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-01-01T10:39:01Z",
+        "schema_name": "detailed_guide",
+        "title": "The Yellow Card scheme: guidance for healthcare professionals, patients and the public",
+        "web_url": "https://www.gov.uk/guidance/the-yellow-card-scheme-guidance-for-healthcare-professionals",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/contact-mhra",
+        "api_url": "https://www.gov.uk/api/content/guidance/contact-mhra",
+        "base_path": "/guidance/contact-mhra",
+        "content_id": "dfe90c09-d09d-4f52-8606-108140980ed7",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-02-14T10:48:42Z",
+        "schema_name": "detailed_guide",
+        "title": "Contact MHRA",
+        "web_url": "https://www.gov.uk/guidance/contact-mhra",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/crime-justice-and-law/rights",
+        "api_url": "https://www.gov.uk/api/content/crime-justice-and-law/rights",
+        "base_path": "/crime-justice-and-law/rights",
+        "content_id": "ed952e5a-2ea7-44c0-aed9-c97ffe58993b",
+        "details": {
+          "internal_name": "Your rights and the law [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/crime-justice-and-law",
+              "api_url": "https://www.gov.uk/api/content/crime-justice-and-law",
+              "base_path": "/crime-justice-and-law",
+              "content_id": "ba951b09-5146-43be-87af-44075eac3ae9",
+              "description": "",
+              "details": {
+                "internal_name": "Crime, justice and law",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:34:51Z",
+              "schema_name": "taxon",
+              "title": "Crime, justice and law",
+              "web_url": "https://www.gov.uk/crime-justice-and-law",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:15:51Z",
+        "schema_name": "taxon",
+        "title": "Your rights and the law",
+        "web_url": "https://www.gov.uk/crime-justice-and-law/rights",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-12-24T11:41:50Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21070-1572439679.638-10.3.3.1-8793",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Report a problem with a medicine or medical device",
+  "updated_at": "2023-12-19T13:04:38Z",
+  "withdrawn_notice": {
+  }
+}

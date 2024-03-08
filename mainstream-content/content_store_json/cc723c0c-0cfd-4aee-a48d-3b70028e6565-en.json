@@ -1,0 +1,819 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/driving-nongb-licence",
+  "content_id": "cc723c0c-0cfd-4aee-a48d-3b70028e6565",
+  "description": "Use this tool to see if you can drive in Great Britain with your non-GB driving licence",
+  "details": {
+    "body": "<p>Use this tool to see if you can drive in Great Britain with your non-GB driving licence.</p>\n\n<p>Great Britain is England, Wales and Scotland.</p>\n",
+    "external_related_links": [
+
+    ],
+    "nodes": [
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "a resident of Great Britain?",
+            "next_node": "question-2",
+            "slug": "a-resident-of-great-britain"
+          },
+          {
+            "label": "a visitor to Great Britain?",
+            "next_node": "question-5",
+            "slug": "a-visitor-to-great-britain"
+          },
+          {
+            "label": "a foreign student studying in Great Britain?",
+            "next_node": "question-6",
+            "slug": "a-foreign-student-studying-in-great-britain"
+          }
+        ],
+        "slug": "question-1",
+        "title": "Are you:"
+      },
+      {
+        "body": "<p>Your licence will say on it what type of vehicles you can drive.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Full car and motorcycle",
+            "next_node": "question-3",
+            "slug": "full-car-and-motorcycle"
+          },
+          {
+            "label": "Full lorry, minibus and bus",
+            "next_node": "question-4",
+            "slug": "full-lorry-minibus-and-bus"
+          }
+        ],
+        "slug": "question-2",
+        "title": "What kind of driving licence do you have?"
+      },
+      {
+        "body": "<p>The ‘designated countries or territories’ are: Andorra, Australia, Barbados, British Virgin Islands, Canada, Cayman Islands, Falkland Islands, Faroe Islands, Gibraltar, Hong Kong, Japan, Monaco, New Zealand, Republic of Korea, Republic of North Macedonia, Singapore, South Africa, Switzerland, Taiwan, Ukraine, United Arab Emirates and Zimbabwe.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Great Britain and Northern Ireland",
+            "next_node": "question-7",
+            "slug": "great-britain-and-northern-ireland"
+          },
+          {
+            "label": "European Union or European Economic Area",
+            "next_node": "outcome-2",
+            "slug": "european-union-or-european-economic-area"
+          },
+          {
+            "label": "Gibraltar, Jersey, Guernsey, Isle of Man or a 'designated country or territory'*",
+            "next_node": "outcome-3",
+            "slug": "gibraltar-jersey-guernsey-isle-of-man-or-a-designated-country-or-territory"
+          },
+          {
+            "label": "Any other country",
+            "next_node": "outcome-4",
+            "slug": "any-other-country"
+          }
+        ],
+        "slug": "question-3",
+        "title": "Where did you pass your test?"
+      },
+      {
+        "body": "<p>The ‘designated countries or territories’ are: Andorra, Australia, Barbados, British Virgin Islands, Canada, Cayman Islands, Falkland Islands, Faroe Islands, Gibraltar, Hong Kong, Japan, Monaco, New Zealand, Republic of Korea, Republic of North Macedonia, Singapore, South Africa, Switzerland, Taiwan, Ukraine, United Arab Emirates and Zimbabwe.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Great Britain and Northern Ireland",
+            "next_node": "question-8",
+            "slug": "great-britain-and-northern-ireland"
+          },
+          {
+            "label": "European Union or European Economic Area",
+            "next_node": "outcome-5",
+            "slug": "european-union-or-european-economic-area"
+          },
+          {
+            "label": "Switzerland",
+            "next_node": "outcome-14",
+            "slug": "switzerland"
+          },
+          {
+            "label": "Gibraltar, Jersey, Guernsey or the Isle of Man",
+            "next_node": "outcome-3",
+            "slug": "gibraltar-jersey-guernsey-or-the-isle-of-man"
+          },
+          {
+            "label": "A 'designated country or territory'*",
+            "next_node": "outcome-6",
+            "slug": "a-designated-country-or-territory"
+          },
+          {
+            "label": "Any other country",
+            "next_node": "outcome-7",
+            "slug": "any-other-country"
+          }
+        ],
+        "slug": "question-4",
+        "title": "Where did you pass your test?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Great Britain and Northern Ireland",
+            "next_node": "outcome-1",
+            "slug": "great-britain-and-northern-ireland"
+          },
+          {
+            "label": "European Union or European Economic Area",
+            "next_node": "outcome-9",
+            "slug": "european-union-or-european-economic-area"
+          },
+          {
+            "label": "Jersey, Guernsey or the Isle of Man",
+            "next_node": "outcome-10",
+            "slug": "jersey-guernsey-or-the-isle-of-man"
+          },
+          {
+            "label": "Any other country",
+            "next_node": "outcome-11",
+            "slug": "any-other-country"
+          }
+        ],
+        "slug": "question-5",
+        "title": "Where did you pass your test?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "European Union or European Economic Area",
+            "next_node": "outcome-12",
+            "slug": "european-union-or-european-economic-area"
+          },
+          {
+            "label": "Non-European Union",
+            "next_node": "outcome-13",
+            "slug": "non-european-union"
+          }
+        ],
+        "slug": "question-6",
+        "title": "Where are you from?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Before 1 January 2021",
+            "next_node": "outcome-16",
+            "slug": "before-1-january-2021"
+          },
+          {
+            "label": "On or after 1 January 2021",
+            "next_node": "outcome-15",
+            "slug": "on-or-after-1-january-2021"
+          }
+        ],
+        "slug": "question-7",
+        "title": "When did you first get your driving licence?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Before 1 January 2021",
+            "next_node": "outcome-5",
+            "slug": "before-1-january-2021"
+          },
+          {
+            "label": "On or after 1 January 2021",
+            "next_node": "outcome-8",
+            "slug": "on-or-after-1-january-2021"
+          }
+        ],
+        "slug": "question-8",
+        "title": "When did you first get your driving licence?"
+      },
+      {
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-1",
+        "title": "You can drive in Great Britain on your full, valid driving licence until it expires"
+      },
+      {
+        "body": "<p>You can <a href=\"/exchange-foreign-driving-licence\">exchange your EU licence for a GB licence</a> if you wish to - - for example, if you need a GB licence for your job. You do not have to retake your test to do so.</p>\n\n<h2 id=\"driving-over-the-age-of-70\">Driving over the age of 70</h2>\n\n<p>If you were younger than 67 when you became a resident, you can drive on your EU licence until you’re 70.</p>\n\n<p>If you were 67 or older when you became a resident, you can drive on your EU licence for 3 years after that point.</p>\n\n<p>You can <a href=\"/exchange-foreign-driving-licence\">exchange your EU licence for a GB licence</a> when you cannot drive on it anymore.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You can drive in Great Britain for only 12 months if you got your EU licence by exchanging your non-EU licence.</p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-2",
+        "title": "You can drive in Great Britain on your full, valid driving licence "
+      },
+      {
+        "body": "<p>You can <a href=\"/exchange-foreign-driving-licence\">exchange your driving licence</a> up to 5 years after you became resident.</p>\n\n<h2 id=\"if-youre-from-ukraine\">If you’re from Ukraine</h2>\n\n<p>You can use your valid driving licence in Great Britain for 3 years after becoming resident if you: </p>\n\n<ul>\n  <li>have a Ukraine Family Scheme visa, Ukraine Sponsorship Scheme visa or Ukraine Extension Scheme visa</li>\n  <li>came to the UK on a Ukraine visa scheme and then switched to a different type of visa</li>\n</ul>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-3",
+        "title": "You can drive in Great Britain on your full, valid driving licence for 12 months from when you became resident"
+      },
+      {
+        "body": "<p>After 12 months you’ll need to <a href=\"/apply-first-provisional-driving-licence\">apply for a provisional licence</a> and pass the <a href=\"/driving-theory-test\">theory</a> and <a href=\"/practical-driving-test-for-cars\">practical driving tests</a> to drive in Great Britain.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-4",
+        "title": "You can drive in Great Britain on your full, valid driving licence for 12 months from when you became resident"
+      },
+      {
+        "body": "\n<p>If you’re over 45 but under 65 you can drive for 5 years or until you are 66, whichever is shorter.</p>\n\n<h2 id=\"exchanging-your-licence\">Exchanging your licence</h2>\n\n<p>You can <a href=\"/exchange-foreign-driving-licence\">exchange your EU licence for a GB licence</a> if you wish to - for example, if you need a GB licence for your job. You do not have to retake your test to do so.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You must <a href=\"/government/publications/application-for-a-driving-licence-counterpart-for-non-gb-licence-holders-form-d9\">register your details with the Driver and Vehicle Licensing Agency (DVLA)</a> within 12 months of becoming resident.</p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-5",
+        "title": "You can drive in Great Britain on your full, valid licence until you’re 45, or for 5 years after you become resident in Great Britain, whichever is longer"
+      },
+      {
+        "body": "<p>You can drive cars and motorcycles for 12 months after becoming resident in Great Britain, as long as your licence remains valid.</p>\n\n<p>If you’re from Ukraine, you can drive cars or motorcycles for 36 months after becoming resident in Great Britain.</p>\n\n<p>You can <a href=\"/exchange-foreign-driving-licence\">exchange your car or motorcycle licence</a> for a GB one. You have 5 years since you became resident to do this.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-6",
+        "title": "You cannot drive a lorry, minibus or bus in Great Britain (GB) on your driving licence"
+      },
+      {
+        "body": "<p>You can drive cars and motorcycles for 12 months after becoming resident in Great Britain, as long as your licence remains valid.</p>\n\n<p>After the 12 months you cannot exchange your licence for a <abbr title=\"Great Britain\">GB</abbr> licence and you’ll have to stop driving on your foreign licence.</p>\n\n<p>You’ll have to <a href=\"/apply-first-provisional-driving-licence\">apply for a <abbr title=\"Great Britain\">GB</abbr> provisional driving licence</a> and then pass the <a href=\"/driving-theory-test\">theory</a> and <a href=\"/practical-driving-test-for-cars\">practical driving tests</a> to continue driving in Great Britain.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-7",
+        "title": "You cannot drive a lorry, minibus or bus in Great Britain (GB) on your driving licence"
+      },
+      {
+        "body": "<p>If you exchanged your <abbr title=\"Great Britain\">GB</abbr> licence for a licence issued by another country and are now resident again, you cannot drive a lorry, minibus or bus in Great Britain on that licence.</p>\n\n<p>You can exchange your foreign licence for a full <abbr title=\"Great Britain\">GB</abbr> licence at any time. There is no fee.</p>\n\n<p>You can still drive cars and motorcycles for 12 months after becoming a resident in Great Britain, as long as your foreign licence remains valid.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-8",
+        "title": "You cannot drive a lorry, minibus or bus in Great Britain (GB) on your driving licence"
+      },
+      {
+        "body": "<p>If your vehicle is insured in the EU, Andorra, Iceland, Liechtenstein, Norway, Serbia or Switzerland, you should carry either:</p>\n\n<ul>\n  <li>an insurance ‘green card’</li>\n  <li>other proof of insurance</li>\n</ul>\n\n<p>To be valid, your other proof of insurance must be a document issued by the insurer of the vehicle and include the:</p>\n\n<ul>\n  <li>name of the insurer</li>\n  <li>number plate or other information to identify the vehicle, for example the vehicle identification number</li>\n  <li>period of insurance cover</li>\n</ul>\n\n<p>If your vehicle is insured in a country outside the EU, Andorra, Iceland, Liechtenstein, Norway, Serbia or Switzerland, you must either:</p>\n\n<ul>\n  <li>carry a green card - if your country is a member of the <a rel=\"external\" href=\"https://www.cobx.org/article/4130/green-card-system-final#content-2233\">green card system</a>\n</li>\n  <li>\n<a href=\"/vehicle-insurance\">insure your vehicle in the UK</a> - if your country is not a member of the green card system</li>\n</ul>\n\n<p>Green cards from Belarus or Russia are not accepted in Great Britain.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-9",
+        "title": "You can drive any type of vehicle listed on your full and valid licence"
+      },
+      {
+        "body": "<p>If you’ve got a bus or lorry licence you can only drive buses or lorries in Great Britain if you’ve actually driven the vehicle into Great Britain yourself. The rules are the same whether the vehicle was registered in Great Britain or not.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-10",
+        "title": "You can drive any type of small vehicle (for example cars or motorcycles) listed on your full and valid licence for 12 months from when you last entered Great Britain (GB)"
+      },
+      {
+        "body": "<p>If you’ve got a bus or lorry licence you can only drive buses or lorries that are registered outside Great Britain if you’ve actually driven the vehicle into Great Britain yourself.</p>\n\n<p>Green cards from Belarus or Russia are not accepted in Great Britain.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-11",
+        "title": "You can drive any type of small vehicle (for example cars or motorcycles) listed on your full and valid licence for 12 months from when you last entered Great Britain (GB)"
+      },
+      {
+        "body": "<p>You can <a href=\"/exchange-foreign-driving-licence\">exchange your EU licence for a GB licence</a> if you wish to - for example, if you need a GB licence for your job. You do not have to retake your test to do so.</p>\n\n<h2 id=\"if-you-do-not-have-a-driving-licence-yet\">If you do not have a driving licence yet</h2>\n\n<p><a href=\"/apply-first-provisional-driving-licence\">Apply for a GB provisional licence</a>.</p>\n\n<p>You can take a driving test in Great Britain after you’ve been living here for at least 185 days.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-12",
+        "title": "You can drive in Great Britain for as long as your licence is valid, or until you're 70, if you've got a driving licence from a European Union (EU) country"
+      },
+      {
+        "body": "<p>If your driving licence is from a ‘designated country or territory’ you can then apply to exchange it for a <abbr title=\"Great Britain\">GB</abbr> licence up to 5 years after becoming a <abbr title=\"Great Britain\">GB</abbr> resident.</p>\n\n<p>If you do not have a driving licence yet, or your licence is from a ‘non-designated country or territory’, you’ll first need to <a href=\"/apply-first-provisional-driving-licence\">apply for a provisional <abbr title=\"Great Britain\">GB</abbr> licence</a>. You can then <a href=\"/practical-driving-test-for-cars\">take a driving test</a> and apply for a full licence once you’ve been in Great Britain for at least 6 months.</p>\n\n<p>The ‘designated countries or territories’ are: Andorra, Australia, Barbados, British Virgin Islands, Canada, Cayman Islands, Falkland Islands, Faroe Islands, Gibraltar, Hong Kong, Japan, Monaco, New Zealand, Republic of Korea, Republic of North Macedonia, Singapore, South Africa, Switzerland, Taiwan, Ukraine, United Arab Emirates and Zimbabwe.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-13",
+        "title": "You can drive in Great Britain for 12 months if you’ve got a non-European Union (EU) driving licence or international driving permit"
+      },
+      {
+        "body": "<p>You must then <a href=\"/exchange-foreign-driving-licence\">exchange your car, motorcycle, large bus or lorry licence</a> for a <abbr title=\"Great Britain\">GB</abbr> one.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-14",
+        "title": "You can drive any type of small vehicle (for example cars or motorcycles) listed on your full and valid licence for 12 months after becoming resident in Great Britain"
+      },
+      {
+        "body": "<p>After 12 months, you’ll have to stop driving on your foreign licence. You can exchange it for a <abbr title=\"Great Britain\">GB</abbr> licence at any time. There is no fee.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-15",
+        "title": "You can drive in Great Britain (GB) on your full, valid driving licence for 12 months from when you became a resident"
+      },
+      {
+        "body": "<p>You can <a href=\"/exchange-foreign-driving-licence\">exchange your EU licence for a GB licence</a> if you wish to – for example, if you need a GB licence for your job. You do not have to retake your test to do so.</p>\n\n<h2 id=\"driving-over-the-age-of-70\">Driving over the age of 70</h2>\n\n<p>If you were younger than 67 when you became a resident, you can drive on your EU licence until you’re 70.</p>\n\n<p>If you were 67 or older when you became a resident, you can drive on your EU licence for 3 years after that point. </p>\n\n<p>You can <a href=\"/exchange-foreign-driving-licence\">exchange your EU licence for a GB licence</a> when you cannot drive on it anymore.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-16",
+        "title": "You can drive in Great Britain on your full, valid driving licence"
+      }
+    ],
+    "start_button_text": "Start now"
+  },
+  "document_type": "simple_smart_answer",
+  "first_published_at": "2014-02-03T14:03:22Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/driving-nongb-licence",
+        "api_url": "https://www.gov.uk/api/content/driving-nongb-licence",
+        "base_path": "/driving-nongb-licence",
+        "content_id": "cc723c0c-0cfd-4aee-a48d-3b70028e6565",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-09-20T08:25:54Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Driving in Great Britain on a non-GB licence",
+        "web_url": "https://www.gov.uk/driving-nongb-licence",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/trade-with-the-uk-as-a-business-based-in-the-eu",
+        "api_url": "https://www.gov.uk/api/content/government/collections/trade-with-the-uk-as-a-business-based-in-the-eu",
+        "base_path": "/government/collections/trade-with-the-uk-as-a-business-based-in-the-eu",
+        "content_id": "536113ef-76bc-477b-bb55-1bf600ab1c33",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/driving-nongb-licence",
+              "api_url": "https://www.gov.uk/api/content/driving-nongb-licence",
+              "base_path": "/driving-nongb-licence",
+              "content_id": "cc723c0c-0cfd-4aee-a48d-3b70028e6565",
+              "document_type": "simple_smart_answer",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2016-09-20T08:25:54Z",
+              "schema_name": "simple_smart_answer",
+              "title": "Driving in Great Britain on a non-GB licence",
+              "web_url": "https://www.gov.uk/driving-nongb-licence",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2021-09-22T08:00:00Z",
+        "schema_name": "document_collection",
+        "title": "Trade with the UK as a business based in the EU",
+        "web_url": "https://www.gov.uk/government/collections/trade-with-the-uk-as-a-business-based-in-the-eu",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/driving-uk-and-abroad",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/driving-uk-and-abroad",
+        "base_path": "/browse/driving/driving-uk-and-abroad",
+        "content_id": "231ad2c1-c1cd-4e00-8479-5277cfe05027",
+        "description": "Drive abroad, drive in the UK with a foreign licence, bring a vehicle to the UK",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:39Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Driving in the UK and abroad",
+        "web_url": "https://www.gov.uk/browse/driving/driving-uk-and-abroad",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/driving-licences",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+        "base_path": "/browse/driving/driving-licences",
+        "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+        "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-26T14:10:42Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Driving licences",
+        "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/exchange-foreign-driving-licence",
+        "api_url": "https://www.gov.uk/api/content/exchange-foreign-driving-licence",
+        "base_path": "/exchange-foreign-driving-licence",
+        "content_id": "9fd997bc-7646-4d65-a273-11ccc9f87c91",
+        "document_type": "simple_smart_answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/driving-uk-and-abroad",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-uk-and-abroad",
+              "base_path": "/browse/driving/driving-uk-and-abroad",
+              "content_id": "231ad2c1-c1cd-4e00-8479-5277cfe05027",
+              "description": "Drive abroad, drive in the UK with a foreign licence, bring a vehicle to the UK",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving in the UK and abroad",
+              "web_url": "https://www.gov.uk/browse/driving/driving-uk-and-abroad",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/driving-licences",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+              "base_path": "/browse/driving/driving-licences",
+              "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+              "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-26T14:10:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving licences",
+              "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-01-04T13:13:01Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Exchange a foreign driving licence",
+        "web_url": "https://www.gov.uk/exchange-foreign-driving-licence",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA74",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-licensing-agency",
+        "content_id": "70580624-93b5-4aed-823b-76042486c769",
+        "details": {
+          "acronym": "DVLA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Licensing<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Licensing Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/driving-licences",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+        "base_path": "/browse/driving/driving-licences",
+        "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+        "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-26T14:10:42Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Driving licences",
+        "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/exchange-foreign-driving-licence",
+        "api_url": "https://www.gov.uk/api/content/exchange-foreign-driving-licence",
+        "base_path": "/exchange-foreign-driving-licence",
+        "content_id": "9fd997bc-7646-4d65-a273-11ccc9f87c91",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-01-04T13:13:01Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Exchange a foreign driving licence",
+        "web_url": "https://www.gov.uk/exchange-foreign-driving-licence",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/dvlaforms",
+        "api_url": "https://www.gov.uk/api/content/dvlaforms",
+        "base_path": "/dvlaforms",
+        "content_id": "421504cb-63c4-44fb-94ec-5d0129e1748c",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-09-06T15:24:19Z",
+        "schema_name": "transaction",
+        "title": "Download and order DVLA forms",
+        "web_url": "https://www.gov.uk/dvlaforms",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-first-provisional-driving-licence",
+        "api_url": "https://www.gov.uk/api/content/apply-first-provisional-driving-licence",
+        "base_path": "/apply-first-provisional-driving-licence",
+        "content_id": "f725a60e-a666-4269-82b0-946ecfb84b7c",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-04T00:01:05Z",
+        "schema_name": "transaction",
+        "title": "Apply for your first provisional driving licence",
+        "web_url": "https://www.gov.uk/apply-first-provisional-driving-licence",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/d9-application-to-register-a-non-gb-driving-licence",
+        "api_url": "https://www.gov.uk/api/content/government/publications/d9-application-to-register-a-non-gb-driving-licence",
+        "base_path": "/government/publications/d9-application-to-register-a-non-gb-driving-licence",
+        "content_id": "e0a32530-ae35-4562-8863-151d7223b31e",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-20T13:27:16Z",
+        "schema_name": "publication",
+        "title": "Application to register a non-GB driving licence (form D9)",
+        "web_url": "https://www.gov.uk/government/publications/d9-application-to-register-a-non-gb-driving-licence",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/driving-test",
+        "api_url": "https://www.gov.uk/api/content/driving-test",
+        "base_path": "/driving-test",
+        "content_id": "3bf0efc2-476c-4a9a-bd8a-872fb5c8e4d0",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-02-22T16:36:11Z",
+        "schema_name": "guide",
+        "title": "Driving test: cars",
+        "web_url": "https://www.gov.uk/driving-test",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/foreign-driving-licences",
+        "api_url": "https://www.gov.uk/api/content/transport/foreign-driving-licences",
+        "base_path": "/transport/foreign-driving-licences",
+        "content_id": "610be2c0-f078-4e8c-85bd-327ff5b6d0c9",
+        "description": "How foreign drivers can get a British driving licence or register a non-British licence.",
+        "details": {
+          "internal_name": "Foreign driving licences",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/driving-licences",
+              "api_url": "https://www.gov.uk/api/content/transport/driving-licences",
+              "base_path": "/transport/driving-licences",
+              "content_id": "c71f6a1e-2bcd-407e-b0da-6728cb55e4db",
+              "description": "Apply, check, change or share details of your driving licence, replace or surrender your driving licence.",
+              "details": {
+                "internal_name": "Driving licences",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Driving licences",
+              "web_url": "https://www.gov.uk/transport/driving-licences",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:15Z",
+        "schema_name": "taxon",
+        "title": "Foreign driving licences",
+        "web_url": "https://www.gov.uk/transport/foreign-driving-licences",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-09-20T08:25:54Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1703066749.648-10.13.22.118-38504",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "simple_smart_answer",
+  "title": "Driving in Great Britain on a non-GB licence",
+  "updated_at": "2024-02-21T16:15:40Z",
+  "withdrawn_notice": {
+  }
+}

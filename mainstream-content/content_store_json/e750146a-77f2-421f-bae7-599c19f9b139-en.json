@@ -1,0 +1,111 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/apply-funding-innovation",
+  "content_id": "e750146a-77f2-421f-bae7-599c19f9b139",
+  "description": "Use this service to apply for government-backed innovation funding for your business",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>If you’re a UK-based business or research organisation, you may be able to compete for government-backed funding to:</p>\n\n<ul>\n  <li>research and develop a process, product or service</li>\n  <li>test your innovation ideas</li>\n  <li>collaborate with other organisations</li>\n</ul>\n\n<p>Use this service to:</p>\n\n<ul>\n  <li>search and apply for innovation funding</li>\n  <li>submit, track and manage your applications</li>\n</ul>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://apply-for-innovation-funding.service.gov.uk/competition/search",
+    "will_continue_on": "the InnovateUK innovation funding finder"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2017-05-08T08:00:00Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/apply-funding-innovation",
+        "api_url": "https://www.gov.uk/api/content/apply-funding-innovation",
+        "base_path": "/apply-funding-innovation",
+        "content_id": "e750146a-77f2-421f-bae7-599c19f9b139",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-05-08T08:00:00Z",
+        "schema_name": "transaction",
+        "title": "Apply for innovation funding",
+        "web_url": "https://www.gov.uk/apply-funding-innovation",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "PB1221",
+        "api_path": "/api/content/government/organisations/uk-research-and-innovation",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/uk-research-and-innovation",
+        "base_path": "/government/organisations/uk-research-and-innovation",
+        "content_id": "d664afa8-ecd3-4e03-b914-d60aed4709c6",
+        "details": {
+          "acronym": "UKRI",
+          "brand": null,
+          "default_news_image": null,
+          "logo": {
+            "formatted_title": "UK Research <br/>and Innovation"
+          },
+          "organisation_govuk_status": {
+            "status": "exempt",
+            "updated_at": null,
+            "url": "http://www.ukri.org/"
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "UK Research and Innovation",
+        "web_url": "https://www.gov.uk/government/organisations/uk-research-and-innovation",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-05-08T08:00:00Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15544-1504183254.309-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Apply for innovation funding",
+  "updated_at": "2024-01-31T16:12:54Z",
+  "withdrawn_notice": {
+  }
+}

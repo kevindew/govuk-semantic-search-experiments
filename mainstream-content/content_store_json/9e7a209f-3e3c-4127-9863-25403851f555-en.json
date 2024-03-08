@@ -1,0 +1,176 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/help/reuse-govuk-content",
+  "content_id": "9e7a209f-3e3c-4127-9863-25403851f555",
+  "description": "How to reuse GOV.UK content and data using APIs, registers, schema and site scraping\r\n",
+  "details": {
+    "body": "<p>To reuse content published on GOV.UK you must meet the conditions of the <a rel=\"external\" href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\">Open Government Licence</a>.</p>\n\n<h2 id=\"govuk-apis\">GOV.UK APIs</h2>\n\n<p>As well as providing content for people, GOV.UK also provides content for computers. These are called APIs.</p>\n\n<p>There are 3 APIs that enable you to reuse GOV.UK content.</p>\n\n<h3 id=\"content-api\">Content <abbr title=\"Application Programming Interface\">API</abbr>\n</h3>\n\n<p>The Content <abbr title=\"Application Programming Interface\">API</abbr> provides access to the data that renders content on GOV.UK. You can use the GOV.UK page URL to access the content and metadata hosted on GOV.UK.</p>\n\n<p>Read the <a rel=\"external\" href=\"https://content-api.publishing.service.gov.uk\">Content <abbr title=\"Application Programming Interface\">API</abbr> documentation</a> for guidance on accessing and using this <abbr title=\"Application Programming Interface\">API</abbr>.</p>\n\n<h3 id=\"bank-holidays-api\">Bank Holidays <abbr title=\"Application Programming Interface\">API</abbr>\n</h3>\n\n<p>The <a href=\"https://www.gov.uk/bank-holidays.json\">Bank Holidays <abbr title=\"Application Programming Interface\">API</abbr> (in JSON format)</a> provides access to data about when the next bank holidays are in England and Wales, Scotland and Northern Ireland.</p>\n\n<h3 id=\"search-api-unsupported\">Search <abbr title=\"Application Programming Interface\">API</abbr> (unsupported)</h3>\n\n<p>You can access additional metadata that sits behind GOV.UK search results by using the GOV.UK Search <abbr title=\"Application Programming Interface\">API</abbr>. You can filter this data in different ways.</p>\n\n<p>For guidance on how to use this <abbr title=\"Application Programming Interface\">API</abbr>, read the <a rel=\"external\" href=\"https://docs.publishing.service.gov.uk/apis/search/search-api.html\">Search <abbr title=\"Application Programming Interface\">API</abbr> documentation</a> and the GOV.UK <a rel=\"external\" href=\"https://dataingovernment.blog.gov.uk/2016/05/26/use-the-search-api-to-get-useful-information-about-gov-uk-content\">blog post about using and filtering search data</a>.</p>\n\n<p>This is an unsupported <abbr title=\"Application Programming Interface\">API</abbr>, which means the <abbr title=\"Application Programming Interface\">API</abbr> may change without notice.</p>\n\n<h2 id=\"scraping-the-site\">Scraping the site</h2>\n\n<p>You can scrape GOV.UK as long as you respect our <a href=\"https://www.gov.uk/robots.txt\">robots.txt</a> policy. If you make too many requests, your access will be limited until your request rate drops. This is known as rate limiting.</p>\n\n<h2 id=\"schemas\">Schemas</h2>\n\n<p>GOV.UK uses <a rel=\"external\" href=\"https://schema.org/\">schema.org markup</a> to make it easier for web crawlers to index the site. These include:</p>\n\n<ul>\n  <li>\n<a rel=\"external\" href=\"https://schema.org/Article\">Article schema</a> for most pages on GOV.UK</li>\n  <li>\n<a rel=\"external\" href=\"https://schema.org/NewsArticle\">NewsArticle schema</a> for all news on GOV.UK</li>\n  <li>\n<a rel=\"external\" href=\"https://schema.org/HowTo\">HowTo schema</a> for step-by-step journeys such as <a href=\"/learn-to-drive-a-car\">‘Learn to drive a car’</a>\n</li>\n</ul>\n\n<h2 id=\"sitemap\">Sitemap</h2>\n\n<p>GOV.UK provides a <a href=\"https://www.gov.uk/sitemap.xml\">sitemap in XML format</a>. This sitemap lists the majority of pages on GOV.UK.</p>\n\n<h2 id=\"registers\">Registers</h2>\n\n<p><a rel=\"external\" href=\"https://www.registers.service.gov.uk/\">GOV.UK registers</a> provide lists of information via a secure <abbr title=\"Application Programming Interface\">API</abbr>. Each register contains reliable and consistent data to design and build services with.</p>\n\n<p>GOV.UK registers include:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"https://www.registers.service.gov.uk/registers/government-domain\">GOV.UK domain names register</a></li>\n  <li><a rel=\"external\" href=\"https://www.registers.service.gov.uk/registers/government-organisation\">Government organisations on GOV.UK register</a></li>\n  <li><a rel=\"external\" href=\"https://www.registers.service.gov.uk/registers/government-service\">Government services on GOV.UK register</a></li>\n</ul>\n\n",
+    "change_history": [
+      {
+        "note": "Some accessibility fixes made to link descriptions. ",
+        "public_timestamp": "2022-12-09T16:32:07.703Z"
+      }
+    ],
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "help_page",
+  "first_published_at": "2018-08-23T10:17:24Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/help/reuse-govuk-content",
+        "api_url": "https://www.gov.uk/api/content/help/reuse-govuk-content",
+        "base_path": "/help/reuse-govuk-content",
+        "content_id": "9e7a209f-3e3c-4127-9863-25403851f555",
+        "document_type": "help_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-09T16:32:07Z",
+        "schema_name": "help_page",
+        "title": "Reuse GOV.UK content",
+        "web_url": "https://www.gov.uk/help/reuse-govuk-content",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/help/about-govuk",
+        "api_url": "https://www.gov.uk/api/content/help/about-govuk",
+        "base_path": "/help/about-govuk",
+        "content_id": "464c5c16-dcdb-4ed0-9ba7-341ee652038a",
+        "document_type": "help_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-09-27T14:45:58Z",
+        "schema_name": "help_page",
+        "title": "About GOV.UK",
+        "web_url": "https://www.gov.uk/help/about-govuk",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/help/terms-conditions",
+        "api_url": "https://www.gov.uk/api/content/help/terms-conditions",
+        "base_path": "/help/terms-conditions",
+        "content_id": "df47bc71-2e96-4993-8342-11b4ba464f1d",
+        "document_type": "help_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-03-31T14:56:21Z",
+        "schema_name": "help_page",
+        "title": "Terms and conditions",
+        "web_url": "https://www.gov.uk/help/terms-conditions",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/help/get-emails-about-updates-to-govuk",
+        "api_url": "https://www.gov.uk/api/content/help/get-emails-about-updates-to-govuk",
+        "base_path": "/help/get-emails-about-updates-to-govuk",
+        "content_id": "7e21f642-af50-4833-a2ce-1a564c3571a7",
+        "document_type": "help_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-11-25T15:09:07Z",
+        "schema_name": "help_page",
+        "title": "Get emails about updates to GOV.UK",
+        "web_url": "https://www.gov.uk/help/get-emails-about-updates-to-govuk",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/help/beta",
+        "api_url": "https://www.gov.uk/api/content/help/beta",
+        "base_path": "/help/beta",
+        "content_id": "8779a87f-87e4-477a-a1f0-6fa415080dc8",
+        "document_type": "help_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-11-06T13:32:46Z",
+        "schema_name": "help_page",
+        "title": "Beta on GOV.UK",
+        "web_url": "https://www.gov.uk/help/beta",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2022-12-09T16:32:07Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "717-1670603527.657-10.13.1.115-10612",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "help_page",
+  "title": "Reuse GOV.UK content",
+  "updated_at": "2023-11-06T13:32:47Z",
+  "withdrawn_notice": {
+  }
+}

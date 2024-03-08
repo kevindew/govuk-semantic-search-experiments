@@ -1,0 +1,357 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/get-vehicle-information-from-dvla",
+  "content_id": "f3365a44-731f-414c-a353-37be3d86a56e",
+  "description": "",
+  "details": {
+    "external_related_links": [
+      {
+        "title": "Join the NHS Organ Donor Register",
+        "url": "https://www.organdonation.nhs.uk/how_to_become_a_donor/registration/consent.asp"
+      }
+    ]
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2014-02-25T18:02:28Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/get-vehicle-information-from-dvla",
+        "api_url": "https://www.gov.uk/api/content/done/get-vehicle-information-from-dvla",
+        "base_path": "/done/get-vehicle-information-from-dvla",
+        "content_id": "f3365a44-731f-414c-a353-37be3d86a56e",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-08-26T16:14:46Z",
+        "schema_name": "completed_transaction",
+        "title": "Get feedback on Get vehicle information from DVLA",
+        "web_url": "https://www.gov.uk/done/get-vehicle-information-from-dvla",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/check-the-mot-status-or-history-tax-status-or-registration-of-a-car",
+        "api_url": "https://www.gov.uk/api/content/needs/check-the-mot-status-or-history-tax-status-or-registration-of-a-car",
+        "base_path": "/needs/check-the-mot-status-or-history-tax-status-or-registration-of-a-car",
+        "content_id": "c150af44-23a6-4869-b37e-680e99d41a1c",
+        "details": {
+          "benefit": "so that I can check the seller's claims and decide about buying it or assess my car's performance",
+          "goal": "check the MOT status or history, tax status, or registration of a car",
+          "justifications": [
+            "It's something only government does",
+            "It's something the government provides/does/pays for"
+          ],
+          "met_when": [
+            "the user can check the current status of the vehicle's MOT"
+          ],
+          "role": "car driver or purchaser"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a car driver or purchaser, I need to check the MOT status or history, tax status, or registration of a car, so that so that I can check the seller's claims and decide about buying it or assess my car's performance (100260)",
+        "web_url": "https://www.gov.uk/needs/check-the-mot-status-or-history-tax-status-or-registration-of-a-car",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/register-to-vote",
+        "api_url": "https://www.gov.uk/api/content/register-to-vote",
+        "base_path": "/register-to-vote",
+        "content_id": "834a7921-260b-4061-9de1-edda3e998c68",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/citizenship/voting",
+              "api_url": "https://www.gov.uk/api/content/browse/citizenship/voting",
+              "base_path": "/browse/citizenship/voting",
+              "content_id": "b2363441-b46d-4045-a7ed-828c354558f2",
+              "description": "Register to vote, getting on the electoral register and voting by proxy",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/citizenship",
+                    "api_url": "https://www.gov.uk/api/content/browse/citizenship",
+                    "base_path": "/browse/citizenship",
+                    "content_id": "764a2ce0-eae5-414a-a4a9-2217507165fb",
+                    "description": "Voting, community participation, life in the UK, international projects",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:44Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Citizenship and living in the UK",
+                    "web_url": "https://www.gov.uk/browse/citizenship",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Voting",
+              "web_url": "https://www.gov.uk/browse/citizenship/voting",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-12-08T11:00:49Z",
+        "schema_name": "transaction",
+        "title": "Register to vote",
+        "web_url": "https://www.gov.uk/register-to-vote",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA74",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-licensing-agency",
+        "content_id": "70580624-93b5-4aed-823b-76042486c769",
+        "details": {
+          "acronym": "DVLA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Licensing<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Licensing Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+        "withdrawn": false
+      }
+    ],
+    "part_of_step_navs": [
+      {
+        "api_path": "/api/content/buy-a-vehicle",
+        "api_url": "https://www.gov.uk/api/content/buy-a-vehicle",
+        "base_path": "/buy-a-vehicle",
+        "content_id": "58fad183-27f5-4dd9-b51e-696c992373d7",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "text": "You'll need the vehicle's registration number, make, model and MOT test number. You also need to see the V5C vehicle registration certificate (log book). ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/get-vehicle-information-from-dvla",
+                        "text": "Check the details you've been given match DVLA's information"
+                      },
+                      {
+                        "href": "/check-mot-history",
+                        "text": "Check the vehicle's MOT history"
+                      },
+                      {
+                        "href": "/check-vehicle-recall",
+                        "text": "Check if the vehicle has been recalled because of a safety issue"
+                      },
+                      {
+                        "href": "/checks-when-buying-a-used-car",
+                        "text": "Check the log book isn't for a stolen vehicle"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Check the vehicle before you buy it"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Once you've bought the vehicle, you have to register it. How you register it depends on whether it has a V5C registration certificate (log book).",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/vehicle-registration/new-and-used-vehicles",
+                        "text": "Find out how to register your vehicle"
+                      },
+                      {
+                        "context": "£25",
+                        "href": "/vehicle-log-book",
+                        "text": "Get a vehicle log book if you don't have it"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Buy and register the vehicle"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must get an MOT for your vehicle every year once it's 3 years old. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/mot-reminder",
+                        "text": "Get a reminder when your MOT is due"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "optional": true,
+                "title": "Register for MOT reminders"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must have insurance before you can use your vehicle on the road.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "https://ownvehicle.askmid.com/",
+                        "text": "Check if your vehicle is insured on the Motor Insurance Database"
+                      },
+                      {
+                        "href": "/vehicle-insurance/uninsured-vehicles",
+                        "text": "Read about vehicle insurance"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Insure the vehicle"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You need to tax the vehicle before you can use it on the road.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/vehicle-tax-rate-tables",
+                        "text": "Check how much you’ll have to pay to tax your vehicle"
+                      },
+                      {
+                        "href": "/vehicle-exempt-from-vehicle-tax",
+                        "text": "Check when you don't have to pay vehicle tax"
+                      },
+                      {
+                        "href": "/vehicle-tax",
+                        "text": "Tax your vehicle"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Tax the vehicle"
+              }
+            ],
+            "title": "Buy a vehicle: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/done/get-vehicle-information-from-dvla",
+              "api_url": "https://www.gov.uk/api/content/done/get-vehicle-information-from-dvla",
+              "base_path": "/done/get-vehicle-information-from-dvla",
+              "content_id": "f3365a44-731f-414c-a353-37be3d86a56e",
+              "document_type": "completed_transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2020-08-26T16:14:46Z",
+              "schema_name": "completed_transaction",
+              "title": "Get feedback on Get vehicle information from DVLA",
+              "web_url": "https://www.gov.uk/done/get-vehicle-information-from-dvla",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2019-02-11T15:49:48Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Buy a vehicle: step by step",
+        "web_url": "https://www.gov.uk/buy-a-vehicle",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-08-26T16:14:46Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629922.473-10.13.30.3-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Get feedback on Get vehicle information from DVLA",
+  "updated_at": "2024-02-06T13:29:39Z",
+  "withdrawn_notice": {
+  }
+}

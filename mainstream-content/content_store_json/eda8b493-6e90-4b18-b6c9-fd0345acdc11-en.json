@@ -1,0 +1,189 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/calculate-child-maintenance",
+  "content_id": "eda8b493-6e90-4b18-b6c9-fd0345acdc11",
+  "description": "Use this calculator to work out an amount of child maintenance for your children.",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>You can use this calculator to work out an amount of child maintenance for your children. It will not send your details to the Department for Work and Pensions (<abbr title=\"Department for Work and Pensions\">DWP</abbr>).</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/cyfrifwch-gynhaliaeth-plant\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<p>The calculator:</p>\n\n<ul>\n  <li>gives you an amount to discuss if you’re <a href=\"/child-maintenance-service/private-arrangement\">arranging child maintenance with the other parent</a> - you do not have to use it</li>\n  <li>shows you what the government is likely to work out for you</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This calculator only estimates your child maintenance payments - it cannot tell you exactly what you’ll get. If you use the Child Maintenance Service the actual payments could be higher or lower.</p>\n</div>\n\n<p>You will not have anything to pay through the Child Maintenance Service if you are:</p>\n\n<ul>\n  <li>sharing care equally with the other parent</li>\n  <li>a full-time student with no income</li>\n  <li>in prison</li>\n</ul>\n\n<p>You can find out more about making an <a href=\"/child-maintenance-service/private-arrangement\">arrangement with the other parent</a>.</p>\n\n",
+    "more_information": "<p>You’ll need details of the following for the parent who’ll be paying:</p>\n\n<ul>\n  <li>their income, including State Pension</li>\n  <li>any benefits they get</li>\n  <li>the number of nights your child stays with them</li>\n</ul>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://child-maintenance.dwp.gov.uk/calculate/",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2019-08-12T10:27:03Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/calculate-child-maintenance",
+        "api_url": "https://www.gov.uk/api/content/calculate-child-maintenance",
+        "base_path": "/calculate-child-maintenance",
+        "content_id": "eda8b493-6e90-4b18-b6c9-fd0345acdc11",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-09-12T13:11:19Z",
+        "schema_name": "transaction",
+        "title": "Calculate your child maintenance ",
+        "web_url": "https://www.gov.uk/calculate-child-maintenance",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/births-deaths-marriages/child-adoption",
+        "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/child-adoption",
+        "base_path": "/browse/births-deaths-marriages/child-adoption",
+        "content_id": "932a86f4-4916-4d9f-99cb-dfd34d7ee5d1",
+        "description": "Legal rights, birth certificates, parental rights and child maintenance",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:48Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Having a child, parenting and adoption",
+        "web_url": "https://www.gov.uk/browse/births-deaths-marriages/child-adoption",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/childcare-parenting/divorce-separation-legal",
+        "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/divorce-separation-legal",
+        "base_path": "/browse/childcare-parenting/divorce-separation-legal",
+        "content_id": "0d29abb4-efb3-4fd7-b798-f707b03a1e6a",
+        "description": "Child maintenance and disagreements about parentage",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:35Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Divorce, separation and legal issues",
+        "web_url": "https://www.gov.uk/browse/childcare-parenting/divorce-separation-legal",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D10",
+        "api_path": "/api/content/government/organisations/department-for-work-pensions",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-work-pensions",
+        "base_path": "/government/organisations/department-for-work-pensions",
+        "content_id": "b548a09f-8b35-4104-89f4-f1a40bf3136d",
+        "details": {
+          "acronym": "DWP",
+          "brand": "department-for-work-pensions",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab1e5274a7908e35204/s960_dwp-caxton-house-logo-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab040f0b649cfaf7b4b/s300_dwp-caxton-house-logo-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Work &amp; <br/>Pensions"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Work and Pensions",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/childcare-parenting/divorce-separation-legal",
+        "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/divorce-separation-legal",
+        "base_path": "/browse/childcare-parenting/divorce-separation-legal",
+        "content_id": "0d29abb4-efb3-4fd7-b798-f707b03a1e6a",
+        "description": "Child maintenance and disagreements about parentage",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/childcare-parenting",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+              "base_path": "/browse/childcare-parenting",
+              "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+              "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-07-15T11:40:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Childcare and parenting",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:35Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Divorce, separation and legal issues",
+        "web_url": "https://www.gov.uk/browse/childcare-parenting/divorce-separation-legal",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2019-09-12T13:11:19Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "24735-1662461577.141-10.13.3.26-8697",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Calculate your child maintenance ",
+  "updated_at": "2024-03-06T08:35:54Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/food-safety-hazard-analysis",
+  "content_id": "09f98ec2-610a-4e68-9ea3-a2442a074a59",
+  "description": "If you run a food business you must have a hazard analysis plan (HACCP) to meet food safety and hygiene standards",
+  "details": {
+    "body": "\n<div class=\"summary\">\n<p>If you run a food business, you must have a plan based on the Hazard Analysis and Critical Control Point (HACCP) principles.</p>\n</div>\n\n<p>The <abbr title=\"Hazard Analysis and Critical Control Point\">HACCP</abbr> plan keeps your food safe from biological, chemical and physical food safety hazards. To make a plan you must:</p>\n\n<ul>\n  <li>identify any hazards that must be avoided, removed or reduced</li>\n  <li>identify the critical control points (<abbr title=\"Critical Control Points\">CCPs</abbr>) - the points when you need to prevent, remove or reduce a hazard in your work process</li>\n  <li>set limits for the <abbr title=\"Critical Control Points\">CCPs</abbr>\n</li>\n  <li>make sure you monitor the <abbr title=\"Critical Control Points\">CCPs</abbr>\n</li>\n  <li>put things right if there is a problem with a <abbr title=\"Critical Control Point\">CCP</abbr>\n</li>\n  <li>put checks in place to make sure your plan is working</li>\n  <li>keep records</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You might be inspected, and the inspector will need to see your records.</p>\n</div>\n\n<p>You can get detailed <a rel=\"external\" href=\"http://www.food.gov.uk/business-industry/caterers/haccp/#.UH1ku-1OE20\" title=\"Food Standards Agency introduction to HACCP\">advice on food safety management</a> based on <abbr title=\"Hazard Analysis and Critical Control Point\">HACCP</abbr>.</p>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-07-03T16:03:55Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/food-safety-hazard-analysis",
+        "api_url": "https://www.gov.uk/api/content/food-safety-hazard-analysis",
+        "base_path": "/food-safety-hazard-analysis",
+        "content_id": "09f98ec2-610a-4e68-9ea3-a2442a074a59",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-10-16T19:34:26Z",
+        "schema_name": "answer",
+        "title": "Make an HACCP food plan",
+        "web_url": "https://www.gov.uk/food-safety-hazard-analysis",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/food",
+        "api_url": "https://www.gov.uk/api/content/browse/business/food",
+        "base_path": "/browse/business/food",
+        "content_id": "75309d1a-bba9-4ad6-b0de-96d978624590",
+        "description": "Labelling and handling food, transporting, food safety",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-18T16:02:30Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Food, catering and retail",
+        "web_url": "https://www.gov.uk/browse/business/food",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/understand-food-safety-and-hygiene-requirements",
+        "api_url": "https://www.gov.uk/api/content/needs/understand-food-safety-and-hygiene-requirements",
+        "base_path": "/needs/understand-food-safety-and-hygiene-requirements",
+        "content_id": "2cf0550c-69dc-4f2a-8cff-a14a268a3733",
+        "details": {
+          "benefit": "comply with the requirements and don't put my customers at risk",
+          "goal": "understand food safety and hygiene requirements",
+          "justifications": [
+            "It's straightforward advice that helps people to comply with their statutory obligations"
+          ],
+          "met_when": [
+            "knows their obligations about food safety and hygene",
+            "knows what will happen with a food inspection",
+            "knows how to report a food safety incident",
+            "knows the import and export rules for food",
+            "knows how to make a HACCP plan"
+          ],
+          "role": "food business"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a food business, I need to understand food safety and hygiene requirements, so that comply with the requirements and don't put my customers at risk (103584)",
+        "web_url": "https://www.gov.uk/needs/understand-food-safety-and-hygiene-requirements",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/food-safety-your-responsibilities",
+        "api_url": "https://www.gov.uk/api/content/food-safety-your-responsibilities",
+        "base_path": "/food-safety-your-responsibilities",
+        "content_id": "89ff1504-ddfa-495a-b343-cabb6eed1b18",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/food",
+              "api_url": "https://www.gov.uk/api/content/browse/business/food",
+              "base_path": "/browse/business/food",
+              "content_id": "75309d1a-bba9-4ad6-b0de-96d978624590",
+              "description": "Labelling and handling food, transporting, food safety",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:30Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Food, catering and retail",
+              "web_url": "https://www.gov.uk/browse/business/food",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-12-22T11:05:14Z",
+        "schema_name": "guide",
+        "title": "Food safety - your responsibilities",
+        "web_url": "https://www.gov.uk/food-safety-your-responsibilities",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D102",
+        "api_path": "/api/content/government/organisations/food-standards-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/food-standards-agency",
+        "base_path": "/government/organisations/food-standards-agency",
+        "content_id": "447f8075-1c8c-40d3-8119-3e45ea9e6496",
+        "details": {
+          "acronym": "FSA",
+          "brand": "department-of-health",
+          "default_news_image": null,
+          "logo": {
+            "formatted_title": "Food Standards Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "exempt",
+            "updated_at": null,
+            "url": "http://www.food.gov.uk/"
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Food Standards Agency",
+        "web_url": "https://www.gov.uk/government/organisations/food-standards-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/food",
+        "api_url": "https://www.gov.uk/api/content/browse/business/food",
+        "base_path": "/browse/business/food",
+        "content_id": "75309d1a-bba9-4ad6-b0de-96d978624590",
+        "description": "Labelling and handling food, transporting, food safety",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-18T16:02:30Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Food, catering and retail",
+        "web_url": "https://www.gov.uk/browse/business/food",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/food-safety-your-responsibilities",
+        "api_url": "https://www.gov.uk/api/content/food-safety-your-responsibilities",
+        "base_path": "/food-safety-your-responsibilities",
+        "content_id": "89ff1504-ddfa-495a-b343-cabb6eed1b18",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-12-22T11:05:14Z",
+        "schema_name": "guide",
+        "title": "Food safety - your responsibilities",
+        "web_url": "https://www.gov.uk/food-safety-your-responsibilities",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/food-labelling-and-packaging",
+        "api_url": "https://www.gov.uk/api/content/food-labelling-and-packaging",
+        "base_path": "/food-labelling-and-packaging",
+        "content_id": "71262be0-8694-4ccf-8179-48dff2185491",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-04T14:23:36Z",
+        "schema_name": "guide",
+        "title": "Food labelling and packaging",
+        "web_url": "https://www.gov.uk/food-labelling-and-packaging",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/sign-up-for-food-safety-alerts",
+        "api_url": "https://www.gov.uk/api/content/sign-up-for-food-safety-alerts",
+        "base_path": "/sign-up-for-food-safety-alerts",
+        "content_id": "fa4e237c-bfa9-4ffc-b2e1-fc15ff7f6e87",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-10-15T14:16:31Z",
+        "schema_name": "transaction",
+        "title": "Sign up for food safety alerts",
+        "web_url": "https://www.gov.uk/sign-up-for-food-safety-alerts",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/environment/producing-distributing-food-food-labelling",
+        "api_url": "https://www.gov.uk/api/content/environment/producing-distributing-food-food-labelling",
+        "base_path": "/environment/producing-distributing-food-food-labelling",
+        "content_id": "f1126ffb-e352-4129-bb33-8e4dfdbee9ac",
+        "details": {
+          "internal_name": "Food labelling and safety [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/environment/producing-distributing-food",
+              "api_url": "https://www.gov.uk/api/content/environment/producing-distributing-food",
+              "base_path": "/environment/producing-distributing-food",
+              "content_id": "a937271d-25d1-4ebc-a2dd-eb94947c2122",
+              "details": {
+                "internal_name": "Producing and distributing food [T] (level 3, environment theme)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/environment/food-and-farming",
+                    "api_url": "https://www.gov.uk/api/content/environment/food-and-farming",
+                    "base_path": "/environment/food-and-farming",
+                    "content_id": "52ff5c99-a17b-42c4-a9d7-2cc92cccca39",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Food and farming",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/environment",
+                          "api_url": "https://www.gov.uk/api/content/environment",
+                          "base_path": "/environment",
+                          "content_id": "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Environment",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T13:39:00Z",
+                          "schema_name": "taxon",
+                          "title": "Environment",
+                          "web_url": "https://www.gov.uk/environment",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T11:59:10Z",
+                    "schema_name": "taxon",
+                    "title": "Food and farming",
+                    "web_url": "https://www.gov.uk/environment/food-and-farming",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:13:09Z",
+              "schema_name": "taxon",
+              "title": "Producing and distributing food",
+              "web_url": "https://www.gov.uk/environment/producing-distributing-food",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:13:10Z",
+        "schema_name": "taxon",
+        "title": "Food labelling and safety",
+        "web_url": "https://www.gov.uk/environment/producing-distributing-food-food-labelling",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-10-16T19:34:26Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15545-1504179289.955-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Make an HACCP food plan",
+  "updated_at": "2023-11-29T12:49:01Z",
+  "withdrawn_notice": {
+  }
+}

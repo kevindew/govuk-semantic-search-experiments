@@ -1,0 +1,359 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/stop-mot-reminder",
+  "content_id": "6885144b-a9a0-458a-a8fb-bf307f83e404",
+  "description": "View and stop MOT reminders by text message or email.",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Use this service to unsubscribe from an MOT reminder.</p>\n\n<p>You can also view your current reminders or <a href=\"/mot-reminder\">set up a new reminder</a>.</p>\n\n<p>You have to unsubscribe to stop getting reminders for a vehicle you’ve:</p>\n\n<ul>\n  <li>sold</li>\n  <li>transferred to someone else</li>\n  <li>scrapped or written-off</li>\n  <li>registered as off the road</li>\n</ul>\n",
+    "more_information": "<p>You’ll need the mobile phone number or email address you used to sign up for a reminder.</p>\n\n<h2 id=\"other-ways-to-unsubscribe\">Other ways to unsubscribe</h2>\n\n<p>You can also unsubscribe by:</p>\n\n<ul>\n  <li>following the instructions in the text message you received</li>\n  <li>clicking the unsubscribe link in the email you’ve been sent</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You’ll pay the cost of a standard text message to unsubscribe from text reminders.</p>\n</div>\n\n<h2 id=\"help-with-reminders\">Help with reminders</h2>\n\n<p>Contact the Driver and Vehicle Standards Agency (DVSA) to get help with MOT reminders.</p>\n\n<div class=\"contact\">\n<p>DVSA customer service centre <br>\nTelephone: 0300 123 9000<br>\nMonday to Friday, 7:30am to 6pm<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.reminders.mot-testing.service.gov.uk/start",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2022-09-21T09:30:28Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/stop-mot-reminder",
+        "api_url": "https://www.gov.uk/api/content/stop-mot-reminder",
+        "base_path": "/stop-mot-reminder",
+        "content_id": "6885144b-a9a0-458a-a8fb-bf307f83e404",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-09-21T09:30:28Z",
+        "schema_name": "transaction",
+        "title": "Stop MOT reminders",
+        "web_url": "https://www.gov.uk/stop-mot-reminder",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+        "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+        "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+        "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-19T13:20:18Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Vehicle tax, MOT and insurance",
+        "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/getting-an-mot",
+        "api_url": "https://www.gov.uk/api/content/getting-an-mot",
+        "base_path": "/getting-an-mot",
+        "content_id": "4a1f8cf7-3779-41d3-9b62-bf0297ff9545",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-10T12:43:54Z",
+        "schema_name": "guide",
+        "title": "Getting an MOT",
+        "web_url": "https://www.gov.uk/getting-an-mot",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-mot-status",
+        "api_url": "https://www.gov.uk/api/content/check-mot-status",
+        "base_path": "/check-mot-status",
+        "content_id": "dc57162b-59f4-4d0f-9b83-a67f74ffccf5",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-10T11:41:36Z",
+        "schema_name": "transaction",
+        "title": "Check the MOT status of a vehicle",
+        "web_url": "https://www.gov.uk/check-mot-status",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-mot-history",
+        "api_url": "https://www.gov.uk/api/content/check-mot-history",
+        "base_path": "/check-mot-history",
+        "content_id": "ad5110e0-fa62-49d3-923f-d50101f12014",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/vehicle-and-driver-information",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-and-driver-information",
+              "base_path": "/browse/driving/vehicle-and-driver-information",
+              "content_id": "52feb778-b249-4804-a9c3-dfdc05b7b224",
+              "description": "Get vehicle information, check MOT history, check driving licence history",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-25T09:29:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle and driver data and information",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-and-driver-information",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-20T14:58:22Z",
+        "schema_name": "transaction",
+        "title": "Check the MOT history of a vehicle",
+        "web_url": "https://www.gov.uk/check-mot-history",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA570",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-standards-agency",
+        "content_id": "d39237a5-678b-4bb5-a372-eb2cb036933d",
+        "details": {
+          "acronym": "DVSA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Standards<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Standards Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+        "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+        "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+        "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-19T13:20:18Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Vehicle tax, MOT and insurance",
+        "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2022-09-21T09:30:28Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "7910-1663752628.162-10.13.2.205-8447",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Stop MOT reminders",
+  "updated_at": "2024-03-08T09:58:58Z",
+  "withdrawn_notice": {
+  }
+}

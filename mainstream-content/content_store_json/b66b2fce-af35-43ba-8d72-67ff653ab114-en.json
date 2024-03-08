@@ -1,0 +1,704 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/employers-for-carers",
+  "content_id": "b66b2fce-af35-43ba-8d72-67ff653ab114",
+  "description": "Get advice and training if you are an employer and you want to retain and recruit employees who are also carers - telephone, email, website",
+  "details": {
+    "body": "\n<div class=\"summary\">\n<p>Advice and training for employers with employees who are carers.</p>\n</div>\n\n<div class=\"contact\">\n<p><strong>Employers for Carers</strong> <br>\n<a href=\"http://www.employersforcarers.org\">www.employersforcarers.org</a><br>\n<a href=\"mailto:employers@carersuk.org\">employers@carersuk.org</a> <br>\nTelephone: 020 7378 4956  <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<p>You can get advice about:</p>\n\n<ul>\n  <li>identifying carers in the workplace</li>\n  <li>managing staff carer networks</li>\n  <li>directing staff to other sources of support outside the workplace</li>\n  <li>practical solutions to combining work and care</li>\n</ul>\n\n<p>You can get training to help you with:</p>\n\n<ul>\n  <li>employment law</li>\n  <li>carers rights</li>\n  <li><a href=\"/flexible-working\">flexible working</a></li>\n  <li>managing stress</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Employers for Carers is a partner organisation of <a rel=\"external\" href=\"http://www.carersuk.org/\">Carers UK.</a></p>\n</div>\n",
+    "external_related_links": [
+      {
+        "title": "Carers UK",
+        "url": "http://www.carersuk.org/"
+      }
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2014-01-08T17:07:29Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/employers-for-carers",
+        "api_url": "https://www.gov.uk/api/content/employers-for-carers",
+        "base_path": "/employers-for-carers",
+        "content_id": "b66b2fce-af35-43ba-8d72-67ff653ab114",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-01-20T15:33:21Z",
+        "schema_name": "answer",
+        "title": "Employing people who are carers: advice and training",
+        "web_url": "https://www.gov.uk/employers-for-carers",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/employment-contracts-and-conditions",
+        "api_url": "https://www.gov.uk/api/content/employment-contracts-and-conditions",
+        "base_path": "/employment-contracts-and-conditions",
+        "content_id": "65c41235-b98f-4991-a1cb-fb4b9d1be105",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/contracts",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/contracts",
+              "base_path": "/browse/employing-people/contracts",
+              "content_id": "dbad809a-29b0-4be7-b3d9-9b0b302c4f44",
+              "description": "Includes types of worker, employee rights, overtime and changes to contracts",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:38Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Contracts of employment and working hours",
+              "web_url": "https://www.gov.uk/browse/employing-people/contracts",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/contract-working-hours",
+              "api_url": "https://www.gov.uk/api/content/browse/working/contract-working-hours",
+              "base_path": "/browse/working/contract-working-hours",
+              "content_id": "6b2f82a9-17c6-4a26-9c8a-9b4b10234891",
+              "description": "Includes employment status, workers' rights and changes to contracts",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Your contract and working hours",
+              "web_url": "https://www.gov.uk/browse/working/contract-working-hours",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-04-05T23:01:15Z",
+        "schema_name": "guide",
+        "title": "Employment contracts",
+        "web_url": "https://www.gov.uk/employment-contracts-and-conditions",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/time-off-for-dependants",
+        "api_url": "https://www.gov.uk/api/content/time-off-for-dependants",
+        "base_path": "/time-off-for-dependants",
+        "content_id": "85180533-d5ca-40d4-88ba-feb6d0c6b97b",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/working/time-off",
+              "api_url": "https://www.gov.uk/api/content/browse/working/time-off",
+              "base_path": "/browse/working/time-off",
+              "content_id": "e7360935-e4c8-4882-a2ad-bc81f5d6eaac",
+              "description": "Includes career breaks and the holiday entitlement calculator",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:40Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Holidays, time off, sick leave, maternity and paternity leave",
+              "web_url": "https://www.gov.uk/browse/working/time-off",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/employing-people/time-off",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/time-off",
+              "base_path": "/browse/employing-people/time-off",
+              "content_id": "0d1822c7-c454-4dba-b77c-326bc911742a",
+              "description": "Includes maternity and paternity leave, holiday entitlement and sick pay",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:38Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Statutory leave and time off",
+              "web_url": "https://www.gov.uk/browse/employing-people/time-off",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-09-05T14:44:41Z",
+        "schema_name": "guide",
+        "title": "Time off for family and dependants",
+        "web_url": "https://www.gov.uk/time-off-for-dependants",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/flexible-working",
+        "api_url": "https://www.gov.uk/api/content/flexible-working",
+        "base_path": "/flexible-working",
+        "content_id": "6320d253-3a78-4aba-ace8-d9a337f632f0",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/contracts",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/contracts",
+              "base_path": "/browse/employing-people/contracts",
+              "content_id": "dbad809a-29b0-4be7-b3d9-9b0b302c4f44",
+              "description": "Includes types of worker, employee rights, overtime and changes to contracts",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:38Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Contracts of employment and working hours",
+              "web_url": "https://www.gov.uk/browse/employing-people/contracts",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/contract-working-hours",
+              "api_url": "https://www.gov.uk/api/content/browse/working/contract-working-hours",
+              "base_path": "/browse/working/contract-working-hours",
+              "content_id": "6b2f82a9-17c6-4a26-9c8a-9b4b10234891",
+              "description": "Includes employment status, workers' rights and changes to contracts",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Your contract and working hours",
+              "web_url": "https://www.gov.uk/browse/working/contract-working-hours",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2018-12-18T14:37:31Z",
+        "schema_name": "guide",
+        "title": "Flexible working",
+        "web_url": "https://www.gov.uk/flexible-working",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/parental-leave",
+        "api_url": "https://www.gov.uk/api/content/parental-leave",
+        "base_path": "/parental-leave",
+        "content_id": "bb148231-a649-4ed0-9eb6-8b40965179b7",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/families",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/families",
+              "base_path": "/browse/benefits/families",
+              "content_id": "64e7bfb6-5213-425b-9e44-5c7eca17ad75",
+              "description": "Help if you look after children or plan to have or adopt a child. Includes Child Benefit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:25Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support for families",
+              "web_url": "https://www.gov.uk/browse/benefits/families",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/child-adoption",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/child-adoption",
+              "base_path": "/browse/births-deaths-marriages/child-adoption",
+              "content_id": "932a86f4-4916-4d9f-99cb-dfd34d7ee5d1",
+              "description": "Legal rights, birth certificates, parental rights and child maintenance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Having a child, parenting and adoption",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/child-adoption",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/childcare-parenting/childcare",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/childcare",
+              "base_path": "/browse/childcare-parenting/childcare",
+              "content_id": "1159936b-be05-44cb-b52c-87b3c9153959",
+              "description": "Finding childcare, financial support for childcare and childcare for school-age children",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+                    "base_path": "/browse/childcare-parenting",
+                    "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+                    "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-07-15T11:40:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Childcare and parenting",
+                    "web_url": "https://www.gov.uk/browse/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:34Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Childcare",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting/childcare",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/childcare-parenting/schools-education",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/schools-education",
+              "base_path": "/browse/childcare-parenting/schools-education",
+              "content_id": "6e3014fa-5bd1-48b9-9aab-f7b1241afdb6",
+              "description": "Sending a child to school, financial support, dealing with the school",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+                    "base_path": "/browse/childcare-parenting",
+                    "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+                    "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-07-15T11:40:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Childcare and parenting",
+                    "web_url": "https://www.gov.uk/browse/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:34Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Schools and education",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting/schools-education",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/employing-people/time-off",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/time-off",
+              "base_path": "/browse/employing-people/time-off",
+              "content_id": "0d1822c7-c454-4dba-b77c-326bc911742a",
+              "description": "Includes maternity and paternity leave, holiday entitlement and sick pay",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:38Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Statutory leave and time off",
+              "web_url": "https://www.gov.uk/browse/employing-people/time-off",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/time-off",
+              "api_url": "https://www.gov.uk/api/content/browse/working/time-off",
+              "base_path": "/browse/working/time-off",
+              "content_id": "e7360935-e4c8-4882-a2ad-bc81f5d6eaac",
+              "description": "Includes career breaks and the holiday entitlement calculator",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:40Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Holidays, time off, sick leave, maternity and paternity leave",
+              "web_url": "https://www.gov.uk/browse/working/time-off",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-05T00:01:00Z",
+        "schema_name": "guide",
+        "title": "Unpaid parental leave",
+        "web_url": "https://www.gov.uk/parental-leave",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D10",
+        "api_path": "/api/content/government/organisations/department-for-work-pensions",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-work-pensions",
+        "base_path": "/government/organisations/department-for-work-pensions",
+        "content_id": "b548a09f-8b35-4104-89f4-f1a40bf3136d",
+        "details": {
+          "acronym": "DWP",
+          "brand": "department-for-work-pensions",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab1e5274a7908e35204/s960_dwp-caxton-house-logo-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab040f0b649cfaf7b4b/s300_dwp-caxton-house-logo-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Work &amp; <br/>Pensions"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Work and Pensions",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/au-pairs-employment-law",
+        "api_url": "https://www.gov.uk/api/content/au-pairs-employment-law",
+        "base_path": "/au-pairs-employment-law",
+        "content_id": "61289398-23be-4fad-b7c0-0da35e512148",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-28T12:23:23Z",
+        "schema_name": "guide",
+        "title": "Employing someone to work in your home",
+        "web_url": "https://www.gov.uk/au-pairs-employment-law",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/maximum-weekly-working-hours",
+        "api_url": "https://www.gov.uk/api/content/maximum-weekly-working-hours",
+        "base_path": "/maximum-weekly-working-hours",
+        "content_id": "91bfcfaf-5e54-40a2-8762-62a2ad5a0074",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-09T17:20:19Z",
+        "schema_name": "guide",
+        "title": "Maximum weekly working hours",
+        "web_url": "https://www.gov.uk/maximum-weekly-working-hours",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employment-contracts-and-conditions",
+        "api_url": "https://www.gov.uk/api/content/employment-contracts-and-conditions",
+        "base_path": "/employment-contracts-and-conditions",
+        "content_id": "65c41235-b98f-4991-a1cb-fb4b9d1be105",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-04-05T23:01:15Z",
+        "schema_name": "guide",
+        "title": "Employment contracts",
+        "web_url": "https://www.gov.uk/employment-contracts-and-conditions",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/employment/working",
+        "api_url": "https://www.gov.uk/api/content/employment/working",
+        "base_path": "/employment/working",
+        "content_id": "092348a4-b896-4f8f-a0dc-e6d4605a4904",
+        "description": "Includes holidays and finding a job",
+        "details": {
+          "internal_name": "Working, jobs and pensions [M] (merged, level 2, work theme)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/work",
+              "api_url": "https://www.gov.uk/api/content/work",
+              "base_path": "/work",
+              "content_id": "d0f1e5a3-c8f4-4780-8678-994f19104b21",
+              "description": "",
+              "details": {
+                "internal_name": "Work",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:33:40Z",
+              "schema_name": "taxon",
+              "title": "Work",
+              "web_url": "https://www.gov.uk/work",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T11:08:23Z",
+        "schema_name": "taxon",
+        "title": "Working, jobs and pensions",
+        "web_url": "https://www.gov.uk/employment/working",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-01-20T15:33:21Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "3592-1504179295.046-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Employing people who are carers: advice and training",
+  "updated_at": "2024-03-06T08:34:52Z",
+  "withdrawn_notice": {
+  }
+}

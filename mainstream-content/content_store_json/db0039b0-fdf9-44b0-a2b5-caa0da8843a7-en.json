@@ -1,0 +1,387 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/support-group-for-children-young-people-families",
+  "content_id": "db0039b0-fdf9-44b0-a2b5-caa0da8843a7",
+  "description": "Your local council may have details of organisations in your community that can give families and young people help and support",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Your local council may have details of organisations in your community that can give families and young people help and support.</p>\n",
+    "lgil_code": 8,
+    "lgsl_code": 831,
+    "more_information": "\n",
+    "need_to_know": "<ul>\n  <li>Available in England and Wales only</li>\n</ul>\n",
+    "service_tiers": [
+      "district",
+      "unitary",
+      "county"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2011-09-16T16:58:06Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/support-group-for-children-young-people-families",
+        "api_url": "https://www.gov.uk/api/content/support-group-for-children-young-people-families",
+        "base_path": "/support-group-for-children-young-people-families",
+        "content_id": "db0039b0-fdf9-44b0-a2b5-caa0da8843a7",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-10-04T14:46:59Z",
+        "schema_name": "local_transaction",
+        "title": "Find a local support group for children, young people and families",
+        "web_url": "https://www.gov.uk/support-group-for-children-young-people-families",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/find-registered-childminder",
+        "api_url": "https://www.gov.uk/api/content/find-registered-childminder",
+        "base_path": "/find-registered-childminder",
+        "content_id": "2f2ee25a-30c8-4ded-a160-88783f978206",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/child-adoption",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/child-adoption",
+              "base_path": "/browse/births-deaths-marriages/child-adoption",
+              "content_id": "932a86f4-4916-4d9f-99cb-dfd34d7ee5d1",
+              "description": "Legal rights, birth certificates, parental rights and child maintenance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Having a child, parenting and adoption",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/child-adoption",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/childcare-parenting/childcare",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/childcare",
+              "base_path": "/browse/childcare-parenting/childcare",
+              "content_id": "1159936b-be05-44cb-b52c-87b3c9153959",
+              "description": "Finding childcare, financial support for childcare and childcare for school-age children",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+                    "base_path": "/browse/childcare-parenting",
+                    "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+                    "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-07-15T11:40:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Childcare and parenting",
+                    "web_url": "https://www.gov.uk/browse/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:34Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Childcare",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting/childcare",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-05T09:27:23Z",
+        "schema_name": "local_transaction",
+        "title": "Find a registered childminder",
+        "web_url": "https://www.gov.uk/find-registered-childminder",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1342",
+        "api_path": "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "base_path": "/government/organisations/department-for-levelling-up-housing-and-communities",
+        "content_id": "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+        "details": {
+          "acronym": "DLUHC",
+          "brand": "department-for-levelling-up-housing-and-communities",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for Levelling Up,<br/>Housing &amp; Communities"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Levelling Up, Housing and Communities ",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/housing-local-services",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+              "base_path": "/browse/housing-local-services",
+              "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+              "description": "Owning or renting and council services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Housing and local services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/find-a-community-support-group-or-organisation",
+        "api_url": "https://www.gov.uk/api/content/find-a-community-support-group-or-organisation",
+        "base_path": "/find-a-community-support-group-or-organisation",
+        "content_id": "f7bc5569-2c6d-4b2b-bf4a-5792cb3135b8",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:26:44Z",
+        "schema_name": "local_transaction",
+        "title": "Find a community support group or organisation",
+        "web_url": "https://www.gov.uk/find-a-community-support-group-or-organisation",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-registered-childminder",
+        "api_url": "https://www.gov.uk/api/content/find-registered-childminder",
+        "base_path": "/find-registered-childminder",
+        "content_id": "2f2ee25a-30c8-4ded-a160-88783f978206",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-05T09:27:23Z",
+        "schema_name": "local_transaction",
+        "title": "Find a registered childminder",
+        "web_url": "https://www.gov.uk/find-registered-childminder",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-sure-start-childrens-centre",
+        "api_url": "https://www.gov.uk/api/content/find-sure-start-childrens-centre",
+        "base_path": "/find-sure-start-childrens-centre",
+        "content_id": "6c0b86c0-95a7-4cb0-8965-b6c75f42602d",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-29T15:01:07Z",
+        "schema_name": "answer",
+        "title": "Find a Sure Start Children's Centre",
+        "web_url": "https://www.gov.uk/find-sure-start-childrens-centre",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/understand-how-your-council-works",
+        "api_url": "https://www.gov.uk/api/content/understand-how-your-council-works",
+        "base_path": "/understand-how-your-council-works",
+        "content_id": "df61f873-f42f-4fb9-8e8e-17fa6a583270",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-24T15:39:31Z",
+        "schema_name": "guide",
+        "title": "Understand how your council works",
+        "web_url": "https://www.gov.uk/understand-how-your-council-works",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/regional-and-local-government/local-councils",
+        "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-councils",
+        "base_path": "/regional-and-local-government/local-councils",
+        "content_id": "15191831-40b4-4f6e-ade3-e82d7c775afd",
+        "details": {
+          "internal_name": "Local councils and services [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/regional-and-local-government",
+              "api_url": "https://www.gov.uk/api/content/regional-and-local-government",
+              "base_path": "/regional-and-local-government",
+              "content_id": "503c5bc7-809a-47b9-83e2-bd0c212dbabb",
+              "description": "",
+              "details": {
+                "internal_name": "Regional and local government",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:30:05Z",
+              "schema_name": "taxon",
+              "title": "Regional and local government",
+              "web_url": "https://www.gov.uk/regional-and-local-government",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:09:40Z",
+        "schema_name": "taxon",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/regional-and-local-government/local-councils",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-10-04T14:46:59Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "3592-1504182736.907-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Find a local support group for children, young people and families",
+  "updated_at": "2024-03-01T16:02:28Z",
+  "withdrawn_notice": {
+  }
+}

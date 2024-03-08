@@ -1,0 +1,567 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/overseas-passports",
+  "content_id": "4c5096d7-b074-4f8c-8412-0ec8718b5d00",
+  "description": "Renew, replace or apply for an adult or child British passport if you’re living abroad or working overseas - forms, prices, how long it takes",
+  "details": {
+    "department_analytics_profile": "UA-50679428-3",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Get the forms, prices and application details you need if:</p>\n\n<ul>\n  <li>you’re a British national</li>\n  <li>you want to renew or apply for a British passport from overseas</li>\n</ul>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.passport.service.gov.uk/filter",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2017-04-28T11:41:08Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/overseas-passports",
+        "api_url": "https://www.gov.uk/api/content/overseas-passports",
+        "base_path": "/overseas-passports",
+        "content_id": "4c5096d7-b074-4f8c-8412-0ec8718b5d00",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-02-24T14:30:10Z",
+        "schema_name": "transaction",
+        "title": "Overseas British passport applications",
+        "web_url": "https://www.gov.uk/overseas-passports",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/abroad/passports",
+        "api_url": "https://www.gov.uk/api/content/browse/abroad/passports",
+        "base_path": "/browse/abroad/passports",
+        "content_id": "dd842862-e148-4fe3-b363-e57d6a2689aa",
+        "description": "Eligibility, fees, applying, renewing and updating",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:18Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Passports",
+        "web_url": "https://www.gov.uk/browse/abroad/passports",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/report-a-lost-or-stolen-passport",
+        "api_url": "https://www.gov.uk/api/content/report-a-lost-or-stolen-passport",
+        "base_path": "/report-a-lost-or-stolen-passport",
+        "content_id": "f02fc2c9-f5ff-4ea2-acc4-730bbda957bb",
+        "document_type": "smart_answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/abroad/passports",
+              "api_url": "https://www.gov.uk/api/content/browse/abroad/passports",
+              "base_path": "/browse/abroad/passports",
+              "content_id": "dd842862-e148-4fe3-b363-e57d6a2689aa",
+              "description": "Eligibility, fees, applying, renewing and updating",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Passports",
+              "web_url": "https://www.gov.uk/browse/abroad/passports",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-23T10:54:05Z",
+        "schema_name": "smart_answer",
+        "title": "Cancel a lost or stolen passport",
+        "web_url": "https://www.gov.uk/report-a-lost-or-stolen-passport",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/travel-urgently-from-abroad-without-uk-passport",
+        "api_url": "https://www.gov.uk/api/content/travel-urgently-from-abroad-without-uk-passport",
+        "base_path": "/travel-urgently-from-abroad-without-uk-passport",
+        "content_id": "52d01c9e-fa5c-4e26-b309-bae92dc1c4bc",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/abroad/passports",
+              "api_url": "https://www.gov.uk/api/content/browse/abroad/passports",
+              "base_path": "/browse/abroad/passports",
+              "content_id": "dd842862-e148-4fe3-b363-e57d6a2689aa",
+              "description": "Eligibility, fees, applying, renewing and updating",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Passports",
+              "web_url": "https://www.gov.uk/browse/abroad/passports",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-11-09T10:17:13Z",
+        "schema_name": "guide",
+        "title": "Travel urgently from abroad without your UK passport",
+        "web_url": "https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA66",
+        "api_path": "/api/content/government/organisations/hm-passport-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-passport-office",
+        "base_path": "/government/organisations/hm-passport-office",
+        "content_id": "3a96a1e0-21e3-4aae-8e84-f90860ed3dbf",
+        "details": {
+          "acronym": "HM Passport Office",
+          "brand": "home-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "HM Passport<br/>Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Passport Office",
+        "web_url": "https://www.gov.uk/government/organisations/hm-passport-office",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/abroad/passports",
+        "api_url": "https://www.gov.uk/api/content/browse/abroad/passports",
+        "base_path": "/browse/abroad/passports",
+        "content_id": "dd842862-e148-4fe3-b363-e57d6a2689aa",
+        "description": "Eligibility, fees, applying, renewing and updating",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/abroad",
+              "api_url": "https://www.gov.uk/api/content/browse/abroad",
+              "base_path": "/browse/abroad",
+              "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+              "description": "Includes renewing passports and travel advice by country",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-04-08T10:48:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Passports, travel and living abroad",
+              "web_url": "https://www.gov.uk/browse/abroad",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:18Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Passports",
+        "web_url": "https://www.gov.uk/browse/abroad/passports",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/renew-adult-passport",
+        "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+        "base_path": "/renew-adult-passport",
+        "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-12T00:01:07Z",
+        "schema_name": "guide",
+        "title": "Renew or replace your adult passport",
+        "web_url": "https://www.gov.uk/renew-adult-passport",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/passport-application-while-visiting-uk",
+        "api_url": "https://www.gov.uk/api/content/passport-application-while-visiting-uk",
+        "base_path": "/passport-application-while-visiting-uk",
+        "content_id": "2366bd6c-fd53-49ae-84bd-94b25238115b",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-08-27T16:28:18Z",
+        "schema_name": "answer",
+        "title": "Apply for or renew a British passport if you're visiting the UK",
+        "web_url": "https://www.gov.uk/passport-application-while-visiting-uk",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-renew-passport",
+        "api_url": "https://www.gov.uk/api/content/apply-renew-passport",
+        "base_path": "/apply-renew-passport",
+        "content_id": "a350d322-669c-4acc-8b54-08c342afd569",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-12-01T13:13:43Z",
+        "schema_name": "transaction",
+        "title": "Apply online for a UK passport",
+        "web_url": "https://www.gov.uk/apply-renew-passport",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/applying-for-a-passport-from-outside-the-uk-application-form",
+        "api_url": "https://www.gov.uk/api/content/government/publications/applying-for-a-passport-from-outside-the-uk-application-form",
+        "base_path": "/government/publications/applying-for-a-passport-from-outside-the-uk-application-form",
+        "content_id": "5e3544d1-7631-11e4-a3cb-005056011aef",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-04-03T06:36:34Z",
+        "schema_name": "publication",
+        "title": "Applying for a passport from outside the UK: application form",
+        "web_url": "https://www.gov.uk/government/publications/applying-for-a-passport-from-outside-the-uk-application-form",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/overseas-passport-supporting-documents-group-3",
+        "api_url": "https://www.gov.uk/api/content/government/publications/overseas-passport-supporting-documents-group-3",
+        "base_path": "/government/publications/overseas-passport-supporting-documents-group-3",
+        "content_id": "5e5bea48-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-11-08T13:31:20Z",
+        "schema_name": "publication",
+        "title": "Applying for a passport from outside the UK: supporting documents (group 3)",
+        "web_url": "https://www.gov.uk/government/publications/overseas-passport-supporting-documents-group-3",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/world/passports-and-emergency-travel-documents",
+        "api_url": "https://www.gov.uk/api/content/world/passports-and-emergency-travel-documents",
+        "base_path": "/world/passports-and-emergency-travel-documents",
+        "content_id": "374e8288-d58c-4914-b81b-e66ab4803925",
+        "description": "Includes how to cancel a lost passport, renew a passport and apply for an emergency travel document.",
+        "details": {
+          "internal_name": "Passports and emergency travel documents (GENERIC)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/world/all",
+              "api_url": "https://www.gov.uk/api/content/world/all",
+              "base_path": "/world/all",
+              "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+              "description": "Help and services in a country",
+              "details": {
+                "internal_name": "Help and services around the world",
+                "notes_for_editors": "",
+                "url_override": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2021-07-09T10:08:54Z",
+              "schema_name": "taxon",
+              "title": "Help and services around the world",
+              "web_url": "https://www.gov.uk/world/all",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2017-06-23T10:57:30Z",
+        "schema_name": "taxon",
+        "title": "Passports and emergency travel documents",
+        "web_url": "https://www.gov.uk/world/passports-and-emergency-travel-documents",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/going-and-being-abroad/countries-living-in",
+        "api_url": "https://www.gov.uk/api/content/going-and-being-abroad/countries-living-in",
+        "base_path": "/going-and-being-abroad/countries-living-in",
+        "content_id": "ce9e9802-6138-4fe9-9f33-045ef213be29",
+        "description": "A list of countries that link to content about living in them. ",
+        "details": {
+          "internal_name": "Countries (Living in)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/going-and-being-abroad-old",
+              "api_url": "https://www.gov.uk/api/content/going-and-being-abroad-old",
+              "base_path": "/going-and-being-abroad-old",
+              "content_id": "6e3f3cfb-142a-41f4-a03a-fea504cc1f79",
+              "description": "",
+              "details": {
+                "internal_name": "Going and being abroad (old)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+              },
+              "locale": "en",
+              "phase": "alpha",
+              "public_updated_at": "2018-09-03T13:53:06Z",
+              "schema_name": "taxon",
+              "title": "Going and being abroad",
+              "web_url": "https://www.gov.uk/going-and-being-abroad-old",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "alpha",
+        "public_updated_at": "2018-03-08T14:49:08Z",
+        "schema_name": "taxon",
+        "title": "Countries (Living In)",
+        "web_url": "https://www.gov.uk/going-and-being-abroad/countries-living-in",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/going-and-being-abroad/living-abroad",
+        "api_url": "https://www.gov.uk/api/content/going-and-being-abroad/living-abroad",
+        "base_path": "/going-and-being-abroad/living-abroad",
+        "content_id": "d956c72a-246d-4787-af39-00bf58b2ea66",
+        "details": {
+          "internal_name": "Living abroad (level 2)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/going-and-being-abroad",
+              "api_url": "https://www.gov.uk/api/content/going-and-being-abroad",
+              "base_path": "/going-and-being-abroad",
+              "content_id": "9597c30a-605a-4e36-8bc1-47e5cdae41b3",
+              "details": {
+                "internal_name": "Going and being abroad",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T13:01:16Z",
+              "schema_name": "taxon",
+              "title": "Going and being abroad",
+              "web_url": "https://www.gov.uk/going-and-being-abroad",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:01:16Z",
+        "schema_name": "taxon",
+        "title": "Living abroad",
+        "web_url": "https://www.gov.uk/going-and-being-abroad/living-abroad",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/going-and-being-abroad/passports",
+        "api_url": "https://www.gov.uk/api/content/going-and-being-abroad/passports",
+        "base_path": "/going-and-being-abroad/passports",
+        "content_id": "27b9c5cd-b390-4332-89be-73491df35a41",
+        "details": {
+          "internal_name": "Passports [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/going-and-being-abroad",
+              "api_url": "https://www.gov.uk/api/content/going-and-being-abroad",
+              "base_path": "/going-and-being-abroad",
+              "content_id": "9597c30a-605a-4e36-8bc1-47e5cdae41b3",
+              "details": {
+                "internal_name": "Going and being abroad",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T13:01:16Z",
+              "schema_name": "taxon",
+              "title": "Going and being abroad",
+              "web_url": "https://www.gov.uk/going-and-being-abroad",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:01:16Z",
+        "schema_name": "taxon",
+        "title": "Passports",
+        "web_url": "https://www.gov.uk/going-and-being-abroad/passports",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-02-24T14:30:10Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "5392-1608307989.297-10.13.1.212-7171",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Overseas British passport applications",
+  "updated_at": "2024-03-07T10:57:43Z",
+  "withdrawn_notice": {
+  }
+}

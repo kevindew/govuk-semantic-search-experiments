@@ -1,0 +1,747 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/hazardous-waste-disposal",
+  "content_id": "028d7134-483e-4dd6-bc36-fa5f234fd060",
+  "description": "Find out what help you can get from your council  to dispose of hazardous and toxic waste ",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Certain household products may pose a risk to human health or the environment if not disposed of correctly. Find out if your council offers a service to help you get rid of hazardous waste like chemicals and batteries.</p>\n",
+    "lgil_code": 8,
+    "lgsl_code": 850,
+    "more_information": "\n",
+    "need_to_know": "<ul>\n  <li>Available in England and Wales only</li>\n</ul>\n",
+    "service_tiers": [
+      "district",
+      "unitary"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2012-01-04T18:04:51Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/hazardous-waste-disposal",
+        "api_url": "https://www.gov.uk/api/content/hazardous-waste-disposal",
+        "base_path": "/hazardous-waste-disposal",
+        "content_id": "028d7134-483e-4dd6-bc36-fa5f234fd060",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:16Z",
+        "schema_name": "local_transaction",
+        "title": "Find a local hazardous waste disposal service",
+        "web_url": "https://www.gov.uk/hazardous-waste-disposal",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/waste-environment",
+        "api_url": "https://www.gov.uk/api/content/browse/business/waste-environment",
+        "base_path": "/browse/business/waste-environment",
+        "content_id": "e2e6c828-208d-4301-85ba-fbc9994e6e49",
+        "description": " Includes registering as a waste carrier, classifying waste, hazardous waste",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-22T14:57:32Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business waste and environmental impact",
+        "web_url": "https://www.gov.uk/browse/business/waste-environment",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/environment-countryside/recycling-waste-management",
+        "api_url": "https://www.gov.uk/api/content/browse/environment-countryside/recycling-waste-management",
+        "base_path": "/browse/environment-countryside/recycling-waste-management",
+        "content_id": "e1f95744-84d0-4b0e-9440-276362406572",
+        "description": "Your responsibilities, hazardous waste and report an environmental incident",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-22T09:27:18Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Waste management",
+        "web_url": "https://www.gov.uk/browse/environment-countryside/recycling-waste-management",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/housing-local-services/recycling-rubbish",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/recycling-rubbish",
+        "base_path": "/browse/housing-local-services/recycling-rubbish",
+        "content_id": "f4267150-2591-4c47-856a-25795c71f303",
+        "description": "Includes collecting large waste items, garden waste and reporting problems",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Recycling and rubbish",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/recycling-rubbish",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/collection-large-waste-items",
+        "api_url": "https://www.gov.uk/api/content/collection-large-waste-items",
+        "base_path": "/collection-large-waste-items",
+        "content_id": "46bf0cc4-50be-4b14-8099-0553b8b42fc1",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/recycling-rubbish",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/recycling-rubbish",
+              "base_path": "/browse/housing-local-services/recycling-rubbish",
+              "content_id": "f4267150-2591-4c47-856a-25795c71f303",
+              "description": "Includes collecting large waste items, garden waste and reporting problems",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Recycling and rubbish",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/recycling-rubbish",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:14Z",
+        "schema_name": "local_transaction",
+        "title": "Apply for special collection of large waste items",
+        "web_url": "https://www.gov.uk/collection-large-waste-items",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/dispose-hazardous-waste",
+        "api_url": "https://www.gov.uk/api/content/dispose-hazardous-waste",
+        "base_path": "/dispose-hazardous-waste",
+        "content_id": "5ede6386-9f7b-47f7-9510-36c05fac6d48",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/waste-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/business/waste-environment",
+              "base_path": "/browse/business/waste-environment",
+              "content_id": "e2e6c828-208d-4301-85ba-fbc9994e6e49",
+              "description": " Includes registering as a waste carrier, classifying waste, hazardous waste",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-22T14:57:32Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business waste and environmental impact",
+              "web_url": "https://www.gov.uk/browse/business/waste-environment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/environment-countryside/recycling-waste-management",
+              "api_url": "https://www.gov.uk/api/content/browse/environment-countryside/recycling-waste-management",
+              "base_path": "/browse/environment-countryside/recycling-waste-management",
+              "content_id": "e1f95744-84d0-4b0e-9440-276362406572",
+              "description": "Your responsibilities, hazardous waste and report an environmental incident",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/environment-countryside",
+                    "api_url": "https://www.gov.uk/api/content/browse/environment-countryside",
+                    "base_path": "/browse/environment-countryside",
+                    "content_id": "26b81913-d58a-47be-80b7-1e947212779a",
+                    "description": "Includes flooding, recycling, farming and wildlife",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-08-02T10:48:20Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Environment and countryside",
+                    "web_url": "https://www.gov.uk/browse/environment-countryside",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-22T09:27:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Waste management",
+              "web_url": "https://www.gov.uk/browse/environment-countryside/recycling-waste-management",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-05-18T15:53:40Z",
+        "schema_name": "guide",
+        "title": "Hazardous waste",
+        "web_url": "https://www.gov.uk/dispose-hazardous-waste",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/request-clinical-waste-collection",
+        "api_url": "https://www.gov.uk/api/content/request-clinical-waste-collection",
+        "base_path": "/request-clinical-waste-collection",
+        "content_id": "97f15aa3-82a2-4b00-878e-31f7e3477378",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/recycling-rubbish",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/recycling-rubbish",
+              "base_path": "/browse/housing-local-services/recycling-rubbish",
+              "content_id": "f4267150-2591-4c47-856a-25795c71f303",
+              "description": "Includes collecting large waste items, garden waste and reporting problems",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Recycling and rubbish",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/recycling-rubbish",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/safety-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/safety-environment",
+              "base_path": "/browse/housing-local-services/safety-environment",
+              "content_id": "a5f60151-afe7-45ea-8239-a440814b1193",
+              "description": "Includes smoke control areas, road safety and crime prevention",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Safety and the environment in your community",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/safety-environment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2018-06-29T15:43:01Z",
+        "schema_name": "local_transaction",
+        "title": "Request clinical waste collection",
+        "web_url": "https://www.gov.uk/request-clinical-waste-collection",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA199",
+        "api_path": "/api/content/government/organisations/environment-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/environment-agency",
+        "base_path": "/government/organisations/environment-agency",
+        "content_id": "16628142-57b2-4611-bc03-5912785acee3",
+        "details": {
+          "acronym": "EA",
+          "brand": "department-for-environment-food-rural-affairs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+          },
+          "logo": {
+            "formatted_title": "Environment Agency",
+            "image": {
+              "alt_text": "Environment Agency",
+              "url": "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+            }
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Environment Agency",
+        "web_url": "https://www.gov.uk/government/organisations/environment-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/waste-environment",
+        "api_url": "https://www.gov.uk/api/content/browse/business/waste-environment",
+        "base_path": "/browse/business/waste-environment",
+        "content_id": "e2e6c828-208d-4301-85ba-fbc9994e6e49",
+        "description": " Includes registering as a waste carrier, classifying waste, hazardous waste",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-22T14:57:32Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business waste and environmental impact",
+        "web_url": "https://www.gov.uk/browse/business/waste-environment",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/dispose-hazardous-waste",
+        "api_url": "https://www.gov.uk/api/content/dispose-hazardous-waste",
+        "base_path": "/dispose-hazardous-waste",
+        "content_id": "5ede6386-9f7b-47f7-9510-36c05fac6d48",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-05-18T15:53:40Z",
+        "schema_name": "guide",
+        "title": "Hazardous waste",
+        "web_url": "https://www.gov.uk/dispose-hazardous-waste",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/how-to-classify-different-types-of-waste",
+        "api_url": "https://www.gov.uk/api/content/how-to-classify-different-types-of-waste",
+        "base_path": "/how-to-classify-different-types-of-waste",
+        "content_id": "0cfe1d28-64ef-40f5-bf19-5e6686b2989a",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-01T08:05:36Z",
+        "schema_name": "guide",
+        "title": "Classify different types of waste",
+        "web_url": "https://www.gov.uk/how-to-classify-different-types-of-waste",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/request-clinical-waste-collection",
+        "api_url": "https://www.gov.uk/api/content/request-clinical-waste-collection",
+        "base_path": "/request-clinical-waste-collection",
+        "content_id": "97f15aa3-82a2-4b00-878e-31f7e3477378",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-06-29T15:43:01Z",
+        "schema_name": "local_transaction",
+        "title": "Request clinical waste collection",
+        "web_url": "https://www.gov.uk/request-clinical-waste-collection",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/collection-large-waste-items",
+        "api_url": "https://www.gov.uk/api/content/collection-large-waste-items",
+        "base_path": "/collection-large-waste-items",
+        "content_id": "46bf0cc4-50be-4b14-8099-0553b8b42fc1",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:14Z",
+        "schema_name": "local_transaction",
+        "title": "Apply for special collection of large waste items",
+        "web_url": "https://www.gov.uk/collection-large-waste-items",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/waste-classification-technical-guidance",
+        "api_url": "https://www.gov.uk/api/content/government/publications/waste-classification-technical-guidance",
+        "base_path": "/government/publications/waste-classification-technical-guidance",
+        "content_id": "602aadd6-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-09-28T11:18:24Z",
+        "schema_name": "publication",
+        "title": "Waste classification technical guidance",
+        "web_url": "https://www.gov.uk/government/publications/waste-classification-technical-guidance",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/environment/waste-environment",
+        "api_url": "https://www.gov.uk/api/content/environment/waste-environment",
+        "base_path": "/environment/waste-environment",
+        "content_id": "090c16bc-7b3e-42cd-b93c-645ab43fae30",
+        "description": "",
+        "details": {
+          "internal_name": "Waste and environmental impact",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/environment/waste-and-recycling",
+              "api_url": "https://www.gov.uk/api/content/environment/waste-and-recycling",
+              "base_path": "/environment/waste-and-recycling",
+              "content_id": "f4e9e92d-9192-4e17-90c6-553339bc04c3",
+              "description": "",
+              "details": {
+                "internal_name": "Waste and recycling",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/environment",
+                    "api_url": "https://www.gov.uk/api/content/environment",
+                    "base_path": "/environment",
+                    "content_id": "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Environment",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T13:39:00Z",
+                    "schema_name": "taxon",
+                    "title": "Environment",
+                    "web_url": "https://www.gov.uk/environment",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T11:57:52Z",
+              "schema_name": "taxon",
+              "title": "Waste and recycling",
+              "web_url": "https://www.gov.uk/environment/waste-and-recycling",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-16T11:55:40Z",
+        "schema_name": "taxon",
+        "title": "Waste and environmental impact",
+        "web_url": "https://www.gov.uk/environment/waste-environment",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/environment/waste-management",
+        "api_url": "https://www.gov.uk/api/content/environment/waste-management",
+        "base_path": "/environment/waste-management",
+        "content_id": "a8914bfb-2b86-4550-86c3-6dd55a331012",
+        "description": "",
+        "details": {
+          "internal_name": "Waste management",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/environment/waste-and-recycling",
+              "api_url": "https://www.gov.uk/api/content/environment/waste-and-recycling",
+              "base_path": "/environment/waste-and-recycling",
+              "content_id": "f4e9e92d-9192-4e17-90c6-553339bc04c3",
+              "description": "",
+              "details": {
+                "internal_name": "Waste and recycling",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/environment",
+                    "api_url": "https://www.gov.uk/api/content/environment",
+                    "base_path": "/environment",
+                    "content_id": "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Environment",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T13:39:00Z",
+                    "schema_name": "taxon",
+                    "title": "Environment",
+                    "web_url": "https://www.gov.uk/environment",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T11:57:52Z",
+              "schema_name": "taxon",
+              "title": "Waste and recycling",
+              "web_url": "https://www.gov.uk/environment/waste-and-recycling",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-16T11:54:45Z",
+        "schema_name": "taxon",
+        "title": "Waste management",
+        "web_url": "https://www.gov.uk/environment/waste-management",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/environment/waste-and-recycling",
+        "api_url": "https://www.gov.uk/api/content/environment/waste-and-recycling",
+        "base_path": "/environment/waste-and-recycling",
+        "content_id": "f4e9e92d-9192-4e17-90c6-553339bc04c3",
+        "description": "",
+        "details": {
+          "internal_name": "Waste and recycling",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/environment",
+              "api_url": "https://www.gov.uk/api/content/environment",
+              "base_path": "/environment",
+              "content_id": "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+              "description": "",
+              "details": {
+                "internal_name": "Environment",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T13:39:00Z",
+              "schema_name": "taxon",
+              "title": "Environment",
+              "web_url": "https://www.gov.uk/environment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-16T11:57:52Z",
+        "schema_name": "taxon",
+        "title": "Waste and recycling",
+        "web_url": "https://www.gov.uk/environment/waste-and-recycling",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-05-02T16:27:16Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15545-1504182737.586-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Find a local hazardous waste disposal service",
+  "updated_at": "2023-11-16T11:51:37Z",
+  "withdrawn_notice": {
+  }
+}

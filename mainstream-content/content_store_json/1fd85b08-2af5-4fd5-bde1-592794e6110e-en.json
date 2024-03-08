@@ -1,0 +1,413 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/cbt-certificates",
+  "content_id": "1fd85b08-2af5-4fd5-bde1-592794e6110e",
+  "description": "Buy books of DL196 certificates from the Driver and Vehicle Standards Agency (DVSA) online, each book contains 25 certificates and costs £200",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Order DL196 certificates from the Driver and Vehicle Standards Agency (<abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr>) online.</p>\n\n",
+    "more_information": "<p>Each book contains 25 certificates and costs £200. You need a credit or debit card to order them.</p>\n\n<p>You can only use this service if you’re an <a href=\"/set-up-run-motorcycle-approved-training-body-atb\">approved training body (<abbr title=\"approved training body\">ATB</abbr>)</a>. Your user ID is ‘<abbr title=\"approved training body\">ATB</abbr>’ followed by your <abbr title=\"approved training body\">ATB</abbr> number with no spaces.</p>\n\n<h2 id=\"if-you-havent-used-the-service-before\">If you haven’t used the service before</h2>\n\n<p>You must create a new password if you are using this service for the first time.</p>\n\n<p>Your password must be at least 9 characters long. It must include at least 3 of these 4 types of characters:</p>\n\n<ul>\n  <li>uppercase characters, such as A B C</li>\n  <li>lowercase characters, such as a b c</li>\n  <li>numeric digits, such as 1 2 3</li>\n  <li>special characters, such as £ % &amp;</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>The online service isn’t available in Northern Ireland.</p>\n</div>\n\n<h2 id=\"other-ways-to-order\">Other ways to order</h2>\n\n<p>You can order <abbr title=\"compulsory basic training\">CBT</abbr> certificates by email.</p>\n\n<div class=\"contact\">\n<p><strong>DVSA compulsory basic training team</strong><br>\n<a href=\"mailto:CBT@dvsa.gov.uk\">CBT@dvsa.gov.uk</a></p>\n</div>\n\n<h2 id=\"northern-ireland\">Northern Ireland</h2>\n\n<p>You have to order <abbr title=\"compulsory basic training\">CBT</abbr> certificates by phone in Northern Ireland.</p>\n\n<div class=\"contact\">\n<p><strong>Driver and Vehicle Agency</strong><br>\nTelephone: 028 9068 5203<br>\nMonday to Friday, 9am to 5pm<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://driver-services.dvsa.gov.uk/irdtatb",
+    "variants": [
+
+    ],
+    "will_continue_on": "the compulsory basic training certificate service"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2013-05-08T15:07:27Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/cbt-certificates",
+        "api_url": "https://www.gov.uk/api/content/cbt-certificates",
+        "base_path": "/cbt-certificates",
+        "content_id": "1fd85b08-2af5-4fd5-bde1-592794e6110e",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-09-22T13:46:44Z",
+        "schema_name": "transaction",
+        "title": "Order compulsory basic training (CBT) certificates ",
+        "web_url": "https://www.gov.uk/cbt-certificates",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/teaching-people-to-drive",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/teaching-people-to-drive",
+        "base_path": "/browse/driving/teaching-people-to-drive",
+        "content_id": "ae54d8dc-0d05-4b30-8d56-30b5d65b43d6",
+        "description": "Become an instructor, book and manage tests, manage your ADI registration",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:24Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Teaching people to drive",
+        "web_url": "https://www.gov.uk/browse/driving/teaching-people-to-drive",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/set-up-run-motorcycle-approved-training-body-atb",
+        "api_url": "https://www.gov.uk/api/content/set-up-run-motorcycle-approved-training-body-atb",
+        "base_path": "/set-up-run-motorcycle-approved-training-body-atb",
+        "content_id": "e30d4d6b-0d76-48f2-9bcf-1ec3e3f439d7",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/teaching-people-to-drive",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/teaching-people-to-drive",
+              "base_path": "/browse/driving/teaching-people-to-drive",
+              "content_id": "ae54d8dc-0d05-4b30-8d56-30b5d65b43d6",
+              "description": "Become an instructor, book and manage tests, manage your ADI registration",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:24Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Teaching people to drive",
+              "web_url": "https://www.gov.uk/browse/driving/teaching-people-to-drive",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-08-31T23:01:00Z",
+        "schema_name": "guide",
+        "title": "Set up and run a motorcycle approved training body (ATB)",
+        "web_url": "https://www.gov.uk/set-up-run-motorcycle-approved-training-body-atb",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA570",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-standards-agency",
+        "content_id": "d39237a5-678b-4bb5-a372-eb2cb036933d",
+        "details": {
+          "acronym": "DVSA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Standards<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Standards Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/teaching-people-to-drive",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/teaching-people-to-drive",
+        "base_path": "/browse/driving/teaching-people-to-drive",
+        "content_id": "ae54d8dc-0d05-4b30-8d56-30b5d65b43d6",
+        "description": "Become an instructor, book and manage tests, manage your ADI registration",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:24Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Teaching people to drive",
+        "web_url": "https://www.gov.uk/browse/driving/teaching-people-to-drive",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/book-pupil-driving-test",
+        "api_url": "https://www.gov.uk/api/content/book-pupil-driving-test",
+        "base_path": "/book-pupil-driving-test",
+        "content_id": "a3b0a661-e55a-4d95-b1d1-03a21e557d03",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-09-28T11:10:43Z",
+        "schema_name": "transaction",
+        "title": "Book and manage driving and riding tests for your pupils",
+        "web_url": "https://www.gov.uk/book-pupil-driving-test",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/motorcycle-cbt",
+        "api_url": "https://www.gov.uk/api/content/motorcycle-cbt",
+        "base_path": "/motorcycle-cbt",
+        "content_id": "9d82a14e-b388-4374-ae2c-5b574f9d711d",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-09-01T09:15:28Z",
+        "schema_name": "guide",
+        "title": "CBT motorcycle and moped training",
+        "web_url": "https://www.gov.uk/motorcycle-cbt",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/running-a-motorcycle-approved-training-body-atb",
+        "api_url": "https://www.gov.uk/api/content/guidance/running-a-motorcycle-approved-training-body-atb",
+        "base_path": "/guidance/running-a-motorcycle-approved-training-body-atb",
+        "content_id": "81766de5-089b-454c-8867-7772092a16b7",
+        "document_type": "manual",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-09-22T14:51:03Z",
+        "schema_name": "manual",
+        "title": "Running a motorcycle training school",
+        "web_url": "https://www.gov.uk/guidance/running-a-motorcycle-approved-training-body-atb",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/become-dvsa-assessed-cbt-motorcycle-instructor",
+        "api_url": "https://www.gov.uk/api/content/become-dvsa-assessed-cbt-motorcycle-instructor",
+        "base_path": "/become-dvsa-assessed-cbt-motorcycle-instructor",
+        "content_id": "173cdc59-66a5-4ed6-ad3f-fa175576f347",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-26T12:34:14Z",
+        "schema_name": "guide",
+        "title": "Become a DVSA assessed CBT motorcycle instructor",
+        "web_url": "https://www.gov.uk/become-dvsa-assessed-cbt-motorcycle-instructor",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/compulsory-basic-training-cbt-syllabus-and-guidance-notes",
+        "api_url": "https://www.gov.uk/api/content/guidance/compulsory-basic-training-cbt-syllabus-and-guidance-notes",
+        "base_path": "/guidance/compulsory-basic-training-cbt-syllabus-and-guidance-notes",
+        "content_id": "ccf91c4f-6a0f-4498-8ddd-6be537df296c",
+        "document_type": "manual",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-12-01T08:51:37Z",
+        "schema_name": "manual",
+        "title": "Compulsory basic training (CBT) syllabus and guidance notes",
+        "web_url": "https://www.gov.uk/guidance/compulsory-basic-training-cbt-syllabus-and-guidance-notes",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/motorcycle-training",
+        "api_url": "https://www.gov.uk/api/content/transport/motorcycle-training",
+        "base_path": "/transport/motorcycle-training",
+        "content_id": "d7adaaf5-cac8-4781-a224-930afd37f174",
+        "description": "National standards and rules of riding a moped or motorcycle, and compulsory basic training and courses.",
+        "details": {
+          "internal_name": "Motorcycle training",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/driving-and-motorcycle-tests",
+              "api_url": "https://www.gov.uk/api/content/transport/driving-and-motorcycle-tests",
+              "base_path": "/transport/driving-and-motorcycle-tests",
+              "content_id": "9f5f3106-7145-4f30-a2d5-e3ac1b002289",
+              "description": "Tests and training for vehicles, including motorcycles, lorries, cars and buses.",
+              "details": {
+                "internal_name": "Driving and motorcycle tests",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Driving and motorcycle tests",
+              "web_url": "https://www.gov.uk/transport/driving-and-motorcycle-tests",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:15Z",
+        "schema_name": "taxon",
+        "title": "Motorcycle training",
+        "web_url": "https://www.gov.uk/transport/motorcycle-training",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-09-22T13:46:44Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1702555890.107-10.13.20.249-3013",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Order compulsory basic training (CBT) certificates ",
+  "updated_at": "2024-03-08T09:58:15Z",
+  "withdrawn_notice": {
+  }
+}

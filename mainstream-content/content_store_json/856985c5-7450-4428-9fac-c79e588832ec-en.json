@@ -1,0 +1,1118 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/apply-vehicle-test-certificate-coach-bus",
+  "content_id": "856985c5-7450-4428-9fac-c79e588832ec",
+  "description": "Use the technical application submission (TAS) service to send Certificate of Initial Fitness (COIF), accessibility certificate and notifiable alterations forms",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Use this service if you:</p>\n\n<ul>\n  <li>need a <a href=\"/vehicle-approval/certificate-of-initial-fitness\">Certificate of Initial Fitness</a> (<abbr title=\"Certificate of Initial Fitness\">COIF</abbr>) to register your coach or bus as a Public Service Vehicle (<abbr title=\"Public Service Vehicle\">PSV</abbr>)</li>\n  <li>need an <a href=\"/vehicle-approval/accessibility-certificate-test\">Accessibility Certificate</a> to carry disabled passengers</li>\n  <li>need to apply for a replacement certificate</li>\n  <li>have made a specification change to your coach or bus</li>\n  <li>want permission to drive up to 100 km/h in France or Germany</li>\n</ul>\n\n",
+    "more_information": "<p>Download and fill in <a href=\"/government/collections/annual-tests-forms-for-buses-and-coaches\">an application form</a>. Use the service to upload your completed form.</p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://tas.dvsa.gov.uk/tass/create",
+    "variants": [
+
+    ],
+    "will_continue_on": "the technical application submission (TAS) service"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2016-04-15T09:53:51Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/apply-vehicle-test-certificate-coach-bus",
+        "api_url": "https://www.gov.uk/api/content/apply-vehicle-test-certificate-coach-bus",
+        "base_path": "/apply-vehicle-test-certificate-coach-bus",
+        "content_id": "856985c5-7450-4428-9fac-c79e588832ec",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-11-13T17:45:30Z",
+        "schema_name": "transaction",
+        "title": "Apply for a vehicle test or certificate for a coach or bus",
+        "web_url": "https://www.gov.uk/apply-vehicle-test-certificate-coach-bus",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/drivers-lorries-buses",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/drivers-lorries-buses",
+        "base_path": "/browse/driving/drivers-lorries-buses",
+        "content_id": "13a30e05-d75e-45d8-95d9-0445042a4066",
+        "description": "Become a HGV or bus driver, find training, drivers' hours rules, specialist tests",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:15Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "HGV, bus and coach drivers",
+        "web_url": "https://www.gov.uk/browse/driving/drivers-lorries-buses",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/manufacture-adapt-vehicle",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/manufacture-adapt-vehicle",
+        "base_path": "/browse/driving/manufacture-adapt-vehicle",
+        "content_id": "3eb6e3d4-9a22-4519-915f-b0b0dd55335a",
+        "description": "Get a vehicle approved, register a vehicle, manufacturing regulations",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:39Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Manufacture or adapt a vehicle",
+        "web_url": "https://www.gov.uk/browse/driving/manufacture-adapt-vehicle",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/businesses",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+        "base_path": "/browse/driving/businesses",
+        "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+        "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-22T16:19:11Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Transport and driving businesses",
+        "web_url": "https://www.gov.uk/browse/driving/businesses",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/apply-vehicle-test-certificate-lorry-trailer",
+        "api_url": "https://www.gov.uk/api/content/apply-vehicle-test-certificate-lorry-trailer",
+        "base_path": "/apply-vehicle-test-certificate-lorry-trailer",
+        "content_id": "ade212b7-84cc-4dbb-91be-7c3267cc2394",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/drivers-lorries-buses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/drivers-lorries-buses",
+              "base_path": "/browse/driving/drivers-lorries-buses",
+              "content_id": "13a30e05-d75e-45d8-95d9-0445042a4066",
+              "description": "Become a HGV or bus driver, find training, drivers' hours rules, specialist tests",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:15Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "HGV, bus and coach drivers",
+              "web_url": "https://www.gov.uk/browse/driving/drivers-lorries-buses",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/manufacture-adapt-vehicle",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/manufacture-adapt-vehicle",
+              "base_path": "/browse/driving/manufacture-adapt-vehicle",
+              "content_id": "3eb6e3d4-9a22-4519-915f-b0b0dd55335a",
+              "description": "Get a vehicle approved, register a vehicle, manufacturing regulations",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manufacture or adapt a vehicle",
+              "web_url": "https://www.gov.uk/browse/driving/manufacture-adapt-vehicle",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/businesses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+              "base_path": "/browse/driving/businesses",
+              "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+              "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-02-22T16:19:11Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Transport and driving businesses",
+              "web_url": "https://www.gov.uk/browse/driving/businesses",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-27T14:17:27Z",
+        "schema_name": "transaction",
+        "title": "Apply for a vehicle test or certificate for a lorry or trailer",
+        "web_url": "https://www.gov.uk/apply-vehicle-test-certificate-lorry-trailer",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/vehicle-approval",
+        "api_url": "https://www.gov.uk/api/content/vehicle-approval",
+        "base_path": "/vehicle-approval",
+        "content_id": "195d2a02-fabf-47b3-a01c-1745d927dcdd",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/driving-uk-and-abroad",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-uk-and-abroad",
+              "base_path": "/browse/driving/driving-uk-and-abroad",
+              "content_id": "231ad2c1-c1cd-4e00-8479-5277cfe05027",
+              "description": "Drive abroad, drive in the UK with a foreign licence, bring a vehicle to the UK",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving in the UK and abroad",
+              "web_url": "https://www.gov.uk/browse/driving/driving-uk-and-abroad",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/drivers-lorries-buses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/drivers-lorries-buses",
+              "base_path": "/browse/driving/drivers-lorries-buses",
+              "content_id": "13a30e05-d75e-45d8-95d9-0445042a4066",
+              "description": "Become a HGV or bus driver, find training, drivers' hours rules, specialist tests",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:15Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "HGV, bus and coach drivers",
+              "web_url": "https://www.gov.uk/browse/driving/drivers-lorries-buses",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/manufacture-adapt-vehicle",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/manufacture-adapt-vehicle",
+              "base_path": "/browse/driving/manufacture-adapt-vehicle",
+              "content_id": "3eb6e3d4-9a22-4519-915f-b0b0dd55335a",
+              "description": "Get a vehicle approved, register a vehicle, manufacturing regulations",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manufacture or adapt a vehicle",
+              "web_url": "https://www.gov.uk/browse/driving/manufacture-adapt-vehicle",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/businesses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+              "base_path": "/browse/driving/businesses",
+              "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+              "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-02-22T16:19:11Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Transport and driving businesses",
+              "web_url": "https://www.gov.uk/browse/driving/businesses",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-15T13:36:56Z",
+        "schema_name": "guide",
+        "title": "Vehicle approval",
+        "web_url": "https://www.gov.uk/vehicle-approval",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/mot-for-hgv-buses-and-trailers",
+        "api_url": "https://www.gov.uk/api/content/mot-for-hgv-buses-and-trailers",
+        "base_path": "/mot-for-hgv-buses-and-trailers",
+        "content_id": "e754b3f5-d365-42e7-a7ef-8f5124a33d98",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/drivers-lorries-buses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/drivers-lorries-buses",
+              "base_path": "/browse/driving/drivers-lorries-buses",
+              "content_id": "13a30e05-d75e-45d8-95d9-0445042a4066",
+              "description": "Become a HGV or bus driver, find training, drivers' hours rules, specialist tests",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:15Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "HGV, bus and coach drivers",
+              "web_url": "https://www.gov.uk/browse/driving/drivers-lorries-buses",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/businesses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+              "base_path": "/browse/driving/businesses",
+              "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+              "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-02-22T16:19:11Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Transport and driving businesses",
+              "web_url": "https://www.gov.uk/browse/driving/businesses",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-23T10:54:28Z",
+        "schema_name": "guide",
+        "title": "Get an MOT for a heavy goods vehicle (HGV), bus or trailer",
+        "web_url": "https://www.gov.uk/mot-for-hgv-buses-and-trailers",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA570",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-standards-agency",
+        "content_id": "d39237a5-678b-4bb5-a372-eb2cb036933d",
+        "details": {
+          "acronym": "DVSA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Standards<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Standards Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/manufacture-adapt-vehicle",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/manufacture-adapt-vehicle",
+        "base_path": "/browse/driving/manufacture-adapt-vehicle",
+        "content_id": "3eb6e3d4-9a22-4519-915f-b0b0dd55335a",
+        "description": "Get a vehicle approved, register a vehicle, manufacturing regulations",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:39Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Manufacture or adapt a vehicle",
+        "web_url": "https://www.gov.uk/browse/driving/manufacture-adapt-vehicle",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/vehicle-approval",
+        "api_url": "https://www.gov.uk/api/content/vehicle-approval",
+        "base_path": "/vehicle-approval",
+        "content_id": "195d2a02-fabf-47b3-a01c-1745d927dcdd",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-15T13:36:56Z",
+        "schema_name": "guide",
+        "title": "Vehicle approval",
+        "web_url": "https://www.gov.uk/vehicle-approval",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/notification-of-an-alteration-to-a-public-service-vehicle-vtp-5",
+        "api_url": "https://www.gov.uk/api/content/government/publications/notification-of-an-alteration-to-a-public-service-vehicle-vtp-5",
+        "base_path": "/government/publications/notification-of-an-alteration-to-a-public-service-vehicle-vtp-5",
+        "content_id": "5e2947ce-7631-11e4-a3cb-005056011aef",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-05-05T13:13:02Z",
+        "schema_name": "publication",
+        "title": "Tell DVSA about an alteration to a public service vehicle (PSV)",
+        "web_url": "https://www.gov.uk/government/publications/notification-of-an-alteration-to-a-public-service-vehicle-vtp-5",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/certificate-of-initial-fitness-psv-417",
+        "api_url": "https://www.gov.uk/api/content/government/publications/certificate-of-initial-fitness-psv-417",
+        "base_path": "/government/publications/certificate-of-initial-fitness-psv-417",
+        "content_id": "5e29b5e0-7631-11e4-a3cb-005056011aef",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-22T13:13:00Z",
+        "schema_name": "publication",
+        "title": "Apply for a PSV certificate of initial fitness (COIF)",
+        "web_url": "https://www.gov.uk/government/publications/certificate-of-initial-fitness-psv-417",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/guide-to-notifiable-alterations-to-a-psv",
+        "api_url": "https://www.gov.uk/api/content/government/publications/guide-to-notifiable-alterations-to-a-psv",
+        "base_path": "/government/publications/guide-to-notifiable-alterations-to-a-psv",
+        "content_id": "5e38d642-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2013-07-10T12:50:00Z",
+        "schema_name": "publication",
+        "title": "Guide to notifiable alterations to a public service vehicle (PSV)",
+        "web_url": "https://www.gov.uk/government/publications/guide-to-notifiable-alterations-to-a-psv",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-vehicle-test-certificate-lorry-trailer",
+        "api_url": "https://www.gov.uk/api/content/apply-vehicle-test-certificate-lorry-trailer",
+        "base_path": "/apply-vehicle-test-certificate-lorry-trailer",
+        "content_id": "ade212b7-84cc-4dbb-91be-7c3267cc2394",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-27T14:17:27Z",
+        "schema_name": "transaction",
+        "title": "Apply for a vehicle test or certificate for a lorry or trailer",
+        "web_url": "https://www.gov.uk/apply-vehicle-test-certificate-lorry-trailer",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/buses",
+        "api_url": "https://www.gov.uk/api/content/transport/buses",
+        "base_path": "/transport/buses",
+        "content_id": "5c76ad4e-4b4d-4f72-a6ef-b277b31b98a1",
+        "description": "Bus operations, services, emissions, funding, security, passenger experience and accessibility.",
+        "details": {
+          "internal_name": "Buses",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/local-transport",
+              "api_url": "https://www.gov.uk/api/content/transport/local-transport",
+              "base_path": "/transport/local-transport",
+              "content_id": "3b4d6319-fcef-4637-b35a-e3df76321894",
+              "description": "Local transport funding, concessionary travel, buses, taxis, private hire vehicles and trams.",
+              "details": {
+                "internal_name": "Local transport",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport",
+                    "api_url": "https://www.gov.uk/api/content/transport",
+                    "base_path": "/transport",
+                    "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                    "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                    "details": {
+                      "internal_name": "Transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-15T14:31:46Z",
+                    "schema_name": "taxon",
+                    "title": "Transport",
+                    "web_url": "https://www.gov.uk/transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:20Z",
+              "schema_name": "taxon",
+              "title": "Local transport",
+              "web_url": "https://www.gov.uk/transport/local-transport",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:20Z",
+        "schema_name": "taxon",
+        "title": "Buses",
+        "web_url": "https://www.gov.uk/transport/buses",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/transport/public-service-vehicles-licensing",
+        "api_url": "https://www.gov.uk/api/content/transport/public-service-vehicles-licensing",
+        "base_path": "/transport/public-service-vehicles-licensing",
+        "content_id": "4e83f852-1e37-4329-910e-ab63eb00210a",
+        "description": "Apply for and manage your PSV operator licence and how to run a local bus service.",
+        "details": {
+          "internal_name": "Public service vehicles licensing",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/vehicle-operator-licences",
+              "api_url": "https://www.gov.uk/api/content/transport/vehicle-operator-licences",
+              "base_path": "/transport/vehicle-operator-licences",
+              "content_id": "7bf5c281-681a-4ea3-bd22-d1ed96d421aa",
+              "description": "Apply for and manage your vehicle operator licence.",
+              "details": {
+                "internal_name": "Vehicle operator licences",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/transport-businesses-and-vehicle-operator-licences",
+                    "api_url": "https://www.gov.uk/api/content/transport/transport-businesses-and-vehicle-operator-licences",
+                    "base_path": "/transport/transport-businesses-and-vehicle-operator-licences",
+                    "content_id": "693b7a9e-688f-4278-9375-9841f4187b23",
+                    "description": "Operator licensing for PSVs, HGVs and private hire vehicles, tachograph, speed limiter and driver CPC training centres.",
+                    "details": {
+                      "internal_name": "Transport businesses and vehicle operator licences",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport/driving-and-road-transport",
+                          "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                          "base_path": "/transport/driving-and-road-transport",
+                          "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                          "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                          "details": {
+                            "internal_name": "Driving and road transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": false
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "parent_taxons": [
+                              {
+                                "api_path": "/api/content/transport",
+                                "api_url": "https://www.gov.uk/api/content/transport",
+                                "base_path": "/transport",
+                                "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                                "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                                "details": {
+                                  "internal_name": "Transport",
+                                  "notes_for_editors": "",
+                                  "visible_to_departmental_editors": true
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                  "root_taxon": [
+                                    {
+                                      "api_path": "/api/content/",
+                                      "api_url": "https://www.gov.uk/api/content/",
+                                      "base_path": "/",
+                                      "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                      "document_type": "homepage",
+                                      "links": {
+                                      },
+                                      "locale": "en",
+                                      "public_updated_at": "2023-06-28T09:32:34Z",
+                                      "schema_name": "homepage",
+                                      "title": "GOV.UK homepage",
+                                      "web_url": "https://www.gov.uk/",
+                                      "withdrawn": false
+                                    }
+                                  ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-06-15T14:31:46Z",
+                                "schema_name": "taxon",
+                                "title": "Transport",
+                                "web_url": "https://www.gov.uk/transport",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-14T09:27:13Z",
+                          "schema_name": "taxon",
+                          "title": "Driving and road transport",
+                          "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Transport businesses and vehicle operator licences",
+                    "web_url": "https://www.gov.uk/transport/transport-businesses-and-vehicle-operator-licences",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:13Z",
+              "schema_name": "taxon",
+              "title": "Vehicle operator licences",
+              "web_url": "https://www.gov.uk/transport/vehicle-operator-licences",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-11-22T12:17:38Z",
+        "schema_name": "taxon",
+        "title": "Public service vehicles licensing",
+        "web_url": "https://www.gov.uk/transport/public-service-vehicles-licensing",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/transport/vehicle-manufacturing-and-modification",
+        "api_url": "https://www.gov.uk/api/content/transport/vehicle-manufacturing-and-modification",
+        "base_path": "/transport/vehicle-manufacturing-and-modification",
+        "content_id": "1127bf21-8774-4c58-9ac7-0906b96cfb59",
+        "description": "The law on converting or making modifications to vehicles, vehicle manufacturing classification.",
+        "details": {
+          "internal_name": "Vehicle manufacturing and modification",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/vehicle-ownership-approval-and-standards",
+              "api_url": "https://www.gov.uk/api/content/transport/vehicle-ownership-approval-and-standards",
+              "base_path": "/transport/vehicle-ownership-approval-and-standards",
+              "content_id": "dbbf7f4d-78aa-46ac-8e67-d937fe9a8c69",
+              "description": "MOTs and vehicle tax, manufacturing, modifying and testing vehicles for use on UK roads, buying and selling vehicles.",
+              "details": {
+                "internal_name": "Vehicle ownership, approval and standards",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Vehicle ownership, approval and standards",
+              "web_url": "https://www.gov.uk/transport/vehicle-ownership-approval-and-standards",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:15Z",
+        "schema_name": "taxon",
+        "title": "Vehicle manufacturing and modification",
+        "web_url": "https://www.gov.uk/transport/vehicle-manufacturing-and-modification",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/transport/vehicle-import-and-export",
+        "api_url": "https://www.gov.uk/api/content/transport/vehicle-import-and-export",
+        "base_path": "/transport/vehicle-import-and-export",
+        "content_id": "0c5fc8b5-bf51-4a9b-abc3-512d78d719cb",
+        "description": "Forms and guidance for importing and exporting vehicles.",
+        "details": {
+          "internal_name": "Vehicle import and export",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/vehicle-ownership-approval-and-standards",
+              "api_url": "https://www.gov.uk/api/content/transport/vehicle-ownership-approval-and-standards",
+              "base_path": "/transport/vehicle-ownership-approval-and-standards",
+              "content_id": "dbbf7f4d-78aa-46ac-8e67-d937fe9a8c69",
+              "description": "MOTs and vehicle tax, manufacturing, modifying and testing vehicles for use on UK roads, buying and selling vehicles.",
+              "details": {
+                "internal_name": "Vehicle ownership, approval and standards",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Vehicle ownership, approval and standards",
+              "web_url": "https://www.gov.uk/transport/vehicle-ownership-approval-and-standards",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:16Z",
+        "schema_name": "taxon",
+        "title": "Vehicle import and export",
+        "web_url": "https://www.gov.uk/transport/vehicle-import-and-export",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-11-13T17:45:30Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1679919679.875-10.13.22.76-8350",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Apply for a vehicle test or certificate for a coach or bus",
+  "updated_at": "2024-03-08T09:59:03Z",
+  "withdrawn_notice": {
+  }
+}

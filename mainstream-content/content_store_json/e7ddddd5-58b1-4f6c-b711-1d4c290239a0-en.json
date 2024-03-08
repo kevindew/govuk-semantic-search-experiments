@@ -1,0 +1,658 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/search-bankruptcy-insolvency-register",
+  "content_id": "e7ddddd5-58b1-4f6c-b711-1d4c290239a0",
+  "description": "Search the Individual Insolvency Register for details about bankruptcy orders, Debt Relief Orders, Individual Voluntary Arrangements, and restrictions orders and undertakings",
+  "details": {
+    "body": "<p>You can search for details of people who have gone bankrupt or signed an agreement to deal with their debts in England and Wales.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You can also <a href=\"/search-the-register-of-disqualified-company-directors\">check the disqualified directors register</a> to find out if someone has been disqualified from being a company director.</p>\n</div>\n\n<h2 id=\"individual-insolvency-register\">Individual Insolvency Register</h2>\n\n<p>Get details about insolvency cases in England and Wales, including:</p>\n\n<ul>\n  <li>bankruptcies, for example the date of a discharge (when someone is freed) from debts</li>\n  <li>Debt Relief Orders</li>\n  <li>Individual Voluntary Arrangements</li>\n</ul>\n\n<p>You can <a rel=\"external\" href=\"http://www.insolvencydirect.bis.gov.uk/eiir/\">search the register</a> by name or trading name (for sole traders).</p>\n\n<p>Records are usually removed within 3 months of an insolvency case ending.</p>\n\n<p>Contact the office that dealt with the insolvency to correct any mistakes.</p>\n\n<h2 id=\"search-for-people-with-bankruptcy-or-debt-relief-restrictions\">Search for people with Bankruptcy or Debt Relief Restrictions</h2>\n\n<p>Search the <a rel=\"external\" href=\"http://www.insolvencydirect.bis.gov.uk/IESdatabase/viewbrobrusummary-new.asp\">list of people with additional insolvency restrictions</a> for the last 3 months.</p>\n\n<p>The list contains details of people who have broken the terms of their bankruptcy or Debt Relief Order. They will have been given a penalty, called a Bankruptcy Restrictions Order (<abbr title=\"Bankruptcy Restrictions Order\">BRO</abbr>) or Undertaking (<abbr title=\"Bankruptcy Restrictions Undertaking\">BRU</abbr>) or a Debt Relief Restrictions Order (<abbr title=\"Debt Relief Restrictions Order\">DRRO</abbr>) or Undertaking (<abbr title=\"Debt Relief Restrictions Undertaking\">DRRU</abbr>).</p>\n\n<p>You may still be able to find information on the <a rel=\"external\" href=\"http://www.insolvencydirect.bis.gov.uk/eiir/\">Individual Insolvency Register</a> after 3 months but doesn’t include any penalties.</p>\n\n<p>You can ask for information about the unfit conduct of an individual (who have current bankruptcy or debt relief restrictions) by contacting the official receiver dealing with the case.</p>\n\n<h2 id=\"registers-for-scotland-and-northern-ireland\">Registers for Scotland and Northern Ireland</h2>\n\n<p>Search the insolvency registers for:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"http://roi.aib.gov.uk/roi\">Scotland</a></li>\n  <li><a rel=\"external\" href=\"https://www.economy-ni.gov.uk/services/individual-voluntary-arrangement-register\">Northern Ireland</a></li>\n</ul>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-01-26T10:17:44Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/search-bankruptcy-insolvency-register",
+        "api_url": "https://www.gov.uk/api/content/search-bankruptcy-insolvency-register",
+        "base_path": "/search-bankruptcy-insolvency-register",
+        "content_id": "e7ddddd5-58b1-4f6c-b711-1d4c290239a0",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-19T13:54:06Z",
+        "schema_name": "answer",
+        "title": "Search the bankruptcy and insolvency register",
+        "web_url": "https://www.gov.uk/search-bankruptcy-insolvency-register",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+        "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+        "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-05T14:07:55Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/bankruptcy",
+        "base_path": "/bankruptcy",
+        "content_id": "64aadc14-9bca-40d9-abb6-4f21f9792a05",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+              "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+              "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+              "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-10-05T14:07:55Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Court claims, debt and bankruptcy",
+              "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-18T10:07:26Z",
+        "schema_name": "guide",
+        "title": "Applying to become bankrupt",
+        "web_url": "https://www.gov.uk/bankruptcy",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/options-for-dealing-with-your-debts",
+        "api_url": "https://www.gov.uk/api/content/options-for-dealing-with-your-debts",
+        "base_path": "/options-for-dealing-with-your-debts",
+        "content_id": "76b1dd5f-3915-48a6-a570-78f065c1ad0d",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+              "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+              "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+              "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-10-05T14:07:55Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Court claims, debt and bankruptcy",
+              "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-29T13:56:26Z",
+        "schema_name": "guide",
+        "title": "Options for dealing with your debts",
+        "web_url": "https://www.gov.uk/options-for-dealing-with-your-debts",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/your-rights-if-your-employer-is-insolvent",
+        "api_url": "https://www.gov.uk/api/content/your-rights-if-your-employer-is-insolvent",
+        "base_path": "/your-rights-if-your-employer-is-insolvent",
+        "content_id": "de09348e-cb0c-4d58-96f3-4ff2156a236e",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/trade-unions",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/trade-unions",
+              "base_path": "/browse/employing-people/trade-unions",
+              "content_id": "25ac566b-121e-4e1c-9c73-030e6554cb85",
+              "description": "Includes industrial action and recognising trade unions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:46Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Trade unions and workers rights",
+              "web_url": "https://www.gov.uk/browse/employing-people/trade-unions",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/redundancies-dismissals",
+              "api_url": "https://www.gov.uk/api/content/browse/working/redundancies-dismissals",
+              "base_path": "/browse/working/redundancies-dismissals",
+              "content_id": "d81c1d6e-c54b-4fc1-a169-0b45520358cc",
+              "description": "Includes solving a workplace dispute, calculating redundancy pay and dismissal",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Redundancies, dismissals and disciplinaries",
+              "web_url": "https://www.gov.uk/browse/working/redundancies-dismissals",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2021-04-05T23:01:20Z",
+        "schema_name": "guide",
+        "title": "Your rights if your employer is insolvent",
+        "web_url": "https://www.gov.uk/your-rights-if-your-employer-is-insolvent",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/search-the-register-of-disqualified-company-directors",
+        "api_url": "https://www.gov.uk/api/content/search-the-register-of-disqualified-company-directors",
+        "base_path": "/search-the-register-of-disqualified-company-directors",
+        "content_id": "a0fbe158-404a-484d-a022-8f6f02bcc290",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/limited-company",
+              "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+              "base_path": "/browse/business/limited-company",
+              "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+              "description": "Includes registering, setting up, company accounts and tax returns",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:30Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Running a limited company",
+              "web_url": "https://www.gov.uk/browse/business/limited-company",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-11-14T18:37:12Z",
+        "schema_name": "answer",
+        "title": "Search for disqualified company directors",
+        "web_url": "https://www.gov.uk/search-the-register-of-disqualified-company-directors",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/company-director-disqualification",
+        "api_url": "https://www.gov.uk/api/content/company-director-disqualification",
+        "base_path": "/company-director-disqualification",
+        "content_id": "a83c652d-a5b4-4835-ba17-25f0abaf5160",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/limited-company",
+              "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+              "base_path": "/browse/business/limited-company",
+              "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+              "description": "Includes registering, setting up, company accounts and tax returns",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:30Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Running a limited company",
+              "web_url": "https://www.gov.uk/browse/business/limited-company",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-01-29T09:54:22Z",
+        "schema_name": "answer",
+        "title": "Company director disqualification",
+        "web_url": "https://www.gov.uk/company-director-disqualification",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1382",
+        "api_path": "/api/content/government/organisations/department-for-business-and-trade",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-business-and-trade",
+        "base_path": "/government/organisations/department-for-business-and-trade",
+        "content_id": "aa750cdf-7925-429d-a2b3-0d9fa47d2c48",
+        "details": {
+          "acronym": "DBT",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/64539946faf4aa0012e132d1/s960_DBT_Plaque-2.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/64539946c33b46000cf5e655/s300_DBT_Plaque-2.jpg"
+          },
+          "logo": {
+            "crest": "dbt",
+            "formatted_title": "Department for<br/>Business &amp; Trade"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Business and Trade",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "EA32",
+        "api_path": "/api/content/government/organisations/insolvency-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/insolvency-service",
+        "base_path": "/government/organisations/insolvency-service",
+        "content_id": "c8406408-8376-45e0-95b4-7e74cef2c260",
+        "details": {
+          "acronym": "",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "The Insolvency <br/>Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "The Insolvency Service",
+        "web_url": "https://www.gov.uk/government/organisations/insolvency-service",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D1198",
+        "api_path": "/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "base_path": "/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "content_id": "2bde479a-97f2-42b5-986a-287a623c2a1c",
+        "details": {
+          "acronym": "BEIS",
+          "brand": "department-for-business-innovation-skills",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a62fdc6b1/s960_beis-sign-1vs.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a5f965fd5/s300_beis-sign-1vs.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for<br/>Business, Energy<br/>&amp; Industrial Strategy"
+          },
+          "organisation_govuk_status": {
+            "status": "split",
+            "updated_at": null,
+            "url": ""
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Business, Energy & Industrial Strategy",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+        "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+        "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-05T14:07:55Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/bankruptcy",
+        "base_path": "/bankruptcy",
+        "content_id": "64aadc14-9bca-40d9-abb6-4f21f9792a05",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-18T10:07:26Z",
+        "schema_name": "guide",
+        "title": "Applying to become bankrupt",
+        "web_url": "https://www.gov.uk/bankruptcy",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/get-information-about-a-company",
+        "api_url": "https://www.gov.uk/api/content/get-information-about-a-company",
+        "base_path": "/get-information-about-a-company",
+        "content_id": "9ca1a27b-af7b-44d2-b10d-0a6d0e3ff53d",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-24T08:36:53Z",
+        "schema_name": "transaction",
+        "title": "Get information about a company",
+        "web_url": "https://www.gov.uk/get-information-about-a-company",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/company-director-disqualification",
+        "api_url": "https://www.gov.uk/api/content/company-director-disqualification",
+        "base_path": "/company-director-disqualification",
+        "content_id": "a83c652d-a5b4-4835-ba17-25f0abaf5160",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-01-29T09:54:22Z",
+        "schema_name": "answer",
+        "title": "Company director disqualification",
+        "web_url": "https://www.gov.uk/company-director-disqualification",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-out-if-a-company-is-in-financial-trouble",
+        "api_url": "https://www.gov.uk/api/content/find-out-if-a-company-is-in-financial-trouble",
+        "base_path": "/find-out-if-a-company-is-in-financial-trouble",
+        "content_id": "6727af20-6614-4406-8610-0ba6a95b80d0",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-09-24T10:06:55Z",
+        "schema_name": "transaction",
+        "title": "Check if a company is being liquidated or in provisional liquidation",
+        "web_url": "https://www.gov.uk/find-out-if-a-company-is-in-financial-trouble",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/contact-official-receiver",
+        "api_url": "https://www.gov.uk/api/content/contact-official-receiver",
+        "base_path": "/contact-official-receiver",
+        "content_id": "3df36f15-f10f-4f89-9bff-7a12a7ae89a7",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-30T13:57:49Z",
+        "schema_name": "answer",
+        "title": "Contact an official receiver",
+        "web_url": "https://www.gov.uk/contact-official-receiver",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/money/court-claims-debt-bankruptcy",
+        "base_path": "/money/court-claims-debt-bankruptcy",
+        "content_id": "7c4cf197-2dba-4a82-83e2-6c8bb332525c",
+        "details": {
+          "internal_name": "Court claims, debt and bankruptcy [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money",
+              "api_url": "https://www.gov.uk/api/content/money",
+              "base_path": "/money",
+              "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+              "description": "",
+              "details": {
+                "internal_name": "Money",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:35:25Z",
+              "schema_name": "taxon",
+              "title": "Money",
+              "web_url": "https://www.gov.uk/money",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:49Z",
+        "schema_name": "taxon",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/money/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-03-19T13:54:06Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "11296-1516380628.096-213.86.153.236-8793",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Search the bankruptcy and insolvency register",
+  "updated_at": "2024-03-01T13:24:56Z",
+  "withdrawn_notice": {
+  }
+}

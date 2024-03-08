@@ -1,0 +1,681 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/tax-codes",
+  "content_id": "8ec6ea6e-a259-459a-9e5e-ffab399a2e2e",
+  "description": "What tax codes are, how they're worked out, and what to do if you think your code is wrong.",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "hide_chapter_navigation": false,
+    "parts": [
+      {
+        "body": "<p>Your tax code is used by your employer or pension provider to work out how much Income Tax to take from your pay or pension. HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) will tell them which code to use.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This guide is also available <a href=\"/codau-treth\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<h2 id=\"find-your-tax-code\">Find your tax code</h2>\n\n<p>You can find your tax code:</p>\n\n<ul>\n  <li>\n    <p>by <a href=\"/check-income-tax-current-year\">checking your tax code for the current year</a> online - you’ll need to sign in to or create a personal tax account</p>\n  </li>\n  <li>\n    <p>on the <a href=\"/government/publications/the-official-hmrc-app/the-free-hmrc-app\"><abbr title=\"HM Revenue and Customs\">HMRC</abbr> app</a></p>\n  </li>\n  <li>\n    <p>on your payslip</p>\n  </li>\n  <li>\n    <p>on a ‘Tax Code Notice’ letter from <abbr title=\"HM Revenue and Customs\">HMRC</abbr> if you get one</p>\n  </li>\n</ul>\n\n<p>If you sign in to check your tax code online, you can also find your tax code for a previous tax year.</p>\n\n",
+        "slug": "overview",
+        "title": "Overview"
+      },
+      {
+        "body": "<p>Your tax code is made up of numbers and letters.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>1257L is the tax code currently used for most people who have one job or pension.</p>\n</div>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will usually contact you to explain how they worked out your individual tax code <a href=\"/tax-codes/why-tax-code-change\">if your tax code changes</a>.</p>\n\n<h2 id=\"check-what-your-tax-code-means\">Check what your tax code means</h2>\n\n<p>You can use the <a rel=\"external\" href=\"https://www.tax.service.gov.uk/guidance/get-help-understanding-your-tax-code\">tax code checker</a> to find out:</p>\n\n<ul>\n  <li>what the numbers and letters in your tax code mean</li>\n  <li>how much tax you will pay</li>\n  <li>what you may need to do next</li>\n</ul>\n\n<p>Depending on your circumstances, you may be asked about:</p>\n\n<ul>\n  <li>your annual income, <a href=\"/understanding-your-pay\">before any deductions</a>\n</li>\n  <li>any <a href=\"/tax-company-benefits\">company benefits</a> you get or have previously received</li>\n  <li>the amount of State Pension you get each year</li>\n</ul>\n\n<h2 id=\"what-the-numbers-mean\">What the numbers mean</h2>\n<p>The numbers in your tax code tell your employer or pension provider how much tax-free income you get in that tax year.</p>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> works out your individual number based on your tax-free <a href=\"/income-tax-rates\">Personal Allowance</a> and income you have not paid tax on (such as untaxed interest or part-time earnings). They also consider the value of any <a href=\"/tax-company-benefits\">company benefits</a> (such as a company car).</p>\n\n<h2 id=\"what-the-letters-mean\">What the letters mean</h2>\n\n<p>Letters in your tax code refer to your situation and how it affects your Personal Allowance.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th scope=\"col\">Letters</th>\n      <th scope=\"col\">What they mean</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>L</td>\n      <td>You’re entitled to the standard tax-free <a href=\"/income-tax-rates\">Personal Allowance</a>\n</td>\n    </tr>\n    <tr>\n      <td>M</td>\n      <td>\n<a href=\"/marriage-allowance-guide\">Marriage Allowance</a>: you’ve received a transfer of 10% of your partner’s Personal Allowance</td>\n    </tr>\n    <tr>\n      <td>N</td>\n      <td>\n<a href=\"/marriage-allowance-guide\">Marriage Allowance</a>: you’ve transferred 10% of your Personal Allowance to your partner</td>\n    </tr>\n    <tr>\n      <td>T</td>\n      <td>Your tax code includes other calculations to work out your Personal Allowance</td>\n    </tr>\n    <tr>\n      <td>0T</td>\n      <td>Your <a href=\"/income-tax-rates\">Personal Allowance</a> has been used up, or you’ve started a new job and your employer does not have the details they need to give you a tax code</td>\n    </tr>\n    <tr>\n      <td>BR</td>\n      <td>All your income from this job or pension is taxed at the basic rate (usually used if you’ve got more than one job or pension)</td>\n    </tr>\n    <tr>\n      <td>D0</td>\n      <td>All your income from this job or pension is taxed at the higher rate (usually used if you’ve got more than one job or pension)</td>\n    </tr>\n    <tr>\n      <td>D1</td>\n      <td>All your income from this job or pension is taxed at the additional rate (usually used if you’ve got more than one job or pension)</td>\n    </tr>\n    <tr>\n      <td>NT</td>\n      <td>You’re not paying any tax on this income</td>\n    </tr>\n    <tr>\n      <td>S</td>\n      <td>Your income or pension is taxed using the <a href=\"/scottish-rate-income-tax/\">rates in Scotland</a>\n</td>\n    </tr>\n    <tr>\n      <td>S0T</td>\n      <td>Your Personal Allowance (Scotland) has been used up, or you’ve started a new job and your employer does not have the details they need to give you a tax code</td>\n    </tr>\n    <tr>\n      <td>SBR</td>\n      <td>All your income from this job or pension is taxed at the basic rate in Scotland (usually used if you’ve got more than one job or pension)</td>\n    </tr>\n    <tr>\n      <td>SD0</td>\n      <td>All your income from this job or pension is taxed at the intermediate rate in Scotland (usually used if you’ve got more than one job or pension)</td>\n    </tr>\n    <tr>\n      <td>SD1</td>\n      <td>All your income from this job or pension is taxed at the higher rate in Scotland (usually used if you’ve got more than one job or pension)</td>\n    </tr>\n    <tr>\n      <td>SD2</td>\n      <td>All your income from this job or pension is taxed at the top rate in Scotland (usually used if you’ve got more than one job or pension)</td>\n    </tr>\n    <tr>\n      <td>C</td>\n      <td>Your income or pension is taxed using the <a href=\"/welsh-income-tax\">rates in Wales</a>\n</td>\n    </tr>\n    <tr>\n      <td>C0T</td>\n      <td>Your Personal Allowance (Wales) has been used up, or you’ve started a new job and your employer does not have the details they need to give you a tax code </td>\n    </tr>\n    <tr>\n      <td>CBR</td>\n      <td>All your income from this job or pension is taxed at the basic rate in Wales (usually used if you’ve got more than one job or pension) </td>\n    </tr>\n    <tr>\n      <td>CD0</td>\n      <td>All your income from this job or pension is taxed at the higher rate in Wales (usually used if you’ve got more than one job or pension) </td>\n    </tr>\n    <tr>\n      <td>CD1</td>\n      <td>All your income from this job or pension is taxed at the additional rate in Wales (usually used if you’ve got more than one job or pension)</td>\n    </tr>\n  </tbody>\n</table>\n\n<h3 id=\"if-your-tax-code-has-w1-or-m1-or-x-at-the-end\">If your tax code has ‘W1’ or ‘M1’ or ‘X’ at the end</h3>\n\n<p>These are <a href=\"/tax-codes/emergency-tax-codes\">emergency tax codes</a>.</p>\n\n<h3 id=\"if-your-tax-code-has-a-k-at-the-beginning\">If your tax code has a ‘K’ at the beginning</h3>\n\n<p>Tax codes with ‘K’ at the beginning mean you have income that is not being taxed another way and it’s worth more than your tax-free allowance.</p>\n\n<p>For most people, this happens when you’re:</p>\n\n<ul>\n  <li>paying tax you owe from a previous year through your wages or pension</li>\n  <li>getting benefits you need to pay tax on - these can be <a href=\"/income-tax/taxfree-and-taxable-state-benefits\">state benefits</a> or <a href=\"/tax-company-benefits\">company benefits</a>\n</li>\n</ul>\n\n<p>Your employer or pension provider takes the tax due on the income that has not been taxed from your wages or pension - even if another organisation is paying the untaxed income to you.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Employers and pension providers cannot take more than half your pre-tax wages or pension when using a K tax code.</p>\n</div>\n\n",
+        "slug": "what-your-tax-code-means",
+        "title": "What your tax code means"
+      },
+      {
+        "body": "<p>If your tax code ends in ‘W1’ or ‘M1’ or ‘X’ you’re on an emergency tax code. For example:</p>\n\n<ul>\n  <li>1257L WI</li>\n  <li>1257L MI</li>\n  <li>1257L X</li>\n</ul>\n\n<p>You may be put on an emergency tax code if HMRC does not get your income details in time after a change in circumstances such as:</p>\n\n<ul>\n  <li>a new job</li>\n  <li>working for an employer after being self-employed</li>\n  <li>getting company benefits or the State Pension</li>\n</ul>\n\n<p>Emergency tax codes are temporary. HMRC will usually update your tax code when you or your employer give them your correct details. If your change in circumstances means you have not paid the right amount of tax, you’ll stay on the emergency tax code until you’ve paid the correct tax for the year.</p>\n\n<h2 id=\"updating-your-details\">Updating your details</h2>\n<p>Your employer can help you update your tax code by sending details about your previous income or pension to HMRC.</p>\n\n<h3 id=\"if-youve-started-a-new-job\">If you’ve started a new job</h3>\n\n<p>Give your employer your P45 from your previous job. If you do not have a P45, your employer should ask you for the information they need instead.</p>\n\n<h3 id=\"if-youve-started-working-for-an-employer-after-being-self-employed\">If you’ve started working for an employer after being self-employed</h3>\n\n<p>Your employer should give you a ‘starter checklist’ - this is a form you can use to give them details about your previous employment.</p>\n\n<h3 id=\"if-youve-started-getting-company-benefits-or-the-state-pension\">If you’ve started getting company benefits or the State Pension</h3>\n\n<p><a href=\"/check-income-tax-current-year\">Check your tax code online</a> to make sure it includes the State Pension or company benefit. If they’re not included, update your details in the tax code online service or by <a href=\"/government/organisations/hm-revenue-customs/contact/income-tax-enquiries-for-individuals-pensioners-and-employees\">contacting HMRC</a>.</p>\n\n<p>The emergency tax code will stay in place until the end of the tax year. This means you’ll pay the right amount of tax for the current tax year. In the new tax year HMRC will put you on a regular tax code.</p>\n\n",
+        "slug": "emergency-tax-codes",
+        "title": "Emergency tax codes"
+      },
+      {
+        "body": "<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> may update your tax code if:</p>\n\n<ul>\n  <li>\n    <p>you start to get income from an additional job or pension</p>\n  </li>\n  <li>\n    <p>your weekly State Pension amount changes</p>\n  </li>\n  <li>\n    <p>your employer tells <abbr title=\"HM Revenue and Customs\">HMRC</abbr> you have started or stopped getting <a href=\"/tax-company-benefits\">benefits from your job</a></p>\n  </li>\n  <li>\n    <p>you get <a href=\"/income-tax/taxfree-and-taxable-state-benefits\">taxable state benefits</a></p>\n  </li>\n  <li>\n    <p>you claim <a href=\"/marriage-allowance\">Marriage Allowance</a></p>\n  </li>\n  <li>\n    <p>you claim <a href=\"/tax-relief-for-employees\">expenses that you get tax relief on</a></p>\n  </li>\n</ul>\n\n<p>You may also be put on an <a href=\"/tax-codes/emergency-tax-codes\">emergency tax code</a> if you change jobs.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Sign into your <a href=\"/personal-tax-account\">personal tax account</a> to check or update your details with HMRC.</p>\n</div>\n\n",
+        "slug": "why-tax-code-change",
+        "title": "Why your tax code might change"
+      },
+      {
+        "body": "<p>In most cases, <abbr title=\"HM Revenue and Customs\">HMRC</abbr> will automatically update your tax code when your income changes. They’ll usually get this information from your employer.</p>\n\n<p>If <abbr title=\"HM Revenue and Customs\">HMRC</abbr> has the wrong information about your income, you may be given an incorrect tax code.</p>\n\n<p>To correct your tax code, make sure <abbr title=\"HM Revenue and Customs\">HMRC</abbr> has up-to-date details about your income.</p>\n\n<p>Check what you need to do if <a href=\"/tax-codes/emergency-tax-codes\">you’re on an emergency tax code</a>.</p>\n\n<h2 id=\"if-you-think-your-tax-code-is-wrong\">If you think your tax code is wrong</h2>\n\n<p>If you think your tax code is wrong, you can use the <a href=\"/check-income-tax-current-year\">check your Income Tax</a> online service to:</p>\n\n<ul>\n  <li>\n    <p>update your employment details</p>\n  </li>\n  <li>\n    <p>tell <abbr title=\"HM Revenue and Customs\">HMRC</abbr> about a change in income that may have affected your tax code</p>\n  </li>\n</ul>\n\n<h2 id=\"tell-hmrc-about-a-change-in-income\">Tell <abbr title=\"HM Revenue and Customs\">HMRC</abbr> about a change in income</h2>\n\n<p>You can report a change in your income by either:</p>\n\n<ul>\n  <li>\n    <p>using the <a href=\"/check-income-tax-current-year\">check your Income Tax</a> online service</p>\n  </li>\n  <li>\n    <p><a href=\"/government/organisations/hm-revenue-customs/contact/income-tax-enquiries-for-individuals-pensioners-and-employees\">contacting <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a></p>\n  </li>\n</ul>\n\n<h3 id=\"if-youre-contacting-hmrc-on-someone-elses-behalf\">If you’re contacting <abbr title=\"HM Revenue and Customs\">HMRC</abbr> on someone else’s behalf</h3>\n\n<p>If you need to tell <abbr title=\"HM Revenue and Customs\">HMRC</abbr> about a change in someone else’s income (for example, because you’re their accountant) fill in a <a rel=\"external\" href=\"https://www.tax.service.gov.uk/shortforms/form/P2\">PAYE Coding Notice query form</a>.</p>\n\n<h2 id=\"after-you-report-your-change\">After you report your change</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will contact you if they change your tax code.</p>\n\n<p>They will also tell your employer or pension provider that your tax code has changed.</p>\n\n<p>Your next payslip should show:</p>\n\n<ul>\n  <li>\n    <p>your new tax code</p>\n  </li>\n  <li>\n    <p>adjustments to your pay if you were paying the wrong amount of tax</p>\n  </li>\n</ul>\n\n<h2 id=\"get-a-tax-refund-or-pay-the-tax-you-owe\">Get a tax refund or pay the tax you owe</h2>\n\n<p>If <abbr title=\"HM Revenue and Customs\">HMRC</abbr> update your tax code and you’ve paid too much or too little tax, <abbr title=\"HM Revenue and Customs\">HMRC</abbr> will send you either:</p>\n\n<ul>\n  <li>\n    <p><a href=\"/tax-overpayments-and-underpayments/if-youre-due-a-refund\">a tax calculation letter</a> (known as a ‘P800’)</p>\n  </li>\n  <li>\n    <p><a href=\"/check-simple-assessment\">a Simple Assessment letter</a></p>\n  </li>\n</ul>\n\n",
+        "slug": "how-to-update-your-tax-code",
+        "title": "How to update your tax code"
+      }
+    ]
+  },
+  "document_type": "guide",
+  "first_published_at": "2012-09-20T12:24:04Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/tax-codes",
+        "api_url": "https://www.gov.uk/api/content/tax-codes",
+        "base_path": "/tax-codes",
+        "content_id": "8ec6ea6e-a259-459a-9e5e-ffab399a2e2e",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-15T11:05:10Z",
+        "schema_name": "guide",
+        "title": "Tax codes",
+        "web_url": "https://www.gov.uk/tax-codes",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/income-tax-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/income-tax-detailed-information",
+        "base_path": "/government/collections/income-tax-detailed-information",
+        "content_id": "12b16ad2-691d-4245-848f-c52c5d0aeb3c",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/tax-codes",
+              "api_url": "https://www.gov.uk/api/content/tax-codes",
+              "base_path": "/tax-codes",
+              "content_id": "8ec6ea6e-a259-459a-9e5e-ffab399a2e2e",
+              "document_type": "guide",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-04-15T11:05:10Z",
+              "schema_name": "guide",
+              "title": "Tax codes",
+              "web_url": "https://www.gov.uk/tax-codes",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-08T10:17:28Z",
+        "schema_name": "document_collection",
+        "title": "Income Tax: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/income-tax-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/income-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+        "base_path": "/browse/tax/income-tax",
+        "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+        "description": "Includes rates and allowances, tax codes and refunds",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:16Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Income Tax",
+        "web_url": "https://www.gov.uk/browse/tax/income-tax",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/income-tax",
+        "api_url": "https://www.gov.uk/api/content/income-tax",
+        "base_path": "/income-tax",
+        "content_id": "21c81878-c580-454e-9319-eb947ba40aa8",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/income-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+              "base_path": "/browse/tax/income-tax",
+              "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+              "description": "Includes rates and allowances, tax codes and refunds",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Income Tax",
+              "web_url": "https://www.gov.uk/browse/tax/income-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-11T14:42:57Z",
+        "schema_name": "guide",
+        "title": "Income Tax: introduction",
+        "web_url": "https://www.gov.uk/income-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/income-tax-rates",
+        "api_url": "https://www.gov.uk/api/content/income-tax-rates",
+        "base_path": "/income-tax-rates",
+        "content_id": "9b8a4862-56dc-47b1-b56b-8a647fdd72e5",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/income-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+              "base_path": "/browse/tax/income-tax",
+              "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+              "description": "Includes rates and allowances, tax codes and refunds",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Income Tax",
+              "web_url": "https://www.gov.uk/browse/tax/income-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-07T15:09:24Z",
+        "schema_name": "guide",
+        "title": "Income Tax rates and Personal Allowances ",
+        "web_url": "https://www.gov.uk/income-tax-rates",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/personal-tax-account",
+        "api_url": "https://www.gov.uk/api/content/personal-tax-account",
+        "base_path": "/personal-tax-account",
+        "content_id": "f4f2c99e-6d0a-4f2f-b3d0-ff2d00e33887",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/dealing-with-hmrc",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/dealing-with-hmrc",
+              "base_path": "/browse/tax/dealing-with-hmrc",
+              "content_id": "8b432175-2324-4c96-b6c6-9708cdab4fa1",
+              "description": "Reporting changes, agents, appeals, checks, complaints and help with tax",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:28Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Dealing with HMRC",
+              "web_url": "https://www.gov.uk/browse/tax/dealing-with-hmrc",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/income-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+              "base_path": "/browse/tax/income-tax",
+              "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+              "description": "Includes rates and allowances, tax codes and refunds",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Income Tax",
+              "web_url": "https://www.gov.uk/browse/tax/income-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-12T10:04:48Z",
+        "schema_name": "answer",
+        "title": "Personal tax account: sign in or set up",
+        "web_url": "https://www.gov.uk/personal-tax-account",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employee-tax-codes",
+        "api_url": "https://www.gov.uk/api/content/employee-tax-codes",
+        "base_path": "/employee-tax-codes",
+        "content_id": "a96d18d7-f571-4814-9719-6d9f0868cca7",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/payroll",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+              "base_path": "/browse/employing-people/payroll",
+              "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+              "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:57:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Payroll",
+              "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-16T21:07:15Z",
+        "schema_name": "guide",
+        "title": "Understanding your employees' tax codes",
+        "web_url": "https://www.gov.uk/employee-tax-codes",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/update-company-car-details",
+        "api_url": "https://www.gov.uk/api/content/update-company-car-details",
+        "base_path": "/update-company-car-details",
+        "content_id": "83193c89-0e12-4b8a-9eac-5a68fd5e6ef4",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/expenses-employee-benefits",
+              "api_url": "https://www.gov.uk/api/content/browse/business/expenses-employee-benefits",
+              "base_path": "/browse/business/expenses-employee-benefits",
+              "content_id": "0d72ae71-5930-43ae-89ea-7cf4cee5b122",
+              "description": "Includes company cars and paying tax on employee benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:29Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Expenses and employee benefits",
+              "web_url": "https://www.gov.uk/browse/business/expenses-employee-benefits",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-12-19T10:57:06Z",
+        "schema_name": "transaction",
+        "title": "Check or update your company car tax",
+        "web_url": "https://www.gov.uk/update-company-car-details",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/income-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+        "base_path": "/browse/tax/income-tax",
+        "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+        "description": "Includes rates and allowances, tax codes and refunds",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:16Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Income Tax",
+        "web_url": "https://www.gov.uk/browse/tax/income-tax",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/income-tax",
+        "api_url": "https://www.gov.uk/api/content/income-tax",
+        "base_path": "/income-tax",
+        "content_id": "21c81878-c580-454e-9319-eb947ba40aa8",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-11T14:42:57Z",
+        "schema_name": "guide",
+        "title": "Income Tax: introduction",
+        "web_url": "https://www.gov.uk/income-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/personal-tax-account",
+        "api_url": "https://www.gov.uk/api/content/personal-tax-account",
+        "base_path": "/personal-tax-account",
+        "content_id": "f4f2c99e-6d0a-4f2f-b3d0-ff2d00e33887",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-12T10:04:48Z",
+        "schema_name": "answer",
+        "title": "Personal tax account: sign in or set up",
+        "web_url": "https://www.gov.uk/personal-tax-account",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employee-tax-codes",
+        "api_url": "https://www.gov.uk/api/content/employee-tax-codes",
+        "base_path": "/employee-tax-codes",
+        "content_id": "a96d18d7-f571-4814-9719-6d9f0868cca7",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-16T21:07:15Z",
+        "schema_name": "guide",
+        "title": "Understanding your employees' tax codes",
+        "web_url": "https://www.gov.uk/employee-tax-codes",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/estimate-income-tax",
+        "api_url": "https://www.gov.uk/api/content/estimate-income-tax",
+        "base_path": "/estimate-income-tax",
+        "content_id": "3eb1ae4f-3c40-4824-b57b-b7715b8a4bbf",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-04-06T14:00:44Z",
+        "schema_name": "transaction",
+        "title": "Estimate your Income Tax for the current year",
+        "web_url": "https://www.gov.uk/estimate-income-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/scottish-income-tax",
+        "api_url": "https://www.gov.uk/api/content/scottish-income-tax",
+        "base_path": "/scottish-income-tax",
+        "content_id": "c5fa93b7-db62-45f4-8c91-fe076b4a3a4d",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-27T17:55:41Z",
+        "schema_name": "guide",
+        "title": "Income Tax in Scotland",
+        "web_url": "https://www.gov.uk/scottish-income-tax",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/income-tax",
+        "api_url": "https://www.gov.uk/api/content/money/income-tax",
+        "base_path": "/money/income-tax",
+        "content_id": "104ee859-8278-406b-80cb-5727373e0198",
+        "details": {
+          "internal_name": "Income Tax [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:55Z",
+        "schema_name": "taxon",
+        "title": "Income Tax",
+        "web_url": "https://www.gov.uk/money/income-tax",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-04-15T11:05:10Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1702909638.722-10.13.22.174-20986",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "guide",
+  "title": "Tax codes",
+  "updated_at": "2024-02-08T11:45:15Z",
+  "withdrawn_notice": {
+  }
+}

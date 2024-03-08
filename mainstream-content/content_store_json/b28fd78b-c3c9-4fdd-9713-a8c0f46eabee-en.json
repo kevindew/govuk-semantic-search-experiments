@@ -1,0 +1,307 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/alcohol-licence-your-area",
+  "content_id": "b28fd78b-c3c9-4fdd-9713-a8c0f46eabee",
+  "description": "Rules for alcohol licensing in your area, apply for a licence or have your say about a licence application",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Anyone operating premises or organising events that include the sale or supply of alcohol must have a licence. Check the rules for your area, apply for a licence, have your say (‘make a representation’) about a new application or apply for a review of an existing licence.</p>\n",
+    "lgil_code": 8,
+    "lgsl_code": 860,
+    "more_information": "\n",
+    "need_to_know": "<ul>\n  <li>Available in England and Wales only</li>\n</ul>\n",
+    "service_tiers": [
+      "district",
+      "unitary"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2012-01-24T09:51:25Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/alcohol-licence-your-area",
+        "api_url": "https://www.gov.uk/api/content/alcohol-licence-your-area",
+        "base_path": "/alcohol-licence-your-area",
+        "content_id": "b28fd78b-c3c9-4fdd-9713-a8c0f46eabee",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-30T11:23:00Z",
+        "schema_name": "local_transaction",
+        "title": "Alcohol licensing in your area",
+        "web_url": "https://www.gov.uk/alcohol-licence-your-area",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/organise-street-party",
+        "api_url": "https://www.gov.uk/api/content/organise-street-party",
+        "base_path": "/organise-street-party",
+        "content_id": "d0ab45a7-7cfd-447a-becd-07e3d6a3995d",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/local-councils",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+              "base_path": "/browse/housing-local-services/local-councils",
+              "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+              "description": "Find and access local services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Local councils and services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-21T11:39:10Z",
+        "schema_name": "guide",
+        "title": "Organising a street party",
+        "web_url": "https://www.gov.uk/organise-street-party",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D16",
+        "api_path": "/api/content/government/organisations/home-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/home-office",
+        "base_path": "/government/organisations/home-office",
+        "content_id": "06056197-bc69-4147-aa28-070bca132178",
+        "details": {
+          "acronym": "Home Office",
+          "brand": "home-office",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db3ce5274a7908e3530c/s960_home-office.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db3c40f0b649cceb18de/s300_home-office.jpg"
+          },
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "Home Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Home Office",
+        "web_url": "https://www.gov.uk/government/organisations/home-office",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/housing-local-services",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+              "base_path": "/browse/housing-local-services",
+              "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+              "description": "Owning or renting and council services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Housing and local services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/guidance/alcohol-licensing",
+        "api_url": "https://www.gov.uk/api/content/guidance/alcohol-licensing",
+        "base_path": "/guidance/alcohol-licensing",
+        "content_id": "5dc3ce16-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-04-19T11:51:31Z",
+        "schema_name": "detailed_guide",
+        "title": "Alcohol licensing",
+        "web_url": "https://www.gov.uk/guidance/alcohol-licensing",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/regional-and-local-government/local-councils",
+        "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-councils",
+        "base_path": "/regional-and-local-government/local-councils",
+        "content_id": "15191831-40b4-4f6e-ade3-e82d7c775afd",
+        "details": {
+          "internal_name": "Local councils and services [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/regional-and-local-government",
+              "api_url": "https://www.gov.uk/api/content/regional-and-local-government",
+              "base_path": "/regional-and-local-government",
+              "content_id": "503c5bc7-809a-47b9-83e2-bd0c212dbabb",
+              "description": "",
+              "details": {
+                "internal_name": "Regional and local government",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:30:05Z",
+              "schema_name": "taxon",
+              "title": "Regional and local government",
+              "web_url": "https://www.gov.uk/regional-and-local-government",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:09:40Z",
+        "schema_name": "taxon",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/regional-and-local-government/local-councils",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-03-30T11:23:00Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "3592-1504182737.886-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Alcohol licensing in your area",
+  "updated_at": "2024-03-07T11:17:17Z",
+  "withdrawn_notice": {
+  }
+}

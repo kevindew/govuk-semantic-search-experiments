@@ -1,0 +1,364 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-eori-number",
+  "content_id": "acae901c-ba11-44df-9acb-d22589230cfe",
+  "description": "Check a business's EORI number, used to import and export goods from the UK",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>A business needs a valid <a href=\"/eori\">EORI number</a> to move goods between Great Britain (England, Scotland and Wales) and other countries. They also need one to move goods from Northern Ireland to non-EU countries.</p>\n\n<p>Use this service to check if an EORI number beginning with GB (issued by the UK) is valid.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/gwirio-rhif-eori\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<p>You can also see the name and address of the business that the EORI number is registered to, if they agreed to share this information.</p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.tax.service.gov.uk/check-eori-number",
+    "variants": [
+
+    ],
+    "what_you_need_to_know": "<p>This service only checks EORI numbers beginning with GB.</p>\n\n<p>If the EORI number you have starts with XI or any other letters, <a rel=\"external\" href=\"https://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en\">check non-GB EORI numbers online</a>.</p>\n",
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2020-12-23T09:30:01Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-eori-number",
+        "api_url": "https://www.gov.uk/api/content/check-eori-number",
+        "base_path": "/check-eori-number",
+        "content_id": "acae901c-ba11-44df-9acb-d22589230cfe",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-12-22T07:47:10Z",
+        "schema_name": "transaction",
+        "title": "Check an EORI number",
+        "web_url": "https://www.gov.uk/check-eori-number",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/exports",
+        "api_url": "https://www.gov.uk/api/content/browse/business/exports",
+        "base_path": "/browse/business/exports",
+        "content_id": "2d9131f5-d1a8-4f0c-b087-53ea0adfd160",
+        "description": "Includes moving goods in the EU and commodity codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Exporting and doing business abroad",
+        "web_url": "https://www.gov.uk/browse/business/exports",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/business/imports",
+        "api_url": "https://www.gov.uk/api/content/browse/business/imports",
+        "base_path": "/browse/business/imports",
+        "content_id": "26df9466-7d33-4c1e-924f-eeafa7db96b4",
+        "description": "Includes moving goods in the EU and commodity codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Importing",
+        "web_url": "https://www.gov.uk/browse/business/imports",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/eori",
+        "api_url": "https://www.gov.uk/api/content/eori",
+        "base_path": "/eori",
+        "content_id": "7dbefa2e-794d-4786-aee1-8f88d1af4922",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/exports",
+              "api_url": "https://www.gov.uk/api/content/browse/business/exports",
+              "base_path": "/browse/business/exports",
+              "content_id": "2d9131f5-d1a8-4f0c-b087-53ea0adfd160",
+              "description": "Includes moving goods in the EU and commodity codes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:40Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Exporting and doing business abroad",
+              "web_url": "https://www.gov.uk/browse/business/exports",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/business/imports",
+              "api_url": "https://www.gov.uk/api/content/browse/business/imports",
+              "base_path": "/browse/business/imports",
+              "content_id": "26df9466-7d33-4c1e-924f-eeafa7db96b4",
+              "description": "Includes moving goods in the EU and commodity codes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:40Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Importing",
+              "web_url": "https://www.gov.uk/browse/business/imports",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-07-28T16:02:31Z",
+        "schema_name": "guide",
+        "title": "Get an EORI number",
+        "web_url": "https://www.gov.uk/eori",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/exports",
+        "api_url": "https://www.gov.uk/api/content/browse/business/exports",
+        "base_path": "/browse/business/exports",
+        "content_id": "2d9131f5-d1a8-4f0c-b087-53ea0adfd160",
+        "description": "Includes moving goods in the EU and commodity codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Exporting and doing business abroad",
+        "web_url": "https://www.gov.uk/browse/business/exports",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/customs-declarations-duties-tariffs",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/customs-declarations-duties-tariffs",
+        "base_path": "/business-and-industry/customs-declarations-duties-tariffs",
+        "content_id": "5984199c-d85c-4ffc-b13a-c5f2482d2258",
+        "description": "",
+        "details": {
+          "internal_name": "Customs declarations, duties and tariffs (import and export)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/trade-and-investment",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/trade-and-investment",
+              "base_path": "/business-and-industry/trade-and-investment",
+              "content_id": "ed2ca1f7-5463-4eda-9324-b597e269e242",
+              "details": {
+                "internal_name": "Trade and investment",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                    "base_path": "/business-and-industry",
+                    "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Business and industry",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Business and industry",
+                    "web_url": "https://www.gov.uk/business-and-industry",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:05Z",
+              "schema_name": "taxon",
+              "title": "Trade and investment",
+              "web_url": "https://www.gov.uk/business-and-industry/trade-and-investment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-07T09:44:16Z",
+        "schema_name": "taxon",
+        "title": "Customs declarations, duties and tariffs (import and export)",
+        "web_url": "https://www.gov.uk/business-and-industry/customs-declarations-duties-tariffs",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-12-22T07:47:10Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "19677-1608623230.146-10.13.2.132-8110",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Check an EORI number",
+  "updated_at": "2024-02-12T14:20:40Z",
+  "withdrawn_notice": {
+  }
+}

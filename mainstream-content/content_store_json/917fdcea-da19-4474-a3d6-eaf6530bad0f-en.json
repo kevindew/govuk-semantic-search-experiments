@@ -1,0 +1,505 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/file-gambling-tax-return",
+  "content_id": "917fdcea-da19-4474-a3d6-eaf6530bad0f",
+  "description": "Log in to your HM Revenue and Customs (HMRC) online account and file your General Betting Duty, Pool Betting Duty or Remote Gaming Duty returns",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Log in to your HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) online account and file your returns for General Betting Duty, Pool Betting Duty or Remote Gaming Duty.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Online services may be slow during busy times. Check if there are any <a href=\"/government/publications/gambling-tax-service-availability-and-issues/gambling-tax-service-availability-and-issues\">problems with this service</a>.</p>\n</div>\n\n",
+    "more_information": "<p>You’ll need:</p>\n\n<ul>\n  <li>an <abbr title=\"HM Revenue and Customs\">HMRC</abbr> online account</li>\n  <li>a Government Gateway user ID and password - if you do not have a user ID, you can create one when you use the service</li>\n</ul>\n\n<p>Check if you need to register and pay <a href=\"/general-betting-duty-pool-betting-duty-and-remote-gaming-duty\">General Betting Duty, Pool Betting Duty or Remote Gaming Duty</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You must submit your returns online if you hold a remote operating licence from the Gambling Commission.</p>\n</div>\n\n<p>You can continue to file paper returns if you do not hold a remote operating licence. <abbr title=\"HM Revenue and Customs\">HMRC</abbr> will send you a paper return for each accounting period.</p>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.tax.service.gov.uk/gg/sign-in?continue=/business-account/&origin=GAMBLING-frontend",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2015-03-17T10:05:52Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/file-gambling-tax-return",
+        "api_url": "https://www.gov.uk/api/content/file-gambling-tax-return",
+        "base_path": "/file-gambling-tax-return",
+        "content_id": "917fdcea-da19-4474-a3d6-eaf6530bad0f",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-01T13:19:29Z",
+        "schema_name": "transaction",
+        "title": "File your gambling tax return",
+        "web_url": "https://www.gov.uk/file-gambling-tax-return",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/gambling-duties-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/gambling-duties-detailed-information",
+        "base_path": "/government/collections/gambling-duties-detailed-information",
+        "content_id": "d9d9986a-a79c-4348-866d-e0ce25134e2a",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/file-gambling-tax-return",
+              "api_url": "https://www.gov.uk/api/content/file-gambling-tax-return",
+              "base_path": "/file-gambling-tax-return",
+              "content_id": "917fdcea-da19-4474-a3d6-eaf6530bad0f",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-07-01T13:19:29Z",
+              "schema_name": "transaction",
+              "title": "File your gambling tax return",
+              "web_url": "https://www.gov.uk/file-gambling-tax-return",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-05T00:00:00Z",
+        "schema_name": "document_collection",
+        "title": "Gambling duties: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/gambling-duties-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/register-for-the-gambling-tax-service",
+        "api_url": "https://www.gov.uk/api/content/needs/register-for-the-gambling-tax-service",
+        "base_path": "/needs/register-for-the-gambling-tax-service",
+        "content_id": "a11a5ffc-4af5-4814-956a-14c8f7b349e5",
+        "details": {
+          "benefit": "I can file a return",
+          "goal": "register for the Gambling Tax Service",
+          "justifications": null,
+          "met_when": [
+            "sign up and enrols for the Gambling Tax Service",
+            "knows whether they should sign up for the new Gambling Tax Service after the reforms ",
+            "knows how to register and file a return online"
+          ],
+          "role": "business"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a business, I need to register for the Gambling Tax Service, so that I can file a return (102338)",
+        "web_url": "https://www.gov.uk/needs/register-for-the-gambling-tax-service",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/register-pay-gambling-tax",
+        "api_url": "https://www.gov.uk/api/content/register-pay-gambling-tax",
+        "base_path": "/register-pay-gambling-tax",
+        "content_id": "3a2ac3f0-3ae1-4de6-b0a4-e2e4c72d8585",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/business-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/business/business-tax",
+              "base_path": "/browse/business/business-tax",
+              "content_id": "b7d6588c-a056-47fc-9528-0b9ff42c3866",
+              "description": "Includes Corporation Tax, Capital Gains Tax, Construction Industry Scheme (CIS) and VAT",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:20Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/browse/business/business-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-05T13:16:45Z",
+        "schema_name": "transaction",
+        "title": "Register for gambling tax",
+        "web_url": "https://www.gov.uk/register-pay-gambling-tax",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/guidance/general-betting-duty-pool-betting-duty-and-remote-gaming-duty",
+        "api_url": "https://www.gov.uk/api/content/guidance/general-betting-duty-pool-betting-duty-and-remote-gaming-duty",
+        "base_path": "/guidance/general-betting-duty-pool-betting-duty-and-remote-gaming-duty",
+        "content_id": "d79b70f8-2ff2-4e53-a8c6-a3aa25e3070e",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-05-13T09:08:56Z",
+        "schema_name": "detailed_guide",
+        "title": "General Betting Duty, Pool Betting Duty and Remote Gaming Duty",
+        "web_url": "https://www.gov.uk/guidance/general-betting-duty-pool-betting-duty-and-remote-gaming-duty",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/gambling-tax-reform-information-notes",
+        "api_url": "https://www.gov.uk/api/content/government/publications/gambling-tax-reform-information-notes",
+        "base_path": "/government/publications/gambling-tax-reform-information-notes",
+        "content_id": "601d582e-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-02-14T00:00:00Z",
+        "schema_name": "publication",
+        "title": "Gambling Tax Reform: Information Notes",
+        "web_url": "https://www.gov.uk/government/publications/gambling-tax-reform-information-notes",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/gaming-duty",
+        "api_url": "https://www.gov.uk/api/content/guidance/gaming-duty",
+        "base_path": "/guidance/gaming-duty",
+        "content_id": "5ff0e9ba-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-10-01T09:00:08Z",
+        "schema_name": "detailed_guide",
+        "title": "Gaming Duty",
+        "web_url": "https://www.gov.uk/guidance/gaming-duty",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pay-machine-games-duty",
+        "api_url": "https://www.gov.uk/api/content/pay-machine-games-duty",
+        "base_path": "/pay-machine-games-duty",
+        "content_id": "a8abe4dd-a141-4b17-b72d-96f0df21dcf3",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-05-19T11:24:28Z",
+        "schema_name": "guide",
+        "title": "Pay Machine Games Duty",
+        "web_url": "https://www.gov.uk/pay-machine-games-duty",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/gambling-tax-service-online-service-guide-for-general-betting-duty-pool-betting-duty-and-remote-gaming-duty",
+        "api_url": "https://www.gov.uk/api/content/guidance/gambling-tax-service-online-service-guide-for-general-betting-duty-pool-betting-duty-and-remote-gaming-duty",
+        "base_path": "/guidance/gambling-tax-service-online-service-guide-for-general-betting-duty-pool-betting-duty-and-remote-gaming-duty",
+        "content_id": "42b5afb4-1db9-4b65-b42e-9a1f21dfc4cd",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-17T09:16:00Z",
+        "schema_name": "detailed_guide",
+        "title": "Gambling Tax Service: online service guide for General Betting Duty, Pool Betting Duty and Remote Gaming Duty",
+        "web_url": "https://www.gov.uk/guidance/gambling-tax-service-online-service-guide-for-general-betting-duty-pool-betting-duty-and-remote-gaming-duty",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/business-tax-gambling-duties-general-betting-duty-pool-betting-duty-and-remote-gaming-duty",
+        "api_url": "https://www.gov.uk/api/content/money/business-tax-gambling-duties-general-betting-duty-pool-betting-duty-and-remote-gaming-duty",
+        "base_path": "/money/business-tax-gambling-duties-general-betting-duty-pool-betting-duty-and-remote-gaming-duty",
+        "content_id": "f6eef892-c962-4500-8ff6-adbeaf6e32e4",
+        "details": {
+          "internal_name": "General Betting Duty, Pool Betting Duty and Remote Gaming Duty [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/gambling-duties",
+              "api_url": "https://www.gov.uk/api/content/money/gambling-duties",
+              "base_path": "/money/gambling-duties",
+              "content_id": "35a34e76-77fc-42b4-b8de-c587d30ff39a",
+              "details": {
+                "internal_name": "Gambling duties [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money/business-tax",
+                    "api_url": "https://www.gov.uk/api/content/money/business-tax",
+                    "base_path": "/money/business-tax",
+                    "content_id": "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+                    "details": {
+                      "internal_name": "Business tax [T] (level 2, money)",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/money",
+                          "api_url": "https://www.gov.uk/api/content/money",
+                          "base_path": "/money",
+                          "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Money",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T20:35:25Z",
+                          "schema_name": "taxon",
+                          "title": "Money",
+                          "web_url": "https://www.gov.uk/money",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-05T16:19:49Z",
+                    "schema_name": "taxon",
+                    "title": "Business tax",
+                    "web_url": "https://www.gov.uk/money/business-tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:51Z",
+              "schema_name": "taxon",
+              "title": "Gambling duties",
+              "web_url": "https://www.gov.uk/money/gambling-duties",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:51Z",
+        "schema_name": "taxon",
+        "title": "General Betting Duty, Pool Betting Duty and Remote Gaming Duty",
+        "web_url": "https://www.gov.uk/money/business-tax-gambling-duties-general-betting-duty-pool-betting-duty-and-remote-gaming-duty",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/gambling-duties",
+        "api_url": "https://www.gov.uk/api/content/money/gambling-duties",
+        "base_path": "/money/gambling-duties",
+        "content_id": "35a34e76-77fc-42b4-b8de-c587d30ff39a",
+        "details": {
+          "internal_name": "Gambling duties [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/business-tax",
+              "api_url": "https://www.gov.uk/api/content/money/business-tax",
+              "base_path": "/money/business-tax",
+              "content_id": "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+              "details": {
+                "internal_name": "Business tax [T] (level 2, money)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:49Z",
+              "schema_name": "taxon",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/money/business-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:51Z",
+        "schema_name": "taxon",
+        "title": "Gambling duties",
+        "web_url": "https://www.gov.uk/money/gambling-duties",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-07-01T13:19:29Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "2059-1544696049.651-213.86.153.247-7668",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "File your gambling tax return",
+  "updated_at": "2024-02-06T17:41:43Z",
+  "withdrawn_notice": {
+  }
+}

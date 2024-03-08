@@ -1,0 +1,138 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/other-employment-related-securities-return",
+  "content_id": "82ca3235-f453-41cb-8e45-6bff848eed91",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2015-03-31T10:58:16Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/other-employment-related-securities-return",
+        "api_url": "https://www.gov.uk/api/content/done/other-employment-related-securities-return",
+        "base_path": "/done/other-employment-related-securities-return",
+        "content_id": "82ca3235-f453-41cb-8e45-6bff848eed91",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-08-26T16:17:12Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Other employment related securities return",
+        "web_url": "https://www.gov.uk/done/other-employment-related-securities-return",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/access-the-ers-service",
+        "api_url": "https://www.gov.uk/api/content/needs/access-the-ers-service",
+        "base_path": "/needs/access-the-ers-service",
+        "content_id": "dcc0b8f5-4497-4c48-96e1-2841240ec947",
+        "details": {
+          "benefit": "I can submit returns online",
+          "goal": "access the ERS service",
+          "justifications": [
+            "It's inherent to a person's or an organisation's rights and obligations",
+            "It's something the government provides/does/pays for"
+          ],
+          "met_when": [
+            "has checked and sent in their return using the online service"
+          ],
+          "role": "employer offering Employment Related Securities (ERS)"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a employer offering Employment Related Securities (ERS), I need to access the ERS service, so that I can submit returns online (100645)",
+        "web_url": "https://www.gov.uk/needs/access-the-ers-service",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-08-26T16:17:12Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629922.375-10.13.26.132-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Other employment related securities return",
+  "updated_at": "2024-01-03T11:04:57Z",
+  "withdrawn_notice": {
+  }
+}

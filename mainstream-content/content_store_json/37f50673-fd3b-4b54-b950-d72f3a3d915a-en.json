@@ -1,0 +1,451 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/probate-search",
+  "content_id": "37f50673-fd3b-4b54-b950-d72f3a3d915a",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2013-08-30T15:33:25Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/probate-search",
+        "api_url": "https://www.gov.uk/api/content/done/probate-search",
+        "base_path": "/done/probate-search",
+        "content_id": "37f50673-fd3b-4b54-b950-d72f3a3d915a",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-08-27T16:53:42Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Find a soldier's will",
+        "web_url": "https://www.gov.uk/done/probate-search",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/apply-for-probate-to-manage-an-estate",
+        "api_url": "https://www.gov.uk/api/content/needs/apply-for-probate-to-manage-an-estate",
+        "base_path": "/needs/apply-for-probate-to-manage-an-estate",
+        "content_id": "d7920d12-1348-470d-b9b3-0c51594a3bfd",
+        "details": {
+          "benefit": "I can deal with the deceased's property, money and possessions",
+          "goal": "apply for probate to manage an estate",
+          "justifications": [
+            "It's something only government does",
+            "It's inherent to a person's or an organisation's rights and obligations",
+            "There is clear demand for it from users"
+          ],
+          "met_when": [
+            "can work out what to do without appointing a solicitor",
+            "understands the different processes if the deceased person left a will or not",
+            "understands the possible taxes they need to pay",
+            "understands what probate is, who has to apply for it, how and when to apply",
+            "fills in form PA1 and either IHT205 or IHT400",
+            "sends their application for a grant of representation (confirmation in Scotland) to the Probate Registry",
+            "swears the oath",
+            "is issued with a grant of representation (confirmation in Scotland)"
+          ],
+          "role": "person dealing with a death"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a person dealing with a death, I need to apply for probate to manage an estate, so that I can deal with the deceased's property, money and possessions (100321)",
+        "web_url": "https://www.gov.uk/needs/apply-for-probate-to-manage-an-estate",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/applying-for-probate",
+        "api_url": "https://www.gov.uk/api/content/applying-for-probate",
+        "base_path": "/applying-for-probate",
+        "content_id": "c25b48e9-bdae-4870-845d-5a67c1189fe1",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/death",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/death",
+              "base_path": "/browse/births-deaths-marriages/death",
+              "content_id": "0384fade-ef89-4dd7-8578-3df1d1699fa4",
+              "description": "Reporting a death, wills, probate and Inheritance Tax",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:22Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Death and bereavement",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/death",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/capital-gains",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/capital-gains",
+              "base_path": "/browse/tax/capital-gains",
+              "content_id": "d6007553-8ed9-46bd-a5a6-de12f5e64491",
+              "description": "Tax when you sell property, shares, personal possessions and business assets",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:57Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Capital Gains Tax",
+              "web_url": "https://www.gov.uk/browse/tax/capital-gains",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/inheritance-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/inheritance-tax",
+              "base_path": "/browse/tax/inheritance-tax",
+              "content_id": "d559e7cf-56cd-4866-90d1-94cf551e0a10",
+              "description": "Includes valuing an estate, trusts and taxes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Inheritance Tax",
+              "web_url": "https://www.gov.uk/browse/tax/inheritance-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-12T08:00:01Z",
+        "schema_name": "guide",
+        "title": "Applying for probate",
+        "web_url": "https://www.gov.uk/applying-for-probate",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/unclaimed-estates-bona-vacantia",
+        "api_url": "https://www.gov.uk/api/content/unclaimed-estates-bona-vacantia",
+        "base_path": "/unclaimed-estates-bona-vacantia",
+        "content_id": "f9240f4a-d34c-4a79-a570-43fee819ce35",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/death",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/death",
+              "base_path": "/browse/births-deaths-marriages/death",
+              "content_id": "0384fade-ef89-4dd7-8578-3df1d1699fa4",
+              "description": "Reporting a death, wills, probate and Inheritance Tax",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:22Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Death and bereavement",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/death",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-12T09:56:37Z",
+        "schema_name": "guide",
+        "title": "Claim or refer an unclaimed estate",
+        "web_url": "https://www.gov.uk/unclaimed-estates-bona-vacantia",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/after-a-death",
+        "api_url": "https://www.gov.uk/api/content/after-a-death",
+        "base_path": "/after-a-death",
+        "content_id": "1b5474c1-54ec-44e3-8319-b805264fe58c",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/register-offices",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/register-offices",
+              "base_path": "/browse/births-deaths-marriages/register-offices",
+              "content_id": "553aa169-abde-4733-a84b-61fac93fe75e",
+              "description": "Birth certificates, registering a death, marriage, family history and correcting certificates",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Certificates, register offices, changes of name or gender",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/register-offices",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/death",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/death",
+              "base_path": "/browse/births-deaths-marriages/death",
+              "content_id": "0384fade-ef89-4dd7-8578-3df1d1699fa4",
+              "description": "Reporting a death, wills, probate and Inheritance Tax",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:22Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Death and bereavement",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/death",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-15T09:00:01Z",
+        "schema_name": "guide",
+        "title": "What to do after someone dies",
+        "web_url": "https://www.gov.uk/after-a-death",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/research-family-history",
+        "api_url": "https://www.gov.uk/api/content/research-family-history",
+        "base_path": "/research-family-history",
+        "content_id": "30dd5f93-abe4-4758-aba2-251f99f14332",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/register-offices",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/register-offices",
+              "base_path": "/browse/births-deaths-marriages/register-offices",
+              "content_id": "553aa169-abde-4733-a84b-61fac93fe75e",
+              "description": "Birth certificates, registering a death, marriage, family history and correcting certificates",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Certificates, register offices, changes of name or gender",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/register-offices",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-01-29T15:26:54Z",
+        "schema_name": "answer",
+        "title": "Research your family history using the General Register Office",
+        "web_url": "https://www.gov.uk/research-family-history",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA66",
+        "api_path": "/api/content/government/organisations/hm-passport-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-passport-office",
+        "base_path": "/government/organisations/hm-passport-office",
+        "content_id": "3a96a1e0-21e3-4aae-8e84-f90860ed3dbf",
+        "details": {
+          "acronym": "HM Passport Office",
+          "brand": "home-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "HM Passport<br/>Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Passport Office",
+        "web_url": "https://www.gov.uk/government/organisations/hm-passport-office",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-08-27T16:53:42Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629921.822-10.13.26.132-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Find a soldier's will",
+  "updated_at": "2024-03-07T10:57:42Z",
+  "withdrawn_notice": {
+  }
+}

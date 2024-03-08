@@ -1,0 +1,371 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/book-theory-test",
+  "content_id": "eca3f3dd-3296-4b86-8dc8-42f91fe0cb6e",
+  "description": "",
+  "details": {
+    "external_related_links": [
+      {
+        "title": "Buy official theory test learning guides",
+        "url": "https://www.safedrivingforlife.info/shop/theory-test-booking-page"
+      }
+    ]
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2015-08-12T12:25:01Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/book-theory-test",
+        "api_url": "https://www.gov.uk/api/content/done/book-theory-test",
+        "base_path": "/done/book-theory-test",
+        "content_id": "eca3f3dd-3296-4b86-8dc8-42f91fe0cb6e",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-09-08T15:25:17Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Book your theory test",
+        "web_url": "https://www.gov.uk/done/book-theory-test",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/book-a-theory-test-for-a-car-motorcycle-lorry-or-bus",
+        "api_url": "https://www.gov.uk/api/content/needs/book-a-theory-test-for-a-car-motorcycle-lorry-or-bus",
+        "base_path": "/needs/book-a-theory-test-for-a-car-motorcycle-lorry-or-bus",
+        "content_id": "f24a9a0b-efd7-4e6e-8021-0caa42b3b825",
+        "details": {
+          "benefit": "I can progress with getting my driving licence",
+          "goal": "book a theory test for a car, motorcycle, lorry or bus",
+          "justifications": [
+            "It's something only government does",
+            "The government is legally obliged to provide it",
+            "It's something that people can do or it's something people need to know before they can do something that's regulated by/related to government",
+            "There is clear demand for it from users",
+            "It's something the government provides/does/pays for"
+          ],
+          "met_when": [
+            "can book a driving theory test",
+            "knows how much it will cost",
+            "knows what they'll need to book a theory test",
+            "knows how long they have to wait before taking another test if they're booking a further test"
+          ],
+          "role": "learner driver or rider"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a learner driver or rider, I need to book a theory test for a car, motorcycle, lorry or bus, so that I can progress with getting my driving licence (100150)",
+        "web_url": "https://www.gov.uk/needs/book-a-theory-test-for-a-car-motorcycle-lorry-or-bus",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA570",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-standards-agency",
+        "content_id": "d39237a5-678b-4bb5-a372-eb2cb036933d",
+        "details": {
+          "acronym": "DVSA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Standards<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Standards Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+        "withdrawn": false
+      }
+    ],
+    "part_of_step_navs": [
+      {
+        "api_path": "/api/content/learn-to-drive-a-car",
+        "api_url": "https://www.gov.uk/api/content/learn-to-drive-a-car",
+        "base_path": "/learn-to-drive-a-car",
+        "content_id": "e01e924b-9c7c-4c71-8241-66a575c2f61f",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "text": "Most people can start learning to drive when they’re 17.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/vehicles-can-drive",
+                        "text": "Check what age you can drive"
+                      },
+                      {
+                        "href": "/legal-obligations-drivers-riders",
+                        "text": "Requirements for driving legally"
+                      },
+                      {
+                        "href": "/driving-eyesight-rules",
+                        "text": "Driving eyesight rules"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check you're allowed to drive"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "context": "£34 to £43",
+                        "href": "/apply-first-provisional-driving-licence",
+                        "text": "Apply for your first provisional driving licence"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Get a provisional licence"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You need a provisional driving licence to take lessons or practice.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/the-highway-code",
+                        "text": "The Highway Code"
+                      },
+                      {
+                        "href": "/driving-lessons-learning-to-drive",
+                        "text": "Taking driving lessons"
+                      },
+                      {
+                        "href": "/find-driving-schools-and-lessons",
+                        "text": "Find driving schools, lessons and instructors"
+                      },
+                      {
+                        "href": "/government/publications/car-show-me-tell-me-vehicle-safety-questions",
+                        "text": "Practise vehicle safety questions"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Driving lessons and practice"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/theory-test/revision-and-practice",
+                        "text": "Theory test revision and practice"
+                      },
+                      {
+                        "href": "/take-practice-theory-test",
+                        "text": "Take a practice theory test"
+                      },
+                      {
+                        "href": "https://www.safedrivingforlife.info/shop/product/official-dvsa-theory-test-kit-app-app",
+                        "text": "Theory and hazard perception test app"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Prepare for your theory test"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You need a provisional driving licence to book your theory test.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "context": "£23",
+                        "href": "/book-theory-test",
+                        "text": "Book your theory test"
+                      },
+                      {
+                        "href": "/theory-test/what-to-take",
+                        "text": "What to take to your test"
+                      },
+                      {
+                        "href": "/change-theory-test",
+                        "text": "Change your theory test appointment"
+                      },
+                      {
+                        "href": "/check-theory-test",
+                        "text": "Check your theory test appointment details"
+                      },
+                      {
+                        "href": "/cancel-theory-test",
+                        "text": "Cancel your theory test"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Book and manage your theory test"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must pass your theory test before you can book your driving test.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "context": "£62 to £75",
+                        "href": "/book-driving-test",
+                        "text": "Book your driving test"
+                      },
+                      {
+                        "href": "/driving-test/what-to-take",
+                        "text": "What to take to your test"
+                      },
+                      {
+                        "href": "/change-driving-test",
+                        "text": "Change your driving test appointment"
+                      },
+                      {
+                        "href": "/check-driving-test",
+                        "text": "Check your driving test appointment details"
+                      },
+                      {
+                        "href": "/cancel-driving-test",
+                        "text": "Cancel your driving test"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Book and manage your driving test"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You can start driving as soon as you pass your driving test.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "You must have an insurance policy that allows you to drive without supervision.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/pass-plus",
+                        "text": "Find out about Pass Plus training courses"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "When you pass"
+              }
+            ],
+            "title": "Learn to drive a car: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/done/book-theory-test",
+              "api_url": "https://www.gov.uk/api/content/done/book-theory-test",
+              "base_path": "/done/book-theory-test",
+              "content_id": "eca3f3dd-3296-4b86-8dc8-42f91fe0cb6e",
+              "document_type": "completed_transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2020-09-08T15:25:17Z",
+              "schema_name": "completed_transaction",
+              "title": "Give feedback on Book your theory test",
+              "web_url": "https://www.gov.uk/done/book-theory-test",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-02-28T12:08:04Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Learn to drive a car: step by step",
+        "web_url": "https://www.gov.uk/learn-to-drive-a-car",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-09-08T15:25:17Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629921.771-10.13.30.3-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Book your theory test",
+  "updated_at": "2024-03-08T09:58:05Z",
+  "withdrawn_notice": {
+  }
+}

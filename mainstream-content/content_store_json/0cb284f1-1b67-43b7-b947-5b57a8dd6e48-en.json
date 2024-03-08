@@ -1,0 +1,502 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/expenses-benefits-income-tax-paid-directors-behalf",
+  "content_id": "0cb284f1-1b67-43b7-b947-5b57a8dd6e48",
+  "description": "Tax and reporting rules for employers paying income tax on a directors' behalf",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "hide_chapter_navigation": false,
+    "parts": [
+      {
+        "body": "<p>As an employer paying income tax on behalf of company directors, you have certain National Insurance and reporting obligations.</p>\n\n<h2 id=\"whats-included\">What’s included</h2>\n\n<p>If you pay a company director without deducting tax under <abbr title=\"Pay As You Earn\">PAYE</abbr>, and HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) then recovers the unpaid tax from you, this counts as a benefit.</p>\n\n",
+        "slug": "overview",
+        "title": "Overview"
+      },
+      {
+        "body": "<p>You might not have to report or pay anything to HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) if the director doesn’t have a ‘material interest’ in your company, and either of the following applies:</p>\n\n<ul>\n  <li>they’re a full-time working director</li>\n  <li>your company is a charity or not-for-profit organisation</li>\n</ul>\n\n<p>In broad terms, a director has a material interest in a company if they (alone or together with associates) own or can control more than 5% of its ordinary share capital. This is explained in more detail in the <a href=\"/expenses-benefits-income-tax-paid-directors-behalf/technical-guidance\">technical guidance</a>.</p>\n\n",
+        "slug": "whats-exempt",
+        "title": "What's exempt"
+      },
+      {
+        "body": "<p>If the income tax you pay on a director’s behalf isn’t <a href=\"/expenses-benefits-income-tax-paid-directors-behalf/whats-exempt\">exempt</a>, you’ll need to:</p>\n\n<ul>\n  <li>report on form P11D</li>\n  <li>add the <a href=\"/expenses-benefits-income-tax-paid-directors-behalf/work-out-the-value\">value of the benefit</a> to the director’s earnings when deducting and paying Class 1 National Insurance (but not <abbr title=\"Pay As You Earn\">PAYE</abbr> tax) through your payroll</li>\n</ul>\n\n",
+        "slug": "what-to-report-and-pay",
+        "title": "What to report and pay"
+      },
+      {
+        "body": "<p>Use the amount of tax recovered from you by HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>), minus any amount paid back to you (‘made good’) by the director.</p>\n\n",
+        "slug": "work-out-the-value",
+        "title": "Work out the value"
+      },
+      {
+        "body": "<p>The following guides contain more detailed information:</p>\n\n<ul>\n  <li>\n    <p><a rel=\"external\" href=\"http://www.hmrc.gov.uk/manuals/eimanual/eim21790.htm\"><abbr title=\"Pay As You Earn\">PAYE</abbr> tax not deducted from director’s earnings</a></p>\n  </li>\n  <li>\n    <p><a rel=\"external\" href=\"http://www.hmrc.gov.uk/manuals/nimmanual/nim02370.htm\">Class 1 National Insurance contributions: earnings of employees and office holders</a></p>\n  </li>\n  <li>\n    <p><a rel=\"external\" href=\"http://www.hmrc.gov.uk/manuals/eimanual/EIM20212.htm\">the meaning of ‘material interest’ in a company</a></p>\n  </li>\n</ul>\n\n",
+        "slug": "technical-guidance",
+        "title": "Technical guidance"
+      }
+    ]
+  },
+  "document_type": "guide",
+  "first_published_at": "2012-10-03T18:03:38Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/expenses-benefits-income-tax-paid-directors-behalf",
+        "api_url": "https://www.gov.uk/api/content/expenses-benefits-income-tax-paid-directors-behalf",
+        "base_path": "/expenses-benefits-income-tax-paid-directors-behalf",
+        "content_id": "0cb284f1-1b67-43b7-b947-5b57a8dd6e48",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-10-16T19:28:42Z",
+        "schema_name": "guide",
+        "title": "Expenses and benefits: income tax paid on directors' behalf",
+        "web_url": "https://www.gov.uk/expenses-benefits-income-tax-paid-directors-behalf",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/report-certain-expenses-and-benefits-to-hmrc",
+        "api_url": "https://www.gov.uk/api/content/needs/report-certain-expenses-and-benefits-to-hmrc",
+        "base_path": "/needs/report-certain-expenses-and-benefits-to-hmrc",
+        "content_id": "a61b0966-4798-4d92-a56f-3d92cd2ad862",
+        "details": {
+          "benefit": "I pay the appropriate tax and National Insurance",
+          "goal": "report certain expenses and benefits to HMRC",
+          "justifications": null,
+          "met_when": null,
+          "role": "someone who provides employee benefits and pays their business expenses or as a company director with expenses and benefits"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a someone who provides employee benefits and pays their business expenses or as a company director with expenses and benefits, I need to report certain expenses and benefits to HMRC, so that I pay the appropriate tax and National Insurance (102282)",
+        "web_url": "https://www.gov.uk/needs/report-certain-expenses-and-benefits-to-hmrc",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/employer-reporting-expenses-benefits",
+        "api_url": "https://www.gov.uk/api/content/employer-reporting-expenses-benefits",
+        "base_path": "/employer-reporting-expenses-benefits",
+        "content_id": "6d40aebf-c225-4d3c-a751-fa8f543e27b8",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/expenses-employee-benefits",
+              "api_url": "https://www.gov.uk/api/content/browse/business/expenses-employee-benefits",
+              "base_path": "/browse/business/expenses-employee-benefits",
+              "content_id": "0d72ae71-5930-43ae-89ea-7cf4cee5b122",
+              "description": "Includes company cars and paying tax on employee benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:29Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Expenses and employee benefits",
+              "web_url": "https://www.gov.uk/browse/business/expenses-employee-benefits",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/employing-people/payroll",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+              "base_path": "/browse/employing-people/payroll",
+              "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+              "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:57:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Payroll",
+              "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-28T09:37:42Z",
+        "schema_name": "guide",
+        "title": "Expenses and benefits for employers",
+        "web_url": "https://www.gov.uk/employer-reporting-expenses-benefits",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/running-payroll",
+        "api_url": "https://www.gov.uk/api/content/running-payroll",
+        "base_path": "/running-payroll",
+        "content_id": "88309f75-af24-42e9-b30d-e36157cf918b",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/payroll",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+              "base_path": "/browse/employing-people/payroll",
+              "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+              "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:57:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Payroll",
+              "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-29T13:39:14Z",
+        "schema_name": "guide",
+        "title": "Running payroll",
+        "web_url": "https://www.gov.uk/running-payroll",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/expenses-benefits-meals-employees-directors",
+        "api_url": "https://www.gov.uk/api/content/expenses-benefits-meals-employees-directors",
+        "base_path": "/expenses-benefits-meals-employees-directors",
+        "content_id": "72bb9ad4-13c1-4e17-bf97-01bd26e8e41e",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-18T23:14:35Z",
+        "schema_name": "guide",
+        "title": "Expenses and benefits: meals for employees and directors",
+        "web_url": "https://www.gov.uk/expenses-benefits-meals-employees-directors",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/hmrc-internal-manuals/employment-income-manual",
+        "api_url": "https://www.gov.uk/api/content/hmrc-internal-manuals/employment-income-manual",
+        "base_path": "/hmrc-internal-manuals/employment-income-manual",
+        "content_id": "2f85e33a-3f79-52e8-b7f8-75b38958e568",
+        "document_type": "hmrc_manual",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-29T13:52:39Z",
+        "schema_name": "hmrc_manual",
+        "title": "Employment Income Manual",
+        "web_url": "https://www.gov.uk/hmrc-internal-manuals/employment-income-manual",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/expenses-and-benefits-personal-bills",
+        "api_url": "https://www.gov.uk/api/content/expenses-and-benefits-personal-bills",
+        "base_path": "/expenses-and-benefits-personal-bills",
+        "content_id": "c32ca566-1d4d-4b0f-830a-6e4811d4b982",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-04-05T23:01:22Z",
+        "schema_name": "guide",
+        "title": "Expenses and benefits: personal bills",
+        "web_url": "https://www.gov.uk/expenses-and-benefits-personal-bills",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/expenses-and-benefits-mobile-phones",
+        "api_url": "https://www.gov.uk/api/content/expenses-and-benefits-mobile-phones",
+        "base_path": "/expenses-and-benefits-mobile-phones",
+        "content_id": "29f3d9b8-375f-4e66-92a8-866088251aad",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-04-05T23:01:25Z",
+        "schema_name": "guide",
+        "title": "Expenses and benefits: mobile phones",
+        "web_url": "https://www.gov.uk/expenses-and-benefits-mobile-phones",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/hmrc-internal-manuals/national-insurance-manual",
+        "api_url": "https://www.gov.uk/api/content/hmrc-internal-manuals/national-insurance-manual",
+        "base_path": "/hmrc-internal-manuals/national-insurance-manual",
+        "content_id": "c69baaf6-fc79-5e99-a970-847c7db52918",
+        "document_type": "hmrc_manual",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-01-05T16:31:37Z",
+        "schema_name": "hmrc_manual",
+        "title": "National Insurance Manual",
+        "web_url": "https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/business-tax",
+        "api_url": "https://www.gov.uk/api/content/money/business-tax",
+        "base_path": "/money/business-tax",
+        "content_id": "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+        "details": {
+          "internal_name": "Business tax [T] (level 2, money)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money",
+              "api_url": "https://www.gov.uk/api/content/money",
+              "base_path": "/money",
+              "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+              "description": "",
+              "details": {
+                "internal_name": "Money",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:35:25Z",
+              "schema_name": "taxon",
+              "title": "Money",
+              "web_url": "https://www.gov.uk/money",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:49Z",
+        "schema_name": "taxon",
+        "title": "Business tax",
+        "web_url": "https://www.gov.uk/money/business-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/personal-tax",
+        "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+        "base_path": "/money/personal-tax",
+        "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+        "details": {
+          "internal_name": "Personal tax [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money",
+              "api_url": "https://www.gov.uk/api/content/money",
+              "base_path": "/money",
+              "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+              "description": "",
+              "details": {
+                "internal_name": "Money",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:35:25Z",
+              "schema_name": "taxon",
+              "title": "Money",
+              "web_url": "https://www.gov.uk/money",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:54Z",
+        "schema_name": "taxon",
+        "title": "Personal tax",
+        "web_url": "https://www.gov.uk/money/personal-tax",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-10-16T19:28:42Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "5084-1578995775.241-10.13.3.248-541",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "guide",
+  "title": "Expenses and benefits: income tax paid on directors' behalf",
+  "updated_at": "2024-02-29T13:52:54Z",
+  "withdrawn_notice": {
+  }
+}

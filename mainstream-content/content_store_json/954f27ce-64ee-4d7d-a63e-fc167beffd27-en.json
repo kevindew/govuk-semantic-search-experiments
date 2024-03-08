@@ -1,0 +1,974 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/number-plate-supplier",
+  "content_id": "954f27ce-64ee-4d7d-a63e-fc167beffd27",
+  "description": "Find a business that sells number plates for your vehicle",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>You can only get a number plate made up from a registered number plate supplier.</p>\n\n<p>Not all suppliers sell all types of number plate.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>It can take up to 14 days for a supplier to be added or removed from this service.</p>\n</div>\n",
+    "more_information": "<p>The supplier will need to see <a href=\"/displaying-number-plates/getting-number-plates-made-up\">original documents</a> that:</p>\n\n<ul>\n  <li>prove your identity (for example your passport)</li>\n  <li>show you’re entitled to the registration number (for example the V5 vehicle registration certificate)</li>\n</ul>\n",
+    "place_type": "number-plate-supplier"
+  },
+  "document_type": "place",
+  "first_published_at": "2013-06-26T15:20:56Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/number-plate-supplier",
+        "api_url": "https://www.gov.uk/api/content/number-plate-supplier",
+        "base_path": "/number-plate-supplier",
+        "content_id": "954f27ce-64ee-4d7d-a63e-fc167beffd27",
+        "document_type": "place",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-02-22T17:17:43Z",
+        "schema_name": "place",
+        "title": "Find your nearest number plate supplier",
+        "web_url": "https://www.gov.uk/number-plate-supplier",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/number-plate",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/number-plate",
+        "base_path": "/browse/driving/number-plate",
+        "content_id": "33b8985e-9353-4f12-914e-531aad5469a0",
+        "description": "Update details in your (V5C) log book, get a personalised number plate or trade licence plate",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:14Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Number plates, vehicle registration and log books",
+        "web_url": "https://www.gov.uk/browse/driving/number-plate",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/get-and-affix-a-personalised-number-plate",
+        "api_url": "https://www.gov.uk/api/content/needs/get-and-affix-a-personalised-number-plate",
+        "base_path": "/needs/get-and-affix-a-personalised-number-plate",
+        "content_id": "5d9185cf-9cab-4b26-beca-d7fa8549d244",
+        "details": {
+          "benefit": "my car is legal to drive on the road",
+          "goal": "get and affix a personalised number plate",
+          "justifications": [
+            "It's something only government does",
+            "The government is legally obliged to provide it",
+            "It's inherent to a person's or an organisation's rights and obligations",
+            "There is clear demand for it from users"
+          ],
+          "met_when": [
+            "knows how to get a personalised registration",
+            "knows how much it costs",
+            "knows what different documents show that you own the personalised licence plate",
+            "know what the rules are for displaying number plates",
+            "knows where to get a number plate"
+          ],
+          "role": "vehicle owner"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a vehicle owner, I need to get and affix a personalised number plate, so that my car is legal to drive on the road (101271)",
+        "web_url": "https://www.gov.uk/needs/get-and-affix-a-personalised-number-plate",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/buy-a-personalised-registration-number",
+        "api_url": "https://www.gov.uk/api/content/buy-a-personalised-registration-number",
+        "base_path": "/buy-a-personalised-registration-number",
+        "content_id": "e125ea81-83a4-43f2-a0df-d511557c82f8",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/number-plate",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/number-plate",
+              "base_path": "/browse/driving/number-plate",
+              "content_id": "33b8985e-9353-4f12-914e-531aad5469a0",
+              "description": "Update details in your (V5C) log book, get a personalised number plate or trade licence plate",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Number plates, vehicle registration and log books",
+              "web_url": "https://www.gov.uk/browse/driving/number-plate",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2019-01-18T16:31:03Z",
+        "schema_name": "transaction",
+        "title": "Buy a personalised registration number",
+        "web_url": "https://www.gov.uk/buy-a-personalised-registration-number",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/displaying-number-plates",
+        "api_url": "https://www.gov.uk/api/content/displaying-number-plates",
+        "base_path": "/displaying-number-plates",
+        "content_id": "5ecb147a-9d52-4aec-9187-133caf27f841",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/manufacture-adapt-vehicle",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/manufacture-adapt-vehicle",
+              "base_path": "/browse/driving/manufacture-adapt-vehicle",
+              "content_id": "3eb6e3d4-9a22-4519-915f-b0b0dd55335a",
+              "description": "Get a vehicle approved, register a vehicle, manufacturing regulations",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manufacture or adapt a vehicle",
+              "web_url": "https://www.gov.uk/browse/driving/manufacture-adapt-vehicle",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/number-plate",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/number-plate",
+              "base_path": "/browse/driving/number-plate",
+              "content_id": "33b8985e-9353-4f12-914e-531aad5469a0",
+              "description": "Update details in your (V5C) log book, get a personalised number plate or trade licence plate",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Number plates, vehicle registration and log books",
+              "web_url": "https://www.gov.uk/browse/driving/number-plate",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-05-10T16:19:32Z",
+        "schema_name": "guide",
+        "title": "Displaying number plates",
+        "web_url": "https://www.gov.uk/displaying-number-plates",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/personalised-vehicle-registration-numbers",
+        "api_url": "https://www.gov.uk/api/content/personalised-vehicle-registration-numbers",
+        "base_path": "/personalised-vehicle-registration-numbers",
+        "content_id": "af98694e-719f-4219-b513-41b2887ffb88",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/buy-sell-scrap-vehicle",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/buy-sell-scrap-vehicle",
+              "base_path": "/browse/driving/buy-sell-scrap-vehicle",
+              "content_id": "240b873a-23d8-450a-87a5-7a991415fdbf",
+              "description": "Buy or sell a vehicle, check a used vehicle, written off vehicles, scrapping a vehicle",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:37Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Buy, sell or scrap a vehicle",
+              "web_url": "https://www.gov.uk/browse/driving/buy-sell-scrap-vehicle",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/manufacture-adapt-vehicle",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/manufacture-adapt-vehicle",
+              "base_path": "/browse/driving/manufacture-adapt-vehicle",
+              "content_id": "3eb6e3d4-9a22-4519-915f-b0b0dd55335a",
+              "description": "Get a vehicle approved, register a vehicle, manufacturing regulations",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manufacture or adapt a vehicle",
+              "web_url": "https://www.gov.uk/browse/driving/manufacture-adapt-vehicle",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/number-plate",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/number-plate",
+              "base_path": "/browse/driving/number-plate",
+              "content_id": "33b8985e-9353-4f12-914e-531aad5469a0",
+              "description": "Update details in your (V5C) log book, get a personalised number plate or trade licence plate",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Number plates, vehicle registration and log books",
+              "web_url": "https://www.gov.uk/browse/driving/number-plate",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-09T09:33:45Z",
+        "schema_name": "guide",
+        "title": "Private (personalised) number plates",
+        "web_url": "https://www.gov.uk/personalised-vehicle-registration-numbers",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/trade-licence-plates",
+        "api_url": "https://www.gov.uk/api/content/trade-licence-plates",
+        "base_path": "/trade-licence-plates",
+        "content_id": "1b2d968a-9360-485f-ac28-bc5d54aa73f3",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/businesses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+              "base_path": "/browse/driving/businesses",
+              "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+              "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:15Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Transport and driving businesses",
+              "web_url": "https://www.gov.uk/browse/driving/businesses",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/number-plate",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/number-plate",
+              "base_path": "/browse/driving/number-plate",
+              "content_id": "33b8985e-9353-4f12-914e-531aad5469a0",
+              "description": "Update details in your (V5C) log book, get a personalised number plate or trade licence plate",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Number plates, vehicle registration and log books",
+              "web_url": "https://www.gov.uk/browse/driving/number-plate",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/manufacture-adapt-vehicle",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/manufacture-adapt-vehicle",
+              "base_path": "/browse/driving/manufacture-adapt-vehicle",
+              "content_id": "3eb6e3d4-9a22-4519-915f-b0b0dd55335a",
+              "description": "Get a vehicle approved, register a vehicle, manufacturing regulations",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manufacture or adapt a vehicle",
+              "web_url": "https://www.gov.uk/browse/driving/manufacture-adapt-vehicle",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-05T23:02:20Z",
+        "schema_name": "guide",
+        "title": "Trade licence plates",
+        "web_url": "https://www.gov.uk/trade-licence-plates",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA74",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-licensing-agency",
+        "content_id": "70580624-93b5-4aed-823b-76042486c769",
+        "details": {
+          "acronym": "DVLA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Licensing<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Licensing Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/number-plate",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/number-plate",
+        "base_path": "/browse/driving/number-plate",
+        "content_id": "33b8985e-9353-4f12-914e-531aad5469a0",
+        "description": "Update details in your (V5C) log book, get a personalised number plate or trade licence plate",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:14Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Number plates, vehicle registration and log books",
+        "web_url": "https://www.gov.uk/browse/driving/number-plate",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "related_to_step_navs": [
+      {
+        "api_path": "/api/content/get-personalised-private-number-plate",
+        "api_url": "https://www.gov.uk/api/content/get-personalised-private-number-plate",
+        "base_path": "/get-personalised-private-number-plate",
+        "content_id": "6ed25f0b-52f5-4a01-9fb1-93ed2e66169e",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/personalised-vehicle-registration-numbers/buying-a-private-number-plate",
+                        "text": "Find out how you can buy a number"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Buy a private number"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/personalised-vehicle-registration-numbers/keep-or-assign",
+                        "text": "Apply to assign a private number to a vehicle"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Assign your private number to a vehicle"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You do not have to assign your number to a vehicle. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "You must renew your right to use the number every 10 years. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/personalised-vehicle-registration-numbers/renew-private-number-certificate",
+                        "text": "Check how to renew your number"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "or",
+                "optional": false,
+                "title": "Keep your private number"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "If you assign your private number to a vehicle you must get a number plate made up from a registered supplier. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/displaying-number-plates/rules-number-plates",
+                        "text": "Check the rules for number plates"
+                      },
+                      {
+                        "href": "/displaying-number-plates/getting-number-plates-made-up",
+                        "text": "Check what documents you need to get a number plate made"
+                      },
+                      {
+                        "href": "/number-plate-supplier",
+                        "text": "Find your nearest number plate supplier"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Get a new number plate made"
+              }
+            ],
+            "title": "Get a private (personalised) number plate: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_related_to_step_nav": [
+            {
+              "api_path": "/api/content/number-plate-supplier",
+              "api_url": "https://www.gov.uk/api/content/number-plate-supplier",
+              "base_path": "/number-plate-supplier",
+              "content_id": "954f27ce-64ee-4d7d-a63e-fc167beffd27",
+              "document_type": "place",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2019-02-22T17:17:43Z",
+              "schema_name": "place",
+              "title": "Find your nearest number plate supplier",
+              "web_url": "https://www.gov.uk/number-plate-supplier",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2018-11-28T15:02:21Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Get a private (personalised) number plate: step by step",
+        "web_url": "https://www.gov.uk/get-personalised-private-number-plate",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/displaying-number-plates",
+        "api_url": "https://www.gov.uk/api/content/displaying-number-plates",
+        "base_path": "/displaying-number-plates",
+        "content_id": "5ecb147a-9d52-4aec-9187-133caf27f841",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-05-10T16:19:32Z",
+        "schema_name": "guide",
+        "title": "Displaying number plates",
+        "web_url": "https://www.gov.uk/displaying-number-plates",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/personalised-vehicle-registration-numbers",
+        "api_url": "https://www.gov.uk/api/content/personalised-vehicle-registration-numbers",
+        "base_path": "/personalised-vehicle-registration-numbers",
+        "content_id": "af98694e-719f-4219-b513-41b2887ffb88",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-09T09:33:45Z",
+        "schema_name": "guide",
+        "title": "Private (personalised) number plates",
+        "web_url": "https://www.gov.uk/personalised-vehicle-registration-numbers",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/buy-a-personalised-registration-number",
+        "api_url": "https://www.gov.uk/api/content/buy-a-personalised-registration-number",
+        "base_path": "/buy-a-personalised-registration-number",
+        "content_id": "e125ea81-83a4-43f2-a0df-d511557c82f8",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-01-18T16:31:03Z",
+        "schema_name": "transaction",
+        "title": "Buy a personalised registration number",
+        "web_url": "https://www.gov.uk/buy-a-personalised-registration-number",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/get-personalised-private-number-plate",
+        "api_url": "https://www.gov.uk/api/content/get-personalised-private-number-plate",
+        "base_path": "/get-personalised-private-number-plate",
+        "content_id": "6ed25f0b-52f5-4a01-9fb1-93ed2e66169e",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/personalised-vehicle-registration-numbers/buying-a-private-number-plate",
+                        "text": "Find out how you can buy a number"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Buy a private number"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/personalised-vehicle-registration-numbers/keep-or-assign",
+                        "text": "Apply to assign a private number to a vehicle"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Assign your private number to a vehicle"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You do not have to assign your number to a vehicle. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "You must renew your right to use the number every 10 years. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/personalised-vehicle-registration-numbers/renew-private-number-certificate",
+                        "text": "Check how to renew your number"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "or",
+                "optional": false,
+                "title": "Keep your private number"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "If you assign your private number to a vehicle you must get a number plate made up from a registered supplier. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/displaying-number-plates/rules-number-plates",
+                        "text": "Check the rules for number plates"
+                      },
+                      {
+                        "href": "/displaying-number-plates/getting-number-plates-made-up",
+                        "text": "Check what documents you need to get a number plate made"
+                      },
+                      {
+                        "href": "/number-plate-supplier",
+                        "text": "Find your nearest number plate supplier"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Get a new number plate made"
+              }
+            ],
+            "title": "Get a private (personalised) number plate: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-11-28T15:02:21Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Get a private (personalised) number plate: step by step",
+        "web_url": "https://www.gov.uk/get-personalised-private-number-plate",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/vehicle-registration",
+        "api_url": "https://www.gov.uk/api/content/vehicle-registration",
+        "base_path": "/vehicle-registration",
+        "content_id": "1dbb030d-90e9-4920-a3f2-1ef339a6a0be",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-07T14:06:40Z",
+        "schema_name": "guide",
+        "title": "Vehicle registration",
+        "web_url": "https://www.gov.uk/vehicle-registration",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/vehicle-registration-log-books-and-number-plates",
+        "api_url": "https://www.gov.uk/api/content/transport/vehicle-registration-log-books-and-number-plates",
+        "base_path": "/transport/vehicle-registration-log-books-and-number-plates",
+        "content_id": "cd9cbe35-fa63-489e-8b53-20160a5033af",
+        "description": "Find number plate suppliers, buy or register number plates and register as a supplier.",
+        "details": {
+          "internal_name": "Vehicle registration, log books and number plates",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/vehicle-ownership-approval-and-standards",
+              "api_url": "https://www.gov.uk/api/content/transport/vehicle-ownership-approval-and-standards",
+              "base_path": "/transport/vehicle-ownership-approval-and-standards",
+              "content_id": "dbbf7f4d-78aa-46ac-8e67-d937fe9a8c69",
+              "description": "MOTs and vehicle tax, manufacturing, modifying and testing vehicles for use on UK roads, buying and selling vehicles.",
+              "details": {
+                "internal_name": "Vehicle ownership, approval and standards",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Vehicle ownership, approval and standards",
+              "web_url": "https://www.gov.uk/transport/vehicle-ownership-approval-and-standards",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:15Z",
+        "schema_name": "taxon",
+        "title": "Vehicle registration, log books and number plates",
+        "web_url": "https://www.gov.uk/transport/vehicle-registration-log-books-and-number-plates",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2019-02-22T17:17:43Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "24319-1580311823.600-10.3.3.1-6832",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "place",
+  "title": "Find your nearest number plate supplier",
+  "updated_at": "2024-02-06T13:29:18Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/passport-application-while-visiting-uk",
+  "content_id": "2366bd6c-fd53-49ae-84bd-94b25238115b",
+  "description": "You can apply for or renew a British passport while you're visiting the UK - as long as you expect to be in the UK for long enough",
+  "details": {
+    "body": "<p>Apply online to:</p>\n\n<ul>\n  <li><a href=\"/renew-adult-passport\">renew an adult passport</a></li>\n  <li><a href=\"/get-a-child-passport/renew-a-child-passport\">renew your child’s passport</a></li>\n  <li>\n<a href=\"/get-a-child-passport/first-child-passport\">get your child’s first passport</a> - if your child has never had a passport or only been included on yours</li>\n  <li><a href=\"/apply-first-adult-passport\">get your first adult passport</a></li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There are different ways to <a href=\"/overseas-passports\">renew or replace your passport if you’re outside the UK</a>.</p>\n</div>\n\n<h2 id=\"how-long-it-takes\">How long it takes</h2>\n\n<p><a href=\"/government/organisations/hm-passport-office/about-our-services\">Check how long it will take to get a passport</a> before you apply.</p>\n\n<p>If you need a passport urgently, you can <a href=\"/get-a-passport-urgently\">find out more about the Online Premium or 1 week Fast Track services</a>.</p>\n\n<p>If you apply while you’re in the UK, your passport can only be sent to a UK address.</p>\n\n<p>Do not book travel until you get your passport.</p>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-12-27T12:25:38Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/passport-application-while-visiting-uk",
+        "api_url": "https://www.gov.uk/api/content/passport-application-while-visiting-uk",
+        "base_path": "/passport-application-while-visiting-uk",
+        "content_id": "2366bd6c-fd53-49ae-84bd-94b25238115b",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-08-27T16:28:18Z",
+        "schema_name": "answer",
+        "title": "Apply for or renew a British passport if you're visiting the UK",
+        "web_url": "https://www.gov.uk/passport-application-while-visiting-uk",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/abroad/passports",
+        "api_url": "https://www.gov.uk/api/content/browse/abroad/passports",
+        "base_path": "/browse/abroad/passports",
+        "content_id": "dd842862-e148-4fe3-b363-e57d6a2689aa",
+        "description": "Eligibility, fees, applying, renewing and updating",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:18Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Passports",
+        "web_url": "https://www.gov.uk/browse/abroad/passports",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/apply-for-or-renew-a-passport",
+        "api_url": "https://www.gov.uk/api/content/needs/apply-for-or-renew-a-passport",
+        "base_path": "/needs/apply-for-or-renew-a-passport",
+        "content_id": "add6e7e9-9e49-40ea-b230-316197d43b70",
+        "details": {
+          "benefit": "I can travel across borders ",
+          "goal": "apply for or renew a passport",
+          "justifications": [
+            "It's something only government does",
+            "There is clear demand for it from users",
+            "It's something the government provides/does/pays for"
+          ],
+          "met_when": [
+            "the user knows the rules about passport photos",
+            "the user knows how long it takes to get a passport",
+            "the user knows the different ways they can apply for a passport, including Check and Send",
+            "understands the eligibility criteria to get a passport",
+            "the user knows the rules about when their passport may be taken away",
+            "knows what to do if they are abroad",
+            "knows how to get dual citizenship if they already have a passport from another country",
+            "knows how to renew a passport",
+            "as a British national born before 2 September 1929, knows how to get a free passport"
+          ],
+          "role": "British person "
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a British person, I need to apply for or renew a passport, so that I can travel across borders (100129)",
+        "web_url": "https://www.gov.uk/needs/apply-for-or-renew-a-passport",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/countersigning-passport-applications",
+        "api_url": "https://www.gov.uk/api/content/countersigning-passport-applications",
+        "base_path": "/countersigning-passport-applications",
+        "content_id": "919c7165-ed03-45d4-9e88-fa32d2a7e329",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/abroad/passports",
+              "api_url": "https://www.gov.uk/api/content/browse/abroad/passports",
+              "base_path": "/browse/abroad/passports",
+              "content_id": "dd842862-e148-4fe3-b363-e57d6a2689aa",
+              "description": "Eligibility, fees, applying, renewing and updating",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Passports",
+              "web_url": "https://www.gov.uk/browse/abroad/passports",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-17T18:21:35Z",
+        "schema_name": "guide",
+        "title": "Countersigning passport applications and photos",
+        "web_url": "https://www.gov.uk/countersigning-passport-applications",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/passport-fees",
+        "api_url": "https://www.gov.uk/api/content/passport-fees",
+        "base_path": "/passport-fees",
+        "content_id": "8b59b474-9775-4366-97ee-97a66740411c",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/abroad/passports",
+              "api_url": "https://www.gov.uk/api/content/browse/abroad/passports",
+              "base_path": "/browse/abroad/passports",
+              "content_id": "dd842862-e148-4fe3-b363-e57d6a2689aa",
+              "description": "Eligibility, fees, applying, renewing and updating",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Passports",
+              "web_url": "https://www.gov.uk/browse/abroad/passports",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-12T00:01:06Z",
+        "schema_name": "answer",
+        "title": "Passport fees",
+        "web_url": "https://www.gov.uk/passport-fees",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/photos-for-passports",
+        "api_url": "https://www.gov.uk/api/content/photos-for-passports",
+        "base_path": "/photos-for-passports",
+        "content_id": "eea679a8-dc15-4eb3-ad10-089b69e94512",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/abroad/passports",
+              "api_url": "https://www.gov.uk/api/content/browse/abroad/passports",
+              "base_path": "/browse/abroad/passports",
+              "content_id": "dd842862-e148-4fe3-b363-e57d6a2689aa",
+              "description": "Eligibility, fees, applying, renewing and updating",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Passports",
+              "web_url": "https://www.gov.uk/browse/abroad/passports",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-25T15:49:30Z",
+        "schema_name": "guide",
+        "title": "Get a passport photo",
+        "web_url": "https://www.gov.uk/photos-for-passports",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA66",
+        "api_path": "/api/content/government/organisations/hm-passport-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-passport-office",
+        "base_path": "/government/organisations/hm-passport-office",
+        "content_id": "3a96a1e0-21e3-4aae-8e84-f90860ed3dbf",
+        "details": {
+          "acronym": "HM Passport Office",
+          "brand": "home-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "HM Passport<br/>Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Passport Office",
+        "web_url": "https://www.gov.uk/government/organisations/hm-passport-office",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/abroad/passports",
+        "api_url": "https://www.gov.uk/api/content/browse/abroad/passports",
+        "base_path": "/browse/abroad/passports",
+        "content_id": "dd842862-e148-4fe3-b363-e57d6a2689aa",
+        "description": "Eligibility, fees, applying, renewing and updating",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/abroad",
+              "api_url": "https://www.gov.uk/api/content/browse/abroad",
+              "base_path": "/browse/abroad",
+              "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+              "description": "Includes renewing passports and travel advice by country",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-04-08T10:48:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Passports, travel and living abroad",
+              "web_url": "https://www.gov.uk/browse/abroad",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:18Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Passports",
+        "web_url": "https://www.gov.uk/browse/abroad/passports",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/apply-renew-passport",
+        "api_url": "https://www.gov.uk/api/content/apply-renew-passport",
+        "base_path": "/apply-renew-passport",
+        "content_id": "a350d322-669c-4acc-8b54-08c342afd569",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-12-01T13:13:43Z",
+        "schema_name": "transaction",
+        "title": "Apply online for a UK passport",
+        "web_url": "https://www.gov.uk/apply-renew-passport",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/photos-for-passports",
+        "api_url": "https://www.gov.uk/api/content/photos-for-passports",
+        "base_path": "/photos-for-passports",
+        "content_id": "eea679a8-dc15-4eb3-ad10-089b69e94512",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-25T15:49:30Z",
+        "schema_name": "guide",
+        "title": "Get a passport photo",
+        "web_url": "https://www.gov.uk/photos-for-passports",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/passport-fees",
+        "api_url": "https://www.gov.uk/api/content/passport-fees",
+        "base_path": "/passport-fees",
+        "content_id": "8b59b474-9775-4366-97ee-97a66740411c",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-12T00:01:06Z",
+        "schema_name": "answer",
+        "title": "Passport fees",
+        "web_url": "https://www.gov.uk/passport-fees",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/passport-advice-line",
+        "api_url": "https://www.gov.uk/api/content/passport-advice-line",
+        "base_path": "/passport-advice-line",
+        "content_id": "99d076d9-a9f7-4b25-9031-85e311c01da5",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-05-11T15:35:11Z",
+        "schema_name": "answer",
+        "title": "Passport advice and complaints",
+        "web_url": "https://www.gov.uk/passport-advice-line",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/sign-in-universal-credit",
+        "api_url": "https://www.gov.uk/api/content/sign-in-universal-credit",
+        "base_path": "/sign-in-universal-credit",
+        "content_id": "b220a437-0d51-4390-9993-63345d0c83ad",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-08-23T15:17:23Z",
+        "schema_name": "transaction",
+        "title": "Sign in to your Universal Credit account",
+        "web_url": "https://www.gov.uk/sign-in-universal-credit",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/world/passports-and-emergency-travel-documents",
+        "api_url": "https://www.gov.uk/api/content/world/passports-and-emergency-travel-documents",
+        "base_path": "/world/passports-and-emergency-travel-documents",
+        "content_id": "374e8288-d58c-4914-b81b-e66ab4803925",
+        "description": "Includes how to cancel a lost passport, renew a passport and apply for an emergency travel document.",
+        "details": {
+          "internal_name": "Passports and emergency travel documents (GENERIC)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/world/all",
+              "api_url": "https://www.gov.uk/api/content/world/all",
+              "base_path": "/world/all",
+              "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+              "description": "Help and services in a country",
+              "details": {
+                "internal_name": "Help and services around the world",
+                "notes_for_editors": "",
+                "url_override": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2021-07-09T10:08:54Z",
+              "schema_name": "taxon",
+              "title": "Help and services around the world",
+              "web_url": "https://www.gov.uk/world/all",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2017-06-23T10:57:30Z",
+        "schema_name": "taxon",
+        "title": "Passports and emergency travel documents",
+        "web_url": "https://www.gov.uk/world/passports-and-emergency-travel-documents",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/going-and-being-abroad/passports",
+        "api_url": "https://www.gov.uk/api/content/going-and-being-abroad/passports",
+        "base_path": "/going-and-being-abroad/passports",
+        "content_id": "27b9c5cd-b390-4332-89be-73491df35a41",
+        "details": {
+          "internal_name": "Passports [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/going-and-being-abroad",
+              "api_url": "https://www.gov.uk/api/content/going-and-being-abroad",
+              "base_path": "/going-and-being-abroad",
+              "content_id": "9597c30a-605a-4e36-8bc1-47e5cdae41b3",
+              "details": {
+                "internal_name": "Going and being abroad",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T13:01:16Z",
+              "schema_name": "taxon",
+              "title": "Going and being abroad",
+              "web_url": "https://www.gov.uk/going-and-being-abroad",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:01:16Z",
+        "schema_name": "taxon",
+        "title": "Passports",
+        "web_url": "https://www.gov.uk/going-and-being-abroad/passports",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-08-27T16:28:18Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "7564-1646845000.037-10.13.1.155-8234",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Apply for or renew a British passport if you're visiting the UK",
+  "updated_at": "2024-03-07T10:57:41Z",
+  "withdrawn_notice": {
+  }
+}

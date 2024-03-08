@@ -1,0 +1,351 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/register-to-vote",
+  "content_id": "6f048fcd-cae8-44d2-929d-2f228b9cad69",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "promotion": {
+      "category": "organ_donor",
+      "opt_in_url": "",
+      "opt_out_url": "",
+      "url": "https://www.organdonation.nhs.uk/register-your-decision/donate/?campaign=2353&utm_source=co_register_to_vote&utm_medium=referral&utm_campaign=partner&utm_content=web_endoftransaction&utm_term=allaudiences"
+    }
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2014-05-29T16:06:25Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/register-to-vote",
+        "api_url": "https://www.gov.uk/api/content/done/register-to-vote",
+        "base_path": "/done/register-to-vote",
+        "content_id": "6f048fcd-cae8-44d2-929d-2f228b9cad69",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-06-28T13:40:56Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Register to vote",
+        "web_url": "https://www.gov.uk/done/register-to-vote",
+        "withdrawn": false
+      }
+    ],
+    "part_of_step_navs": [
+      {
+        "api_path": "/api/content/vote-uk-election",
+        "api_url": "https://www.gov.uk/api/content/vote-uk-election",
+        "base_path": "/vote-uk-election",
+        "content_id": "ff81c31c-3282-49df-85a4-013887130110",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/elections-in-the-uk",
+                        "text": "Check which elections you can vote in"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check if you can vote"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You need to register to vote in elections and referendums. You need to register again if you have changed your name, address or nationality.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/register-to-vote",
+                        "text": "Register to vote online"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/government/collections/register-to-vote-paper-forms",
+                        "text": "Register to vote using a paper form"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Register to vote"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/voting-in-the-uk",
+                        "text": "Find out the different ways you can vote"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Decide if you want to vote in person, by post, or by proxy"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/how-to-vote/photo-id-youll-need",
+                        "text": "Check what ID you need to vote"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "Contact your local electoral registration office to find your polling station or to find out what to do if you have accessibility needs.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/contact-electoral-registration-office",
+                        "text": "Contact the local electoral registration office"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Get ready to vote in person"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "In England, Scotland or Wales:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/apply-postal-vote",
+                        "text": "apply online for a postal vote"
+                      },
+                      {
+                        "href": "/government/publications/apply-for-a-postal-vote",
+                        "text": "apply by post for a postal vote"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "text": "You must apply no later than 5pm, 11 working days before the election.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "https://www.eoni.org.uk/Vote/Voting-by-post-or-proxy",
+                        "text": "Apply in Northern Ireland"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "or",
+                "title": "Apply for a postal vote"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "In England, Scotland or Wales:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/apply-proxy-vote",
+                        "text": "apply online for a proxy vote"
+                      },
+                      {
+                        "href": "/government/collections/proxy-voting-application-forms",
+                        "text": "apply by post for a proxy vote"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "text": "You must apply by 5pm, at least 6 working days before polling day.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "https://www.eoni.org.uk/Vote/Voting-by-post-or-proxy",
+                        "text": "Apply in Northern Ireland"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "or",
+                "title": "Apply for a proxy vote"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/how-to-vote/photo-id-youll-need",
+                        "text": "Check what ID you need to vote"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "Contact the local electoral registration office of the person you are a proxy for to find their polling station or to find out what to do if you have accessibility issues.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/contact-electoral-registration-office",
+                        "text": "Contact the local electoral registration office"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "or",
+                "title": "Get ready to vote as a proxy"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/how-to-vote/voting-in-person",
+                        "text": "Vote in person"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Vote in person"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/how-to-vote/postal-voting",
+                        "text": "Vote by post"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "or",
+                "title": "Vote by post"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/how-to-vote/voting-as-proxy-for-someone-else",
+                        "text": "Vote as a proxy for someone else"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "or",
+                "title": "Vote as a proxy for someone else"
+              }
+            ],
+            "title": "Vote in UK elections"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/done/register-to-vote",
+              "api_url": "https://www.gov.uk/api/content/done/register-to-vote",
+              "base_path": "/done/register-to-vote",
+              "content_id": "6f048fcd-cae8-44d2-929d-2f228b9cad69",
+              "document_type": "completed_transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2016-06-28T13:40:56Z",
+              "schema_name": "completed_transaction",
+              "title": "Give feedback on Register to vote",
+              "web_url": "https://www.gov.uk/done/register-to-vote",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-11-02T14:39:26Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Vote in UK elections",
+        "web_url": "https://www.gov.uk/vote-uk-election",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-06-28T13:40:56Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629917.280-10.13.30.3-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Register to vote",
+  "updated_at": "2023-11-02T17:59:57Z",
+  "withdrawn_notice": {
+  }
+}

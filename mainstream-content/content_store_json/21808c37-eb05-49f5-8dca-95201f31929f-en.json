@@ -1,0 +1,457 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/domestic-renewable-heat-incentive",
+  "content_id": "21808c37-eb05-49f5-8dca-95201f31929f",
+  "description": "Help with renewable energy costs for homeowners and landlords through the RHI scheme.",
+  "details": {
+    "body": "\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This scheme is closed to new applicants.</p>\n</div>\n\n<p>You could get money towards renewable heating costs in your home.</p>\n\n<h2 id=\"types-of-heating\">Types of heating</h2>\n\n<p>You can claim for:</p>\n\n<ul>\n  <li>biomass boilers</li>\n  <li>solar water heating</li>\n  <li>certain heat pumps</li>\n</ul>\n\n<p>Payments are made for 7 years and are based on the amount of renewable heat made by your heating system.</p>\n\n<p>The money is paid through the <a rel=\"external\" href=\"https://www.ofgem.gov.uk/environmental-programmes/domestic-renewable-heat-incentive\">Domestic <abbr title=\"Renewable Heat Incentive\">RHI</abbr> scheme</a>.</p>\n\n<h2 id=\"eligibility\">Eligibility</h2>\n\n<p>You can apply if you live in England, Scotland or Wales. You must either:</p>\n\n<ul>\n  <li>own your home</li>\n  <li>be a private or social landlord</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>New build properties will not normally be eligible. The only exception is if you’re building your own home.</p>\n</div>\n\n<h2 id=\"if-you-need-help\">If you need help</h2>\n\n<div class=\"contact\">\n<p>Simple Energy Advice<br>\nTelephone: 0800 444 202<br>\nMonday to Friday, 8am to 8pm  <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<div class=\"contact\">\n<p>Home Energy Scotland<br>\nTelephone: 0808 808 2282<br>\nMonday to Friday, 8am to 8pm<br>\nSaturday, 9am to 5pm<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There’s a <a href=\"/non-domestic-renewable-heat-incentive\">separate RHI scheme</a> for businesses, the public sector and non-profit organisations.</p>\n</div>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2014-05-20T17:28:17Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/domestic-renewable-heat-incentive",
+        "api_url": "https://www.gov.uk/api/content/domestic-renewable-heat-incentive",
+        "base_path": "/domestic-renewable-heat-incentive",
+        "content_id": "21808c37-eb05-49f5-8dca-95201f31929f",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-08-05T18:18:01Z",
+        "schema_name": "answer",
+        "title": "Domestic Renewable Heat Incentive (RHI)",
+        "web_url": "https://www.gov.uk/domestic-renewable-heat-incentive",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/find-about-financial-help-available-when-i-use-renewable-energy-in-my-property",
+        "api_url": "https://www.gov.uk/api/content/needs/find-about-financial-help-available-when-i-use-renewable-energy-in-my-property",
+        "base_path": "/needs/find-about-financial-help-available-when-i-use-renewable-energy-in-my-property",
+        "content_id": "72d46d19-3265-4745-92ef-f4461e33cfac",
+        "details": {
+          "benefit": "I can save money",
+          "goal": "find about financial help available when I use renewable energy in my property",
+          "justifications": [
+            "It's something only government does",
+            "It's something the government provides/does/pays for"
+          ],
+          "met_when": [
+            "knows if they qualify for the scheme",
+            "know how to apply for the scheme",
+            "calculates how much they could get"
+          ],
+          "role": "homeowner"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a homeowner, I need to find about financial help available when I use renewable energy in my property, so that I can save money (101039)",
+        "web_url": "https://www.gov.uk/needs/find-about-financial-help-available-when-i-use-renewable-energy-in-my-property",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/non-domestic-renewable-heat-incentive",
+        "api_url": "https://www.gov.uk/api/content/non-domestic-renewable-heat-incentive",
+        "base_path": "/non-domestic-renewable-heat-incentive",
+        "content_id": "1ff2030a-c036-421e-8f13-4877d4b81cea",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/premises-rates",
+              "api_url": "https://www.gov.uk/api/content/browse/business/premises-rates",
+              "base_path": "/browse/business/premises-rates",
+              "content_id": "61dc0b91-3e32-4eaa-9aaf-219410baf81f",
+              "description": "Includes business rates, leases, renting, planning permission, waste, and energy certificates",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-30T10:53:01Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business premises and business rates",
+              "web_url": "https://www.gov.uk/browse/business/premises-rates",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-16T16:44:35Z",
+        "schema_name": "answer",
+        "title": "Non-domestic Renewable Heat Incentive (RHI)",
+        "web_url": "https://www.gov.uk/non-domestic-renewable-heat-incentive",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/green-deal-energy-saving-measures",
+        "api_url": "https://www.gov.uk/api/content/green-deal-energy-saving-measures",
+        "base_path": "/green-deal-energy-saving-measures",
+        "content_id": "af3f9968-8990-4185-aae5-86f4ada87984",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/waste-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/business/waste-environment",
+              "base_path": "/browse/business/waste-environment",
+              "content_id": "e2e6c828-208d-4301-85ba-fbc9994e6e49",
+              "description": " Includes registering as a waste carrier, classifying waste, hazardous waste",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-22T14:57:32Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business waste and environmental impact",
+              "web_url": "https://www.gov.uk/browse/business/waste-environment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/household-energy",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/household-energy",
+              "base_path": "/browse/housing-local-services/household-energy",
+              "content_id": "67da376c-b408-4229-8586-b09969f65d3a",
+              "description": "Includes energy support, grants, energy performance certificates (EPCs), energy saving and renewable energy for your home",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-09-21T08:29:22Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Household energy",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/household-energy",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/safety-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/safety-environment",
+              "base_path": "/browse/housing-local-services/safety-environment",
+              "content_id": "a5f60151-afe7-45ea-8239-a440814b1193",
+              "description": "Includes smoke control areas, road safety and crime prevention",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Safety and the environment in your community",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/safety-environment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-07T00:01:11Z",
+        "schema_name": "guide",
+        "title": "Green Deal: energy saving for your home",
+        "web_url": "https://www.gov.uk/green-deal-energy-saving-measures",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1380",
+        "api_path": "/api/content/government/organisations/department-for-energy-security-and-net-zero",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-energy-security-and-net-zero",
+        "base_path": "/government/organisations/department-for-energy-security-and-net-zero",
+        "content_id": "6315817c-ef11-4905-bb4d-b6dca8e9052c",
+        "details": {
+          "acronym": "DESNZ",
+          "brand": "department-for-business-innovation-skills",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/656df1fd1104cf000dfa74a1/s960_whitehall-place-exterior-960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/656df1fd0f12ef07a53e01be/s300_whitehall-place-exterior-960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for<br/>Energy Security<br/>&amp; Net Zero"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Energy Security and Net Zero",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D1198",
+        "api_path": "/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "base_path": "/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "content_id": "2bde479a-97f2-42b5-986a-287a623c2a1c",
+        "details": {
+          "acronym": "BEIS",
+          "brand": "department-for-business-innovation-skills",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a62fdc6b1/s960_beis-sign-1vs.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a5f965fd5/s300_beis-sign-1vs.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for<br/>Business, Energy<br/>&amp; Industrial Strategy"
+          },
+          "organisation_govuk_status": {
+            "status": "split",
+            "updated_at": null,
+            "url": ""
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Business, Energy & Industrial Strategy",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/green-deal-energy-saving-measures",
+        "api_url": "https://www.gov.uk/api/content/green-deal-energy-saving-measures",
+        "base_path": "/green-deal-energy-saving-measures",
+        "content_id": "af3f9968-8990-4185-aae5-86f4ada87984",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-07T00:01:11Z",
+        "schema_name": "guide",
+        "title": "Green Deal: energy saving for your home",
+        "web_url": "https://www.gov.uk/green-deal-energy-saving-measures",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/the-green-deal-guide-to-the-domestic-renewable-heat-incentive",
+        "api_url": "https://www.gov.uk/api/content/government/publications/the-green-deal-guide-to-the-domestic-renewable-heat-incentive",
+        "base_path": "/government/publications/the-green-deal-guide-to-the-domestic-renewable-heat-incentive",
+        "content_id": "5f617c58-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-06-06T14:12:07Z",
+        "schema_name": "publication",
+        "title": "The Green Deal: guide to the Domestic Renewable Heat Incentive",
+        "web_url": "https://www.gov.uk/government/publications/the-green-deal-guide-to-the-domestic-renewable-heat-incentive",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/energy-company-obligation",
+        "api_url": "https://www.gov.uk/api/content/energy-company-obligation",
+        "base_path": "/energy-company-obligation",
+        "content_id": "2e89e098-f5a8-4a6c-9dc9-ebe0c7b02ae6",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-15T11:20:27Z",
+        "schema_name": "answer",
+        "title": "Help from your energy supplier: the Energy Company Obligation",
+        "web_url": "https://www.gov.uk/energy-company-obligation",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/housing-local-and-community/household-energy",
+        "api_url": "https://www.gov.uk/api/content/housing-local-and-community/household-energy",
+        "base_path": "/housing-local-and-community/household-energy",
+        "content_id": "6bb7a2d2-1693-4682-a52c-a17d7fca9c3e",
+        "description": "",
+        "details": {
+          "internal_name": "Household energy",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/housing-local-and-community",
+              "api_url": "https://www.gov.uk/api/content/housing-local-and-community",
+              "base_path": "/housing-local-and-community",
+              "content_id": "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+              "description": "",
+              "details": {
+                "internal_name": "Housing, local and community",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:32:02Z",
+              "schema_name": "taxon",
+              "title": "Housing, local and community",
+              "web_url": "https://www.gov.uk/housing-local-and-community",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-16T12:08:15Z",
+        "schema_name": "taxon",
+        "title": "Household energy",
+        "web_url": "https://www.gov.uk/housing-local-and-community/household-energy",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-08-05T18:18:01Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "20619-1663681829.661-10.13.1.176-8700",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Domestic Renewable Heat Incentive (RHI)",
+  "updated_at": "2024-02-23T07:42:38Z",
+  "withdrawn_notice": {
+  }
+}

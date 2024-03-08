@@ -1,0 +1,251 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/traffic-information",
+  "content_id": "4cef7d15-c993-4b8d-82ca-b829f5d013b3",
+  "description": "Get up-to-date information about traffic problems and road conditions across the UK.",
+  "details": {
+    "body": "<p>Use these online tools to get information about traffic and roadworks on motorways and A roads in England.</p>\n\n<h2 id=\"live-traffic-information\">Live traffic information</h2>\n\n<p>Get up-to-date information about incidents that are currently causing delays and congestion on major roads managed by Highways England, for example accidents, broken down vehicles and emergency roadworks.</p>\n\n<p>Visit the <a rel=\"external\" href=\"http://www.trafficengland.com/\">Traffic England website</a> for live information about traffic and road conditions across the major road network.</p>\n\n<p>Traffic information for major roads in Scotland and Wales is available from:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"http://www.trafficscotland.org/\">Traffic Scotland</a></li>\n  <li><a rel=\"external\" href=\"http://www.traffic-wales.com/\">Traffic Wales </a></li>\n</ul>\n\n<h2 id=\"roadworks\">Roadworks</h2>\n\n<p>Search the database of <a rel=\"external\" href=\"https://highwaysengland.co.uk/traffic/\">current and planned roadworks</a> to find out if your journey will be delayed by roadworks happening on the major road network.</p>\n\n<h2 id=\"road-projects\">Road projects</h2>\n\n<p>Get detailed information about longer term projects like planned maintenance and road improvement schemes.</p>\n\n<p>You can find out:</p>\n\n<ul>\n  <li>how much the projects cost</li>\n  <li>when they will start and finish</li>\n  <li>how the work will affect journey times</li>\n  <li>what effect the work will have on the environment</li>\n</ul>\n\n<p>Find <a rel=\"external\" href=\"https://highwaysengland.co.uk/roads/\">Highways England Road Projects</a> on the map or search by road name, location or the type of project.</p>\n",
+    "external_related_links": [
+      {
+        "title": "Current and planned roadworks",
+        "url": "http://www.highways.gov.uk/traffic-information"
+      }
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2014-09-16T10:35:39Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/traffic-information",
+        "api_url": "https://www.gov.uk/api/content/traffic-information",
+        "base_path": "/traffic-information",
+        "content_id": "4cef7d15-c993-4b8d-82ca-b829f5d013b3",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-01T00:01:04Z",
+        "schema_name": "answer",
+        "title": "Get traffic information to plan your journey",
+        "web_url": "https://www.gov.uk/traffic-information",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/speed-limits",
+        "api_url": "https://www.gov.uk/api/content/speed-limits",
+        "base_path": "/speed-limits",
+        "content_id": "f12da8ca-fffc-4b67-89b2-5ffb665719f1",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/penalty-points-fines-bans",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/penalty-points-fines-bans",
+              "base_path": "/browse/driving/penalty-points-fines-bans",
+              "content_id": "a4ba1e34-fca1-497c-af7b-b7ff55d4e4b4",
+              "description": "Penalties and fines, speeding, drink-driving, parking fines, appeals",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:36Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Penalty points, fines and driving bans",
+              "web_url": "https://www.gov.uk/browse/driving/penalty-points-fines-bans",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/highway-code-road-safety",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/highway-code-road-safety",
+              "base_path": "/browse/driving/highway-code-road-safety",
+              "content_id": "eab15e3e-b9a5-48a9-82fe-6485d48a559d",
+              "description": "Rules for motorists, cyclists and pedestrians, road and boat safety",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:37Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "The Highway Code, road safety and vehicle rules",
+              "web_url": "https://www.gov.uk/browse/driving/highway-code-road-safety",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-05T23:01:44Z",
+        "schema_name": "answer",
+        "title": "Speed limits",
+        "web_url": "https://www.gov.uk/speed-limits",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA1114",
+        "api_path": "/api/content/government/organisations/highways-england",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/highways-england",
+        "base_path": "/government/organisations/highways-england",
+        "content_id": "ddad017a-eb20-41d9-8386-56293be68aab",
+        "details": {
+          "acronym": "Highways England",
+          "brand": null,
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db33e5274a7908e352fb/s960_Generic_works_photo.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db3340f0b649cceb18cb/s300_Generic_works_photo.jpg"
+          },
+          "logo": {
+            "formatted_title": "Highways England",
+            "image": {
+              "alt_text": "Highways England",
+              "url": "https://assets.publishing.service.gov.uk/media/59fa00e6e5274a5654e4e399/Highways_England_Logo_240x100px.jpg"
+            }
+          },
+          "organisation_govuk_status": {
+            "status": "replaced",
+            "updated_at": "2021-08-01T00:00:00.000+01:00",
+            "url": ""
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Highways England",
+        "web_url": "https://www.gov.uk/government/organisations/highways-england",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/speed-limits",
+        "api_url": "https://www.gov.uk/api/content/speed-limits",
+        "base_path": "/speed-limits",
+        "content_id": "f12da8ca-fffc-4b67-89b2-5ffb665719f1",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-05T23:01:44Z",
+        "schema_name": "answer",
+        "title": "Speed limits",
+        "web_url": "https://www.gov.uk/speed-limits",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/report-obstruction-road",
+        "api_url": "https://www.gov.uk/api/content/report-obstruction-road",
+        "base_path": "/report-obstruction-road",
+        "content_id": "9585545f-5e16-4535-8a52-847d106c613f",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-01T00:01:02Z",
+        "schema_name": "local_transaction",
+        "title": "Report an obstruction on the road",
+        "web_url": "https://www.gov.uk/report-obstruction-road",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/how-to-use-the-highways-agencys-logging-environment-halogen",
+        "api_url": "https://www.gov.uk/api/content/guidance/how-to-use-the-highways-agencys-logging-environment-halogen",
+        "base_path": "/guidance/how-to-use-the-highways-agencys-logging-environment-halogen",
+        "content_id": "5fa6658e-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-10-10T23:00:00Z",
+        "schema_name": "detailed_guide",
+        "title": "How to use Highways England's logging environment (HALOGEN)",
+        "web_url": "https://www.gov.uk/guidance/how-to-use-the-highways-agencys-logging-environment-halogen",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-04-01T00:01:04Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "2059-1544616678.190-80.189.78.147-7644",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Get traffic information to plan your journey",
+  "updated_at": "2024-01-31T17:02:39Z",
+  "withdrawn_notice": {
+  }
+}

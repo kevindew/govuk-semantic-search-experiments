@@ -1,0 +1,441 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/agricultural-skills-and-training",
+  "content_id": "5e08e7ab-b693-4b89-9ffc-2cddc3e734ff",
+  "description": "Training, courses and qualifications for agricultural workers",
+  "details": {
+    "body": "\n<div class=\"summary\">\n<p>Find training, courses and qualifications through Lantra, the UK’s ‘Sector Skills Council’ for agriculture and farming.</p>\n</div>\n\n<p><a rel=\"external\" href=\"http://www.lantra.co.uk\" title=\"Lantra's website\">Lantra</a> provides information about:</p>\n\n<ul>\n  <li>training and courses available - eg apprenticeships or vocational training</li>\n  <li>qualifications</li>\n  <li>funding options</li>\n  <li>recognising skills as an employer</li>\n</ul>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-10-02T11:58:06Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/agricultural-skills-and-training",
+        "api_url": "https://www.gov.uk/api/content/agricultural-skills-and-training",
+        "base_path": "/agricultural-skills-and-training",
+        "content_id": "5e08e7ab-b693-4b89-9ffc-2cddc3e734ff",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-12T12:25:32Z",
+        "schema_name": "answer",
+        "title": "Agricultural skills and training",
+        "web_url": "https://www.gov.uk/agricultural-skills-and-training",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/environment-countryside/farming-land-management",
+        "api_url": "https://www.gov.uk/api/content/browse/environment-countryside/farming-land-management",
+        "base_path": "/browse/environment-countryside/farming-land-management",
+        "content_id": "2899dd91-99a2-40b4-9b17-2a100030d791",
+        "description": "Agriculture, rural payments, imports and exports, workers’ rights, regulations",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-02T10:46:25Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Farming and land management",
+        "web_url": "https://www.gov.uk/browse/environment-countryside/farming-land-management",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/get-training-i-can-access",
+        "api_url": "https://www.gov.uk/api/content/needs/get-training-i-can-access",
+        "base_path": "/needs/get-training-i-can-access",
+        "content_id": "9bda06ce-641b-4be4-88bc-0e15ce8516e5",
+        "details": {
+          "benefit": "I get the skills to progress in my career",
+          "goal": "get training I can access",
+          "justifications": [
+            "It's something only government does",
+            "There is clear demand for it from users"
+          ],
+          "met_when": null,
+          "role": "Agricultural worker"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a Agricultural worker, I need to get training I can access, so that I get the skills to progress in my career (103521)",
+        "web_url": "https://www.gov.uk/needs/get-training-i-can-access",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/agricultural-workers-rights",
+        "api_url": "https://www.gov.uk/api/content/agricultural-workers-rights",
+        "base_path": "/agricultural-workers-rights",
+        "content_id": "d0b8d964-ca27-4b67-95b2-f3f67f1c5f28",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/trade-unions",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/trade-unions",
+              "base_path": "/browse/employing-people/trade-unions",
+              "content_id": "25ac566b-121e-4e1c-9c73-030e6554cb85",
+              "description": "Includes industrial action and recognising trade unions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:46Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Trade unions and workers rights",
+              "web_url": "https://www.gov.uk/browse/employing-people/trade-unions",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/environment-countryside/farming-land-management",
+              "api_url": "https://www.gov.uk/api/content/browse/environment-countryside/farming-land-management",
+              "base_path": "/browse/environment-countryside/farming-land-management",
+              "content_id": "2899dd91-99a2-40b4-9b17-2a100030d791",
+              "description": "Agriculture, rural payments, imports and exports, workers’ rights, regulations",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/environment-countryside",
+                    "api_url": "https://www.gov.uk/api/content/browse/environment-countryside",
+                    "base_path": "/browse/environment-countryside",
+                    "content_id": "26b81913-d58a-47be-80b7-1e947212779a",
+                    "description": "Includes flooding, recycling, farming and wildlife",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-08-02T10:48:20Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Environment and countryside",
+                    "web_url": "https://www.gov.uk/browse/environment-countryside",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-02T10:46:25Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Farming and land management",
+              "web_url": "https://www.gov.uk/browse/environment-countryside/farming-land-management",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/rights-trade-unions",
+              "api_url": "https://www.gov.uk/api/content/browse/working/rights-trade-unions",
+              "base_path": "/browse/working/rights-trade-unions",
+              "content_id": "3a3f833e-45a1-4bbe-9ccb-25affe4f9dab",
+              "description": "Includes health and safety, accidents at work and joining a trade union",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:40Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Your rights at work and trade unions",
+              "web_url": "https://www.gov.uk/browse/working/rights-trade-unions",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-09T17:17:29Z",
+        "schema_name": "guide",
+        "title": "Agricultural workers' rights",
+        "web_url": "https://www.gov.uk/agricultural-workers-rights",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D7",
+        "api_path": "/api/content/government/organisations/department-for-environment-food-rural-affairs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-environment-food-rural-affairs",
+        "base_path": "/government/organisations/department-for-environment-food-rural-affairs",
+        "content_id": "de4e9dc6-cca4-43af-a594-682023b84d6c",
+        "details": {
+          "acronym": "Defra",
+          "brand": "department-for-environment-food-rural-affairs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dad140f0b649cceb1813/s960_defra-sign-grey.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dad1ed915d5a62fdc6d6/s300_defra-sign-grey.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Environment<br/>Food &amp; Rural Affairs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Environment, Food & Rural Affairs",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/agricultural-workers-rights",
+        "api_url": "https://www.gov.uk/api/content/agricultural-workers-rights",
+        "base_path": "/agricultural-workers-rights",
+        "content_id": "d0b8d964-ca27-4b67-95b2-f3f67f1c5f28",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-09T17:17:29Z",
+        "schema_name": "guide",
+        "title": "Agricultural workers' rights",
+        "web_url": "https://www.gov.uk/agricultural-workers-rights",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/grant-bursary-adult-learners",
+        "api_url": "https://www.gov.uk/api/content/grant-bursary-adult-learners",
+        "base_path": "/grant-bursary-adult-learners",
+        "content_id": "db354716-89ef-4fde-a572-5dfc6e59c854",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-25T12:03:46Z",
+        "schema_name": "answer",
+        "title": "Grants and bursaries for adult learners",
+        "web_url": "https://www.gov.uk/grant-bursary-adult-learners",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/keeping-horses",
+        "api_url": "https://www.gov.uk/api/content/keeping-horses",
+        "base_path": "/keeping-horses",
+        "content_id": "240b208f-028a-461f-81ba-ab9ffe3ced44",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-05-19T12:50:05Z",
+        "schema_name": "guide",
+        "title": "Keeping horses",
+        "web_url": "https://www.gov.uk/keeping-horses",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/improve-english-maths-it-skills",
+        "api_url": "https://www.gov.uk/api/content/improve-english-maths-it-skills",
+        "base_path": "/improve-english-maths-it-skills",
+        "content_id": "7c7a3aed-554f-49c0-b707-ac702b0f9b63",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-24T14:36:59Z",
+        "schema_name": "answer",
+        "title": "Improve your English, maths and IT skills",
+        "web_url": "https://www.gov.uk/improve-english-maths-it-skills",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/advanced-learner-loan",
+        "api_url": "https://www.gov.uk/api/content/advanced-learner-loan",
+        "base_path": "/advanced-learner-loan",
+        "content_id": "23eee5eb-7e24-4a7f-bf92-112f8c8132bc",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-06-01T16:18:47Z",
+        "schema_name": "guide",
+        "title": "Advanced Learner Loan",
+        "web_url": "https://www.gov.uk/advanced-learner-loan",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/environment/food-and-farming-industry",
+        "api_url": "https://www.gov.uk/api/content/environment/food-and-farming-industry",
+        "base_path": "/environment/food-and-farming-industry",
+        "content_id": "e2559668-cf36-47fc-8a77-2e760e12a812",
+        "details": {
+          "internal_name": "Food and farming industry [P]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/environment/food-and-farming",
+              "api_url": "https://www.gov.uk/api/content/environment/food-and-farming",
+              "base_path": "/environment/food-and-farming",
+              "content_id": "52ff5c99-a17b-42c4-a9d7-2cc92cccca39",
+              "description": "",
+              "details": {
+                "internal_name": "Food and farming",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/environment",
+                    "api_url": "https://www.gov.uk/api/content/environment",
+                    "base_path": "/environment",
+                    "content_id": "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Environment",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T13:39:00Z",
+                    "schema_name": "taxon",
+                    "title": "Environment",
+                    "web_url": "https://www.gov.uk/environment",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T11:59:10Z",
+              "schema_name": "taxon",
+              "title": "Food and farming",
+              "web_url": "https://www.gov.uk/environment/food-and-farming",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:13:10Z",
+        "schema_name": "taxon",
+        "title": "Food and farming industry",
+        "web_url": "https://www.gov.uk/environment/food-and-farming-industry",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-11-12T12:25:32Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15545-1504179289.776-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Agricultural skills and training",
+  "updated_at": "2024-02-12T17:37:37Z",
+  "withdrawn_notice": {
+  }
+}

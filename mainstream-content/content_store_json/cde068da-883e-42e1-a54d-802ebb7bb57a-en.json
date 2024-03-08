@@ -1,0 +1,935 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-state-pension",
+  "content_id": "cde068da-883e-42e1-a54d-802ebb7bb57a",
+  "description": "Find out how much State Pension you could get (your forecast), when you could get it and how you could increase it",
+  "details": {
+    "department_analytics_profile": "UA-43414424-1",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Use this service to find out:</p>\n\n<ul>\n  <li>how much State Pension you could get</li>\n  <li>when you can get it</li>\n  <li>how to increase it, if you can</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This page is also <a href=\"/gwirio-eich-pensiwn-y-wladwriaeth\">available in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<p>The State Pension age is regularly reviewed, so the results of this tool may change in the future. You can <a href=\"/government/news/state-pension-age-review-published\">read about the results of the most recent review</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You cannot use this service if you’re already getting your State Pension or if you’ve delayed (‘deferred’) claiming it.</p>\n</div>\n\n<p>To use this service, you’ll need to prove your identity using Government Gateway. You’ll be able to register for Government Gateway if you have not used it before.</p>\n",
+    "other_ways_to_apply": "<p>Applying online is the quickest way to get a forecast. If you’ll reach your <a href=\"/state-pension-age\">State Pension age</a> in more than 30 days you can also:</p>\n\n<ul>\n  <li>fill in the <a href=\"/government/publications/application-for-a-state-pension-statement\">BR19 application form</a> and send it by post</li>\n  <li>call the <a href=\"/future-pension-centre\">Future Pension Centre</a> who will post the forecast to you</li>\n</ul>\n\n<h2 id=\"if-youre-already-getting-your-state-pension-or-have-delayed-claiming-it\">If you’re already getting your State Pension or have delayed claiming it</h2>\n\n<p>To get information about your State Pension, contact the <a href=\"/contact-pension-service\">Pension Service</a> if you’re in the UK or the <a href=\"/international-pension-centre\">International Pension Centre</a> if you live abroad.</p>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.tax.service.gov.uk/gg/sign-in?continue=/check-your-state-pension/account&accountType=individual&origin=nisp-frontend",
+    "variants": [
+      {
+        "slug": "verify",
+        "title": "Check your State Pension",
+        "transaction_start_link": "https://www.tax.service.gov.uk/check-your-state-pension/signin/verify"
+      }
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2016-02-11T15:48:42Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-state-pension",
+        "api_url": "https://www.gov.uk/api/content/check-state-pension",
+        "base_path": "/check-state-pension",
+        "content_id": "cde068da-883e-42e1-a54d-802ebb7bb57a",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-02-11T16:19:53Z",
+        "schema_name": "transaction",
+        "title": "Check your State Pension forecast",
+        "web_url": "https://www.gov.uk/check-state-pension",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/working/state-pension",
+        "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+        "base_path": "/browse/working/state-pension",
+        "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+        "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:19Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "State Pension",
+        "web_url": "https://www.gov.uk/browse/working/state-pension",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/plan-retirement-income",
+        "api_url": "https://www.gov.uk/api/content/plan-retirement-income",
+        "base_path": "/plan-retirement-income",
+        "content_id": "95729f07-bc5b-404b-989d-f7741f76baca",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/working/workplace-personal-pensions",
+              "api_url": "https://www.gov.uk/api/content/browse/working/workplace-personal-pensions",
+              "base_path": "/browse/working/workplace-personal-pensions",
+              "content_id": "bc5ca140-2539-4ec2-8733-9e0acb02f912",
+              "description": "Includes automatic enrolment, lost pensions and planning for retirement",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:40Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Workplace and personal pensions",
+              "web_url": "https://www.gov.uk/browse/working/workplace-personal-pensions",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-04T00:01:02Z",
+        "schema_name": "guide",
+        "title": "Plan your retirement income",
+        "web_url": "https://www.gov.uk/plan-retirement-income",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/state-pension-age",
+        "api_url": "https://www.gov.uk/api/content/state-pension-age",
+        "base_path": "/state-pension-age",
+        "content_id": "5491c439-1c83-4044-80d3-32cc3613b739",
+        "document_type": "smart_answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/pensions",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/pensions",
+              "base_path": "/browse/employing-people/pensions",
+              "content_id": "4c3b2fc0-d26e-46c7-8302-2450c6dfd357",
+              "description": "Includes workplace pensions and Combined Pension Statements",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:46Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Pensions for your staff",
+              "web_url": "https://www.gov.uk/browse/employing-people/pensions",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/state-pension",
+              "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+              "base_path": "/browse/working/state-pension",
+              "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+              "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:19Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "State Pension",
+              "web_url": "https://www.gov.uk/browse/working/state-pension",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2021-06-16T08:18:55Z",
+        "schema_name": "smart_answer",
+        "title": "Check your State Pension age",
+        "web_url": "https://www.gov.uk/state-pension-age",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/new-state-pension",
+        "api_url": "https://www.gov.uk/api/content/new-state-pension",
+        "base_path": "/new-state-pension",
+        "content_id": "27ebbb86-7d5a-4aef-bba6-2631f45d3355",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/working/state-pension",
+              "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+              "base_path": "/browse/working/state-pension",
+              "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+              "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:19Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "State Pension",
+              "web_url": "https://www.gov.uk/browse/working/state-pension",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-01T17:25:50Z",
+        "schema_name": "guide",
+        "title": "The new State Pension",
+        "web_url": "https://www.gov.uk/new-state-pension",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/state-pension",
+        "api_url": "https://www.gov.uk/api/content/state-pension",
+        "base_path": "/state-pension",
+        "content_id": "fb626a9c-02bf-4f30-a4d9-0db6807605f1",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/working/state-pension",
+              "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+              "base_path": "/browse/working/state-pension",
+              "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+              "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:19Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "State Pension",
+              "web_url": "https://www.gov.uk/browse/working/state-pension",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-17T18:23:25Z",
+        "schema_name": "guide",
+        "title": "The basic State Pension",
+        "web_url": "https://www.gov.uk/state-pension",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/early-retirement-pension",
+        "api_url": "https://www.gov.uk/api/content/early-retirement-pension",
+        "base_path": "/early-retirement-pension",
+        "content_id": "a3808378-162c-4c5c-9c5f-bbac7e513646",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/working/workplace-personal-pensions",
+              "api_url": "https://www.gov.uk/api/content/browse/working/workplace-personal-pensions",
+              "base_path": "/browse/working/workplace-personal-pensions",
+              "content_id": "bc5ca140-2539-4ec2-8733-9e0acb02f912",
+              "description": "Includes automatic enrolment, lost pensions and planning for retirement",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:40Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Workplace and personal pensions",
+              "web_url": "https://www.gov.uk/browse/working/workplace-personal-pensions",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/state-pension",
+              "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+              "base_path": "/browse/working/state-pension",
+              "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+              "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:19Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "State Pension",
+              "web_url": "https://www.gov.uk/browse/working/state-pension",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-05T23:01:09Z",
+        "schema_name": "guide",
+        "title": "Early retirement, your pension and benefits",
+        "web_url": "https://www.gov.uk/early-retirement-pension",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-national-insurance-record",
+        "api_url": "https://www.gov.uk/api/content/check-national-insurance-record",
+        "base_path": "/check-national-insurance-record",
+        "content_id": "cb366ff9-c541-4497-acc6-8f643c901e85",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+              "base_path": "/browse/tax/national-insurance",
+              "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+              "description": "Voluntary contributions and credits, numbers, rates and classes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-24T16:00:51Z",
+        "schema_name": "transaction",
+        "title": "Check your National Insurance record",
+        "web_url": "https://www.gov.uk/check-national-insurance-record",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D10",
+        "api_path": "/api/content/government/organisations/department-for-work-pensions",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-work-pensions",
+        "base_path": "/government/organisations/department-for-work-pensions",
+        "content_id": "b548a09f-8b35-4104-89f4-f1a40bf3136d",
+        "details": {
+          "acronym": "DWP",
+          "brand": "department-for-work-pensions",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab1e5274a7908e35204/s960_dwp-caxton-house-logo-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab040f0b649cfaf7b4b/s300_dwp-caxton-house-logo-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Work &amp; <br/>Pensions"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Work and Pensions",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/working/state-pension",
+        "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+        "base_path": "/browse/working/state-pension",
+        "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+        "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/working",
+              "api_url": "https://www.gov.uk/api/content/browse/working",
+              "base_path": "/browse/working",
+              "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+              "description": "Includes holidays, finding a job and redundancy",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-07-09T12:54:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/browse/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:19Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "State Pension",
+        "web_url": "https://www.gov.uk/browse/working/state-pension",
+        "withdrawn": false
+      }
+    ],
+    "part_of_step_navs": [
+      {
+        "api_path": "/api/content/plan-for-retirement",
+        "api_url": "https://www.gov.uk/api/content/plan-for-retirement",
+        "base_path": "/plan-for-retirement",
+        "content_id": "c0ff9296-e91e-40d1-97bd-008026e90426",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/state-pension-age",
+                        "text": "Check what age you can get your State Pension"
+                      },
+                      {
+                        "href": "/working-retirement-pension-age",
+                        "text": "Find out about working after you reach State Pension age"
+                      },
+                      {
+                        "href": "/early-retirement-pension/personal-and-workplace-pensions",
+                        "text": "Find out if you can retire early with your workplace or personal pension"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check when you can retire"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/check-state-pension",
+                        "text": "Find out how much State Pension you could get (your forecast)"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You may also be paying into a:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/workplace-pensions",
+                        "text": "workplace pension"
+                      },
+                      {
+                        "href": "/pension-types",
+                        "text": "personal pension"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/tax-on-pension",
+                        "text": "Find out if you’ll pay tax on your pension"
+                      },
+                      {
+                        "href": "/find-pension-contact-details",
+                        "text": "Find contact details for a lost pension"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Check how much pension you could get"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You might be able to increase the amount you get if you delay your pension.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/deferring-state-pension",
+                        "text": "Find out about delaying your pension"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You might be able to pay voluntary contributions to fill in gaps in your National Insurance record (such as, from when you were not working or claiming benefits). ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/voluntary-national-insurance-contributions/who-can-pay-voluntary-contributions",
+                        "text": "Check if you can pay voluntary National Insurance contributions"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "For advice about increasing your workplace or private pension, speak to a financial adviser.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "https://www.unbiased.co.uk/",
+                        "text": "Find a financial adviser through Unbiased"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Increase your pension"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Check what financial help you could get if you:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/pension-credit",
+                        "text": "are on a low income"
+                      },
+                      {
+                        "href": "/housing-benefit",
+                        "text": "need help paying your rent"
+                      },
+                      {
+                        "href": "/winter-fuel-payment",
+                        "text": "need help paying your heating bill"
+                      },
+                      {
+                        "href": "/cold-weather-payment",
+                        "text": "are claiming benefits and the weather is cold"
+                      },
+                      {
+                        "href": "/attendance-allowance",
+                        "text": "are disabled"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "text": "You can also get free bus travel if you: ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/apply-for-elderly-person-bus-pass",
+                        "text": "apply for a bus pass"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "title": "Check what other financial support you could get"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/plan-retirement-income/get-financial-advice",
+                        "text": "Get advice on planning your pension and deciding when to retire"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Decide when to retire "
+              }
+            ],
+            "title": "Plan your retirement income: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/check-state-pension",
+              "api_url": "https://www.gov.uk/api/content/check-state-pension",
+              "base_path": "/check-state-pension",
+              "content_id": "cde068da-883e-42e1-a54d-802ebb7bb57a",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2016-02-11T16:19:53Z",
+              "schema_name": "transaction",
+              "title": "Check your State Pension forecast",
+              "web_url": "https://www.gov.uk/check-state-pension",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-22T15:58:17Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Plan your retirement income: step by step",
+        "web_url": "https://www.gov.uk/plan-for-retirement",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/new-state-pension",
+        "api_url": "https://www.gov.uk/api/content/new-state-pension",
+        "base_path": "/new-state-pension",
+        "content_id": "27ebbb86-7d5a-4aef-bba6-2631f45d3355",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-01T17:25:50Z",
+        "schema_name": "guide",
+        "title": "The new State Pension",
+        "web_url": "https://www.gov.uk/new-state-pension",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-national-insurance-record",
+        "api_url": "https://www.gov.uk/api/content/check-national-insurance-record",
+        "base_path": "/check-national-insurance-record",
+        "content_id": "cb366ff9-c541-4497-acc6-8f643c901e85",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-24T16:00:51Z",
+        "schema_name": "transaction",
+        "title": "Check your National Insurance record",
+        "web_url": "https://www.gov.uk/check-national-insurance-record",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/state-pension",
+        "api_url": "https://www.gov.uk/api/content/state-pension",
+        "base_path": "/state-pension",
+        "content_id": "fb626a9c-02bf-4f30-a4d9-0db6807605f1",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-17T18:23:25Z",
+        "schema_name": "guide",
+        "title": "The basic State Pension",
+        "web_url": "https://www.gov.uk/state-pension",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/plan-retirement-income",
+        "api_url": "https://www.gov.uk/api/content/plan-retirement-income",
+        "base_path": "/plan-retirement-income",
+        "content_id": "95729f07-bc5b-404b-989d-f7741f76baca",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-04T00:01:02Z",
+        "schema_name": "guide",
+        "title": "Plan your retirement income",
+        "web_url": "https://www.gov.uk/plan-retirement-income",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/early-retirement-pension",
+        "api_url": "https://www.gov.uk/api/content/early-retirement-pension",
+        "base_path": "/early-retirement-pension",
+        "content_id": "a3808378-162c-4c5c-9c5f-bbac7e513646",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-05T23:01:09Z",
+        "schema_name": "guide",
+        "title": "Early retirement, your pension and benefits",
+        "web_url": "https://www.gov.uk/early-retirement-pension",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/employment/working-state-pension",
+        "api_url": "https://www.gov.uk/api/content/employment/working-state-pension",
+        "base_path": "/employment/working-state-pension",
+        "content_id": "f8b6d54b-cc94-4b32-aac4-8cd344087407",
+        "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+        "details": {
+          "internal_name": "State Pension [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/employment/working",
+              "api_url": "https://www.gov.uk/api/content/employment/working",
+              "base_path": "/employment/working",
+              "content_id": "092348a4-b896-4f8f-a0dc-e6d4605a4904",
+              "description": "Includes holidays and finding a job",
+              "details": {
+                "internal_name": "Working, jobs and pensions [M] (merged, level 2, work theme)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/work",
+                    "api_url": "https://www.gov.uk/api/content/work",
+                    "base_path": "/work",
+                    "content_id": "d0f1e5a3-c8f4-4780-8678-994f19104b21",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Work",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:33:40Z",
+                    "schema_name": "taxon",
+                    "title": "Work",
+                    "web_url": "https://www.gov.uk/work",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T11:08:23Z",
+              "schema_name": "taxon",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/employment/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T11:08:23Z",
+        "schema_name": "taxon",
+        "title": "State Pension",
+        "web_url": "https://www.gov.uk/employment/working-state-pension",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-02-11T16:19:53Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1681907459.394-10.13.20.122-9419",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Check your State Pension forecast",
+  "updated_at": "2024-03-06T08:35:20Z",
+  "withdrawn_notice": {
+  }
+}

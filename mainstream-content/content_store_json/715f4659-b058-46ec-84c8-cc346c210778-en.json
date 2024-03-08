@@ -1,0 +1,501 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-additional-income-tax",
+  "content_id": "715f4659-b058-46ec-84c8-cc346c210778",
+  "description": "Check whether you need to report and pay any tax on income you make apart from your main job or earnings.",
+  "details": {
+    "body": "<p>Check if you need to tell HMRC about income that’s not from your employer, or not already included in your Self Assessment if you <a href=\"/working-for-yourself\">work for yourself</a>.</p>\n\n<p>This may include money you earn from things like:</p>\n\n<ul>\n  <li>selling things, for example at car boot sales or auctions, or online</li>\n  <li>doing casual jobs such as gardening, food delivery or babysitting</li>\n  <li>charging other people for using your equipment or tools</li>\n  <li>renting out property or part of your home, including for holidays (for example, through an agency or online)</li>\n  <li>creating content online, for example on social media</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/gwirio-treth-incwm-ychwanegol\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<p>If you have income from savings or investments <a href=\"https://www.gov.uk/check-if-you-need-tax-return\">check if you need to send a Self Assessment tax return</a> instead.</p>\n\n<p>If you’ve sold property, shares or other assets for a profit you may have to pay <a href=\"/capital-gains-tax\">Capital Gains Tax</a>.</p>\n\n<p><a class=\"gem-c-button govuk-button govuk-button--start\" role=\"button\" data-module=\"govuk-button\" draggable=\"false\" href=\"https://tax.service.gov.uk/guidance/check-non-paye-income\"><span> Check now </span><svg class=\"govuk-button__start-icon govuk-!-display-none-print\" xmlns=\"http://www.w3.org/2000/svg\" width=\"17.5\" height=\"19\" viewbox=\"0 0 33 40\" focusable=\"false\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M0 0h13l20 20-20 20H0l20-20z\"></path></svg></a></p>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2015-07-24T12:11:15Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-additional-income-tax",
+        "api_url": "https://www.gov.uk/api/content/check-additional-income-tax",
+        "base_path": "/check-additional-income-tax",
+        "content_id": "715f4659-b058-46ec-84c8-cc346c210778",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-28T13:35:52Z",
+        "schema_name": "answer",
+        "title": "Check if you need to tell HMRC about additional income",
+        "web_url": "https://www.gov.uk/check-additional-income-tax",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/income-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+        "base_path": "/browse/tax/income-tax",
+        "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+        "description": "Includes rates and allowances, tax codes and refunds",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:16Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Income Tax",
+        "web_url": "https://www.gov.uk/browse/tax/income-tax",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/tax-help",
+        "api_url": "https://www.gov.uk/api/content/tax-help",
+        "base_path": "/tax-help",
+        "content_id": "91fef6f6-3a59-42ab-a14d-42c4e5eee1a1",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/income-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+              "base_path": "/browse/tax/income-tax",
+              "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+              "description": "Includes rates and allowances, tax codes and refunds",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Income Tax",
+              "web_url": "https://www.gov.uk/browse/tax/income-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/self-assessment",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+              "base_path": "/browse/tax/self-assessment",
+              "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+              "description": "Includes filing, deadlines, pay and tax records",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Self Assessment",
+              "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/dealing-with-hmrc",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/dealing-with-hmrc",
+              "base_path": "/browse/tax/dealing-with-hmrc",
+              "content_id": "8b432175-2324-4c96-b6c6-9708cdab4fa1",
+              "description": "Reporting changes, agents, appeals, checks, complaints and help with tax",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:28Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Dealing with HMRC",
+              "web_url": "https://www.gov.uk/browse/tax/dealing-with-hmrc",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-10T12:04:44Z",
+        "schema_name": "answer",
+        "title": "Get help with tax",
+        "web_url": "https://www.gov.uk/tax-help",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/self-assessment-ready-reckoner",
+        "api_url": "https://www.gov.uk/api/content/self-assessment-ready-reckoner",
+        "base_path": "/self-assessment-ready-reckoner",
+        "content_id": "1b3d586c-538d-4983-b61a-c3a16c1efddb",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/self-assessment",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+              "base_path": "/browse/tax/self-assessment",
+              "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+              "description": "Includes filing, deadlines, pay and tax records",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Self Assessment",
+              "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-22T09:00:01Z",
+        "schema_name": "transaction",
+        "title": "Budget for your Self Assessment tax bill if you're self-employed",
+        "web_url": "https://www.gov.uk/self-assessment-ready-reckoner",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/income-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+        "base_path": "/browse/tax/income-tax",
+        "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+        "description": "Includes rates and allowances, tax codes and refunds",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:16Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Income Tax",
+        "web_url": "https://www.gov.uk/browse/tax/income-tax",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/set-up-sole-trader",
+        "api_url": "https://www.gov.uk/api/content/set-up-sole-trader",
+        "base_path": "/set-up-sole-trader",
+        "content_id": "097e75a6-fa8b-455e-8449-f3855f78285b",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-09T16:27:17Z",
+        "schema_name": "answer",
+        "title": "Set up as a sole trader",
+        "web_url": "https://www.gov.uk/set-up-sole-trader",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/check-employment-status-for-tax",
+        "api_url": "https://www.gov.uk/api/content/guidance/check-employment-status-for-tax",
+        "base_path": "/guidance/check-employment-status-for-tax",
+        "content_id": "e5f5ff4a-b9b8-4f46-9f61-b2c053613a60",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-05-04T14:39:24Z",
+        "schema_name": "detailed_guide",
+        "title": "Check employment status for tax",
+        "web_url": "https://www.gov.uk/guidance/check-employment-status-for-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/log-in-file-self-assessment-tax-return",
+        "api_url": "https://www.gov.uk/api/content/log-in-file-self-assessment-tax-return",
+        "base_path": "/log-in-file-self-assessment-tax-return",
+        "content_id": "6a2bf66e-2313-4204-afd5-9940de5e1d66",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-15T16:17:28Z",
+        "schema_name": "answer",
+        "title": "File your Self Assessment tax return online",
+        "web_url": "https://www.gov.uk/log-in-file-self-assessment-tax-return",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/working-for-yourself",
+        "api_url": "https://www.gov.uk/api/content/working-for-yourself",
+        "base_path": "/working-for-yourself",
+        "content_id": "ce48b548-36d8-4f11-ad9b-b9149ae6c538",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-17T16:18:52Z",
+        "schema_name": "answer",
+        "title": "Working for yourself",
+        "web_url": "https://www.gov.uk/working-for-yourself",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/rent-room-in-your-home",
+        "api_url": "https://www.gov.uk/api/content/rent-room-in-your-home",
+        "base_path": "/rent-room-in-your-home",
+        "content_id": "12f2e1f6-d882-4e4f-8927-613fc7f73e03",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-23T15:31:11Z",
+        "schema_name": "guide",
+        "title": "Rent a room in your home",
+        "web_url": "https://www.gov.uk/rent-room-in-your-home",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/income-tax",
+        "api_url": "https://www.gov.uk/api/content/money/income-tax",
+        "base_path": "/money/income-tax",
+        "content_id": "104ee859-8278-406b-80cb-5727373e0198",
+        "details": {
+          "internal_name": "Income Tax [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:55Z",
+        "schema_name": "taxon",
+        "title": "Income Tax",
+        "web_url": "https://www.gov.uk/money/income-tax",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-07-28T13:35:52Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1693821130.175-10.13.22.56-8468",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Check if you need to tell HMRC about additional income",
+  "updated_at": "2024-02-08T11:45:12Z",
+  "withdrawn_notice": {
+  }
+}

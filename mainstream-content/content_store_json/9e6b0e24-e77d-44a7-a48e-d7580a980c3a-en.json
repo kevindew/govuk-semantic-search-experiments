@@ -1,0 +1,324 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/cancel-winding-up-order",
+  "content_id": "9e6b0e24-e77d-44a7-a48e-d7580a980c3a",
+  "description": "Apply to cancel a winding up (liquidation) order so your company can continue to trade - find out the form you need and what happens at the hearing",
+  "details": {
+    "body": "<p>If your company is <a href=\"/wind-up-a-company-that-owes-you-money\">being wound up</a> (liquidated) you’ll be sent a copy of the winding up order.</p>\n\n<p>You can apply to cancel (‘rescind’) the winding up order, for example if your company can pay its debts or if you could not attend the original hearing. You must apply to the court within 5 working days of when the order is made.</p>\n\n<p><a href=\"/government/publications/apply-to-the-court-about-an-insolvency-issue-form-iaa\">Fill in Form IAA</a>. Write a witness statement giving details of your assets and debts.</p>\n\n<p>Send them to court that sent you the winding up order. You can <a rel=\"external\" href=\"https://efile.cefile-app.com\">submit them online</a> but only if it was one of these courts:</p>\n\n<ul>\n  <li>Admiralty and Commercial Court</li>\n  <li>Chancery Division</li>\n  <li>Companies Court</li>\n  <li>High Court (including Bankruptcy Court)</li>\n  <li>London Mercantile Court</li>\n  <li>Rolls Building</li>\n</ul>\n\n<p>If it was <a href=\"/find-court-tribunal\">another court</a> you’ll need to submit them by post.</p>\n\n<h2 id=\"fees\">Fees</h2>\n\n<p>The fee is £155 if you go to the Companies Court or a district registry.</p>\n\n<p>Fees at county courts vary - check with the court before you go.</p>\n\n<h2 id=\"what-happens-after-you-apply\">What happens after you apply</h2>\n\n<p>You’ll get your application back the same day and be given a date for your hearing. This will normally be in 1 or 2 weeks.</p>\n\n<p>You must deliver (‘serve’) a copy of the application to the person who made the winding up petition (the respondent) and the official receiver.</p>\n\n<p>You can deliver the application by:</p>\n\n<ul>\n  <li>giving it to them (you should try all their known addresses)</li>\n  <li>getting a ‘process server’ to serve it for you (a solicitor can arrange this)</li>\n</ul>\n\n<p>If it cannot be delivered in person, you can deliver the application by registered post or putting it through a letterbox.</p>\n\n<h2 id=\"at-the-hearing\">At the hearing</h2>\n\n<p>Both you and the respondent present your cases to a registrar or district judge. Explain why you want to cancel the winding up order.</p>\n\n<p>At the end of the hearing you’ll either:</p>\n\n<ul>\n  <li>get a decision - you’ll also get a written copy sent to you</li>\n  <li>be asked to come to another hearing if the registrar or judge wants more evidence</li>\n</ul>\n\n<p>If you do not agree with the decision you may be able to appeal to the Chancery Division of the High Court.</p>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2015-10-16T13:16:09Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/cancel-winding-up-order",
+        "api_url": "https://www.gov.uk/api/content/cancel-winding-up-order",
+        "base_path": "/cancel-winding-up-order",
+        "content_id": "9e6b0e24-e77d-44a7-a48e-d7580a980c3a",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-04-05T23:01:19Z",
+        "schema_name": "answer",
+        "title": "Cancel a winding up order",
+        "web_url": "https://www.gov.uk/cancel-winding-up-order",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/funding-debt",
+        "api_url": "https://www.gov.uk/api/content/browse/business/funding-debt",
+        "base_path": "/browse/business/funding-debt",
+        "content_id": "8c5661a7-dc03-4d80-8f66-69798c2f4dde",
+        "description": "Includes bankruptcy, insolvency and recovering debt",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-18T16:02:29Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/business/funding-debt",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA32",
+        "api_path": "/api/content/government/organisations/insolvency-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/insolvency-service",
+        "base_path": "/government/organisations/insolvency-service",
+        "content_id": "c8406408-8376-45e0-95b4-7e74cef2c260",
+        "details": {
+          "brand": "department-for-business-and-trade",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "The Insolvency <br/>Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "The Insolvency Service",
+        "web_url": "https://www.gov.uk/government/organisations/insolvency-service",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/funding-debt",
+        "api_url": "https://www.gov.uk/api/content/browse/business/funding-debt",
+        "base_path": "/browse/business/funding-debt",
+        "content_id": "8c5661a7-dc03-4d80-8f66-69798c2f4dde",
+        "description": "Includes bankruptcy, insolvency and recovering debt",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-18T16:02:29Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/business/funding-debt",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/liquidate-your-company",
+        "api_url": "https://www.gov.uk/api/content/liquidate-your-company",
+        "base_path": "/liquidate-your-company",
+        "content_id": "a0c72b4b-b179-4031-95ac-506c53c53ffb",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-04T15:55:34Z",
+        "schema_name": "guide",
+        "title": "Liquidate your limited company",
+        "web_url": "https://www.gov.uk/liquidate-your-company",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/form-loc010-i-wish-to-apply-to-rescind-a-winding-up-order-what-do-i-do",
+        "api_url": "https://www.gov.uk/api/content/government/publications/form-loc010-i-wish-to-apply-to-rescind-a-winding-up-order-what-do-i-do",
+        "base_path": "/government/publications/form-loc010-i-wish-to-apply-to-rescind-a-winding-up-order-what-do-i-do",
+        "content_id": "f9abe493-7ed6-4e9d-90f9-027dc3999340",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2011-03-31T23:00:00Z",
+        "schema_name": "publication",
+        "title": "Form LOC010: I wish to apply to rescind a winding up order. What do I do?",
+        "web_url": "https://www.gov.uk/government/publications/form-loc010-i-wish-to-apply-to-rescind-a-winding-up-order-what-do-i-do",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/protecting-company-from-compulsory-liquidation",
+        "api_url": "https://www.gov.uk/api/content/protecting-company-from-compulsory-liquidation",
+        "base_path": "/protecting-company-from-compulsory-liquidation",
+        "content_id": "42de0b49-648a-43fc-b8cf-11f1df74ca41",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-04T15:22:41Z",
+        "schema_name": "guide",
+        "title": "Dealing with your limited company's debts",
+        "web_url": "https://www.gov.uk/protecting-company-from-compulsory-liquidation",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/being-made-bankrupt",
+        "api_url": "https://www.gov.uk/api/content/being-made-bankrupt",
+        "base_path": "/being-made-bankrupt",
+        "content_id": "bbc66187-0901-499b-8ecb-8c3084d43b9f",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-07-18T11:16:18Z",
+        "schema_name": "guide",
+        "title": "Being made bankrupt",
+        "web_url": "https://www.gov.uk/being-made-bankrupt",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-out-if-a-company-is-in-financial-trouble",
+        "api_url": "https://www.gov.uk/api/content/find-out-if-a-company-is-in-financial-trouble",
+        "base_path": "/find-out-if-a-company-is-in-financial-trouble",
+        "content_id": "6727af20-6614-4406-8610-0ba6a95b80d0",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-09-24T10:06:55Z",
+        "schema_name": "transaction",
+        "title": "Check if a company is being liquidated or in provisional liquidation",
+        "web_url": "https://www.gov.uk/find-out-if-a-company-is-in-financial-trouble",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/business-debt-and-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/business-debt-and-bankruptcy",
+        "base_path": "/business-and-industry/business-debt-and-bankruptcy",
+        "content_id": "a1119685-ffef-4417-a3e4-116014ad4523",
+        "details": {
+          "internal_name": "Business debt and bankruptcy",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/running-a-business",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+              "base_path": "/business-and-industry/running-a-business",
+              "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+              "details": {
+                "internal_name": "Running a business",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                    "base_path": "/business-and-industry",
+                    "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Business and industry",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Business and industry",
+                    "web_url": "https://www.gov.uk/business-and-industry",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Running a business",
+              "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:02Z",
+        "schema_name": "taxon",
+        "title": "Business debt and bankruptcy",
+        "web_url": "https://www.gov.uk/business-and-industry/business-debt-and-bankruptcy",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-04-05T23:01:19Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "13016-1538995107.493-213.86.153.212-8566",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Cancel a winding up order",
+  "updated_at": "2023-07-21T14:26:58Z",
+  "withdrawn_notice": {
+  }
+}

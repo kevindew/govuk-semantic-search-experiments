@@ -1,0 +1,829 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/return-or-contact-abducted-child",
+  "content_id": "c0f2b667-1b8e-4a5d-bf94-28fc22e78a08",
+  "description": "How to apply to have your child returned if they've been abducted, or arrange contact or enforce a court order in EU, Hague Convention and non-Hague Convention countries",
+  "details": {
+    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Contact the police if a child you’re responsible for is at risk of being taken out of the UK without your consent.</p>\n</div>\n\n<p>If you live in England or Wales, find out who to contact if you want to:</p>\n\n<ul>\n  <li>try to get your child returned if they’ve been taken abroad or are being kept abroad without your permission</li>\n  <li>arrange contact with your child who is in another country</li>\n  <li>get a court order for contact enforced</li>\n</ul>\n\n<p>If your child normally lives in:</p>\n\n<ul>\n  <li>Scotland, contact the <a rel=\"external\" href=\"http://www.gov.scot/Topics/Justice/law/17867/fm-children-root/18533/13589\">Central Authority for Child Abduction in Scotland</a>\n</li>\n  <li>Northern Ireland, contact the <a rel=\"external\" href=\"https://www.justice-ni.gov.uk/articles/child-abduction-frequently-asked-questions\">Courts and Tribunals Service</a>\n</li>\n  <li>a country outside the UK and they’ve been taken to England or Wales, contact the <a rel=\"external\" href=\"http://www.hcch.net/index_en.php?act=conventions.authorities&amp;cid=24\">Central Authority in your country</a>\n</li>\n</ul>\n",
+    "external_related_links": [
+      {
+        "title": "Reunite International: child abduction advice",
+        "url": "http://www.reunite.org"
+      }
+    ],
+    "nodes": [
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "In the EU (except Denmark)",
+            "next_node": "question-2",
+            "slug": "in-the-eu-except-denmark"
+          },
+          {
+            "label": "In another European country",
+            "next_node": "question-4",
+            "slug": "in-another-european-country"
+          },
+          {
+            "label": "Outside Europe",
+            "next_node": "question-5",
+            "slug": "outside-europe"
+          },
+          {
+            "label": "I don't know which country my child is in",
+            "next_node": "outcome-12",
+            "slug": "i-don-t-know-which-country-my-child-is-in"
+          }
+        ],
+        "slug": "question-1",
+        "title": "Where is your child?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Get your child returned or arrange contact",
+            "next_node": "outcome-1",
+            "slug": "get-your-child-returned-or-arrange-contact"
+          },
+          {
+            "label": "Enforce an existing order for contact",
+            "next_node": "question-3",
+            "slug": "enforce-an-existing-order-for-contact"
+          }
+        ],
+        "slug": "question-2",
+        "title": "What do you want to do?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "On or after 1 March 2005",
+            "next_node": "outcome-2",
+            "slug": "on-or-after-1-march-2005"
+          },
+          {
+            "label": "Before 1 March 2005",
+            "next_node": "outcome-3",
+            "slug": "before-1-march-2005"
+          }
+        ],
+        "slug": "question-3",
+        "title": "When did you go to court to ask for the order?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Get your child returned or arrange contact",
+            "next_node": "outcome-4",
+            "slug": "get-your-child-returned-or-arrange-contact"
+          },
+          {
+            "label": "Enforce an existing order for contact",
+            "next_node": "outcome-6",
+            "slug": "enforce-an-existing-order-for-contact"
+          }
+        ],
+        "slug": "question-4",
+        "title": "What do you want to do?"
+      },
+      {
+        "body": "<ul>\n  <li>Argentina, Australia, Bahamas, Belarus, Belize, Brazil, Burkina Faso</li>\n  <li>Canada, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Fiji</li>\n  <li>Honduras, Hong Kong, Israel, Japan, Kazakhstan, Macau, Mauritius, Mexico, New Zealand</li>\n  <li>Panama, Peru, St Kitts and Nevis, South Africa, South Korea, Turkmenistan</li>\n  <li>United States of America, Ukraine, Uruguay, Uzbekistan, Venezuela or Zimbabwe</li>\n</ul>\n\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-6",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-7",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-5",
+        "title": "Is your child in one of the following countries?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Get your child returned or arrange contact",
+            "next_node": "outcome-7",
+            "slug": "get-your-child-returned-or-arrange-contact"
+          },
+          {
+            "label": "Enforce an existing order for contact",
+            "next_node": "outcome-8",
+            "slug": "enforce-an-existing-order-for-contact"
+          }
+        ],
+        "slug": "question-6",
+        "title": "What do you want to do?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Get your child returned",
+            "next_node": "outcome-9",
+            "slug": "get-your-child-returned"
+          },
+          {
+            "label": "Arrange contact with your child",
+            "next_node": "outcome-10",
+            "slug": "arrange-contact-with-your-child"
+          },
+          {
+            "label": "Enforce a court order for contact",
+            "next_node": "outcome-13",
+            "slug": "enforce-a-court-order-for-contact"
+          }
+        ],
+        "slug": "question-7",
+        "title": "What do you want to do?"
+      },
+      {
+        "body": "<p>The International Child Abduction and Contact Unit (<abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>) can help if your child is:</p>\n\n<ul>\n  <li>under 16</li>\n  <li>living in an EU country</li>\n</ul>\n\n<p>Your application will be handled under an international agreement on child abduction called the 1980 Hague Convention.</p>\n\n<h2 id=\"documents-youll-need-to-provide\">Documents you’ll need to provide</h2>\n\n<p>Provide the following if you have them:</p>\n\n<ul>\n  <li>photographs of your child and a copy of their birth certificate</li>\n  <li>photographs of the person who has taken the child</li>\n  <li>a copy of your marriage certificate or divorce decree if you have one</li>\n  <li>copies of any court orders concerning the child</li>\n</ul>\n\n<h2 id=\"how-to-apply\">How to apply</h2>\n\n<ol class=\"steps\">\n<li>\n<p>Fill in the ICACU <a href=\"/government/publications/international-child-abduction-and-contact-unit-application-form\">application form</a>.</p>\n</li>\n<li>\n<p>Send the form and supporting documents to ICACU - you can scan and email them to <a href=\"mailto:icacu@ospt.gov.uk\">icacu@ospt.gov.uk</a> or post them.</p>\n</li>\n</ol>\n<p>There is no fee.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>It’s normally quicker to apply by email.</p>\n</div>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nInternational Child Abduction and Contact Unit (ICACU)  \n<br>Official Solicitor and Public Trustee  \n<br>Post Point 0.53  \n<br>102 Petty France  \n<br>London  \n<br>SW1H 9AJ\n<br>\n</p></div></div>\n\n<p>DX address: 141423 Bloomsbury 7</p>\n\n<h2 id=\"after-you-apply\">After you apply</h2>\n\n<p>When <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> get your application they’ll send it to the relevant organisation in the country your child is in. They’ll organise translations of your documents if necessary.</p>\n\n<p>You may need to provide more information to <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> or the court in the country your child is in - they’ll contact you if you do.</p>\n\n<p>It will take at least 6 weeks to get a decision. It may take much longer, depending on the circumstances.</p>\n\n<p><abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> cannot guarantee that your child will be returned or that you’ll get contact.</p>\n\n<h2 id=\"contact-icacu\">Contact <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>\n</h2>\n\n<p>Call the enquiry number if you have a query about your application.</p>\n\n<div class=\"contact\">\n<p>General enquiries<br>\nTelephone: 0203 681 2756<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-1",
+        "title": "Apply to get a child returned or arrange contact"
+      },
+      {
+        "body": "\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>The Brexit transition period has ended and new rules now apply on getting your child back from an EU country or arranging contact with them. This page is currently out of date. </p>\n</div>\n\n<p>The International Child Abduction and Contact Unit (<abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>) will help you if your child is under 18 and living in any of these countries:</p>\n\n<ul>\n  <li>Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic</li>\n  <li>Estonia, Finland, France, Germany, Greece, Hungary</li>\n  <li>Ireland, Italy, Latvia, Lithuania, Luxemburg, Malta</li>\n  <li>Netherlands, Poland, Portugal, Romania,</li>\n  <li>Slovakia, Slovenia, Spain, Sweden</li>\n</ul>\n\n<p>Your application will be handled under European Union law (sometimes called the ‘Revised Brussels II Regulation’).</p>\n\n<h3 id=\"documents-youll-need-to-provide\">Documents you’ll need to provide</h3>\n\n<p>You’ll need the following:</p>\n\n<ul>\n  <li>the original court order for contact</li>\n  <li>copies of any other court orders concerning the child</li>\n  <li>a completed <a href=\"/government/publications/form-c61-certificate-referred-to-in-article-411-of-council-regulation-ec-no-22012003-of-27-november-20031-concerning-judgments-on-rights-of-a\">Article 41(1) certificate</a> (filled in by court staff)</li>\n</ul>\n\n<h2 id=\"apply-through-icacu\">Apply through <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>\n</h2>\n\n<ol class=\"steps\">\n<li>\n<p>Fill in the ICACU <a href=\"/government/publications/international-child-abduction-and-contact-unit-application-form\">application form</a>.</p>\n</li>\n<li>\n<p>Send the application form, Article 41(1) certificate and supporting documents to ICACU - email them to <a href=\"mailto:icacu@ospt.gov.uk\">icacu@ospt.gov.uk</a> or post them.</p>\n</li>\n</ol>\n<p>There is no fee.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>It’s normally quicker to apply by email.</p>\n</div>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nInternational Child Abduction and Contact Unit (ICACU)  \n<br>Official Solicitor and Public Trustee  \n<br>Post Point 0.53  \n<br>102 Petty France  \n<br>London  \n<br>SW1H 9AJ\n<br>\n</p></div></div>\n\n<p>DX address: 141423 Bloomsbury 7</p>\n\n<h2 id=\"after-you-apply\">After you apply</h2>\n\n<p>When <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> get your application they’ll send it to the relevant organisation in the country your child is in. They’ll organise translations of your documents if necessary.</p>\n\n<p>You may need to provide more information to <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> or the court in the country your child is in - they’ll contact you if you do.</p>\n\n<p>It will take at least 6 weeks to get a decision. It may take much longer, depending on the circumstances.</p>\n\n<p><abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> cannot guarantee that your court order will be enforced.</p>\n\n<h3 id=\"contact-icacu\">Contact <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>\n</h3>\n\n<p>Call the enquiry number if you have a query about your application.</p>\n\n<div class=\"contact\">\n<p>General enquiries<br>\nTelephone: 0203 681 2756 <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<h2 id=\"apply-through-the-local-court\">Apply through the local court</h2>\n\n<p>Send your Article 41(1) certificate and supporting documents to the court in the relevant country. They’ll give you information on applying.</p>\n\n<p>Get legal advice from an <a href=\"/government/collections/list-of-lawyers\">English-speaking lawyer</a> in the relevant country.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-2",
+        "title": "Apply to enforce a court order issued on or after 1 March 2005"
+      },
+      {
+        "body": "<p>The International Child Abduction and Contact Unit (<abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>) can help if your child is:</p>\n\n<ul>\n  <li>under 16</li>\n  <li>living in an <a href=\"/eu-eea\">EU country</a> except Denmark</li>\n</ul>\n\n<h2 id=\"how-to-apply\">How to apply</h2>\n\n<ol class=\"steps\">\n<li>\n<p>Fill in the ICACU <a href=\"/government/publications/international-child-abduction-and-contact-unit-application-form\">application form</a>.</p>\n</li>\n<li>\n<p>Send the form and the court order to ICACU - email them to <a href=\"mailto:icacu@ospt.gov.uk\">icacu@ospt.gov.uk</a> or post them.</p>\n</li>\n</ol>\n<p>There is no fee.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>It’s normally quicker to apply by email.</p>\n</div>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nInternational Child Abduction and Contact Unit (ICACU)  \n<br>Official Solicitor and Public Trustee  \n<br>Post Point 0.53  \n<br>102 Petty France  \n<br>London  \n<br>SW1H 9AJ\n<br>\n</p></div></div>\n\n<p>DX address: 141423 Bloomsbury 7</p>\n\n<h2 id=\"after-you-apply\">After you apply</h2>\n\n<p>When <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> get your application they’ll send it to the relevant organisation in the country your child is in. They’ll organise translations of your documents if necessary.</p>\n\n<p>You may need to provide more information to <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> or the court in the country your child is in - they’ll contact you if you do.</p>\n\n<p>It will take at least 6 weeks to get a decision. It may take much longer, depending on the circumstances.</p>\n\n<p><abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> cannot guarantee that your court order will be enforced.</p>\n\n<h2 id=\"contact-icacu\">Contact <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>\n</h2>\n\n<p>Call the enquiry number if you have a query about your application.</p>\n\n<div class=\"contact\">\n<p>General enquiries<br>\nTelephone: 0203 681 2756 <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-3",
+        "title": "Apply to enforce a court order issued before 1 March 2005 "
+      },
+      {
+        "body": "<p>Apply to the International Child Abduction and Contact Unit (<abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>) if your child is:</p>\n\n<ul>\n  <li>under 16</li>\n  <li>living in Albania, Andorra, Armenia, Denmark, Georgia, Iceland, Montenegro, North Macedonia, Norway, Russia, Serbia, Switzerland, Turkey or Ukraine</li>\n</ul>\n\n<h2 id=\"documents-youll-need-to-provide\">Documents you’ll need to provide</h2>\n\n<p>Provide the following if you have them:</p>\n\n<ul>\n  <li>photographs of your child and a copy of their birth certificate</li>\n  <li>photographs of the person who has taken the child</li>\n  <li>a copy of your marriage certificate or divorce decree if you have one</li>\n  <li>copies of any court orders concerning the child</li>\n</ul>\n\n<h2 id=\"how-to-apply\">How to apply</h2>\n\n<ol class=\"steps\">\n<li>\n<p>Fill in the ICACU <a href=\"/government/publications/international-child-abduction-and-contact-unit-application-form\">application form</a>.</p>\n</li>\n<li>\n<p>Send the forms and supporting documents to ICACU - email them to <a href=\"mailto:icacu@ospt.gov.uk\">icacu@ospt.gov.uk</a> or post them.</p>\n</li>\n</ol>\n<p>There is no fee.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>It’s normally quicker to apply by email.</p>\n</div>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nInternational Child Abduction and Contact Unit (ICACU)  \n<br>Official Solicitor and Public Trustee  \n<br>Post Point 0.53  \n<br>102 Petty France  \n<br>London  \n<br>SW1H 9AJ\n<br>\n</p></div></div>\n\n<p>DX address: 141423 Bloomsbury 7</p>\n\n<h2 id=\"after-you-apply\">After you apply</h2>\n\n<p>When <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> get your application they’ll send it to the relevant organisation in the country your child is in. They’ll organise translations of your documents if necessary.</p>\n\n<p>You may need to provide more information to <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> or the court in the country your child is in - they’ll contact you if you do.</p>\n\n<p>It will take at least 6 weeks to get a decision. It may take much longer, depending on the circumstances.</p>\n\n<p><abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> cannot guarantee that your child will be returned or that you’ll get contact.</p>\n\n<h2 id=\"contact-icacu\">Contact <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>\n</h2>\n\n<p>Call the enquiry number if you have a query about your application.</p>\n\n<div class=\"contact\">\n<p>General enquiries<br>\nTelephone: 0203 681 2756 <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-4",
+        "title": "Apply to get a child returned or arrange contact"
+      },
+      {
+        "body": "<p>You can apply to the International Child Abduction and Contact Unit (<abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>) if your child is:</p>\n\n<ul>\n  <li>under 16</li>\n  <li>in Albania, Andorra, Armenia, Bosnia-Herzegovina, Denmark, Georgia, Iceland, Luxembourg, Moldova, Monaco, Montenegro, North Macedonia, Norway, San Marino, Serbia, Switzerland, Turkey or Ukraine</li>\n</ul>\n\n<p>You can also apply to the <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> if the court order was made on or after 1 November 2012 and your child is:</p>\n\n<ul>\n  <li>16 or 17</li>\n  <li>in Albania, Denmark, Georgia, Luxembourg, Monaco, Montenegro, Norway, Russia, Switzerland, Turkey or Ukraine</li>\n</ul>\n\n<p>If you are not eligible to apply to <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>, contact the court in the relevant country. Get help and advice from an <a href=\"/government/collections/list-of-lawyers\">English-speaking lawyer</a> in the relevant country.</p>\n\n<h2 id=\"how-to-apply\">How to apply</h2>\n\n<ol class=\"steps\">\n<li>\n<p>Fill in the ICACU <a href=\"/government/publications/international-child-abduction-and-contact-unit-application-form\">application form</a>.</p>\n</li>\n<li>\n<p>Send the forms and supporting documents to ICACU - email them to <a href=\"mailto:icacu@ospt.gov.uk\">icacu@ospt.gov.uk</a> or post them.</p>\n</li>\n</ol>\n<p>There is no fee.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>It’s normally quicker to apply by email.</p>\n</div>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nInternational Child Abduction and Contact Unit (ICACU)  \n<br>Official Solicitor and Public Trustee  \n<br>Post Point 0.53  \n<br>102 Petty France  \n<br>London  \n<br>SW1H 9AJ\n<br>\n</p></div></div>\n\n<p>DX address: 141423 Bloomsbury 7</p>\n\n<h2 id=\"after-you-apply\">After you apply</h2>\n\n<p>When <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> get your application they’ll send it to the relevant organisation in the country your child is in. They’ll organise translations of your documents if necessary.</p>\n\n<p>You may need to provide more information to <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> or the court in the country your child is in - they’ll contact you if you do.</p>\n\n<p>It will take at least 6 weeks to get a decision. It may take much longer, depending on the circumstances.</p>\n\n<p><abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> cannot guarantee that your court order will be enforced.</p>\n\n<h2 id=\"contact-icacu\">Contact <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>\n</h2>\n\n<p>Call the enquiry number if you have a query about your application.</p>\n\n<div class=\"contact\">\n<p>General enquiries<br>\nTelephone: 0203 681 2756 <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-6",
+        "title": "Apply to enforce an existing court order"
+      },
+      {
+        "body": "<p>The International Child Abduction and Contact Unit (<abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>) can help if your child is under 16.</p>\n\n<p>Your application will be handled under the 1980 Hague Convention.</p>\n\n<h2 id=\"documents-youll-need-to-provide\">Documents you’ll need to provide</h2>\n\n<p>Provide the following if you have them:</p>\n\n<ul>\n  <li>photographs of your child and a copy of their birth certificate</li>\n  <li>photographs of the person who has taken the child</li>\n  <li>a copy of your marriage certificate or divorce decree if you have one</li>\n  <li>copies of any court orders concerning the child</li>\n</ul>\n\n<h2 id=\"how-to-apply\">How to apply</h2>\n\n<ol class=\"steps\">\n<li>\n<p>Fill in the ICACU <a href=\"/government/publications/international-child-abduction-and-contact-unit-application-form\">application form</a>.</p>\n</li>\n<li>\n<p>Send the forms and supporting documents to ICACU - you can scan and email them to <a href=\"mailto:icacu@ospt.gov.uk\">icacu@ospt.gov.uk</a> or post them.</p>\n</li>\n</ol>\n<p>There is no fee.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>It’s normally quicker to apply by email.</p>\n</div>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nInternational Child Abduction and Contact Unit (ICACU)  \n<br>Official Solicitor and Public Trustee  \n<br>Post Point 0.53  \n<br>102 Petty France  \n<br>London  \n<br>SW1H 9AJ\n<br>\n</p></div></div>\n\n<p>DX address: 141423 Bloomsbury 7</p>\n\n<h2 id=\"after-you-apply\">After you apply</h2>\n\n<p>When <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> get your application they’ll send it to the relevant organisation in the country your child is in. They’ll organise translations of your documents if necessary.</p>\n\n<p>You may need to provide more information to <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> or the court in the country your child is in - they’ll contact you if you do.</p>\n\n<p>It will take at least 6 weeks to get a decision. It may take much longer, depending on the circumstances.</p>\n\n<p><abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> cannot guarantee that your child will be returned or that you’ll get contact.</p>\n\n<h2 id=\"contact-icacu\">Contact <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>\n</h2>\n\n<p>Call the enquiry number if you have a query about your application.</p>\n\n<div class=\"contact\">\n<p>General enquiries<br>\nTelephone; 0203 681 2756 <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-7",
+        "title": "Apply to get a child returned or arrange contact"
+      },
+      {
+        "body": "<p>The International Child Abduction and Contact Unit (<abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>) can help only if both of the following apply:</p>\n\n<ul>\n  <li>your child is in Australia, Ecuador or Uruguay</li>\n  <li>you have a court order for contact made on or after 1 November 2012</li>\n</ul>\n\n<p>You cannot get your court order enforced unless you meet both these requirements.</p>\n\n<p>In all other circumstances, you’ll need to apply to the court in the relevant country. Get help and advice from an <a href=\"/government/collections/list-of-lawyers\">English-speaking lawyer</a> in the relevant country</p>\n\n<h3 id=\"how-to-apply\">How to apply</h3>\n\n<ol class=\"steps\">\n<li>\n<p>Fill in the ICACU <a href=\"/government/publications/international-child-abduction-and-contact-unit-application-form\">application form</a>.</p>\n</li>\n<li>\n<p>Send it with your original court order to ICACU - by email to <a href=\"mailto:icacu@ospt.gov.uk\">icacu@ospt.gov.uk</a> or by post.</p>\n</li>\n</ol>\n<p>There is no fee.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>It’s normally quicker to apply by email.</p>\n</div>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nInternational Child Abduction and Contact Unit (ICACU)  \n<br>Official Solicitor and Public Trustee  \n<br>Post Point 0.53  \n<br>102 Petty France  \n<br>London  \n<br>SW1H 9AJ\n<br>\n</p></div></div>\n\n<p>DX address: 141423 Bloomsbury 7</p>\n\n<h3 id=\"after-you-apply\">After you apply</h3>\n\n<p>When <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> get your application they’ll send it to the relevant organisation in the country your child is in. They’ll organise translations of your documents if necessary.</p>\n\n<p>You may need to provide more information to <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> or the court in the country your child is in - they’ll contact you if you do.</p>\n\n<p>It will take at least 6 weeks to get a decision. It may take much longer, depending on the circumstances.</p>\n\n<p><abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> cannot guarantee that your court order will be enforced.</p>\n\n<h2 id=\"contact-icacu\">Contact <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>\n</h2>\n\n<p>Call the enquiry number if you have a query about your application.</p>\n\n<div class=\"contact\">\n<p>General enquiries<br>\nTelephone: 0203 681 2756 <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-8",
+        "title": "Apply to enforce an existing court order"
+      },
+      {
+        "body": "<p>When trying to get a child returned, you can:</p>\n\n<ul>\n  <li>arrange mediation to help you try to reach an agreement with the other parent - Reunite International Child Abduction Centre have a <a rel=\"external\" href=\"https://www.reunite.org/mediation-overview/\">mediation service</a>\n</li>\n  <li>check if there’s <a href=\"https://www.gov.uk/government/collections/child-abduction\">information about child abduction laws in the country your child has been taken to</a>\n</li>\n  <li>get legal advice from a family <a href=\"https://www.gov.uk/guidance/child-abduction-accredited-solicitors-referral-list\">lawyer in the UK</a> approved to deal with family matters</li>\n  <li>get legal advice from a <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?serviceType=lawyers\">lawyer in the country your child has been taken to</a>\n</li>\n  <li>start legal proceedings in the courts abroad to have your UK court order recognised, or to get a new court order under the laws of that country - a <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?serviceType=lawyers\">lawyer in the country your child has been taken to</a> can advise you on your options</li>\n  <li>contact the International Child Abduction and Contact Unit or the Foreign, Commonwealth and Development Office, depending on where your child is</li>\n</ul>\n\n<h2 id=\"if-your-child-is-in-armenia-dominican-republic-lesotho-or-morocco\">If your child is in Armenia, Dominican Republic, Lesotho or Morocco</h2>\n\n<p>Contact the International Child Abduction and Contact Unit (<abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>).</p>\n\n<div class=\"contact\">\n<p>General enquiries<br>\nTelephone: 0203 681 2756 <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nInternational Child Abduction and Contact Unit (ICACU)  \n<br>Official Solicitor and Public Trustee  \n<br>Post Point 0.53  \n<br>102 Petty France  \n<br>London  \n<br>SW1H 9AJ\n<br>\n</p></div></div>\n\n<p>DX address: 141423 Bloomsbury 7</p>\n\n<h2 id=\"if-your-child-is-in-another-country-outside-europe\">If your child is in another country outside Europe</h2>\n\n<p>You can contact the Foreign, Commonwealth and Development Office (<abbr title=\"Foreign, Commonwealth and Development Office\">FCDO</abbr>).</p>\n\n<div class=\"contact\">\n<p>FCDO Consular Division  <br>\nTelephone: 0207 008 5000<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<p><abbr title=\"Foreign, Commonwealth and Development Office\">FCDO</abbr> may be able to:</p>\n\n<ul>\n  <li>give advice and help you contact the relevant authorities abroad if you have concerns about your child’s welfare</li>\n  <li>contact the authorities abroad to express interest in a case and ask about progress, where appropriate</li>\n</ul>\n\n<p>The <abbr title=\"Foreign, Commonwealth and Development Office\">FCDO</abbr> cannot find British national children overseas or guarantee the return of your child, even if a UK court orders it.</p>\n\n<h2 id=\"information-you-might-need\">Information you might need</h2>\n\n<p>When contacting the authorities about the abduction, you might need the following:</p>\n\n<ul>\n  <li>your child’s name, age and passport details if you have them</li>\n  <li>details of the person who has abducted your child and their relatives</li>\n  <li>information about where your child is, when they left the UK and how they travelled</li>\n  <li>details of any court orders about your child, such as a Child Arrangements Order, a Prohibited Steps Order or a Wardship Order</li>\n</ul>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-9",
+        "title": "Apply to get a child returned"
+      },
+      {
+        "body": "<p>You must apply to the court in the country where your child is living.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Get help and advice from an <a href=\"/government/collections/list-of-lawyers\">English-speaking lawyer</a> in the relevant country.</p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-10",
+        "title": "Apply for a court order so you can ask for contact"
+      },
+      {
+        "body": "<p>Report your child as missing to the police or <a rel=\"external\" href=\"http://courttribunalfinder.service.gov.uk\">contact your local court</a> to apply for an order to help locate your child.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-12",
+        "title": "You don't know which country your child is in"
+      },
+      {
+        "body": "<p>The International Child Abduction and Contact Unit (<abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>) can help only if both of the following apply:</p>\n\n<ul>\n  <li>your child is in Armenia, Dominican Republic, Lesotho or Morocco</li>\n  <li>you have a court order for contact made on or after 1 November 2012</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You cannot get your court order enforced unless you meet both these requirements.</p>\n</div>\n\n<p>In all other circumstances, you’ll need to apply to the court in the relevant country. Get legal advice from an <a href=\"/government/collections/list-of-lawyers\">English-speaking lawyer</a> in the relevant country.</p>\n\n<h2 id=\"how-to-apply\">How to apply</h2>\n\n<ol class=\"steps\">\n<li>\n<p>Fill in the International Child Abduction and Contact Unit (ICACU) <a href=\"/government/publications/international-child-abduction-and-contact-unit-application-form\">application form</a>.</p>\n</li>\n<li>\n<p>Send it with your original court order to ICACU - by email to <a href=\"mailto:icacu@ospt.gov.uk\">icacu@ospt.gov.uk</a> or by post.</p>\n</li>\n</ol>\n<p>There is no fee.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>It’s normally quicker to apply by email.</p>\n</div>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nInternational Child Abduction and Contact Unit (ICACU)  \n<br>Official Solicitor and Public Trustee  \n<br>Post Point 0.53  \n<br>102 Petty France  \n<br>London  \n<br>SW1H 9AJ\n<br>\n</p></div></div>\n\n<p>DX address: 141423 Bloomsbury 7</p>\n\n<h2 id=\"after-you-apply\">After you apply</h2>\n\n<p>When <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> get your application they’ll send it to the relevant organisation in the country your child is in. They’ll organise translations of your documents if necessary.</p>\n\n<p>You may need to provide more information to <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> or the court in the country your child is in - they’ll contact you if you do.</p>\n\n<p>It will take at least 6 weeks to get a decision. It may take much longer, depending on the circumstances.</p>\n\n<p><abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr> cannot guarantee that your court order will be enforced.</p>\n\n<h2 id=\"contact-icacu\">Contact <abbr title=\"International Child Abduction and Contact Unit\">ICACU</abbr>\n</h2>\n\n<p>Call the enquiry number if you have a query about your application.</p>\n\n<div class=\"contact\">\n<p>General enquiries<br>\nTelephone: 0203 681 2756 <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-13",
+        "title": "Apply to enforce an existing court order"
+      }
+    ],
+    "start_button_text": "Start now"
+  },
+  "document_type": "simple_smart_answer",
+  "first_published_at": "2014-12-05T12:04:05Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/return-or-contact-abducted-child",
+        "api_url": "https://www.gov.uk/api/content/return-or-contact-abducted-child",
+        "base_path": "/return-or-contact-abducted-child",
+        "content_id": "c0f2b667-1b8e-4a5d-bf94-28fc22e78a08",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-02-15T17:20:00Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Find help to get your child back from abroad or arrange contact",
+        "web_url": "https://www.gov.uk/return-or-contact-abducted-child",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/childcare-parenting/divorce-separation-legal",
+        "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/divorce-separation-legal",
+        "base_path": "/browse/childcare-parenting/divorce-separation-legal",
+        "content_id": "0d29abb4-efb3-4fd7-b798-f707b03a1e6a",
+        "description": "Child maintenance and disagreements about parentage",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:35Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Divorce, separation and legal issues",
+        "web_url": "https://www.gov.uk/browse/childcare-parenting/divorce-separation-legal",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/births-deaths-marriages/child-adoption",
+        "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/child-adoption",
+        "base_path": "/browse/births-deaths-marriages/child-adoption",
+        "content_id": "932a86f4-4916-4d9f-99cb-dfd34d7ee5d1",
+        "description": "Legal rights, birth certificates, parental rights and child maintenance",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:48Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Having a child, parenting and adoption",
+        "web_url": "https://www.gov.uk/browse/births-deaths-marriages/child-adoption",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/looking-after-children-divorce",
+        "api_url": "https://www.gov.uk/api/content/looking-after-children-divorce",
+        "base_path": "/looking-after-children-divorce",
+        "content_id": "6b18888e-1bd2-4aa5-beac-08adb57f67d8",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/marriage-divorce",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/marriage-divorce",
+              "base_path": "/browse/births-deaths-marriages/marriage-divorce",
+              "content_id": "a1c39054-4fd5-44e9-8d1d-0c7acd57a6a4",
+              "description": "Includes getting married abroad, decree absolutes and looking after children",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:23Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Marriage, civil partnership and divorce",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/marriage-divorce",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/childcare-parenting/divorce-separation-legal",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/divorce-separation-legal",
+              "base_path": "/browse/childcare-parenting/divorce-separation-legal",
+              "content_id": "0d29abb4-efb3-4fd7-b798-f707b03a1e6a",
+              "description": "Child maintenance and disagreements about parentage",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+                    "base_path": "/browse/childcare-parenting",
+                    "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+                    "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-07-15T11:40:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Childcare and parenting",
+                    "web_url": "https://www.gov.uk/browse/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:35Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Divorce, separation and legal issues",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting/divorce-separation-legal",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-18T11:12:41Z",
+        "schema_name": "guide",
+        "title": "Making child arrangements if you divorce or separate",
+        "web_url": "https://www.gov.uk/looking-after-children-divorce",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "OT328",
+        "api_path": "/api/content/government/organisations/official-solicitor-and-public-trustee",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/official-solicitor-and-public-trustee",
+        "base_path": "/government/organisations/official-solicitor-and-public-trustee",
+        "content_id": "0fac336b-7685-4b1b-bdf1-37e4e964bf67",
+        "details": {
+          "acronym": "OSPT",
+          "brand": "ministry-of-justice",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Official Solicitor <br/>and Public Trustee"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Official Solicitor and Public Trustee",
+        "web_url": "https://www.gov.uk/government/organisations/official-solicitor-and-public-trustee",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/childcare-parenting/divorce-separation-legal",
+        "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/divorce-separation-legal",
+        "base_path": "/browse/childcare-parenting/divorce-separation-legal",
+        "content_id": "0d29abb4-efb3-4fd7-b798-f707b03a1e6a",
+        "description": "Child maintenance and disagreements about parentage",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/childcare-parenting",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+              "base_path": "/browse/childcare-parenting",
+              "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+              "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-07-15T11:40:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Childcare and parenting",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:35Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Divorce, separation and legal issues",
+        "web_url": "https://www.gov.uk/browse/childcare-parenting/divorce-separation-legal",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/looking-after-children-divorce",
+        "api_url": "https://www.gov.uk/api/content/looking-after-children-divorce",
+        "base_path": "/looking-after-children-divorce",
+        "content_id": "6b18888e-1bd2-4aa5-beac-08adb57f67d8",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-18T11:12:41Z",
+        "schema_name": "guide",
+        "title": "Making child arrangements if you divorce or separate",
+        "web_url": "https://www.gov.uk/looking-after-children-divorce",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/international-child-abduction-and-contact-unit-application-form",
+        "api_url": "https://www.gov.uk/api/content/government/publications/international-child-abduction-and-contact-unit-application-form",
+        "base_path": "/government/publications/international-child-abduction-and-contact-unit-application-form",
+        "content_id": "5f61d32e-7631-11e4-a3cb-005056011aef",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-11-14T15:20:00Z",
+        "schema_name": "publication",
+        "title": "International Child Abduction and Contact Unit application form",
+        "web_url": "https://www.gov.uk/government/publications/international-child-abduction-and-contact-unit-application-form",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/parental-rights-responsibilities",
+        "api_url": "https://www.gov.uk/api/content/parental-rights-responsibilities",
+        "base_path": "/parental-rights-responsibilities",
+        "content_id": "c3589afe-ba37-4580-b0a2-1d6ed3c0277b",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-28T00:01:00Z",
+        "schema_name": "guide",
+        "title": "Parental rights and responsibilities",
+        "web_url": "https://www.gov.uk/parental-rights-responsibilities",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/stop-child-passport",
+        "api_url": "https://www.gov.uk/api/content/stop-child-passport",
+        "base_path": "/stop-child-passport",
+        "content_id": "2ac8a45e-592c-42d3-bf15-0ae94b831b90",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-09-29T15:29:08Z",
+        "schema_name": "answer",
+        "title": "Stop someone getting a passport",
+        "web_url": "https://www.gov.uk/stop-child-passport",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/childcare-parenting/child-abduction-cross-border-child-protection",
+        "api_url": "https://www.gov.uk/api/content/childcare-parenting/child-abduction-cross-border-child-protection",
+        "base_path": "/childcare-parenting/child-abduction-cross-border-child-protection",
+        "content_id": "d58bd4de-3fee-4953-9654-7551333eebf1",
+        "description": "International child protection cases. Guidance on working with foreign agencies, caring for trafficked children.",
+        "details": {
+          "internal_name": "Child abduction and cross-border child protection",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/childcare-parenting/safeguarding-child-protection",
+              "api_url": "https://www.gov.uk/api/content/childcare-parenting/safeguarding-child-protection",
+              "base_path": "/childcare-parenting/safeguarding-child-protection",
+              "content_id": "5af6180c-d5db-4cc1-a68e-7bd066908132",
+              "description": "Preventing and reporting abuse. Homeless children, abduction, serious case reviews, data collection.",
+              "details": {
+                "internal_name": "Safeguarding and child protection",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/childcare-parenting/safeguarding-and-social-care-for-children",
+                    "api_url": "https://www.gov.uk/api/content/childcare-parenting/safeguarding-and-social-care-for-children",
+                    "base_path": "/childcare-parenting/safeguarding-and-social-care-for-children",
+                    "content_id": "20eb4e84-98ee-404b-a4bd-fe8a36d5d71d",
+                    "description": "Child protection, social work, children in care and looked-after children, becoming a social care provider.",
+                    "details": {
+                      "internal_name": "Safeguarding and social care for children",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/childcare-parenting",
+                          "api_url": "https://www.gov.uk/api/content/childcare-parenting",
+                          "base_path": "/childcare-parenting",
+                          "content_id": "206b7f3a-49b5-476f-af0f-fd27e2a68473",
+                          "description": "Financial support, finding and providing childcare, pregnancy and birth, adoption and fostering, looked-after children, safeguarding.",
+                          "details": {
+                            "internal_name": "Parenting, childcare and childrens services",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2017-07-27T13:29:23Z",
+                          "schema_name": "taxon",
+                          "title": "Parenting, childcare and children's services ",
+                          "web_url": "https://www.gov.uk/childcare-parenting",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-07-27T13:38:52Z",
+                    "schema_name": "taxon",
+                    "title": "Safeguarding and social care for children",
+                    "web_url": "https://www.gov.uk/childcare-parenting/safeguarding-and-social-care-for-children",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-03-06T14:21:18Z",
+              "schema_name": "taxon",
+              "title": "Safeguarding and child protection",
+              "web_url": "https://www.gov.uk/childcare-parenting/safeguarding-child-protection",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2017-07-27T13:40:46Z",
+        "schema_name": "taxon",
+        "title": "Child abduction and cross-border child protection",
+        "web_url": "https://www.gov.uk/childcare-parenting/child-abduction-cross-border-child-protection",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/childcare-parenting/child-custody",
+        "api_url": "https://www.gov.uk/api/content/childcare-parenting/child-custody",
+        "base_path": "/childcare-parenting/child-custody",
+        "content_id": "9ed56732-8600-493e-8467-295233529718",
+        "description": "Arrange custody, abducted children, stop a child getting a passport.",
+        "details": {
+          "internal_name": "Child custody",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/childcare-parenting/divorce-separation-and-legal-issues",
+              "api_url": "https://www.gov.uk/api/content/childcare-parenting/divorce-separation-and-legal-issues",
+              "base_path": "/childcare-parenting/divorce-separation-and-legal-issues",
+              "content_id": "1423ec9f-d62c-40f7-b10e-a2bdf020d8b7",
+              "description": "Child maintenance, disagreements about parentage, child custody.",
+              "details": {
+                "internal_name": "Divorce, separation and legal issues",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/childcare-parenting",
+                    "base_path": "/childcare-parenting",
+                    "content_id": "206b7f3a-49b5-476f-af0f-fd27e2a68473",
+                    "description": "Financial support, finding and providing childcare, pregnancy and birth, adoption and fostering, looked-after children, safeguarding.",
+                    "details": {
+                      "internal_name": "Parenting, childcare and childrens services",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-07-27T13:29:23Z",
+                    "schema_name": "taxon",
+                    "title": "Parenting, childcare and children's services ",
+                    "web_url": "https://www.gov.uk/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2017-08-14T12:28:34Z",
+              "schema_name": "taxon",
+              "title": "Divorce, separation and legal issues",
+              "web_url": "https://www.gov.uk/childcare-parenting/divorce-separation-and-legal-issues",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2017-07-27T13:35:16Z",
+        "schema_name": "taxon",
+        "title": "Child custody",
+        "web_url": "https://www.gov.uk/childcare-parenting/child-custody",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/life-circumstances/child-adoption",
+        "api_url": "https://www.gov.uk/api/content/life-circumstances/child-adoption",
+        "base_path": "/life-circumstances/child-adoption",
+        "content_id": "0a018d28-e3a8-4db7-a593-c8a0bfb57319",
+        "details": {
+          "internal_name": "Having a child, parenting and adoption [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/life-circumstances",
+              "api_url": "https://www.gov.uk/api/content/life-circumstances",
+              "base_path": "/life-circumstances",
+              "content_id": "20086ead-41fc-49cf-8a62-d4e1126f41fc",
+              "description": "",
+              "details": {
+                "internal_name": "Life circumstances",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:33:11Z",
+              "schema_name": "taxon",
+              "title": "Life circumstances",
+              "web_url": "https://www.gov.uk/life-circumstances",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T08:43:12Z",
+        "schema_name": "taxon",
+        "title": "Having a child, parenting and adoption",
+        "web_url": "https://www.gov.uk/life-circumstances/child-adoption",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-02-15T17:20:00Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1706624816.304-10.13.22.91-45857",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "simple_smart_answer",
+  "title": "Find help to get your child back from abroad or arrange contact",
+  "updated_at": "2024-01-30T14:26:57Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,962 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-customs-declaration",
+  "content_id": "1f3d9392-aa05-4fab-856f-aec960b599f0",
+  "description": "Find out if you need to declare goods you bring into or take out of the UK and how to make the declarations.",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Whether you need to declare goods to UK customs depends where in the UK they start or end their journey.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/guirio-tollau-datganiad\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<p>Check if you need to declare goods you move:</p>\n\n<ul>\n  <li>between Great Britain and Northern Ireland</li>\n  <li>to or from the EU</li>\n  <li>to or from any other countries</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If goods are travelling through Great Britain or Northern Ireland to and from other countries, <a href=\"/guidance/bring-goods-into-or-through-the-uk-using-union-and-common-transit\">check the common transit rules</a> to find out if you must declare them.</p>\n</div>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.tax.service.gov.uk/guidance/check-if-you-need-to-declare-goods-you-bring-into-or-take-out-of-the-UK/start",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2020-12-31T23:01:06Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-customs-declaration",
+        "api_url": "https://www.gov.uk/api/content/check-customs-declaration",
+        "base_path": "/check-customs-declaration",
+        "content_id": "1f3d9392-aa05-4fab-856f-aec960b599f0",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-01-04T09:57:55Z",
+        "schema_name": "transaction",
+        "title": "Check if you need to declare goods you bring into or take out of the UK",
+        "web_url": "https://www.gov.uk/check-customs-declaration",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/import-export-and-customs-for-businesses-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/import-export-and-customs-for-businesses-detailed-information",
+        "base_path": "/government/collections/import-export-and-customs-for-businesses-detailed-information",
+        "content_id": "19319409-c259-4550-9beb-08cb3716588f",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/check-customs-declaration",
+              "api_url": "https://www.gov.uk/api/content/check-customs-declaration",
+              "base_path": "/check-customs-declaration",
+              "content_id": "1f3d9392-aa05-4fab-856f-aec960b599f0",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-01-04T09:57:55Z",
+              "schema_name": "transaction",
+              "title": "Check if you need to declare goods you bring into or take out of the UK",
+              "web_url": "https://www.gov.uk/check-customs-declaration",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-12T13:20:58Z",
+        "schema_name": "document_collection",
+        "title": "Import, export and customs for businesses: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/import-export-and-customs-for-businesses-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/exports",
+        "api_url": "https://www.gov.uk/api/content/browse/business/exports",
+        "base_path": "/browse/business/exports",
+        "content_id": "2d9131f5-d1a8-4f0c-b087-53ea0adfd160",
+        "description": "Includes moving goods in the EU and commodity codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Exporting and doing business abroad",
+        "web_url": "https://www.gov.uk/browse/business/exports",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/business/imports",
+        "api_url": "https://www.gov.uk/api/content/browse/business/imports",
+        "base_path": "/browse/business/imports",
+        "content_id": "26df9466-7d33-4c1e-924f-eeafa7db96b4",
+        "description": "Includes moving goods in the EU and commodity codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Importing",
+        "web_url": "https://www.gov.uk/browse/business/imports",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "part_of_step_navs": [
+      {
+        "api_path": "/api/content/export-customs-declaration",
+        "api_url": "https://www.gov.uk/api/content/export-customs-declaration",
+        "base_path": "/export-customs-declaration",
+        "content_id": "5644f562-0af5-4d85-b112-9b0a12fd10f0",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "text": "Follow these steps to get your goods for export through UK customs if you’re managing the process yourself. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "Getting customs clearance can be complicated. You can hire a transporter or customs agent to make the export declaration and get your goods through UK customs.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/appoint-someone-to-deal-with-customs-on-your-behalf",
+                        "text": "Hire someone to deal with customs for you"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "Your business and goods must be ready to export before you can get customs clearance.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/export-goods",
+                        "text": "Find out about exporting goods from the UK"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/check-customs-declaration",
+                        "text": "Check if you need to make an export declaration"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check if you need to follow this process"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You need an EORI number that starts with GB to export goods from England, Wales or Scotland.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "If you move goods to or from Northern Ireland you may need one that starts with XI.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/eori",
+                        "text": "Get an EORI number"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "Depending on where you're moving goods, you need to be registered on the right systems and have compatible software to make declarations. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/check-customs-declaration",
+                        "text": "Check what systems and software you need to make declarations"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Set up your business for making export declarations"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You need to register on:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "http://edomero.defra.gov.uk/",
+                        "text": "eDomero if you export plants or plant products"
+                      },
+                      {
+                        "href": "https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login",
+                        "text": "SPIRE if you export controlled goods, like weapons"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Register to export plant products or controlled goods"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "There are processes that can make clearing customs quicker and easier to manage if you have to make customs declarations regularly.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/using-simplified-declarations-for-exports",
+                        "text": "Find out about using simplified declaration procedures"
+                      },
+                      {
+                        "href": "/guidance/what-you-need-to-move-goods-between-or-through-common-transit-countries-including-the-eu",
+                        "text": "Check if you can use Common Transit to move your goods more quickly"
+                      },
+                      {
+                        "href": "/guidance/authorised-economic-operator-certification",
+                        "text": "Find out about getting Authorised Economic Operator status"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check if you can make the customs process quicker"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/check-customs-declaration",
+                        "text": "Find out when and how to make an export declaration"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Declare your goods for export"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "The goods must be taken to the port or UK border location named in the export declaration. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "At the border, you or your transporter will need:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "text": "the ‘master reference number’ from the export declaration"
+                      },
+                      {
+                        "text": "the invoice"
+                      },
+                      {
+                        "text": "any export licences or certificates needed"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "text": "Customs staff might check the goods before allowing them to cross the UK border.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/sending-goods-to-the-eu-through-roll-on-roll-off-ports-or-the-channel-tunnel",
+                        "text": "Find out about customs procedures if you're taking goods out of the UK by road"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Get the goods across the UK border"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "The goods may be held up at customs, for example if:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "text": "you do not have the right licences for the goods or business"
+                      },
+                      {
+                        "text": "they did not pass inspection"
+                      },
+                      {
+                        "text": "they've been combined with a shipment that has been held up"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "text": "If this happens you will be told why.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/government/organisations/hm-revenue-customs/contact/national-clearance-hub",
+                        "text": "Contact the National Clearance Hub to get help"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Get the goods released if they're held up at the UK border"
+              }
+            ],
+            "title": "Get UK customs clearance when exporting goods: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/check-customs-declaration",
+              "api_url": "https://www.gov.uk/api/content/check-customs-declaration",
+              "base_path": "/check-customs-declaration",
+              "content_id": "1f3d9392-aa05-4fab-856f-aec960b599f0",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-01-04T09:57:55Z",
+              "schema_name": "transaction",
+              "title": "Check if you need to declare goods you bring into or take out of the UK",
+              "web_url": "https://www.gov.uk/check-customs-declaration",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-12-30T14:45:18Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Get UK customs clearance when exporting goods: step by step",
+        "web_url": "https://www.gov.uk/export-customs-declaration",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/import-customs-declaration",
+        "api_url": "https://www.gov.uk/api/content/import-customs-declaration",
+        "base_path": "/import-customs-declaration",
+        "content_id": "8a543f4b-afb7-4591-bbfc-2eec52ab96c2",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "text": "Follow these steps to get your goods for import through UK customs if you’re managing the process yourself.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "Getting customs clearance is complicated. You can hire a transporter or customs agent to make the import declaration and get your goods through UK customs.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/appoint-someone-to-deal-with-customs-on-your-behalf",
+                        "text": "Hire someone to deal with customs for you"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "Your business must be ready to import the goods before you can get customs clearance.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/import-goods-into-uk",
+                        "text": "Find out about importing goods into the UK"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/check-customs-declaration",
+                        "text": "Check if you need to make an import declaration"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check if you need to follow this process"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You need an EORI number that starts with GB to import goods into England, Wales or Scotland. You'll need a new one if you have an EORI that does not start with GB.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "If you move goods to or from Northern Ireland you may need one that starts with XI.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/eori",
+                        "text": "Get an EORI number"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "Depending on where you're moving goods, you need to be registered on the right systems and have compatible software to make declarations.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/check-customs-declaration",
+                        "text": "Check what systems and software you need to make declarations"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Set up your business for making import declarations"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "There are processes that can make clearing customs quicker and easier to manage if you have to make import declarations regularly.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/using-simplified-declarations-for-imports",
+                        "text": "Find out about using simplified declaration procedures"
+                      },
+                      {
+                        "href": "/guidance/authorised-economic-operator-certification",
+                        "text": "Check if Authorised Economic Operator status is right for you"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "If you're importing goods from the EU to England, Scotland or Wales (Great Britain) you might be able to delay making a declaration for up to 6 months.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/declaring-goods-brought-into-great-britain-from-the-eu-from-1-january-2021",
+                        "text": "Check if you can declare your goods later if you're importing goods from the EU"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "If you regularly import goods using Common Transit, you can apply to start movements of goods at your own premises.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/apply-to-be-an-authorised-consignor-or-consignee",
+                        "text": "Check if consignee status is right for your business"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check if you can make the customs process quicker"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You need to register as an importer if you import things like plant or animal products, high-risk food or feed, medicines, textiles, chemicals or firearms. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "Register to import:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/importing-plants-fruit-vegetables-or-plant-material-to-the-uk",
+                        "text": "fresh produce, plants or plant products "
+                      },
+                      {
+                        "href": "/guidance/moving-prohibited-plants-plant-pests-pathogens-and-soil",
+                        "text": "‘prohibited’ plants or plant products"
+                      },
+                      {
+                        "href": "/guidance/import-or-export-live-fish-and-shellfish",
+                        "text": "live fish or shellfish"
+                      },
+                      {
+                        "href": "/guidance/import-wood-wood-products-or-bark-from-non-eu-countries",
+                        "text": "wood or wood products"
+                      },
+                      {
+                        "href": "/guidance/import-a-human-medicine",
+                        "text": "human medicines"
+                      },
+                      {
+                        "href": "/guidance/apply-for-a-certificate-to-import-a-veterinary-medicine-into-the-uk",
+                        "text": "veterinary medicines"
+                      },
+                      {
+                        "href": "https://www.hse.gov.uk/reach/about.htm",
+                        "text": "chemicals"
+                      },
+                      {
+                        "href": "/guidance/import-controls",
+                        "text": "controlled goods"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "title": "Register to import goods with restrictions"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "There are special rules and you may need to get licences or certificates if you are importing any of the following:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products",
+                        "text": "animals and animal products"
+                      },
+                      {
+                        "href": "/government/collections/importing-and-exporting-plants-and-plant-products",
+                        "text": "plants and plant products"
+                      },
+                      {
+                        "href": "https://www.food.gov.uk/business-guidance/importing-high-risk-foods",
+                        "text": "high risk food"
+                      },
+                      {
+                        "href": "/guidance/apply-for-a-certificate-to-import-a-veterinary-medicine-into-the-uk",
+                        "text": "veterinary medicines"
+                      },
+                      {
+                        "href": "/guidance/import-a-human-medicine",
+                        "text": "human medicine"
+                      },
+                      {
+                        "href": "/guidance/controlled-drugs-import-and-export-licences",
+                        "text": "controlled drugs"
+                      },
+                      {
+                        "href": "https://www.hta.gov.uk/hta-guidance-coding-and-import-tissues-and-cells-human-application",
+                        "text": "tissues and cells for human application"
+                      },
+                      {
+                        "href": "/guidance/importing-and-exporting-waste",
+                        "text": "waste"
+                      },
+                      {
+                        "href": "/guidance/labelling-f-gas-equipment-you-produce-import-or-install",
+                        "text": "products containing F gas"
+                      },
+                      {
+                        "href": "/guidance/precursor-chemical-licensing",
+                        "text": "precursor chemicals"
+                      },
+                      {
+                        "href": "http://www.hse.gov.uk/pic/",
+                        "text": "hazardous chemicals"
+                      },
+                      {
+                        "href": "http://www.onr.org.uk/cnss/licensing.htm",
+                        "text": "nuclear material"
+                      },
+                      {
+                        "href": "/guidance/import-controls-on-offensive-weapons",
+                        "text": "guns, knives, swords and other weapons"
+                      },
+                      {
+                        "href": "/guidance/import-controls",
+                        "text": "weapons and goods that could be used for torture or capital punishment"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "title": "Check if you need a licence or certificate for your goods"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/labelling-and-marketing-standards-from-1-january-2021",
+                        "text": "Check the marking, labelling and marketing standards for food, plant seeds and manufactured goods"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Check the labelling, marking and marketing rules"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "If you import things like plant or animal products, you need to choose a place where the goods can be inspected. This needs to happen before they’re allowed through the UK border.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/government/publications/uk-border-inspection-posts-contact-details",
+                        "text": "Find an inspection point for animals and animal products"
+                      },
+                      {
+                        "href": "/government/publications/plant-imports-authorised-points-of-entry-to-the-uk",
+                        "text": "Find an inspection point for plants, plant products, seeds and wood"
+                      },
+                      {
+                        "href": "https://www.food.gov.uk/business-guidance/port-designations",
+                        "text": "Find an inspection point for high risk food and feed that is not of animal origin"
+                      },
+                      {
+                        "href": "https://ec.europa.eu/environment/cites/info_entry_points.htm",
+                        "text": "Find an inspection point for endangered species, or products made from endangered plants or animals"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You need to let the inspection point know when the goods are arriving. You might have to pay a fee for the inspection.",
+                    "type": "paragraph"
+                  }
+                ],
+                "title": "Arrange for the goods to be inspected"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/check-customs-declaration",
+                        "text": "Find out how to submit import declarations"
+                      },
+                      {
+                        "href": "/guidance/amend-or-cancel-a-customs-declaration-service-import-declaration",
+                        "text": "Find out how to change or cancel an import declaration"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "If you're importing goods from the EU to England, Scotland or Wales (Great Britain) you might be able to delay making a declaration for up to 6 months.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/declaring-goods-brought-into-great-britain-from-the-eu-from-1-january-2021",
+                        "text": "Check if you can declare your goods later to make the importing process quicker"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Submit and manage the import declaration"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "HMRC will tell you how much to pay after you submit the declaration. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/paying-vat-and-duties-on-imports",
+                        "text": "Find out how and when to pay VAT and duty"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Pay VAT and duty"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "The goods may be held at the border if, for example:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "text": "you have not paid the right amount of duty or VAT"
+                      },
+                      {
+                        "text": "you do not have the right import licences for the goods or business"
+                      },
+                      {
+                        "text": "they did not pass inspection"
+                      },
+                      {
+                        "text": "they've been combined with a shipment that has been held up"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "text": "If this happens you will be told why.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/government/organisations/hm-revenue-customs/contact/national-clearance-hub",
+                        "text": "Contact the National Clearance Hub to get help"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Get the goods released if they're held up at the border"
+              }
+            ],
+            "title": "Get UK customs clearance when importing goods into the UK: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/check-customs-declaration",
+              "api_url": "https://www.gov.uk/api/content/check-customs-declaration",
+              "base_path": "/check-customs-declaration",
+              "content_id": "1f3d9392-aa05-4fab-856f-aec960b599f0",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-01-04T09:57:55Z",
+              "schema_name": "transaction",
+              "title": "Check if you need to declare goods you bring into or take out of the UK",
+              "web_url": "https://www.gov.uk/check-customs-declaration",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-08-25T15:56:00Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Get UK customs clearance when importing goods into the UK: step by step",
+        "web_url": "https://www.gov.uk/import-customs-declaration",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/customs-declarations-duties-tariffs",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/customs-declarations-duties-tariffs",
+        "base_path": "/business-and-industry/customs-declarations-duties-tariffs",
+        "content_id": "5984199c-d85c-4ffc-b13a-c5f2482d2258",
+        "description": "",
+        "details": {
+          "internal_name": "Customs declarations, duties and tariffs (import and export)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/trade-and-investment",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/trade-and-investment",
+              "base_path": "/business-and-industry/trade-and-investment",
+              "content_id": "ed2ca1f7-5463-4eda-9324-b597e269e242",
+              "details": {
+                "internal_name": "Trade and investment",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                    "base_path": "/business-and-industry",
+                    "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Business and industry",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Business and industry",
+                    "web_url": "https://www.gov.uk/business-and-industry",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:05Z",
+              "schema_name": "taxon",
+              "title": "Trade and investment",
+              "web_url": "https://www.gov.uk/business-and-industry/trade-and-investment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-07T09:44:16Z",
+        "schema_name": "taxon",
+        "title": "Customs declarations, duties and tariffs (import and export)",
+        "web_url": "https://www.gov.uk/business-and-industry/customs-declarations-duties-tariffs",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2021-01-04T09:57:55Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "7507-1633946399.491-10.13.1.43-8148",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Check if you need to declare goods you bring into or take out of the UK",
+  "updated_at": "2024-02-12T14:19:30Z",
+  "withdrawn_notice": {
+  }
+}

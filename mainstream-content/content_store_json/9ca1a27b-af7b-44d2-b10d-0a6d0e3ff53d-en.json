@@ -1,0 +1,541 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/get-information-about-a-company",
+  "content_id": "9ca1a27b-af7b-44d2-b10d-0a6d0e3ff53d",
+  "description": "Get company information including registered address, previous company names, directors' details, accounts, annual returns and company reports, if it's been dissolved ",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>You can get some details about a company for free, including:</p>\n\n<ul>\n  <li>company information, for example registered address and date of incorporation</li>\n  <li>current and resigned officers</li>\n  <li>document images</li>\n  <li>mortgage charge data</li>\n  <li>previous company names</li>\n  <li>insolvency information</li>\n</ul>\n\n<p>You can also set up free email alerts to tell you when a company updates its details (for example, a change of director or address).</p>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://beta.companieshouse.gov.uk/",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2012-07-03T15:07:57Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/get-information-about-a-company",
+        "api_url": "https://www.gov.uk/api/content/get-information-about-a-company",
+        "base_path": "/get-information-about-a-company",
+        "content_id": "9ca1a27b-af7b-44d2-b10d-0a6d0e3ff53d",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-24T08:36:53Z",
+        "schema_name": "transaction",
+        "title": "Get information about a company",
+        "web_url": "https://www.gov.uk/get-information-about-a-company",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/funding-debt",
+        "api_url": "https://www.gov.uk/api/content/browse/business/funding-debt",
+        "base_path": "/browse/business/funding-debt",
+        "content_id": "8c5661a7-dc03-4d80-8f66-69798c2f4dde",
+        "description": "Includes bankruptcy, insolvency and recovering debt",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-18T16:02:29Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/business/funding-debt",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/business/setting-up",
+        "api_url": "https://www.gov.uk/api/content/browse/business/setting-up",
+        "base_path": "/browse/business/setting-up",
+        "content_id": "4c82bdf6-be57-467f-975d-36910fba2fa7",
+        "description": "Includes self-employment and starting a business",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:20Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Setting up",
+        "web_url": "https://www.gov.uk/browse/business/setting-up",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/look-up-a-company-s-details",
+        "api_url": "https://www.gov.uk/api/content/needs/look-up-a-company-s-details",
+        "base_path": "/needs/look-up-a-company-s-details",
+        "content_id": "895a9a55-9e6e-43a6-882e-31e26fde3dfc",
+        "details": {
+          "benefit": "I can decide whether or not to deal with them",
+          "goal": "look up a company's details",
+          "justifications": null,
+          "met_when": [
+            "knows what information Companies House offers",
+            "knows where this information can be found (which service)",
+            "knows how this information can be delivered (ie image, data, report)",
+            "knows if there is a fee for the transaction and how it can be paid (including subscription if applicable)",
+            "knows what they can do with the information",
+            "knows what the information means (brief description of form types)",
+            "knows which services require a subscription and where to find an an account application form",
+            "knows how to complain"
+          ],
+          "role": "member of the public"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a member of the public, I need to look up a company's details, so that I can decide whether or not to deal with them (102090)",
+        "web_url": "https://www.gov.uk/needs/look-up-a-company-s-details",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/needs/find-out-if-a-company-is-insolvent",
+        "api_url": "https://www.gov.uk/api/content/needs/find-out-if-a-company-is-insolvent",
+        "base_path": "/needs/find-out-if-a-company-is-insolvent",
+        "content_id": "8f7b5dd8-69c6-467f-b2ed-68a3f8da60a6",
+        "details": {
+          "benefit": "I know if I need to register as a creditor",
+          "goal": "find out if a company is insolvent",
+          "justifications": [
+            "It's something the government provides/does/pays for"
+          ],
+          "met_when": [
+            "knows to search Companies House, Gazette, Public Interest Unit register",
+            "understands the status of the company (eg what provisional liquidation means)",
+            "knows what to do if they are owed money by a company in provisional liquidation"
+          ],
+          "role": "citizen, business or organisation"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a citizen, business or organisation, I need to find out if a company is insolvent, so that I know if I need to register as a creditor (101136)",
+        "web_url": "https://www.gov.uk/needs/find-out-if-a-company-is-insolvent",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/needs/complain-about-a-limited-company-or-disqualified-director",
+        "api_url": "https://www.gov.uk/api/content/needs/complain-about-a-limited-company-or-disqualified-director",
+        "base_path": "/needs/complain-about-a-limited-company-or-disqualified-director",
+        "content_id": "62144534-ac0b-499e-b23d-6c9a3aacffc7",
+        "details": {
+          "benefit": "they don't get away with fraud or harm the public interest ",
+          "goal": "complain about a limited company or disqualified director",
+          "justifications": [
+            "It's something that people can do or it's something people need to know before they can do something that's regulated by/related to government"
+          ],
+          "met_when": [
+            "can report a suspect company online, by phone, email, post",
+            "knows what kind of fraud or other activity should be reported"
+          ],
+          "role": "citizen"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a citizen, I need to complain about a limited company or disqualified director, so that they don't get away with fraud or harm the public interest (100930)",
+        "web_url": "https://www.gov.uk/needs/complain-about-a-limited-company-or-disqualified-director",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/search-bankruptcy-insolvency-register",
+        "api_url": "https://www.gov.uk/api/content/search-bankruptcy-insolvency-register",
+        "base_path": "/search-bankruptcy-insolvency-register",
+        "content_id": "e7ddddd5-58b1-4f6c-b711-1d4c290239a0",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+              "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+              "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+              "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-10-05T14:07:55Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Court claims, debt and bankruptcy",
+              "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-19T13:54:06Z",
+        "schema_name": "answer",
+        "title": "Search the bankruptcy and insolvency register",
+        "web_url": "https://www.gov.uk/search-bankruptcy-insolvency-register",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/search-the-register-of-disqualified-company-directors",
+        "api_url": "https://www.gov.uk/api/content/search-the-register-of-disqualified-company-directors",
+        "base_path": "/search-the-register-of-disqualified-company-directors",
+        "content_id": "a0fbe158-404a-484d-a022-8f6f02bcc290",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/limited-company",
+              "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+              "base_path": "/browse/business/limited-company",
+              "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+              "description": "Includes registering, setting up, company accounts and tax returns",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:30Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Running a limited company",
+              "web_url": "https://www.gov.uk/browse/business/limited-company",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-11-14T18:37:12Z",
+        "schema_name": "answer",
+        "title": "Search for disqualified company directors",
+        "web_url": "https://www.gov.uk/search-the-register-of-disqualified-company-directors",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA26",
+        "api_path": "/api/content/government/organisations/companies-house",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/companies-house",
+        "base_path": "/government/organisations/companies-house",
+        "content_id": "c36bd301-d0c5-4492-86ad-ee7843b8383b",
+        "details": {
+          "acronym": "Companies House",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db3840f0b649cfaf7c43/s960_Companies_House_Building.GOV_lighter.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db38e5274a7908e35305/s300_Companies_House_Building.GOV_lighter.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Companies House"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Companies House",
+        "web_url": "https://www.gov.uk/government/organisations/companies-house",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/funding-debt",
+        "api_url": "https://www.gov.uk/api/content/browse/business/funding-debt",
+        "base_path": "/browse/business/funding-debt",
+        "content_id": "8c5661a7-dc03-4d80-8f66-69798c2f4dde",
+        "description": "Includes bankruptcy, insolvency and recovering debt",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-18T16:02:29Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/business/funding-debt",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/file-your-confirmation-statement-with-companies-house",
+        "api_url": "https://www.gov.uk/api/content/file-your-confirmation-statement-with-companies-house",
+        "base_path": "/file-your-confirmation-statement-with-companies-house",
+        "content_id": "2bedc7e2-3142-491a-9cb4-36c7eb235af5",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-12-18T16:56:42Z",
+        "schema_name": "transaction",
+        "title": "File your confirmation statement (annual return) with Companies House",
+        "web_url": "https://www.gov.uk/file-your-confirmation-statement-with-companies-house",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/file-changes-to-a-company-with-companies-house",
+        "api_url": "https://www.gov.uk/api/content/file-changes-to-a-company-with-companies-house",
+        "base_path": "/file-changes-to-a-company-with-companies-house",
+        "content_id": "5b103d54-38c9-4afd-a571-8d7f89e5919b",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-04T15:23:10Z",
+        "schema_name": "transaction",
+        "title": "Tell Companies House about changes to your limited company",
+        "web_url": "https://www.gov.uk/file-changes-to-a-company-with-companies-house",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/log-in-register-hmrc-online-services",
+        "api_url": "https://www.gov.uk/api/content/log-in-register-hmrc-online-services",
+        "base_path": "/log-in-register-hmrc-online-services",
+        "content_id": "632d1ae0-0340-4a23-87b0-595bb596e5f4",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-19T15:32:12Z",
+        "schema_name": "guide",
+        "title": "HMRC online services: sign in or set up an account",
+        "web_url": "https://www.gov.uk/log-in-register-hmrc-online-services",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/file-your-company-annual-accounts",
+        "api_url": "https://www.gov.uk/api/content/file-your-company-annual-accounts",
+        "base_path": "/file-your-company-annual-accounts",
+        "content_id": "59d272b2-eb94-4af8-9034-1e1ba9b37ff5",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-04-03T09:37:53Z",
+        "schema_name": "transaction",
+        "title": "File your company's annual accounts with Companies House",
+        "web_url": "https://www.gov.uk/file-your-company-annual-accounts",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/limited-company-formation",
+        "api_url": "https://www.gov.uk/api/content/limited-company-formation",
+        "base_path": "/limited-company-formation",
+        "content_id": "e302f576-db9c-4a7f-8693-52c9949fc670",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-24T17:28:49Z",
+        "schema_name": "guide",
+        "title": "Set up a private limited company",
+        "web_url": "https://www.gov.uk/limited-company-formation",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/business-debt-and-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/business-debt-and-bankruptcy",
+        "base_path": "/business-and-industry/business-debt-and-bankruptcy",
+        "content_id": "a1119685-ffef-4417-a3e4-116014ad4523",
+        "details": {
+          "internal_name": "Business debt and bankruptcy",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/running-a-business",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+              "base_path": "/business-and-industry/running-a-business",
+              "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+              "details": {
+                "internal_name": "Running a business",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                    "base_path": "/business-and-industry",
+                    "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Business and industry",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Business and industry",
+                    "web_url": "https://www.gov.uk/business-and-industry",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Running a business",
+              "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:02Z",
+        "schema_name": "taxon",
+        "title": "Business debt and bankruptcy",
+        "web_url": "https://www.gov.uk/business-and-industry/business-debt-and-bankruptcy",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-10-24T08:36:53Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1696328727.400-10.13.20.204-8037",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Get information about a company",
+  "updated_at": "2024-02-01T09:55:18Z",
+  "withdrawn_notice": {
+  }
+}

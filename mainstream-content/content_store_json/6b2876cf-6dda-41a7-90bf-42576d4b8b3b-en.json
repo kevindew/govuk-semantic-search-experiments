@@ -1,0 +1,481 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/intrastat",
+  "content_id": "6b2876cf-6dda-41a7-90bf-42576d4b8b3b",
+  "description": "Register or make Intrastat declarations to HMRC trade if you've traded in the EU above the thresholds",
+  "details": {
+    "external_related_links": [
+      {
+        "title": "Trade statistics from UK Trade Info",
+        "url": "https://www.uktradeinfo.com"
+      }
+    ],
+    "hide_chapter_navigation": false,
+    "parts": [
+      {
+        "body": "<p>You must <a rel=\"external\" href=\"https://www.uktradeinfo.com/intrastat/register/intrastat-registration/\">register for Intrastat</a> if, in any calendar year (from 1 January to 31 December), your business either:</p>\n\n<ul>\n  <li>receives more than £500,000 worth of goods from <a href=\"/eu-eea\">the <abbr title=\"European Union\">EU</abbr></a> into Northern Ireland</li>\n  <li>moves more than £250,000 worth of goods to the <abbr title=\"European Union\">EU</abbr> from Northern Ireland</li>\n</ul>\n\n<p>You do not need to use Intrastat for goods you move between Great Britain (England, Wales and Scotland) and the <abbr title=\"European Union\">EU</abbr>, or between Great Britain and Northern Ireland.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If your business is not VAT registered, you do not need to register for Intrastat.</p>\n</div>\n\n<p>When you’ve registered, you must make monthly Intrastat declarations.</p>\n\n<h2 id=\"what-counts-towards-the-250000-or-500000-total\">What counts towards the £250,000 or £500,000 total</h2>\n\n<p>Count the value of goods that are:</p>\n\n<ul>\n  <li>bought or sold</li>\n  <li>hired, loaned or leased</li>\n  <li>supplied as part of a contract for services</li>\n  <li>supplied free of charge</li>\n  <li>moved between Northern Ireland and the <abbr title=\"European Union\">EU</abbr> to be used in construction</li>\n  <li>transferred between two branches of your business</li>\n  <li>processed</li>\n  <li>moved from Northern Ireland to the <abbr title=\"European Union\">EU</abbr>, then lost or destroyed</li>\n</ul>\n\n<p>Do not count the value of:</p>\n\n<ul>\n  <li>services</li>\n  <li>goods you’re taking from Northern Ireland to the <abbr title=\"European Union\">EU</abbr> temporarily</li>\n</ul>\n\n",
+        "slug": "register",
+        "title": "When you must register"
+      },
+      {
+        "body": "<p>You must make an Intrastat declaration every month. You can either do this:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"https://secure.hmce.gov.uk/ecom/is2/static/is2.html\">online</a></li>\n  <li>using software - search online to find software suppliers</li>\n</ul>\n\n<p>You’ll need to enter a <a href=\"/trade-tariff\">commodity code</a> in your declaration for each item you trade. This is a numeric description that classifies your goods.</p>\n\n<p><a rel=\"external\" href=\"https://www.uktradeinfo.com/intrastat/help/\">Read guidance on how to complete your declaration.</a></p>\n\n<h2 id=\"if-you-need-to-change-your-declaration\">If you need to change your declaration</h2>\n\n<p><a rel=\"external\" href=\"https://www.uktradeinfo.com/intrastat/amendment/\">Fill in an amendment form</a> to correct the information on your declaration.</p>\n\n<h2 id=\"records-you-must-keep\">Records you must keep</h2>\n\n<p>You must keep the following for 6 years:</p>\n\n<ul>\n  <li>copies of your Intrastat declaration</li>\n  <li>documents you use to complete your Intrastat declarations</li>\n</ul>\n\n<p>You must let HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) see your records if they ask.</p>\n\n<h2 id=\"get-help-with-intrastat\">Get help with Intrastat</h2>\n\n<div class=\"contact\">\n<p><strong>Email Intrastat</strong><br>\n<a href=\"mailto:intrastatenquiries@hmrc.gov.uk\">intrastatenquiries@hmrc.gov.uk</a></p>\n</div>\n\n",
+        "slug": "make-intrastat-declaration",
+        "title": "Make an Intrastat declaration"
+      }
+    ]
+  },
+  "document_type": "guide",
+  "first_published_at": "2014-12-12T15:58:06Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/intrastat",
+        "api_url": "https://www.gov.uk/api/content/intrastat",
+        "base_path": "/intrastat",
+        "content_id": "6b2876cf-6dda-41a7-90bf-42576d4b8b3b",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-12T17:02:06Z",
+        "schema_name": "guide",
+        "title": "Trading goods with the EU: when to declare using Intrastat",
+        "web_url": "https://www.gov.uk/intrastat",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/import-export-and-customs-for-businesses-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/import-export-and-customs-for-businesses-detailed-information",
+        "base_path": "/government/collections/import-export-and-customs-for-businesses-detailed-information",
+        "content_id": "19319409-c259-4550-9beb-08cb3716588f",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/intrastat",
+              "api_url": "https://www.gov.uk/api/content/intrastat",
+              "base_path": "/intrastat",
+              "content_id": "6b2876cf-6dda-41a7-90bf-42576d4b8b3b",
+              "document_type": "guide",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2014-12-12T17:02:06Z",
+              "schema_name": "guide",
+              "title": "Trading goods with the EU: when to declare using Intrastat",
+              "web_url": "https://www.gov.uk/intrastat",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-12T13:20:58Z",
+        "schema_name": "document_collection",
+        "title": "Import, export and customs for businesses: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/import-export-and-customs-for-businesses-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/exports",
+        "api_url": "https://www.gov.uk/api/content/browse/business/exports",
+        "base_path": "/browse/business/exports",
+        "content_id": "2d9131f5-d1a8-4f0c-b087-53ea0adfd160",
+        "description": "Includes moving goods in the EU and commodity codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Exporting and doing business abroad",
+        "web_url": "https://www.gov.uk/browse/business/exports",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/business/imports",
+        "api_url": "https://www.gov.uk/api/content/browse/business/imports",
+        "base_path": "/browse/business/imports",
+        "content_id": "26df9466-7d33-4c1e-924f-eeafa7db96b4",
+        "description": "Includes moving goods in the EU and commodity codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Importing",
+        "web_url": "https://www.gov.uk/browse/business/imports",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/exports",
+        "api_url": "https://www.gov.uk/api/content/browse/business/exports",
+        "base_path": "/browse/business/exports",
+        "content_id": "2d9131f5-d1a8-4f0c-b087-53ea0adfd160",
+        "description": "Includes moving goods in the EU and commodity codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Exporting and doing business abroad",
+        "web_url": "https://www.gov.uk/browse/business/exports",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/trade-tariff",
+        "api_url": "https://www.gov.uk/api/content/trade-tariff",
+        "base_path": "/trade-tariff",
+        "content_id": "1118c97c-7d52-40f7-b283-6c5090ec6721",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-05-11T15:17:45Z",
+        "schema_name": "transaction",
+        "title": " Trade Tariff: look up commodity codes, duty and VAT rates",
+        "web_url": "https://www.gov.uk/trade-tariff",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/intrastat-is2-service-availability-and-issues",
+        "api_url": "https://www.gov.uk/api/content/government/publications/intrastat-is2-service-availability-and-issues",
+        "base_path": "/government/publications/intrastat-is2-service-availability-and-issues",
+        "content_id": "81448b43-f5d6-4c69-9881-58d969b0caa6",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-01-30T10:58:38Z",
+        "schema_name": "publication",
+        "title": "Intrastat: service availability and issues",
+        "web_url": "https://www.gov.uk/government/publications/intrastat-is2-service-availability-and-issues",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business/business-imports-commodity-codes-and-reporting",
+        "api_url": "https://www.gov.uk/api/content/business/business-imports-commodity-codes-and-reporting",
+        "base_path": "/business/business-imports-commodity-codes-and-reporting",
+        "content_id": "9bedcc51-0f02-4310-ad19-fa54338912e1",
+        "details": {
+          "internal_name": "Commodity codes and reporting [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/importing",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/importing",
+              "base_path": "/business-and-industry/importing",
+              "content_id": "d74faafc-781d-4087-8e0c-be4216180059",
+              "details": {
+                "internal_name": "Importing [M]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry/trade-and-investment",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry/trade-and-investment",
+                    "base_path": "/business-and-industry/trade-and-investment",
+                    "content_id": "ed2ca1f7-5463-4eda-9324-b597e269e242",
+                    "details": {
+                      "internal_name": "Trade and investment",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/business-and-industry",
+                          "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                          "base_path": "/business-and-industry",
+                          "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Business and industry",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-03T15:41:02Z",
+                          "schema_name": "taxon",
+                          "title": "Business and industry",
+                          "web_url": "https://www.gov.uk/business-and-industry",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:05Z",
+                    "schema_name": "taxon",
+                    "title": "Trade and investment",
+                    "web_url": "https://www.gov.uk/business-and-industry/trade-and-investment",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:06Z",
+              "schema_name": "taxon",
+              "title": "Importing",
+              "web_url": "https://www.gov.uk/business-and-industry/importing",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:06Z",
+        "schema_name": "taxon",
+        "title": "Commodity codes and reporting",
+        "web_url": "https://www.gov.uk/business/business-imports-commodity-codes-and-reporting",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/business/business-exports-commodity-codes-and-reporting",
+        "api_url": "https://www.gov.uk/api/content/business/business-exports-commodity-codes-and-reporting",
+        "base_path": "/business/business-exports-commodity-codes-and-reporting",
+        "content_id": "1da20ae5-526d-4313-b93d-fed4491f8ed8",
+        "details": {
+          "internal_name": "Commodity codes and reporting [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/customs-declarations-duties-tariffs",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/customs-declarations-duties-tariffs",
+              "base_path": "/business-and-industry/customs-declarations-duties-tariffs",
+              "content_id": "5984199c-d85c-4ffc-b13a-c5f2482d2258",
+              "description": "",
+              "details": {
+                "internal_name": "Customs declarations, duties and tariffs (import and export)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry/trade-and-investment",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry/trade-and-investment",
+                    "base_path": "/business-and-industry/trade-and-investment",
+                    "content_id": "ed2ca1f7-5463-4eda-9324-b597e269e242",
+                    "details": {
+                      "internal_name": "Trade and investment",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/business-and-industry",
+                          "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                          "base_path": "/business-and-industry",
+                          "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Business and industry",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-03T15:41:02Z",
+                          "schema_name": "taxon",
+                          "title": "Business and industry",
+                          "web_url": "https://www.gov.uk/business-and-industry",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:05Z",
+                    "schema_name": "taxon",
+                    "title": "Trade and investment",
+                    "web_url": "https://www.gov.uk/business-and-industry/trade-and-investment",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-07T09:44:16Z",
+              "schema_name": "taxon",
+              "title": "Customs declarations, duties and tariffs (import and export)",
+              "web_url": "https://www.gov.uk/business-and-industry/customs-declarations-duties-tariffs",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:05Z",
+        "schema_name": "taxon",
+        "title": "Commodity codes and reporting",
+        "web_url": "https://www.gov.uk/business/business-exports-commodity-codes-and-reporting",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-12-12T17:02:06Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "22516-1639072073.605-10.13.2.197-10445",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "guide",
+  "title": "Trading goods with the EU: when to declare using Intrastat",
+  "updated_at": "2024-02-12T14:20:17Z",
+  "withdrawn_notice": {
+  }
+}

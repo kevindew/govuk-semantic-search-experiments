@@ -1,0 +1,521 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/check-mot-history",
+  "content_id": "1dcf44b2-443a-401e-a668-a6ab0b1397e6",
+  "description": "",
+  "details": {
+    "external_related_links": [
+      {
+        "title": "Get MOT reminders",
+        "url": "https://www.gov.uk/mot-reminder"
+      }
+    ],
+    "promotion": {
+      "category": "mot_reminder",
+      "opt_in_url": "",
+      "opt_out_url": "",
+      "url": "https://www.gov.uk/mot-reminder"
+    }
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2015-11-03T13:14:08Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/check-mot-history",
+        "api_url": "https://www.gov.uk/api/content/done/check-mot-history",
+        "base_path": "/done/check-mot-history",
+        "content_id": "1dcf44b2-443a-401e-a668-a6ab0b1397e6",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-02-19T17:47:27Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Check the MOT history of a vehicle",
+        "web_url": "https://www.gov.uk/done/check-mot-history",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/check-the-mot-history-of-my-vehicle",
+        "api_url": "https://www.gov.uk/api/content/needs/check-the-mot-history-of-my-vehicle",
+        "base_path": "/needs/check-the-mot-history-of-my-vehicle",
+        "content_id": "43a78e58-2c6b-4931-a35b-4ee715e34a87",
+        "details": {
+          "benefit": "I can see a history of full MOT test details and mileage at the time of each MOT test.",
+          "goal": "check the MOT history of my vehicle",
+          "justifications": [
+            "It's something only government does",
+            "There is clear demand for it from users"
+          ],
+          "met_when": null,
+          "role": "vehicle owner"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a vehicle owner, I need to check the MOT history of my vehicle, so that I can see a history of full MOT test details and mileage at the time of each MOT test. (100307)",
+        "web_url": "https://www.gov.uk/needs/check-the-mot-history-of-my-vehicle",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA570",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-standards-agency",
+        "content_id": "d39237a5-678b-4bb5-a372-eb2cb036933d",
+        "details": {
+          "acronym": "DVSA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Standards<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Standards Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+        "withdrawn": false
+      }
+    ],
+    "part_of_step_navs": [
+      {
+        "api_path": "/api/content/buy-a-vehicle",
+        "api_url": "https://www.gov.uk/api/content/buy-a-vehicle",
+        "base_path": "/buy-a-vehicle",
+        "content_id": "58fad183-27f5-4dd9-b51e-696c992373d7",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "text": "You'll need the vehicle's registration number, make, model and MOT test number. You also need to see the V5C vehicle registration certificate (log book). ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/get-vehicle-information-from-dvla",
+                        "text": "Check the details you've been given match DVLA's information"
+                      },
+                      {
+                        "href": "/check-mot-history",
+                        "text": "Check the vehicle's MOT history"
+                      },
+                      {
+                        "href": "/check-vehicle-recall",
+                        "text": "Check if the vehicle has been recalled because of a safety issue"
+                      },
+                      {
+                        "href": "/checks-when-buying-a-used-car",
+                        "text": "Check the log book isn't for a stolen vehicle"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Check the vehicle before you buy it"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Once you've bought the vehicle, you have to register it. How you register it depends on whether it has a V5C registration certificate (log book).",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/vehicle-registration/new-and-used-vehicles",
+                        "text": "Find out how to register your vehicle"
+                      },
+                      {
+                        "context": "£25",
+                        "href": "/vehicle-log-book",
+                        "text": "Get a vehicle log book if you don't have it"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Buy and register the vehicle"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must get an MOT for your vehicle every year once it's 3 years old. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/mot-reminder",
+                        "text": "Get a reminder when your MOT is due"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "optional": true,
+                "title": "Register for MOT reminders"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must have insurance before you can use your vehicle on the road.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "https://ownvehicle.askmid.com/",
+                        "text": "Check if your vehicle is insured on the Motor Insurance Database"
+                      },
+                      {
+                        "href": "/vehicle-insurance/uninsured-vehicles",
+                        "text": "Read about vehicle insurance"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Insure the vehicle"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You need to tax the vehicle before you can use it on the road.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/vehicle-tax-rate-tables",
+                        "text": "Check how much you’ll have to pay to tax your vehicle"
+                      },
+                      {
+                        "href": "/vehicle-exempt-from-vehicle-tax",
+                        "text": "Check when you don't have to pay vehicle tax"
+                      },
+                      {
+                        "href": "/vehicle-tax",
+                        "text": "Tax your vehicle"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Tax the vehicle"
+              }
+            ],
+            "title": "Buy a vehicle: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/done/check-mot-history",
+              "api_url": "https://www.gov.uk/api/content/done/check-mot-history",
+              "base_path": "/done/check-mot-history",
+              "content_id": "1dcf44b2-443a-401e-a668-a6ab0b1397e6",
+              "document_type": "completed_transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2018-02-19T17:47:27Z",
+              "schema_name": "completed_transaction",
+              "title": "Give feedback on Check the MOT history of a vehicle",
+              "web_url": "https://www.gov.uk/done/check-mot-history",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2019-02-11T15:49:48Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Buy a vehicle: step by step",
+        "web_url": "https://www.gov.uk/buy-a-vehicle",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/mot-lorry-bus-trailer",
+        "api_url": "https://www.gov.uk/api/content/mot-lorry-bus-trailer",
+        "base_path": "/mot-lorry-bus-trailer",
+        "content_id": "03763056-11e4-43be-a203-45daab596a87",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/check-mot-history",
+                        "text": "Check when your annual test is due"
+                      },
+                      {
+                        "href": "/mot-reminder",
+                        "text": "Get reminders by email or text message"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check when your test is due and get reminders"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/book-vehicle-annual-test",
+                        "text": "Find your nearest test centre and book your test"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "The cost will vary depending on where you take the test. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/government/publications/heavy-goods-vehicle-fees",
+                        "text": "Check the fees for heavy goods vehicles or trailers"
+                      },
+                      {
+                        "href": "/government/publications/public-service-vehicle-fees",
+                        "text": "Check the fees for public service vehicles"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "Fill in an application form before you book your test if it's the first time it's been tested and it's:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/government/publications/record-details-of-a-new-heavy-goods-vehicle-hgv-with-dvsa",
+                        "text": "a heavy goods vehicle"
+                      },
+                      {
+                        "href": "/government/publications/record-or-change-details-of-a-public-service-vehicle-psv-with-dvsa",
+                        "text": "a public service vehicle"
+                      },
+                      {
+                        "href": "/government/publications/trailer-first-test-application-form-vtg2",
+                        "text": "a trailer manufactured before 29 October 2012"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "title": "Book the test"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/government/publications/headlamp-aim-guide",
+                        "text": "Check your vehicle’s headlamp aim"
+                      },
+                      {
+                        "href": "/government/publications/the-heavy-vehicle-brake-test-best-practice-guide",
+                        "text": "Check the brakes if it's a heavy goods vehicle"
+                      },
+                      {
+                        "href": "/government/publications/guide-to-the-inspection-of-dangerous-and-hazardous-goods-vehicles",
+                        "text": "Check what to do if your vehicle carries dangerous goods"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You can get your vehicle checked by a qualified mechanic to prepare for the test. They should be using the test standards in the:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/government/publications/hgv-inspection-manual",
+                        "text": "Heavy goods vehicle inspection manual"
+                      },
+                      {
+                        "href": "/government/publications/psv-inspection-manual",
+                        "text": "Public service vehicle inspection manual"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "title": "Prepare your vehicle"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/annual-test-for-lorries-buses-and-trailers/at-the-test-centre",
+                        "text": "Check what documents you need to take with you"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You need to bring extra documents if your vehicle is used to carry dangerous goods, or if it's exempt from having a tachograph or speed limiter.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/government/publications/hgv-tachograph-exemption-declaration-form",
+                        "text": "Declare a heavy goods vehicle doesn't need a tachograph"
+                      },
+                      {
+                        "href": "/government/publications/psv-tachograph-exemption-declaration-form",
+                        "text": "Declare a public service vehicle doesn't need a tachograph"
+                      },
+                      {
+                        "href": "/government/publications/hgv-speed-limiter-exemption-declaration-form",
+                        "text": "Declare a heavy goods vehicle doesn't need a speed limiter"
+                      },
+                      {
+                        "href": "/government/publications/psv-speed-limiter-exemption-declaration-form",
+                        "text": "Declare a public service vehicle doesn't need a speed limiter"
+                      },
+                      {
+                        "href": "/government/publications/certificate-for-carriage-of-dangerous-goods-vtg-15",
+                        "text": "Certify a vehicle is or has been carrying dangerous goods"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Prepare the documents you need"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/annual-test-for-lorries-buses-and-trailers/at-the-test-centre",
+                        "text": "Find out what happens at the test centre"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "At the end of the test, you'll be told if your vehicle has passed or failed.",
+                    "type": "paragraph"
+                  }
+                ],
+                "title": "Take your vehicle to the test"
+              }
+            ],
+            "title": "Get an annual test (MOT) for a lorry, bus or trailer: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/done/check-mot-history",
+              "api_url": "https://www.gov.uk/api/content/done/check-mot-history",
+              "base_path": "/done/check-mot-history",
+              "content_id": "1dcf44b2-443a-401e-a668-a6ab0b1397e6",
+              "document_type": "completed_transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2018-02-19T17:47:27Z",
+              "schema_name": "completed_transaction",
+              "title": "Give feedback on Check the MOT history of a vehicle",
+              "web_url": "https://www.gov.uk/done/check-mot-history",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-01-06T16:36:11Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Get an annual test (MOT) for a lorry, bus or trailer: step by step",
+        "web_url": "https://www.gov.uk/mot-lorry-bus-trailer",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2018-02-19T17:47:27Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629924.295-10.13.30.3-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Check the MOT history of a vehicle",
+  "updated_at": "2024-03-08T09:58:14Z",
+  "withdrawn_notice": {
+  }
+}

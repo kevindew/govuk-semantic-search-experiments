@@ -1,0 +1,498 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/renew-library-item",
+  "content_id": "82ed656a-a72c-4688-9708-e0ffea55acaf",
+  "description": "Renew your library items like books and DVDs online through your local council website",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Many local councils let you renew library items like books and DVDs online.</p>\n",
+    "lgil_code": 8,
+    "lgsl_code": 440,
+    "more_information": "\n",
+    "need_to_know": "<ul>\n  <li>Available in England and Wales only</li>\n</ul>\n",
+    "service_tiers": [
+      "county",
+      "unitary"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2011-12-22T15:55:34Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/renew-library-item",
+        "api_url": "https://www.gov.uk/api/content/renew-library-item",
+        "base_path": "/renew-library-item",
+        "content_id": "82ed656a-a72c-4688-9708-e0ffea55acaf",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:15Z",
+        "schema_name": "local_transaction",
+        "title": "Renew a library item",
+        "web_url": "https://www.gov.uk/renew-library-item",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/reserve-library-item",
+        "api_url": "https://www.gov.uk/api/content/reserve-library-item",
+        "base_path": "/reserve-library-item",
+        "content_id": "675efb91-1a3a-4c72-8049-33844b3a6347",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/local-councils",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+              "base_path": "/browse/housing-local-services/local-councils",
+              "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+              "description": "Find and access local services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Local councils and services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-09T15:55:00Z",
+        "schema_name": "local_transaction",
+        "title": "Reserve a library item",
+        "web_url": "https://www.gov.uk/reserve-library-item",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/search-library-catalogue",
+        "api_url": "https://www.gov.uk/api/content/search-library-catalogue",
+        "base_path": "/search-library-catalogue",
+        "content_id": "163a98db-4655-40da-b6dd-8c5ec577a773",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/local-councils",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+              "base_path": "/browse/housing-local-services/local-councils",
+              "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+              "description": "Find and access local services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Local councils and services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-09T15:55:21Z",
+        "schema_name": "local_transaction",
+        "title": "Search the local library catalogue",
+        "web_url": "https://www.gov.uk/search-library-catalogue",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/local-library-services",
+        "api_url": "https://www.gov.uk/api/content/local-library-services",
+        "base_path": "/local-library-services",
+        "content_id": "a1c32b79-e6b9-40b1-8095-150727418ea1",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/local-councils",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+              "base_path": "/browse/housing-local-services/local-councils",
+              "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+              "description": "Find and access local services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Local councils and services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:15Z",
+        "schema_name": "local_transaction",
+        "title": "Local library services",
+        "web_url": "https://www.gov.uk/local-library-services",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1383",
+        "api_path": "/api/content/government/organisations/department-for-culture-media-and-sport",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-culture-media-and-sport",
+        "base_path": "/government/organisations/department-for-culture-media-and-sport",
+        "content_id": "ae9ef2e1-9de0-4ff8-b560-e6ac28a6205c",
+        "details": {
+          "acronym": "DCMS",
+          "brand": "department-for-culture-media-sport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department <br/>for Culture,<br/>Media &amp; Sport"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Culture, Media and Sport",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D5",
+        "api_path": "/api/content/government/organisations/department-for-digital-culture-media-sport",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-digital-culture-media-sport",
+        "base_path": "/government/organisations/department-for-digital-culture-media-sport",
+        "content_id": "fd62c5a4-714d-47fe-a612-595d1739251c",
+        "details": {
+          "acronym": "",
+          "brand": "department-for-culture-media-sport",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37daeded915d5a62fdc709/s960_100PS_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37daeeed915d5a62fdc70a/s300_100PS_960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for<br/>Digital, Culture,<br/>Media &amp; Sport"
+          },
+          "organisation_govuk_status": {
+            "status": "split",
+            "updated_at": null,
+            "url": ""
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Digital, Culture, Media & Sport",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/housing-local-services",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+              "base_path": "/browse/housing-local-services",
+              "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+              "description": "Owning or renting and council services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Housing and local services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/reserve-library-item",
+        "api_url": "https://www.gov.uk/api/content/reserve-library-item",
+        "base_path": "/reserve-library-item",
+        "content_id": "675efb91-1a3a-4c72-8049-33844b3a6347",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-09T15:55:00Z",
+        "schema_name": "local_transaction",
+        "title": "Reserve a library item",
+        "web_url": "https://www.gov.uk/reserve-library-item",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/search-library-catalogue",
+        "api_url": "https://www.gov.uk/api/content/search-library-catalogue",
+        "base_path": "/search-library-catalogue",
+        "content_id": "163a98db-4655-40da-b6dd-8c5ec577a773",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-09T15:55:21Z",
+        "schema_name": "local_transaction",
+        "title": "Search the local library catalogue",
+        "web_url": "https://www.gov.uk/search-library-catalogue",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/local-library-services",
+        "api_url": "https://www.gov.uk/api/content/local-library-services",
+        "base_path": "/local-library-services",
+        "content_id": "a1c32b79-e6b9-40b1-8095-150727418ea1",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:15Z",
+        "schema_name": "local_transaction",
+        "title": "Local library services",
+        "web_url": "https://www.gov.uk/local-library-services",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/join-library",
+        "api_url": "https://www.gov.uk/api/content/join-library",
+        "base_path": "/join-library",
+        "content_id": "6e9abf1f-3ac3-4968-a3de-bcc0df7d0937",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:15Z",
+        "schema_name": "local_transaction",
+        "title": "Join a library",
+        "web_url": "https://www.gov.uk/join-library",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/book-internet-access-at-library",
+        "api_url": "https://www.gov.uk/api/content/book-internet-access-at-library",
+        "base_path": "/book-internet-access-at-library",
+        "content_id": "2d475b0e-9649-4cbb-bf05-38bb03bbf466",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:22Z",
+        "schema_name": "local_transaction",
+        "title": "Book internet access in your library",
+        "web_url": "https://www.gov.uk/book-internet-access-at-library",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/regional-and-local-government/local-councils",
+        "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-councils",
+        "base_path": "/regional-and-local-government/local-councils",
+        "content_id": "15191831-40b4-4f6e-ade3-e82d7c775afd",
+        "details": {
+          "internal_name": "Local councils and services [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/regional-and-local-government",
+              "api_url": "https://www.gov.uk/api/content/regional-and-local-government",
+              "base_path": "/regional-and-local-government",
+              "content_id": "503c5bc7-809a-47b9-83e2-bd0c212dbabb",
+              "description": "",
+              "details": {
+                "internal_name": "Regional and local government",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:30:05Z",
+              "schema_name": "taxon",
+              "title": "Regional and local government",
+              "web_url": "https://www.gov.uk/regional-and-local-government",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:09:40Z",
+        "schema_name": "taxon",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/regional-and-local-government/local-councils",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-05-02T16:27:15Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15543-1504182736.110-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Renew a library item",
+  "updated_at": "2023-12-29T13:37:06Z",
+  "withdrawn_notice": {
+  }
+}

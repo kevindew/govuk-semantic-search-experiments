@@ -1,0 +1,651 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/written-off-vehicle",
+  "content_id": "de4c7e05-c0c2-4b4e-9e96-e019157501f9",
+  "description": "Tell DVLA if your vehicle has been damaged, written off and then scrapped by your insurance company",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>You must tell <abbr title=\"Driver and Vehicle Licensing Agency\">DVLA</abbr> if your vehicle has been written off and scrapped by your insurance company.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Writing off and scrapping your vehicle is the same as selling it to your insurance company.</p>\n</div>\n\n<p>You need to enter the following information:</p>\n\n<ul>\n  <li>your insurance company’s name and postcode - put these in the ‘provide trader details’ section</li>\n  <li>your vehicle registration number</li>\n  <li>the 11 digit reference number from the yellow ‘sell, transfer or part-exchange your vehicle to the motor trade’ section of the log book (V5C)</li>\n</ul>\n\n<p>This service is available from 7am to 7pm.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/cerbyd-anadferadwy\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n",
+    "more_information": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You can be fined £1,000 if you do not tell DVLA.</p>\n</div>\n\n<p>You must:</p>\n\n<ul>\n  <li>make sure the name and address on the log book are correct - <a href=\"/written-off-vehicle#other-ways-to-apply\">apply by post</a> if any of the details are wrong</li>\n  <li><a href=\"/keep-registration-number\">take any personalised registration number off the vehicle</a></li>\n</ul>\n\n<p>Destroy the yellow ‘sell, transfer or part-exchange’ section of the log book when you’ve finished. You do not need to send it to <abbr title=\"Driver and Vehicle Licensing Agency\">DVLA</abbr>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Your insurance company will ask you for the rest of the log book.</p>\n</div>\n\n<h2 id=\"what-happens-next\">What happens next</h2>\n\n<p>You’ll be sent:</p>\n\n<ul>\n  <li>an email confirmation (if you gave an email address)</li>\n  <li>a letter confirming you’re no longer the keeper of the vehicle</li>\n  <li>a <a href=\"/vehicle-tax-refund\">vehicle tax refund</a> for any full months left when <abbr title=\"Driver and Vehicle Licensing Agency\">DVLA</abbr> gets your information - if you pay by Direct Debit, it’ll be cancelled automatically</li>\n</ul>\n\n",
+    "other_ways_to_apply": "<h2 id=\"by-post\">By post</h2>\n\n<p>Fill in the yellow ‘sell, transfer or part-exchange your vehicle to the motor trade’ section of your log book (V5C) and send the perforated section to <abbr title=\"Driver and Vehicle Licensing Agency\">DVLA</abbr>.</p>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nDVLA  \n<br>Swansea   \n<br>SA99 1BD\n<br>\n</p></div></div>\n\n<p>Your insurance company can ask you for the whole log book. If this happens, write a letter to <abbr title=\"Driver and Vehicle Licensing Agency\">DVLA</abbr> with details of your insurance company and the date you gave them the vehicle.</p>\n\n<h2 id=\"what-happens-next\">What happens next</h2>\n\n<p>You’ll be sent:</p>\n\n<ul>\n  <li>a letter confirming that you’re no longer the keeper of the vehicle</li>\n  <li>a <a href=\"/vehicle-tax-refund\">vehicle tax refund</a> for any full months left when <abbr title=\"Driver and Vehicle Licensing Agency\">DVLA</abbr> gets your information - if you pay by Direct Debit, it’ll be cancelled automatically</li>\n</ul>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.buysellvehicle.service.gov.uk/sell-motor-trade/private/setup-trade-details",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2016-03-14T16:34:50Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/written-off-vehicle",
+        "api_url": "https://www.gov.uk/api/content/written-off-vehicle",
+        "base_path": "/written-off-vehicle",
+        "content_id": "de4c7e05-c0c2-4b4e-9e96-e019157501f9",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-06-02T10:50:53Z",
+        "schema_name": "transaction",
+        "title": "Tell DVLA your vehicle has been written off",
+        "web_url": "https://www.gov.uk/written-off-vehicle",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/buy-sell-scrap-vehicle",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/buy-sell-scrap-vehicle",
+        "base_path": "/browse/driving/buy-sell-scrap-vehicle",
+        "content_id": "240b873a-23d8-450a-87a5-7a991415fdbf",
+        "description": "Buy or sell a vehicle, check a used vehicle, written off vehicles, scrapping a vehicle",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:37Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Buy, sell or scrap a vehicle",
+        "web_url": "https://www.gov.uk/browse/driving/buy-sell-scrap-vehicle",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/number-plate",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/number-plate",
+        "base_path": "/browse/driving/number-plate",
+        "content_id": "33b8985e-9353-4f12-914e-531aad5469a0",
+        "description": "Update details in your (V5C) log book, get a personalised number plate or trade licence plate",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:14Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Number plates, vehicle registration and log books",
+        "web_url": "https://www.gov.uk/browse/driving/number-plate",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/scrapped-and-written-off-vehicles",
+        "api_url": "https://www.gov.uk/api/content/scrapped-and-written-off-vehicles",
+        "base_path": "/scrapped-and-written-off-vehicles",
+        "content_id": "17e1c741-1a7f-45ec-8532-7c787f35003d",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/buy-sell-scrap-vehicle",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/buy-sell-scrap-vehicle",
+              "base_path": "/browse/driving/buy-sell-scrap-vehicle",
+              "content_id": "240b873a-23d8-450a-87a5-7a991415fdbf",
+              "description": "Buy or sell a vehicle, check a used vehicle, written off vehicles, scrapping a vehicle",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:37Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Buy, sell or scrap a vehicle",
+              "web_url": "https://www.gov.uk/browse/driving/buy-sell-scrap-vehicle",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/number-plate",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/number-plate",
+              "base_path": "/browse/driving/number-plate",
+              "content_id": "33b8985e-9353-4f12-914e-531aad5469a0",
+              "description": "Update details in your (V5C) log book, get a personalised number plate or trade licence plate",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Number plates, vehicle registration and log books",
+              "web_url": "https://www.gov.uk/browse/driving/number-plate",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-26T14:10:36Z",
+        "schema_name": "guide",
+        "title": "Scrapping your vehicle and insurance write-offs",
+        "web_url": "https://www.gov.uk/scrapped-and-written-off-vehicles",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/vehicle-tax-refund",
+        "api_url": "https://www.gov.uk/api/content/vehicle-tax-refund",
+        "base_path": "/vehicle-tax-refund",
+        "content_id": "fff88e3b-ae66-43e4-afd0-6fc1f227b452",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/buy-sell-scrap-vehicle",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/buy-sell-scrap-vehicle",
+              "base_path": "/browse/driving/buy-sell-scrap-vehicle",
+              "content_id": "240b873a-23d8-450a-87a5-7a991415fdbf",
+              "description": "Buy or sell a vehicle, check a used vehicle, written off vehicles, scrapping a vehicle",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:37Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Buy, sell or scrap a vehicle",
+              "web_url": "https://www.gov.uk/browse/driving/buy-sell-scrap-vehicle",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/manufacture-adapt-vehicle",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/manufacture-adapt-vehicle",
+              "base_path": "/browse/driving/manufacture-adapt-vehicle",
+              "content_id": "3eb6e3d4-9a22-4519-915f-b0b0dd55335a",
+              "description": "Get a vehicle approved, register a vehicle, manufacturing regulations",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manufacture or adapt a vehicle",
+              "web_url": "https://www.gov.uk/browse/driving/manufacture-adapt-vehicle",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/number-plate",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/number-plate",
+              "base_path": "/browse/driving/number-plate",
+              "content_id": "33b8985e-9353-4f12-914e-531aad5469a0",
+              "description": "Update details in your (V5C) log book, get a personalised number plate or trade licence plate",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Number plates, vehicle registration and log books",
+              "web_url": "https://www.gov.uk/browse/driving/number-plate",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-11T11:11:36Z",
+        "schema_name": "answer",
+        "title": "Cancel your vehicle tax and get a refund",
+        "web_url": "https://www.gov.uk/vehicle-tax-refund",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA74",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-licensing-agency",
+        "content_id": "70580624-93b5-4aed-823b-76042486c769",
+        "details": {
+          "acronym": "DVLA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Licensing<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Licensing Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/buy-sell-scrap-vehicle",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/buy-sell-scrap-vehicle",
+        "base_path": "/browse/driving/buy-sell-scrap-vehicle",
+        "content_id": "240b873a-23d8-450a-87a5-7a991415fdbf",
+        "description": "Buy or sell a vehicle, check a used vehicle, written off vehicles, scrapping a vehicle",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:37Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Buy, sell or scrap a vehicle",
+        "web_url": "https://www.gov.uk/browse/driving/buy-sell-scrap-vehicle",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/scrapped-and-written-off-vehicles",
+        "api_url": "https://www.gov.uk/api/content/scrapped-and-written-off-vehicles",
+        "base_path": "/scrapped-and-written-off-vehicles",
+        "content_id": "17e1c741-1a7f-45ec-8532-7c787f35003d",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-26T14:10:36Z",
+        "schema_name": "guide",
+        "title": "Scrapping your vehicle and insurance write-offs",
+        "web_url": "https://www.gov.uk/scrapped-and-written-off-vehicles",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/sold-bought-vehicle",
+        "api_url": "https://www.gov.uk/api/content/sold-bought-vehicle",
+        "base_path": "/sold-bought-vehicle",
+        "content_id": "daca9924-c834-451b-9675-03efb8a3397f",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-09-08T11:00:17Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Tell DVLA you've sold, transferred or bought a vehicle",
+        "web_url": "https://www.gov.uk/sold-bought-vehicle",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/make-a-sorn",
+        "api_url": "https://www.gov.uk/api/content/make-a-sorn",
+        "base_path": "/make-a-sorn",
+        "content_id": "2164c153-1101-41f8-83b3-399556a26ffb",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-04T00:01:05Z",
+        "schema_name": "transaction",
+        "title": "Register your vehicle as off the road (SORN)",
+        "web_url": "https://www.gov.uk/make-a-sorn",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/contact-the-dvla",
+        "api_url": "https://www.gov.uk/api/content/contact-the-dvla",
+        "base_path": "/contact-the-dvla",
+        "content_id": "9a24dcce-c03a-4523-96e3-893be1c400cd",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-03T11:47:42Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Contact DVLA",
+        "web_url": "https://www.gov.uk/contact-the-dvla",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/personalised-vehicle-registration-numbers",
+        "api_url": "https://www.gov.uk/api/content/personalised-vehicle-registration-numbers",
+        "base_path": "/personalised-vehicle-registration-numbers",
+        "content_id": "af98694e-719f-4219-b513-41b2887ffb88",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-09T09:33:45Z",
+        "schema_name": "guide",
+        "title": "Private (personalised) number plates",
+        "web_url": "https://www.gov.uk/personalised-vehicle-registration-numbers",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/buying-selling-registering-and-scrapping-a-vehicle",
+        "api_url": "https://www.gov.uk/api/content/transport/buying-selling-registering-and-scrapping-a-vehicle",
+        "base_path": "/transport/buying-selling-registering-and-scrapping-a-vehicle",
+        "content_id": "d1e5dcf5-5f36-4838-bcb6-f0068eddb8a7",
+        "description": "Vehicle log books and registration certificates, checks for buying and selling vehicles and how to scrap a vehicle.",
+        "details": {
+          "internal_name": "Buying, selling, registering and scrapping a vehicle",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/vehicle-ownership-approval-and-standards",
+              "api_url": "https://www.gov.uk/api/content/transport/vehicle-ownership-approval-and-standards",
+              "base_path": "/transport/vehicle-ownership-approval-and-standards",
+              "content_id": "dbbf7f4d-78aa-46ac-8e67-d937fe9a8c69",
+              "description": "MOTs and vehicle tax, manufacturing, modifying and testing vehicles for use on UK roads, buying and selling vehicles.",
+              "details": {
+                "internal_name": "Vehicle ownership, approval and standards",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Vehicle ownership, approval and standards",
+              "web_url": "https://www.gov.uk/transport/vehicle-ownership-approval-and-standards",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:15Z",
+        "schema_name": "taxon",
+        "title": "Buying, selling, registering and scrapping a vehicle",
+        "web_url": "https://www.gov.uk/transport/buying-selling-registering-and-scrapping-a-vehicle",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-06-02T10:50:53Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "17177-1643281399.185-10.13.2.197-10157",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Tell DVLA your vehicle has been written off",
+  "updated_at": "2024-02-06T13:29:36Z",
+  "withdrawn_notice": {
+  }
+}

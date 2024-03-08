@@ -1,0 +1,937 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/inheritance-tax-reduced-rate-calculator",
+  "content_id": "83581a55-e071-4f5b-818d-6d8af8319af4",
+  "description": "Work out how much to give to charity in a will to qualify for the reduced rate of Inheritance Tax",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>You may qualify to pay Inheritance Tax at a reduced rate of 36% if you <a href=\"/inheritance-tax\">leave at least 10% of your net estate to charity</a>.</p>\n\n<p>Use this calculator to work out the amount needed to qualify if you’re:</p>\n\n<ul>\n  <li>preparing your own will</li>\n  <li>the executor of the deceased’s will or administrator of their estate - if the death was after 6 April 2012</li>\n</ul>\n\n<p>You can’t use this calculator if:</p>\n\n<ul>\n  <li>the death was before 6 April 2012</li>\n  <li>there are charges from the deferral of tax for woodlands or heritage assets - tax on these is always 40%</li>\n  <li>Inheritance Tax is <a href=\"/trusts-taxes/trusts-and-inheritance-tax\">due on a trust</a> and there has been no death</li>\n</ul>\n",
+    "more_information": "<p>You’ll need to know:</p>\n\n<ul>\n  <li>the value of the assets in the estate</li>\n  <li>how the assets are owned</li>\n  <li>the total value of the assets in each part of the estate (‘<a rel=\"external\" href=\"http://www.hmrc.gov.uk/tools/iht-reduced-rate/guidance.htm\">component</a>’)</li>\n  <li>the value of any debts and liabilities that must be paid out of the estate</li>\n  <li>the amount of any Inheritance Tax relief and exemptions</li>\n  <li>the amount of any charitable donations already made</li>\n  <li>the value of the <a href=\"/inheritance-tax\">threshold</a> (‘nil rate band’)</li>\n  <li>the value of gifts the deceased made in the 7 years before death</li>\n</ul>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "http://www.hmrc.gov.uk/tools/iht-reduced-rate/calculator.htm",
+    "will_continue_on": "the HMRC website"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2014-11-27T15:59:07Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/inheritance-tax-reduced-rate-calculator",
+        "api_url": "https://www.gov.uk/api/content/inheritance-tax-reduced-rate-calculator",
+        "base_path": "/inheritance-tax-reduced-rate-calculator",
+        "content_id": "83581a55-e071-4f5b-818d-6d8af8319af4",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-28T11:54:03Z",
+        "schema_name": "transaction",
+        "title": "Inheritance Tax reduced rate calculator",
+        "web_url": "https://www.gov.uk/inheritance-tax-reduced-rate-calculator",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/inheritance-tax-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/inheritance-tax-detailed-information",
+        "base_path": "/government/collections/inheritance-tax-detailed-information",
+        "content_id": "4d740652-7b37-42e1-8488-206f640044f4",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/inheritance-tax-reduced-rate-calculator",
+              "api_url": "https://www.gov.uk/api/content/inheritance-tax-reduced-rate-calculator",
+              "base_path": "/inheritance-tax-reduced-rate-calculator",
+              "content_id": "83581a55-e071-4f5b-818d-6d8af8319af4",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2014-11-28T11:54:03Z",
+              "schema_name": "transaction",
+              "title": "Inheritance Tax reduced rate calculator",
+              "web_url": "https://www.gov.uk/inheritance-tax-reduced-rate-calculator",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-05T00:00:00Z",
+        "schema_name": "document_collection",
+        "title": "Inheritance Tax: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/inheritance-tax-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/inheritance-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/inheritance-tax",
+        "base_path": "/browse/tax/inheritance-tax",
+        "content_id": "d559e7cf-56cd-4866-90d1-94cf551e0a10",
+        "description": "Includes valuing an estate, trusts and taxes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:18Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Inheritance Tax",
+        "web_url": "https://www.gov.uk/browse/tax/inheritance-tax",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/inheritance-tax",
+        "api_url": "https://www.gov.uk/api/content/inheritance-tax",
+        "base_path": "/inheritance-tax",
+        "content_id": "e17075dc-cd13-4579-8a91-16ebd0aaf43f",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/inheritance-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/inheritance-tax",
+              "base_path": "/browse/tax/inheritance-tax",
+              "content_id": "d559e7cf-56cd-4866-90d1-94cf551e0a10",
+              "description": "Includes valuing an estate, trusts and taxes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Inheritance Tax",
+              "web_url": "https://www.gov.uk/browse/tax/inheritance-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/death",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/death",
+              "base_path": "/browse/births-deaths-marriages/death",
+              "content_id": "0384fade-ef89-4dd7-8578-3df1d1699fa4",
+              "description": "Reporting a death, wills, probate and Inheritance Tax",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:22Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Death and bereavement",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/death",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-11T17:32:33Z",
+        "schema_name": "guide",
+        "title": "How Inheritance Tax works: thresholds, rules and allowances",
+        "web_url": "https://www.gov.uk/inheritance-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/paying-inheritance-tax",
+        "api_url": "https://www.gov.uk/api/content/paying-inheritance-tax",
+        "base_path": "/paying-inheritance-tax",
+        "content_id": "e485633d-9aa3-4b67-8525-8d77afa733a4",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/death",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/death",
+              "base_path": "/browse/births-deaths-marriages/death",
+              "content_id": "0384fade-ef89-4dd7-8578-3df1d1699fa4",
+              "description": "Reporting a death, wills, probate and Inheritance Tax",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:22Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Death and bereavement",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/death",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/inheritance-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/inheritance-tax",
+              "base_path": "/browse/tax/inheritance-tax",
+              "content_id": "d559e7cf-56cd-4866-90d1-94cf551e0a10",
+              "description": "Includes valuing an estate, trusts and taxes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Inheritance Tax",
+              "web_url": "https://www.gov.uk/browse/tax/inheritance-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-18T16:05:41Z",
+        "schema_name": "guide",
+        "title": "Pay your Inheritance Tax bill",
+        "web_url": "https://www.gov.uk/paying-inheritance-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/valuing-estate-of-someone-who-died",
+        "api_url": "https://www.gov.uk/api/content/valuing-estate-of-someone-who-died",
+        "base_path": "/valuing-estate-of-someone-who-died",
+        "content_id": "21d0d397-18d3-4868-ac77-09bc818fa327",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/death",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/death",
+              "base_path": "/browse/births-deaths-marriages/death",
+              "content_id": "0384fade-ef89-4dd7-8578-3df1d1699fa4",
+              "description": "Reporting a death, wills, probate and Inheritance Tax",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:22Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Death and bereavement",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/death",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/inheritance-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/inheritance-tax",
+              "base_path": "/browse/tax/inheritance-tax",
+              "content_id": "d559e7cf-56cd-4866-90d1-94cf551e0a10",
+              "description": "Includes valuing an estate, trusts and taxes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Inheritance Tax",
+              "web_url": "https://www.gov.uk/browse/tax/inheritance-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-11T17:33:18Z",
+        "schema_name": "guide",
+        "title": "How to value an estate for Inheritance Tax and report its value",
+        "web_url": "https://www.gov.uk/valuing-estate-of-someone-who-died",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/applying-for-probate",
+        "api_url": "https://www.gov.uk/api/content/applying-for-probate",
+        "base_path": "/applying-for-probate",
+        "content_id": "c25b48e9-bdae-4870-845d-5a67c1189fe1",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/death",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/death",
+              "base_path": "/browse/births-deaths-marriages/death",
+              "content_id": "0384fade-ef89-4dd7-8578-3df1d1699fa4",
+              "description": "Reporting a death, wills, probate and Inheritance Tax",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:22Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Death and bereavement",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/death",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/capital-gains",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/capital-gains",
+              "base_path": "/browse/tax/capital-gains",
+              "content_id": "d6007553-8ed9-46bd-a5a6-de12f5e64491",
+              "description": "Tax when you sell property, shares, personal possessions and business assets",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:57Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Capital Gains Tax",
+              "web_url": "https://www.gov.uk/browse/tax/capital-gains",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/inheritance-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/inheritance-tax",
+              "base_path": "/browse/tax/inheritance-tax",
+              "content_id": "d559e7cf-56cd-4866-90d1-94cf551e0a10",
+              "description": "Includes valuing an estate, trusts and taxes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Inheritance Tax",
+              "web_url": "https://www.gov.uk/browse/tax/inheritance-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-12T08:00:01Z",
+        "schema_name": "guide",
+        "title": "Applying for probate",
+        "web_url": "https://www.gov.uk/applying-for-probate",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/after-a-death",
+        "api_url": "https://www.gov.uk/api/content/after-a-death",
+        "base_path": "/after-a-death",
+        "content_id": "1b5474c1-54ec-44e3-8319-b805264fe58c",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/register-offices",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/register-offices",
+              "base_path": "/browse/births-deaths-marriages/register-offices",
+              "content_id": "553aa169-abde-4733-a84b-61fac93fe75e",
+              "description": "Birth certificates, registering a death, marriage, family history and correcting certificates",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Certificates, register offices, changes of name or gender",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/register-offices",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/death",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/death",
+              "base_path": "/browse/births-deaths-marriages/death",
+              "content_id": "0384fade-ef89-4dd7-8578-3df1d1699fa4",
+              "description": "Reporting a death, wills, probate and Inheritance Tax",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:22Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Death and bereavement",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/death",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-15T09:00:01Z",
+        "schema_name": "guide",
+        "title": "What to do after someone dies",
+        "web_url": "https://www.gov.uk/after-a-death",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/inheritance-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/inheritance-tax",
+        "base_path": "/browse/tax/inheritance-tax",
+        "content_id": "d559e7cf-56cd-4866-90d1-94cf551e0a10",
+        "description": "Includes valuing an estate, trusts and taxes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:18Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Inheritance Tax",
+        "web_url": "https://www.gov.uk/browse/tax/inheritance-tax",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/valuing-estate-of-someone-who-died",
+        "api_url": "https://www.gov.uk/api/content/valuing-estate-of-someone-who-died",
+        "base_path": "/valuing-estate-of-someone-who-died",
+        "content_id": "21d0d397-18d3-4868-ac77-09bc818fa327",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-11T17:33:18Z",
+        "schema_name": "guide",
+        "title": "How to value an estate for Inheritance Tax and report its value",
+        "web_url": "https://www.gov.uk/valuing-estate-of-someone-who-died",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/tax-property-money-shares-you-inherit",
+        "api_url": "https://www.gov.uk/api/content/tax-property-money-shares-you-inherit",
+        "base_path": "/tax-property-money-shares-you-inherit",
+        "content_id": "0aba4ddc-454c-4fd0-95f4-6e20211e56c3",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-12T14:11:01Z",
+        "schema_name": "guide",
+        "title": "Tax on property, money and shares you inherit",
+        "web_url": "https://www.gov.uk/tax-property-money-shares-you-inherit",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/applying-for-probate",
+        "api_url": "https://www.gov.uk/api/content/applying-for-probate",
+        "base_path": "/applying-for-probate",
+        "content_id": "c25b48e9-bdae-4870-845d-5a67c1189fe1",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-12T08:00:01Z",
+        "schema_name": "guide",
+        "title": "Applying for probate",
+        "web_url": "https://www.gov.uk/applying-for-probate",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/paying-inheritance-tax",
+        "api_url": "https://www.gov.uk/api/content/paying-inheritance-tax",
+        "base_path": "/paying-inheritance-tax",
+        "content_id": "e485633d-9aa3-4b67-8525-8d77afa733a4",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-18T16:05:41Z",
+        "schema_name": "guide",
+        "title": "Pay your Inheritance Tax bill",
+        "web_url": "https://www.gov.uk/paying-inheritance-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/trusts-taxes",
+        "api_url": "https://www.gov.uk/api/content/trusts-taxes",
+        "base_path": "/trusts-taxes",
+        "content_id": "e1027041-29dc-4af3-a154-d97633810192",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-09T12:56:03Z",
+        "schema_name": "guide",
+        "title": "Trusts and taxes",
+        "web_url": "https://www.gov.uk/trusts-taxes",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/personal-tax-inheritance-tax-working-out-the-tax",
+        "api_url": "https://www.gov.uk/api/content/money/personal-tax-inheritance-tax-working-out-the-tax",
+        "base_path": "/money/personal-tax-inheritance-tax-working-out-the-tax",
+        "content_id": "0327386a-a69e-4533-86d0-9f16f7ffa6f7",
+        "details": {
+          "internal_name": "Working out the tax [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax-inheritance-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax-inheritance-tax",
+              "base_path": "/money/personal-tax-inheritance-tax",
+              "content_id": "1f3d1ae8-aba7-4e02-abbc-6b54e6ff66aa",
+              "details": {
+                "internal_name": "Inheritance Tax [T] (money level 3)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money/personal-tax",
+                    "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+                    "base_path": "/money/personal-tax",
+                    "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+                    "details": {
+                      "internal_name": "Personal tax [T]",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/money",
+                          "api_url": "https://www.gov.uk/api/content/money",
+                          "base_path": "/money",
+                          "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Money",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T20:35:25Z",
+                          "schema_name": "taxon",
+                          "title": "Money",
+                          "web_url": "https://www.gov.uk/money",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-05T16:19:54Z",
+                    "schema_name": "taxon",
+                    "title": "Personal tax",
+                    "web_url": "https://www.gov.uk/money/personal-tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Inheritance Tax",
+              "web_url": "https://www.gov.uk/money/personal-tax-inheritance-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:54Z",
+        "schema_name": "taxon",
+        "title": "Working out the tax",
+        "web_url": "https://www.gov.uk/money/personal-tax-inheritance-tax-working-out-the-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/personal-tax-inheritance-tax",
+        "api_url": "https://www.gov.uk/api/content/money/personal-tax-inheritance-tax",
+        "base_path": "/money/personal-tax-inheritance-tax",
+        "content_id": "1f3d1ae8-aba7-4e02-abbc-6b54e6ff66aa",
+        "details": {
+          "internal_name": "Inheritance Tax [T] (money level 3)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:54Z",
+        "schema_name": "taxon",
+        "title": "Inheritance Tax",
+        "web_url": "https://www.gov.uk/money/personal-tax-inheritance-tax",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-11-28T11:54:03Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "3592-1504183252.641-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Inheritance Tax reduced rate calculator",
+  "updated_at": "2024-02-09T16:37:23Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/find-energy-certificate",
+  "content_id": "e77e3bb1-4678-460d-be41-85d2898e8c4a",
+  "description": "Find a property's energy certificate including an energy performance certificate (EPC), display energy certificate (DEC) or air conditioning inspection certificate. ",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Find an energy certificate for a property in England, Wales or Northern Ireland. This includes homes, business properties and public buildings.</p>\n\n<p>This service is also available <a href=\"/dod-o-hyd-i-dystysgrif-ynni\">in Welsh (Cymraeg)</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There’s a different service to <a rel=\"external\" href=\"https://www.scottishepcregister.org.uk/\">find an energy certificate for properties in Scotland</a>.</p>\n</div>\n\n<p>You can use this service to find an existing:</p>\n\n<ul>\n  <li>energy performance certificate (EPC)</li>\n  <li>display energy certificate (DEC) for a public building</li>\n  <li>air conditioning inspection certificate and report</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If your property does not have an energy certificate or it has expired, you can <a href=\"/get-new-energy-certificate\">get a new energy certificate</a>.</p>\n</div>\n\n<p>You can search for a certificate by postcode, street name and town, or certificate number.</p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://find-energy-certificate.service.gov.uk/find-a-certificate/type-of-property",
+    "variants": [
+
+    ],
+    "what_you_need_to_know": "<h3 id=\"get-help-finding-an-energy-certificate\">Get help finding an energy certificate</h3>\n\n<p>If you need help finding an energy certificate or report, contact the Department for Levelling Up, Housing and Communities (<abbr title=\"Department for Levelling Up, Housing and Communities\">DLUHC</abbr>).</p>\n\n<div class=\"contact\">\n<p><a href=\"mailto:dluhc.digital-services@levellingup.gov.uk\">dluhc.digital-services@levellingup.gov.uk</a><br>\nTelephone: 020 3829 0748<br>\nMonday to Friday, 9am to 5pm<br>\n<a href=\"/call-charges\">Find out more about call charges</a></p>\n</div>\n\n",
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2021-12-02T09:00:02Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/find-energy-certificate",
+        "api_url": "https://www.gov.uk/api/content/find-energy-certificate",
+        "base_path": "/find-energy-certificate",
+        "content_id": "e77e3bb1-4678-460d-be41-85d2898e8c4a",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-12-03T15:09:33Z",
+        "schema_name": "transaction",
+        "title": "Find an energy certificate",
+        "web_url": "https://www.gov.uk/find-energy-certificate",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/premises-rates",
+        "api_url": "https://www.gov.uk/api/content/browse/business/premises-rates",
+        "base_path": "/browse/business/premises-rates",
+        "content_id": "61dc0b91-3e32-4eaa-9aaf-219410baf81f",
+        "description": "Includes business rates, leases, renting, planning permission, waste, and energy certificates",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-30T10:53:01Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business premises and business rates",
+        "web_url": "https://www.gov.uk/browse/business/premises-rates",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/housing-local-services/landlords",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/landlords",
+        "base_path": "/browse/housing-local-services/landlords",
+        "content_id": "ed816ec5-727e-4e1b-bc29-ab067df2e594",
+        "description": "Includes right to rent checks, evicting tenants, tenancy agreements and deposit protection schemes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-29T13:40:19Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Being a landlord and renting out a room",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/landlords",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/housing-local-services/household-energy",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/household-energy",
+        "base_path": "/browse/housing-local-services/household-energy",
+        "content_id": "67da376c-b408-4229-8586-b09969f65d3a",
+        "description": "Includes energy support, grants, energy performance certificates (EPCs), energy saving and renewable energy for your home",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-09-21T08:29:22Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Household energy",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/household-energy",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/housing-local-services/planning-permission-regulations-information",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/planning-permission-regulations-information",
+        "base_path": "/browse/housing-local-services/planning-permission-regulations-information",
+        "content_id": "0d605105-67ff-426f-8436-2459d4a9a4c1",
+        "description": "Includes building regulations, planning permission and finding land and property information",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-25T10:44:13Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Planning permission and building regulations ",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/planning-permission-regulations-information",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/get-new-energy-certificate",
+        "api_url": "https://www.gov.uk/api/content/get-new-energy-certificate",
+        "base_path": "/get-new-energy-certificate",
+        "content_id": "e6134b0d-7835-449a-8a8b-3faf8fb5c858",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/premises-rates",
+              "api_url": "https://www.gov.uk/api/content/browse/business/premises-rates",
+              "base_path": "/browse/business/premises-rates",
+              "content_id": "61dc0b91-3e32-4eaa-9aaf-219410baf81f",
+              "description": "Includes business rates, leases, renting, planning permission, waste, and energy certificates",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-30T10:53:01Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business premises and business rates",
+              "web_url": "https://www.gov.uk/browse/business/premises-rates",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/landlords",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/landlords",
+              "base_path": "/browse/housing-local-services/landlords",
+              "content_id": "ed816ec5-727e-4e1b-bc29-ab067df2e594",
+              "description": "Includes right to rent checks, evicting tenants, tenancy agreements and deposit protection schemes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-29T13:40:19Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Being a landlord and renting out a room",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/landlords",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/buying-owning-property",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/buying-owning-property",
+              "base_path": "/browse/housing-local-services/buying-owning-property",
+              "content_id": "a5bc96b7-10c3-4014-8fff-4571b5b5586b",
+              "description": "Includes buying and selling your home, home ownership schemes, mortgages and compensation",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Buying and owning a property",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/buying-owning-property",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/household-energy",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/household-energy",
+              "base_path": "/browse/housing-local-services/household-energy",
+              "content_id": "67da376c-b408-4229-8586-b09969f65d3a",
+              "description": "Includes energy support, grants, energy performance certificates (EPCs), energy saving and renewable energy for your home",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-09-21T08:29:22Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Household energy",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/household-energy",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-16T16:52:06Z",
+        "schema_name": "transaction",
+        "title": "Get a new energy certificate",
+        "web_url": "https://www.gov.uk/get-new-energy-certificate",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/buy-sell-your-home",
+        "api_url": "https://www.gov.uk/api/content/buy-sell-your-home",
+        "base_path": "/buy-sell-your-home",
+        "content_id": "9a6202a7-f9c0-4332-af72-7bf07b9adbe4",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/buying-owning-property",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/buying-owning-property",
+              "base_path": "/browse/housing-local-services/buying-owning-property",
+              "content_id": "a5bc96b7-10c3-4014-8fff-4571b5b5586b",
+              "description": "Includes buying and selling your home, home ownership schemes, mortgages and compensation",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Buying and owning a property",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/buying-owning-property",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-03T13:31:13Z",
+        "schema_name": "guide",
+        "title": "Buying or selling your home",
+        "web_url": "https://www.gov.uk/buy-sell-your-home",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/energy-performance-certificate-commercial-property",
+        "api_url": "https://www.gov.uk/api/content/energy-performance-certificate-commercial-property",
+        "base_path": "/energy-performance-certificate-commercial-property",
+        "content_id": "5b4406c2-caf7-4f3a-8607-c5b20fc1224c",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/premises-rates",
+              "api_url": "https://www.gov.uk/api/content/browse/business/premises-rates",
+              "base_path": "/browse/business/premises-rates",
+              "content_id": "61dc0b91-3e32-4eaa-9aaf-219410baf81f",
+              "description": "Includes business rates, leases, renting, planning permission, waste, and energy certificates",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-30T10:53:01Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business premises and business rates",
+              "web_url": "https://www.gov.uk/browse/business/premises-rates",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-08-17T16:24:43Z",
+        "schema_name": "answer",
+        "title": "Energy Performance Certificates for your business premises",
+        "web_url": "https://www.gov.uk/energy-performance-certificate-commercial-property",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1342",
+        "api_path": "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "base_path": "/government/organisations/department-for-levelling-up-housing-and-communities",
+        "content_id": "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+        "details": {
+          "acronym": "DLUHC",
+          "brand": "department-for-levelling-up-housing-and-communities",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for Levelling Up,<br/>Housing &amp; Communities"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Levelling Up, Housing and Communities ",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/household-energy",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/household-energy",
+        "base_path": "/browse/housing-local-services/household-energy",
+        "content_id": "67da376c-b408-4229-8586-b09969f65d3a",
+        "description": "Includes energy support, grants, energy performance certificates (EPCs), energy saving and renewable energy for your home",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/housing-local-services",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+              "base_path": "/browse/housing-local-services",
+              "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+              "description": "Owning or renting and council services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Housing and local services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-09-21T08:29:22Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Household energy",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/household-energy",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2021-12-03T15:09:33Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "16105-1647511961.783-10.13.2.245-8986",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Find an energy certificate",
+  "updated_at": "2024-03-01T16:02:35Z",
+  "withdrawn_notice": {
+  }
+}

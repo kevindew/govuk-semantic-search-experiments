@@ -1,0 +1,267 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/public-appointments",
+  "content_id": "d675e263-9b1c-4ffb-bd2c-356062da30fe",
+  "description": "Find a voluntary or paid position with public bodies, such as non-executive director, trustee, members of advisory council.",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Search and apply for a position at a public body, such as a national museum, regulatory agency or a specialist advisory council.</p>\n",
+    "more_information": "<p>Appointments are usually for a chair or non-executive director for a board of a public body or for a member of an advisory committee.</p>\n\n<p>You can apply to organisations that include:</p>\n\n<ul>\n  <li>national museums and galleries, such as the British Museum, the Natural History Museum, the Tate and the National Gallery</li>\n  <li>regulatory bodies, such as the Competition Commission, the Equalities and Human Rights Commission and the Health and Safety Executive</li>\n  <li>expert, advisory bodies, such as the Low Pay Commission, the Committee on Standards in Public Life and the House of Lords Appointments Commission</li>\n  <li>specialist scientific and technical committees, such as the Science Advisory Council</li>\n</ul>\n\n<p>You could help run these organisations and offer advice, drawing on your own experience. Anyone can apply for these positions.</p>\n\n<p>The positions are formally appointed by government ministers through a recruitment process.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Some positions are unpaid, but most will cover your expenses.</p>\n</div>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://apply-for-public-appointment.service.gov.uk/",
+    "variants": [
+
+    ],
+    "will_continue_on": "the public appointments website"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2013-02-19T12:47:28Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/public-appointments",
+        "api_url": "https://www.gov.uk/api/content/public-appointments",
+        "base_path": "/public-appointments",
+        "content_id": "d675e263-9b1c-4ffb-bd2c-356062da30fe",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-06-01T12:15:54Z",
+        "schema_name": "transaction",
+        "title": "Apply for a public appointment",
+        "web_url": "https://www.gov.uk/public-appointments",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/citizenship/charities-honours",
+        "api_url": "https://www.gov.uk/api/content/browse/citizenship/charities-honours",
+        "base_path": "/browse/citizenship/charities-honours",
+        "content_id": "7ef2c175-8a4b-4eb9-969b-304c6b9a1452",
+        "description": "Nominating someone for an honour, setting up a charity, community participation",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:46Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Charities, volunteering and honours",
+        "web_url": "https://www.gov.uk/browse/citizenship/charities-honours",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/apply-for-a-public-appointment",
+        "api_url": "https://www.gov.uk/api/content/needs/apply-for-a-public-appointment",
+        "base_path": "/needs/apply-for-a-public-appointment",
+        "content_id": "7a59ea61-858b-4612-a5a5-bb02611c8314",
+        "details": {
+          "benefit": "share my experience and expertise for the public good",
+          "goal": "apply for a public appointment",
+          "justifications": [
+            "It's something only government does",
+            "There is clear demand for it from users"
+          ],
+          "met_when": [
+            "Knows the opportunities",
+            "knows how to apply",
+            "understands that positions may be unpaid"
+          ],
+          "role": "Citizen "
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a Citizen, I need to apply for a public appointment, so that share my experience and expertise for the public good (103459)",
+        "web_url": "https://www.gov.uk/needs/apply-for-a-public-appointment",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D2",
+        "api_path": "/api/content/government/organisations/cabinet-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/cabinet-office",
+        "base_path": "/government/organisations/cabinet-office",
+        "content_id": "96ae61d6-c2a1-48cb-8e67-da9d105ae381",
+        "details": {
+          "acronym": "",
+          "brand": "cabinet-office",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37da9d40f0b649cfaf7b27/s960_cabinet-office.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37da9ded915d5a5f965f9c/s300_cabinet-office.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Cabinet Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Cabinet Office",
+        "web_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/citizenship/charities-honours",
+        "api_url": "https://www.gov.uk/api/content/browse/citizenship/charities-honours",
+        "base_path": "/browse/citizenship/charities-honours",
+        "content_id": "7ef2c175-8a4b-4eb9-969b-304c6b9a1452",
+        "description": "Nominating someone for an honour, setting up a charity, community participation",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/citizenship",
+              "api_url": "https://www.gov.uk/api/content/browse/citizenship",
+              "base_path": "/browse/citizenship",
+              "content_id": "764a2ce0-eae5-414a-a4a9-2217507165fb",
+              "description": "Voting, community participation, life in the UK, international projects",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-04-08T10:48:44Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Citizenship and living in the UK",
+              "web_url": "https://www.gov.uk/browse/citizenship",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:46Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Charities, volunteering and honours",
+        "web_url": "https://www.gov.uk/browse/citizenship/charities-honours",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/society-and-culture/charities-honours",
+        "api_url": "https://www.gov.uk/api/content/society-and-culture/charities-honours",
+        "base_path": "/society-and-culture/charities-honours",
+        "content_id": "0bb6e269-4c6d-432d-96b6-f2b343a7603c",
+        "details": {
+          "internal_name": "Charities, volunteering and honours [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/society-and-culture",
+              "api_url": "https://www.gov.uk/api/content/society-and-culture",
+              "base_path": "/society-and-culture",
+              "content_id": "e2ca2f1a-0ff3-43ce-b813-16645ff27904",
+              "description": "",
+              "details": {
+                "internal_name": "Society and culture",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:31:27Z",
+              "schema_name": "taxon",
+              "title": "Society and culture",
+              "web_url": "https://www.gov.uk/society-and-culture",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:12:16Z",
+        "schema_name": "taxon",
+        "title": "Charities, volunteering and honours",
+        "web_url": "https://www.gov.uk/society-and-culture/charities-honours",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2022-06-01T12:15:54Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1700234187.190-10.13.20.27-8755",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Apply for a public appointment",
+  "updated_at": "2024-02-19T12:04:46Z",
+  "withdrawn_notice": {
+  }
+}

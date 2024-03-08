@@ -1,0 +1,140 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/lasting-power-of-attorney",
+  "content_id": "d5d703fc-807d-439a-b485-8b78da40c2a1",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2014-04-08T15:20:14Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/lasting-power-of-attorney",
+        "api_url": "https://www.gov.uk/api/content/done/lasting-power-of-attorney",
+        "base_path": "/done/lasting-power-of-attorney",
+        "content_id": "d5d703fc-807d-439a-b485-8b78da40c2a1",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-06-28T13:40:56Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Make a lasting power of attorney",
+        "web_url": "https://www.gov.uk/done/lasting-power-of-attorney",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/appoint-someone-to-act-on-my-behalf",
+        "api_url": "https://www.gov.uk/api/content/needs/appoint-someone-to-act-on-my-behalf",
+        "base_path": "/needs/appoint-someone-to-act-on-my-behalf",
+        "content_id": "fa769a9b-4be4-41f8-b47b-6373228e5113",
+        "details": {
+          "benefit": "I can be confident that my financial affairs will be managed by someone I trust",
+          "goal": "appoint someone to act on my behalf",
+          "justifications": [
+            "It's something only government does",
+            "It's inherent to a person's or an organisation's rights and obligations",
+            "There is clear demand for it from users"
+          ],
+          "met_when": [
+            "knows who they can choose to be their attorney",
+            "can access the different ways to make a lasting power of attorney",
+            "can register the lasting power of attorney with the Office of the Public Guardian",
+            "can certify the lasting power of attorney",
+            "knows how much the fees are"
+          ],
+          "role": "user who wants to plan for a future lack of mental capacity"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a user who wants to plan for a future lack of mental capacity, I need to appoint someone to act on my behalf, so that I can be confident that my financial affairs will be managed by someone I trust (100688)",
+        "web_url": "https://www.gov.uk/needs/appoint-someone-to-act-on-my-behalf",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA72",
+        "api_path": "/api/content/government/organisations/office-of-the-public-guardian",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/office-of-the-public-guardian",
+        "base_path": "/government/organisations/office-of-the-public-guardian",
+        "content_id": "8d40ed48-ef2a-42af-a02b-bd4cc84cabc1",
+        "details": {
+          "acronym": "OPG",
+          "brand": "ministry-of-justice",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Office of the <br/>Public Guardian"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Office of the Public Guardian",
+        "web_url": "https://www.gov.uk/government/organisations/office-of-the-public-guardian",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-06-28T13:40:56Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629919.157-10.13.30.3-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Make a lasting power of attorney",
+  "updated_at": "2023-10-09T11:00:43Z",
+  "withdrawn_notice": {
+  }
+}

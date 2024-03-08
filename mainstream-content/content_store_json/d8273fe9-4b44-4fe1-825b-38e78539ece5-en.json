@@ -1,0 +1,419 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/complain-about-your-council",
+  "content_id": "d8273fe9-4b44-4fe1-825b-38e78539ece5",
+  "description": "Complain to your council if they have done something wrong, failed to provide a service or not followed correct procedures",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Complain to your council if they have done something wrong, failed to provide a service or not followed correct procedures.</p>\n",
+    "lgil_code": 8,
+    "lgsl_code": 353,
+    "more_information": "\n",
+    "need_to_know": "<ul>\n  <li>Available in England and Wales only</li>\n</ul>\n",
+    "service_tiers": [
+      "district",
+      "unitary",
+      "county"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2012-01-23T14:49:15Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/complain-about-your-council",
+        "api_url": "https://www.gov.uk/api/content/complain-about-your-council",
+        "base_path": "/complain-about-your-council",
+        "content_id": "d8273fe9-4b44-4fe1-825b-38e78539ece5",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:19Z",
+        "schema_name": "local_transaction",
+        "title": "Complain about your council",
+        "web_url": "https://www.gov.uk/complain-about-your-council",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/insurance-claim-against-council",
+        "api_url": "https://www.gov.uk/api/content/insurance-claim-against-council",
+        "base_path": "/insurance-claim-against-council",
+        "content_id": "ddd3819e-a892-470e-9a53-efc1ff445e86",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/local-councils",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+              "base_path": "/browse/housing-local-services/local-councils",
+              "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+              "description": "Find and access local services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Local councils and services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:19Z",
+        "schema_name": "local_transaction",
+        "title": "Make an insurance claim against your council",
+        "web_url": "https://www.gov.uk/insurance-claim-against-council",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/understand-how-your-council-works",
+        "api_url": "https://www.gov.uk/api/content/understand-how-your-council-works",
+        "base_path": "/understand-how-your-council-works",
+        "content_id": "df61f873-f42f-4fb9-8e8e-17fa6a583270",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/local-councils",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+              "base_path": "/browse/housing-local-services/local-councils",
+              "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+              "description": "Find and access local services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Local councils and services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-24T15:39:31Z",
+        "schema_name": "guide",
+        "title": "Understand how your council works",
+        "web_url": "https://www.gov.uk/understand-how-your-council-works",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1342",
+        "api_path": "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "base_path": "/government/organisations/department-for-levelling-up-housing-and-communities",
+        "content_id": "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+        "details": {
+          "acronym": "DLUHC",
+          "brand": "department-for-levelling-up-housing-and-communities",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for Levelling Up,<br/>Housing &amp; Communities"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Levelling Up, Housing and Communities ",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/housing-local-services",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+              "base_path": "/browse/housing-local-services",
+              "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+              "description": "Owning or renting and council services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Housing and local services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/insurance-claim-against-council",
+        "api_url": "https://www.gov.uk/api/content/insurance-claim-against-council",
+        "base_path": "/insurance-claim-against-council",
+        "content_id": "ddd3819e-a892-470e-9a53-efc1ff445e86",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:19Z",
+        "schema_name": "local_transaction",
+        "title": "Make an insurance claim against your council",
+        "web_url": "https://www.gov.uk/insurance-claim-against-council",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/understand-how-your-council-works",
+        "api_url": "https://www.gov.uk/api/content/understand-how-your-council-works",
+        "base_path": "/understand-how-your-council-works",
+        "content_id": "df61f873-f42f-4fb9-8e8e-17fa6a583270",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-24T15:39:31Z",
+        "schema_name": "guide",
+        "title": "Understand how your council works",
+        "web_url": "https://www.gov.uk/understand-how-your-council-works",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/council-housing",
+        "api_url": "https://www.gov.uk/api/content/council-housing",
+        "base_path": "/council-housing",
+        "content_id": "6459b0e0-37c0-4c02-bcca-f156fbef54ce",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-05-31T10:33:05Z",
+        "schema_name": "guide",
+        "title": "Council housing",
+        "web_url": "https://www.gov.uk/council-housing",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/claim-compensation-injury-road-pavement",
+        "api_url": "https://www.gov.uk/api/content/claim-compensation-injury-road-pavement",
+        "base_path": "/claim-compensation-injury-road-pavement",
+        "content_id": "d745dae4-f9c3-4588-9c29-2e28f76d206e",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:21Z",
+        "schema_name": "local_transaction",
+        "title": "Claim compensation for injuries caused by roads or pavements",
+        "web_url": "https://www.gov.uk/claim-compensation-injury-road-pavement",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-local-council",
+        "api_url": "https://www.gov.uk/api/content/find-local-council",
+        "base_path": "/find-local-council",
+        "content_id": "622fda2b-5fa6-4c84-bc3b-22cd3ff08828",
+        "document_type": "special_route",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-10T13:10:02Z",
+        "schema_name": "special_route",
+        "title": "Find your local council",
+        "web_url": "https://www.gov.uk/find-local-council",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/regional-and-local-government/local-councils",
+        "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-councils",
+        "base_path": "/regional-and-local-government/local-councils",
+        "content_id": "15191831-40b4-4f6e-ade3-e82d7c775afd",
+        "details": {
+          "internal_name": "Local councils and services [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/regional-and-local-government",
+              "api_url": "https://www.gov.uk/api/content/regional-and-local-government",
+              "base_path": "/regional-and-local-government",
+              "content_id": "503c5bc7-809a-47b9-83e2-bd0c212dbabb",
+              "description": "",
+              "details": {
+                "internal_name": "Regional and local government",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:30:05Z",
+              "schema_name": "taxon",
+              "title": "Regional and local government",
+              "web_url": "https://www.gov.uk/regional-and-local-government",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:09:40Z",
+        "schema_name": "taxon",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/regional-and-local-government/local-councils",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-05-02T16:27:19Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15546-1504182734.326-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Complain about your council",
+  "updated_at": "2024-03-01T16:02:27Z",
+  "withdrawn_notice": {
+  }
+}

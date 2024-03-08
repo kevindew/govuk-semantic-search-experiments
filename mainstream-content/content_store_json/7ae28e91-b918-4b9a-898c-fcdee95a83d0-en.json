@@ -1,0 +1,1206 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/sign-in-childcare-account",
+  "content_id": "7ae28e91-b918-4b9a-898c-fcdee95a83d0",
+  "description": "If you're a parent registered for Tax-Free Childcare or free childcare if you're working, sign in to pay into your account, reconfirm your eligibility, update your details.",
+  "details": {
+    "department_analytics_profile": "UA-43414424-25",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Use this account to get <a href=\"/check-eligible-free-childcare-if-youre-working\">free childcare if you’re working</a> or pay for your <a href=\"/help-with-childcare-costs/tax-free-childcare\">Tax-Free Childcare</a>.</p>\n\n<p>To keep getting free childcare if you’re working or Tax-Free Childcare, you must sign in every 3 months and confirm your details are up to date.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you want to get free childcare if you’re working or Tax-Free Childcare and you’re from an EU country, Switzerland, Norway, Iceland or Liechtenstein, you need <a href=\"/settled-status-eu-citizens-families\">settled or pre-settled status</a> or permission to access public funds.</p>\n</div>\n\n<p>If you’re eligible for free childcare if you’re working,  sign in to get a code to give to your childcare provider.</p>\n\n<p>If you’ve registered for Tax-Free Childcare, sign in to:</p>\n\n<ul>\n  <li>pay money into your account</li>\n  <li>pay your childcare provider</li>\n  <li>apply for a new child</li>\n</ul>\n\n<p>You’ll need the Government Gateway user ID and password you used when you applied for Tax-Free Childcare.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/mewngofnodi-ir-cyfrif-gofal-plant\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n",
+    "more_information": "<p>You sign in to your account in a different way if you’re a <a href=\"/guidance/sign-in-to-your-childcare-provider-account-for-tax-free-childcare\">childcare provider</a>.</p>\n\n<h3 id=\"if-youve-been-unable-to-use-the-service\">If you’ve been unable to use the service</h3>\n\n<p>You may be able to <a href=\"/government/publications/childcare-service-compensation\">claim compensation</a> if you’ve had technical problems with your account.</p>\n\n",
+    "start_button_text": "Sign in",
+    "transaction_start_link": "https://childcare-support.tax.service.gov.uk/par/app/trialmessage",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2017-07-26T14:05:24Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/sign-in-childcare-account",
+        "api_url": "https://www.gov.uk/api/content/sign-in-childcare-account",
+        "base_path": "/sign-in-childcare-account",
+        "content_id": "7ae28e91-b918-4b9a-898c-fcdee95a83d0",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-08-29T14:29:08Z",
+        "schema_name": "transaction",
+        "title": "Sign in to your childcare account",
+        "web_url": "https://www.gov.uk/sign-in-childcare-account",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/benefits/manage-your-benefit",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/manage-your-benefit",
+        "base_path": "/browse/benefits/manage-your-benefit",
+        "content_id": "d89b1fd0-6f3a-4675-a000-d2f0d9df21fa",
+        "description": "Sign in to your account, report changes, find out about overpayments, or appeal a decision. Includes existing Universal Credit and tax credits claims. ",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-01T14:45:34Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Manage an existing benefit, payment or claim",
+        "web_url": "https://www.gov.uk/browse/benefits/manage-your-benefit",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/childcare-parenting/childcare",
+        "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/childcare",
+        "base_path": "/browse/childcare-parenting/childcare",
+        "content_id": "1159936b-be05-44cb-b52c-87b3c9153959",
+        "description": "Finding childcare, financial support for childcare and childcare for school-age children",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:34Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Childcare",
+        "web_url": "https://www.gov.uk/browse/childcare-parenting/childcare",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/help-with-childcare-costs",
+        "api_url": "https://www.gov.uk/api/content/help-with-childcare-costs",
+        "base_path": "/help-with-childcare-costs",
+        "content_id": "1a3d4b71-78dc-41b3-97c9-965405892d2e",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/families",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/families",
+              "base_path": "/browse/benefits/families",
+              "content_id": "64e7bfb6-5213-425b-9e44-5c7eca17ad75",
+              "description": "Help if you look after children or plan to have or adopt a child. Includes Child Benefit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:25Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support for families",
+              "web_url": "https://www.gov.uk/browse/benefits/families",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/child-adoption",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/child-adoption",
+              "base_path": "/browse/births-deaths-marriages/child-adoption",
+              "content_id": "932a86f4-4916-4d9f-99cb-dfd34d7ee5d1",
+              "description": "Legal rights, birth certificates, parental rights and child maintenance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Having a child, parenting and adoption",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/child-adoption",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/childcare-parenting/childcare",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/childcare",
+              "base_path": "/browse/childcare-parenting/childcare",
+              "content_id": "1159936b-be05-44cb-b52c-87b3c9153959",
+              "description": "Finding childcare, financial support for childcare and childcare for school-age children",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+                    "base_path": "/browse/childcare-parenting",
+                    "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+                    "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-07-15T11:40:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Childcare and parenting",
+                    "web_url": "https://www.gov.uk/browse/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:34Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Childcare",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting/childcare",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/childcare-parenting/financial-help-children",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/financial-help-children",
+              "base_path": "/browse/childcare-parenting/financial-help-children",
+              "content_id": "e027612d-17f3-4183-ae8d-cde8f43dc471",
+              "description": "Includes help when having a baby or adopting, child benefit and tax credits, support for childcare",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+                    "base_path": "/browse/childcare-parenting",
+                    "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+                    "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-07-15T11:40:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Childcare and parenting",
+                    "web_url": "https://www.gov.uk/browse/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Financial help if you have children",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting/financial-help-children",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-24T16:22:50Z",
+        "schema_name": "guide",
+        "title": "Help paying for childcare",
+        "web_url": "https://www.gov.uk/help-with-childcare-costs",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D6",
+        "api_path": "/api/content/government/organisations/department-for-education",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-education",
+        "base_path": "/government/organisations/department-for-education",
+        "content_id": "ebd15ade-73b2-4eaf-b1c3-43034a42eb37",
+        "details": {
+          "acronym": "DfE",
+          "brand": "department-for-education",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db2e40f0b649cceb18c3/s960__K1E8325edit.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db2ee5274a7908e352f2/s300__K1E8325edit.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department <br/>for Education"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Education",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-education",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/childcare-parenting/childcare",
+        "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/childcare",
+        "base_path": "/browse/childcare-parenting/childcare",
+        "content_id": "1159936b-be05-44cb-b52c-87b3c9153959",
+        "description": "Finding childcare, financial support for childcare and childcare for school-age children",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/childcare-parenting",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+              "base_path": "/browse/childcare-parenting",
+              "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+              "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-07-15T11:40:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Childcare and parenting",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:34Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Childcare",
+        "web_url": "https://www.gov.uk/browse/childcare-parenting/childcare",
+        "withdrawn": false
+      }
+    ],
+    "part_of_step_navs": [
+      {
+        "api_path": "/api/content/get-tax-free-childcare",
+        "api_url": "https://www.gov.uk/api/content/get-tax-free-childcare",
+        "base_path": "/get-tax-free-childcare",
+        "content_id": "d78aeaf6-1747-4d72-9619-f16efb4dd89d",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/tax-free-childcare",
+                        "text": "Check if you're eligible for Tax-Free Childcare"
+                      },
+                      {
+                        "href": "/help-with-childcare-costs",
+                        "text": "Find out what types of childcare you can use"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check you're eligible"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Your tax credits will stop immediately if you successfully apply for Tax-Free Childcare. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "You (and your partner, if you have one) will also have to cancel your Universal Credit and childcare vouchers.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "Before you apply, check if it's the right option for you. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/childcare-calculator",
+                        "text": "Check if you'll be better off"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check if you'll be better off"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "There's one application for Tax-Free Childcare and free childcare if you're working. As part of your application, you will find out if you can get both.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/apply-for-tax-free-childcare",
+                        "text": "Apply online for Tax-Free Childcare"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "If you're eligible you'll get a childcare account. You can use this to pay your childcare provider.",
+                    "type": "paragraph"
+                  }
+                ],
+                "title": "Apply for Tax-Free Childcare"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/sign-in-childcare-account",
+                        "text": "Sign in to your childcare account"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Sign in to your account to pay your childcare provider"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must confirm your details are up to date every 3 months.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/sign-in-childcare-account",
+                        "text": "Sign in to your childcare account to confirm your details"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Reconfirm your details every 3 months"
+              }
+            ],
+            "title": "Get Tax-Free Childcare: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/sign-in-childcare-account",
+              "api_url": "https://www.gov.uk/api/content/sign-in-childcare-account",
+              "base_path": "/sign-in-childcare-account",
+              "content_id": "7ae28e91-b918-4b9a-898c-fcdee95a83d0",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2017-08-29T14:29:08Z",
+              "schema_name": "transaction",
+              "title": "Sign in to your childcare account",
+              "web_url": "https://www.gov.uk/sign-in-childcare-account",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-21T11:22:00Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Get Tax-Free Childcare: step by step",
+        "web_url": "https://www.gov.uk/get-tax-free-childcare",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/get-free-childcare-if-youre-working",
+        "api_url": "https://www.gov.uk/api/content/get-free-childcare-if-youre-working",
+        "base_path": "/get-free-childcare-if-youre-working",
+        "content_id": "f517cd57-3c18-4bb9-aa8b-1b907e279bf9",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/check-eligible-free-childcare-if-youre-working",
+                        "text": "Check if you're eligible for free childcare if you're working"
+                      },
+                      {
+                        "href": "/help-with-childcare-costs",
+                        "text": "Find out what types of childcare you can use"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check you're eligible"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Getting free childcare might affect how much you get in tax credits.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/childcare-calculator",
+                        "text": "Check if you’ll be better off"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check if you'll be better off"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "There's one application for free childcare if you're working and Tax-Free Childcare. As part of your application, you will find out if you can get both.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/apply-free-childcare-if-youre-working",
+                        "text": "Apply online"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "If you're eligible you'll get a childcare account and a code for free childcare.",
+                    "type": "paragraph"
+                  }
+                ],
+                "title": "Apply for free childcare if you're working"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Give the code in your childcare account to your provider along with:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "text": "your National Insurance number"
+                      },
+                      {
+                        "text": "your child's date of birth"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "title": "Give your code to your childcare provider"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must confirm your details are up to date every 3 months or your code will expire.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/sign-in-childcare-account",
+                        "text": "Sign in to your childcare account to confirm your details"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Sign in to your account to reconfirm your details"
+              }
+            ],
+            "title": "Get free childcare if you're working: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/sign-in-childcare-account",
+              "api_url": "https://www.gov.uk/api/content/sign-in-childcare-account",
+              "base_path": "/sign-in-childcare-account",
+              "content_id": "7ae28e91-b918-4b9a-898c-fcdee95a83d0",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2017-08-29T14:29:08Z",
+              "schema_name": "transaction",
+              "title": "Sign in to your childcare account",
+              "web_url": "https://www.gov.uk/sign-in-childcare-account",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-01T17:21:43Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Get free childcare if you're working: step by step",
+        "web_url": "https://www.gov.uk/get-free-childcare-if-youre-working",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/get-childcare",
+        "api_url": "https://www.gov.uk/api/content/get-childcare",
+        "base_path": "/get-childcare",
+        "content_id": "f237ec8e-e82c-4ffa-8fba-2a88a739783b",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/childcare-calculator",
+                        "text": "Check what help you could get with childcare costs"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You can only get help with 'approved childcare'. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/help-with-childcare-costs",
+                        "text": "Find out what 'approved childcare' is"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Find out if you can get help with childcare costs"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/find-nursery-school-place",
+                        "text": "Find a nursery school place"
+                      },
+                      {
+                        "href": "/find-registered-childminder",
+                        "text": "Find a registered childminder"
+                      },
+                      {
+                        "href": "/find-free-early-education",
+                        "text": "Search for free early education and childcare"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Find where you can get childcare"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You can get help with childcare costs for children under 18. You might be able to apply for:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/get-tax-free-childcare",
+                        "text": "Tax-Free Childcare"
+                      },
+                      {
+                        "href": "/help-with-childcare-costs/tax-credits",
+                        "text": "tax credits"
+                      },
+                      {
+                        "href": "/help-with-childcare-costs/universal-credit",
+                        "text": "Universal Credit"
+                      },
+                      {
+                        "href": "/help-with-childcare-costs/support-while-you-study",
+                        "text": "help while you study"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "text": "You could also get free hours childcare when your child is aged 2 to 4. You might be able to apply for:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/help-with-childcare-costs/free-childcare-2-year-olds",
+                        "text": "free education and childcare for 2 year olds"
+                      },
+                      {
+                        "href": "/help-with-childcare-costs/free-childcare-and-education-for-2-to-4-year-olds",
+                        "text": "15 hours free childcare for 3 to 4 year olds"
+                      },
+                      {
+                        "href": "/get-free-childcare-if-youre-working",
+                        "text": "free childcare if you're working"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "text": "You can only get childcare vouchers if you have already joined a scheme.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/help-with-childcare-costs/childcare-vouchers",
+                        "text": "Check the rules for childcare vouchers"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Get help paying for childcare"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Tell government straight away if your circumstances change and you're getting:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/changes-affect-tax-credits",
+                        "text": "tax credits"
+                      },
+                      {
+                        "href": "/universal-credit/changes-of-circumstances",
+                        "text": "Universal Credit"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "text": "If you're getting free childcare if you're working or Tax-Free Childcare you have to confirm if your details are up to date every 3 months.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/sign-in-childcare-account",
+                        "text": "Sign into your childcare account to find out when you next have to check your details"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "Your eligibility for support with childcare costs might also change. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/childcare-calculator",
+                        "text": "Check if your eligibility for help with childcare costs has changed"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check what to do if your circumstances change"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/schools-admissions/applying",
+                        "text": "Apply for a primary school place"
+                      },
+                      {
+                        "href": "/after-school-holiday-club",
+                        "text": "Find before and after school and holiday clubs"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You might be able to use help like tax credits or Tax-Free Childcare to pay for childcare like wraparound care, after school clubs or other activities.",
+                    "type": "paragraph"
+                  }
+                ],
+                "title": "Check what to do when your child reaches school age"
+              }
+            ],
+            "title": "Get childcare: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/sign-in-childcare-account",
+              "api_url": "https://www.gov.uk/api/content/sign-in-childcare-account",
+              "base_path": "/sign-in-childcare-account",
+              "content_id": "7ae28e91-b918-4b9a-898c-fcdee95a83d0",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2017-08-29T14:29:08Z",
+              "schema_name": "transaction",
+              "title": "Sign in to your childcare account",
+              "web_url": "https://www.gov.uk/sign-in-childcare-account",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-19T12:09:02Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Get childcare: step by step",
+        "web_url": "https://www.gov.uk/get-childcare",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/get-tax-free-childcare",
+        "api_url": "https://www.gov.uk/api/content/get-tax-free-childcare",
+        "base_path": "/get-tax-free-childcare",
+        "content_id": "d78aeaf6-1747-4d72-9619-f16efb4dd89d",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/tax-free-childcare",
+                        "text": "Check if you're eligible for Tax-Free Childcare"
+                      },
+                      {
+                        "href": "/help-with-childcare-costs",
+                        "text": "Find out what types of childcare you can use"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check you're eligible"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Your tax credits will stop immediately if you successfully apply for Tax-Free Childcare. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "You (and your partner, if you have one) will also have to cancel your Universal Credit and childcare vouchers.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "Before you apply, check if it's the right option for you. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/childcare-calculator",
+                        "text": "Check if you'll be better off"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check if you'll be better off"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "There's one application for Tax-Free Childcare and free childcare if you're working. As part of your application, you will find out if you can get both.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/apply-for-tax-free-childcare",
+                        "text": "Apply online for Tax-Free Childcare"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "If you're eligible you'll get a childcare account. You can use this to pay your childcare provider.",
+                    "type": "paragraph"
+                  }
+                ],
+                "title": "Apply for Tax-Free Childcare"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/sign-in-childcare-account",
+                        "text": "Sign in to your childcare account"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Sign in to your account to pay your childcare provider"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must confirm your details are up to date every 3 months.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/sign-in-childcare-account",
+                        "text": "Sign in to your childcare account to confirm your details"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Reconfirm your details every 3 months"
+              }
+            ],
+            "title": "Get Tax-Free Childcare: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-21T11:22:00Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Get Tax-Free Childcare: step by step",
+        "web_url": "https://www.gov.uk/get-tax-free-childcare",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/help-with-childcare-costs",
+        "api_url": "https://www.gov.uk/api/content/help-with-childcare-costs",
+        "base_path": "/help-with-childcare-costs",
+        "content_id": "1a3d4b71-78dc-41b3-97c9-965405892d2e",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-24T16:22:50Z",
+        "schema_name": "guide",
+        "title": "Help paying for childcare",
+        "web_url": "https://www.gov.uk/help-with-childcare-costs",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/get-free-childcare-if-youre-working",
+        "api_url": "https://www.gov.uk/api/content/get-free-childcare-if-youre-working",
+        "base_path": "/get-free-childcare-if-youre-working",
+        "content_id": "f517cd57-3c18-4bb9-aa8b-1b907e279bf9",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/check-eligible-free-childcare-if-youre-working",
+                        "text": "Check if you're eligible for free childcare if you're working"
+                      },
+                      {
+                        "href": "/help-with-childcare-costs",
+                        "text": "Find out what types of childcare you can use"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check you're eligible"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Getting free childcare might affect how much you get in tax credits.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/childcare-calculator",
+                        "text": "Check if you’ll be better off"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check if you'll be better off"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "There's one application for free childcare if you're working and Tax-Free Childcare. As part of your application, you will find out if you can get both.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/apply-free-childcare-if-youre-working",
+                        "text": "Apply online"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "If you're eligible you'll get a childcare account and a code for free childcare.",
+                    "type": "paragraph"
+                  }
+                ],
+                "title": "Apply for free childcare if you're working"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Give the code in your childcare account to your provider along with:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "text": "your National Insurance number"
+                      },
+                      {
+                        "text": "your child's date of birth"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "title": "Give your code to your childcare provider"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must confirm your details are up to date every 3 months or your code will expire.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/sign-in-childcare-account",
+                        "text": "Sign in to your childcare account to confirm your details"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Sign in to your account to reconfirm your details"
+              }
+            ],
+            "title": "Get free childcare if you're working: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-01T17:21:43Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Get free childcare if you're working: step by step",
+        "web_url": "https://www.gov.uk/get-free-childcare-if-youre-working",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-free-childcare-if-youre-working",
+        "api_url": "https://www.gov.uk/api/content/apply-free-childcare-if-youre-working",
+        "base_path": "/apply-free-childcare-if-youre-working",
+        "content_id": "69b3d566-7fce-405f-849f-21b852878733",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-07-06T16:21:41Z",
+        "schema_name": "transaction",
+        "title": "Apply for free childcare if you're working",
+        "web_url": "https://www.gov.uk/apply-free-childcare-if-youre-working",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/tax-free-childcare",
+        "api_url": "https://www.gov.uk/api/content/tax-free-childcare",
+        "base_path": "/tax-free-childcare",
+        "content_id": "6e2a4012-2448-47fd-b7ec-a47396e4b114",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-01-11T09:00:06Z",
+        "schema_name": "answer",
+        "title": "Tax-Free Childcare",
+        "web_url": "https://www.gov.uk/tax-free-childcare",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/childcare-parenting",
+        "api_url": "https://www.gov.uk/api/content/childcare-parenting",
+        "base_path": "/childcare-parenting",
+        "content_id": "206b7f3a-49b5-476f-af0f-fd27e2a68473",
+        "description": "Financial support, finding and providing childcare, pregnancy and birth, adoption and fostering, looked-after children, safeguarding.",
+        "details": {
+          "internal_name": "Parenting, childcare and childrens services",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": true
+        },
+        "document_type": "taxon",
+        "links": {
+          "root_taxon": [
+            {
+              "api_path": "/api/content/",
+              "api_url": "https://www.gov.uk/api/content/",
+              "base_path": "/",
+              "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+              "document_type": "homepage",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-06-28T09:32:34Z",
+              "schema_name": "homepage",
+              "title": "GOV.UK homepage",
+              "web_url": "https://www.gov.uk/",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2017-07-27T13:29:23Z",
+        "schema_name": "taxon",
+        "title": "Parenting, childcare and children's services ",
+        "web_url": "https://www.gov.uk/childcare-parenting",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-08-29T14:29:08Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1703090416.260-10.13.21.84-9314",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Sign in to your childcare account",
+  "updated_at": "2024-02-01T17:21:53Z",
+  "withdrawn_notice": {
+  }
+}

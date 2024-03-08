@@ -1,0 +1,973 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/claim-national-insurance-refund",
+  "content_id": "75bc16ab-5aec-4816-af53-5204c3b24bcc",
+  "description": "Claim a refund on the National Insurance (NI) you’ve paid to HM Revenue and Customs (HMRC).",
+  "details": {
+    "body": "<p>This tool helps you apply for a refund on your National Insurance contributions from HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>).</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This page is also available <a href=\"/hawlio-ad-daliad-yswiriant-gwladol\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<h2 id=\"what-you-need-to-know\">What you need to know</h2>\n\n<p>There are <a href=\"/national-insurance/national-insurance-classes\">different classes of National Insurance</a>. You’ll be asked what class your refund is for.</p>\n\n",
+    "external_related_links": [
+
+    ],
+    "nodes": [
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Class 1 – you pay this if you're an employee under State Pension age earning more than £242 a week from one job",
+            "next_node": "question-12",
+            "slug": "class-1-you-pay-this-if-you-re-an-employee-under-state-pension-age-earning-more-than-242-a-week-from-one-job"
+          },
+          {
+            "label": "Class 2 – a fixed weekly amount you pay if you're self-employed and earning profits of more than £12,570 a year",
+            "next_node": "question-10",
+            "slug": "class-2-a-fixed-weekly-amount-you-pay-if-you-re-self-employed-and-earning-profits-of-more-than-12-570-a-year"
+          },
+          {
+            "label": "Class 3 – voluntary contributions that you can pay to fill or avoid gaps in your National Insurance record",
+            "next_node": "outcome-2",
+            "slug": "class-3-voluntary-contributions-that-you-can-pay-to-fill-or-avoid-gaps-in-your-national-insurance-record"
+          },
+          {
+            "label": "Class 4 – you pay this if you're self employed and earning profits of more than £12,570 a year (alongside Class 2 contributions)",
+            "next_node": "question-11",
+            "slug": "class-4-you-pay-this-if-you-re-self-employed-and-earning-profits-of-more-than-12-570-a-year-alongside-class-2-contributions"
+          }
+        ],
+        "slug": "question-1",
+        "title": "Which class of National Insurance do you want a refund for?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "You should not have paid this class",
+            "next_node": "outcome-5",
+            "slug": "you-should-not-have-paid-this-class"
+          },
+          {
+            "label": "You paid too much of this class",
+            "next_node": "outcome-7",
+            "slug": "you-paid-too-much-of-this-class"
+          }
+        ],
+        "slug": "question-10",
+        "title": "Why are you applying for a refund?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "You shouldn't have paid this class",
+            "next_node": "outcome-3",
+            "slug": "you-shouldn-t-have-paid-this-class"
+          },
+          {
+            "label": "You paid too much of this class",
+            "next_node": "outcome-4",
+            "slug": "you-paid-too-much-of-this-class"
+          }
+        ],
+        "slug": "question-11",
+        "title": "Why are you applying for a refund?"
+      },
+      {
+        "body": "<p>If the National Insurance contributions shown on your payslips did not decrease between November 2022 and April 2023 (and your income did not change), you may be due a refund for the 6 November 2022 rate reduction.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "You need a refund because of the 6 November 2022 rate reduction",
+            "next_node": "question-13",
+            "slug": "you-need-a-refund-because-of-the-6-november-2022-rate-reduction"
+          },
+          {
+            "label": "You had more than one job and may have paid too much National Insurance",
+            "next_node": "outcome-15",
+            "slug": "you-had-more-than-one-job-and-may-have-paid-too-much-national-insurance"
+          },
+          {
+            "label": "You need a refund for another reason",
+            "next_node": "question-14",
+            "slug": "you-need-a-refund-for-another-reason"
+          }
+        ],
+        "slug": "question-12",
+        "title": "Why are you applying for a refund?"
+      },
+      {
+        "body": "<p>The fastest way of claiming a refund of overpaid Class 1 National Insurance is through your current employer, or previous employer if you’ve left that job.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes, and my employer was not able to give me a refund",
+            "next_node": "outcome-8",
+            "slug": "yes-and-my-employer-was-not-able-to-give-me-a-refund"
+          },
+          {
+            "label": "No, I have not asked my employer",
+            "next_node": "outcome-10",
+            "slug": "no-i-have-not-asked-my-employer"
+          }
+        ],
+        "slug": "question-13",
+        "title": "Have you asked your employer for a refund?"
+      },
+      {
+        "body": "<p>The fastest way of claiming a refund of overpaid Class 1 National Insurance is through your current employer, or previous employer if you’ve left that job.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes, and my employer was not able to give me a refund",
+            "next_node": "outcome-1",
+            "slug": "yes-and-my-employer-was-not-able-to-give-me-a-refund"
+          },
+          {
+            "label": "No, I have not asked my employer",
+            "next_node": "outcome-16",
+            "slug": "no-i-have-not-asked-my-employer"
+          }
+        ],
+        "slug": "question-14",
+        "title": "Have you asked your employer for a refund?"
+      },
+      {
+        "body": "<p>Write to HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) after the end of the tax year you’re claiming for. A tax year runs from 6 April to the following 5 April.</p>\n\n<p>You’ll need to tell them:</p>\n\n<ul>\n  <li>your full name</li>\n  <li>your address</li>\n  <li>your employer’s name</li>\n  <li>your <a href=\"/national-insurance/your-national-insurance-number\">National Insurance number</a>\n</li>\n  <li>why you overpaid</li>\n  <li>which tax year or years you overpaid in</li>\n  <li>how much tax and National Insurance you paid in the tax year or years you’re claiming for – <a href=\"/paye-forms-p45-p60-p11d/p60\">include your P60</a> or a statement from your employer</li>\n  <li>why you cannot get the refund from your employer</li>\n  <li>the bank account sort code, account number and name of the account holder for any refund to be paid into</li>\n</ul>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nHM Revenue and Customs   \n<br>National Insurance Contributions and Employer Office   \n<br>BX9 1AN   \n<br>\n</p></div></div>\n\n<p><a href=\"/contact/hm-revenue-customs/national-insurance-enquiries-for-employees-and-individuals\">Contact <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> if you need help. The telephone number is different <a href=\"/contact/hm-revenue-customs/national-insurance-enquiries-for-non-uk-residents\">if you live abroad</a>.</p>\n\n<p>You can <a href=\"/guidance/check-when-you-can-expect-a-reply-from-hmrc\">check when you can expect a reply from <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> after you’ve claimed.</p>\n\n<h2 id=\"deadline-for-claiming\">Deadline for claiming</h2>\n\n<p>You must claim the refund within 6 years if you overpaid because:</p>\n\n<ul>\n  <li>you should not have paid National Insurance, for example you’re <a href=\"/calculate-state-pension\">State Pension age</a>\n</li>\n  <li>you paid the wrong <a href=\"/national-insurance-rates-letters/category-letters\">National Insurance rate</a>\n</li>\n  <li>your employer made a mistake</li>\n</ul>\n\n<p>You may be able to claim after this deadline if you have a reasonable excuse.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There is no time limit to claim if you overpaid because you had more than one job.</p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-1",
+        "title": "What you need to do"
+      },
+      {
+        "body": "<p>Write to HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) confirming:</p>\n\n<ul>\n  <li>your National Insurance number</li>\n  <li>why you want a refund</li>\n  <li>the tax year(s) you want a refund for</li>\n</ul>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nHM Revenue and Customs \n<br>National Insurance Contributions and Employer Office \n<br>BX9 1AN\n<br>\n</p></div></div>\n\n<p>You should apply within 6 years of the tax year you’re claiming for.</p>\n\n<p><a href=\"/contact/hm-revenue-customs/national-insurance-enquiries-for-employees-and-individuals\">Contact <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> if you need help. The telephone \nnumber is different <a href=\"/contact/hm-revenue-customs/national-insurance-enquiries-for-non-uk-residents\">if you live abroad</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-2",
+        "title": "What you need to do"
+      },
+      {
+        "body": "<p><a href=\"/contact/hm-revenue-customs/self-assessment\">Contact the Self Assessment Helpline</a> within 5 years of the tax year you’re applying for.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-3",
+        "title": "Contact the Self Assessment Helpline"
+      },
+      {
+        "body": "<p>Fill in <a href=\"/government/publications/national-insurance-application-for-refund-of-class-4-national-insurance-contributions-ca5610\">form CA5610</a> to apply for a Class 4 refund.</p>\n\n<p>You should do this after 1 February following the tax year you’re claiming for. There’s no time limit to claiming a refund.</p>\n\n<div class=\"contact\">\n<p><strong>Deferment Services Helpline</strong><br>\nTelephone: 03000 560631<br>\nMonday to Thursday, 8am to 5pm<br>\nFriday, 8am to 4:30pm<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-4",
+        "title": "What you need to do"
+      },
+      {
+        "body": "<p>Fill in <a href=\"/government/publications/national-insurance-application-for-a-refund-of-class-2-national-insurance-contributions-ca8480\">form CA8480</a> to apply for a Class 2 refund.</p>\n\n<p>You should do this within 6 years of the tax year you’re applying for.</p>\n\n<h3 id=\"help\">Help</h3>\n\n<p><a href=\"/contact/hm-revenue-customs/national-insurance-enquiries-for-the-self-employed\">Contact <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> if you need help. The telephone number is different <a href=\"/contact/hm-revenue-customs/national-insurance-enquiries-for-non-uk-residents\">if you live abroad</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-5",
+        "title": "What you need to do"
+      },
+      {
+        "body": "<p>Write to HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) confirming:</p>\n\n<ul>\n  <li>your National Insurance number</li>\n  <li>why you’ve overpaid</li>\n  <li>the tax year(s) you’ve overpaid</li>\n  <li>your earnings, for example a copy of the accounts for the tax year(s)</li>\n</ul>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nHM Revenue and Customs   \n<br>National Insurance Contributions and Employer Office   \n<br>BX9 1AN   \n<br>\n</p></div></div>\n\n<p><a href=\"/contact/hm-revenue-customs/national-insurance-enquiries-for-the-self-employed\">Contact <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> to find out the deadline.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-7",
+        "title": "What you need to do"
+      },
+      {
+        "body": "<h2 id=\"apply-online\">Apply online</h2>\n\n<p>To apply online, you will need:</p>\n\n<ul>\n  <li>your National Insurance number</li>\n  <li>the Pay As You Earn (PAYE) reference number for the employment you are asking about (in the format 123/X39H).</li>\n  <li>the bank account name, sort code and account number for any refund to be paid into</li>\n</ul>\n\n<p>If you became a director during the tax year 2022 to 2023, you will also need to provide your start date.</p>\n\n<p><a rel=\"external\" href=\"https://www.tax.service.gov.uk/submissions/new-form/ask-hmrc-to-check-if-you-have-paid-too-much-national-insurance-in-2022-2023\">Apply online by signing in to your Government Gateway account</a>.</p>\n\n<h2 id=\"apply-by-post\">Apply by post</h2>\n\n<p>Write to HM Revenue and Customs (HMRC) confirming:</p>\n\n<ul>\n  <li>your National Insurance number</li>\n  <li>why you want a refund</li>\n  <li>which tax year or years you overpaid in</li>\n  <li>how much tax and National Insurance you paid in the tax years you’re claiming for - include your P60 or a statement from your employer</li>\n  <li>why you cannot get the refund from your employer</li>\n  <li>bank account name, sort code and account number for any refund to be paid into</li>\n</ul>\n\n<p>You will need to include the reference ‘NILEVY061122’ in your letter.</p>\n\n<p>If you became a director during the tax year 2022 to 2023, you will also need to provide your start date.</p>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nHM Revenue and Customs \n<br>National Insurance Contributions and Employer Office \n<br>BX9 1AN\n<br>\n</p></div></div>\n\n<h2 id=\"get-help\">Get help</h2>\n\n<p><a href=\"/contact/hm-revenue-customs/national-insurance-enquiries-for-employees-and-individuals\">Contact HMRC</a> if you need help. The telephone number is different <a href=\"/contact/hm-revenue-customs/national-insurance-enquiries-for-non-uk-residents\">if you live abroad</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-8",
+        "title": "Apply for a refund because of the rate reduction"
+      },
+      {
+        "body": "<p>Contact the employer you were working for at the time and ask them to correct their Full Payment Submission. They’ll usually be able to refund you using their payroll software system.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-10",
+        "title": "Ask your employer for a refund"
+      },
+      {
+        "body": "<p>Write to HM Revenue and Customs (HMRC) after the end of the tax year you’re claiming for. A tax year runs from 6 April to the following 5 April.</p>\n\n<p>You’ll need to tell them:</p>\n\n<ul>\n  <li>your National Insurance number</li>\n  <li>why you overpaid</li>\n  <li>which tax year or years you overpaid in</li>\n  <li>how much tax and National Insurance you paid in the tax year or years you’re claiming for - <a href=\"/paye-forms-p45-p60-p11d/p60\">include your P60</a> or a statement from your employer</li>\n  <li>the bank account name, sort code and account number for any refund to be paid into</li>\n</ul>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nHM Revenue and Customs  \n<br>National Insurance Contributions and Employer Office  \n<br>BX9 1AN\n<br>\n</p></div></div>\n\n<h2 id=\"deadline-for-claiming\">Deadline for claiming</h2>\n\n<p>There’s no time limit for claiming if you overpaid because you had more than one job.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-15",
+        "title": "What you need to do"
+      },
+      {
+        "body": "<p>Contact the employer you were working for at the time and ask them to correct their Full Payment Submission. They’ll usually be able to refund you using their payroll software system.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-16",
+        "title": "What you need to do"
+      }
+    ],
+    "start_button_text": "Start now"
+  },
+  "document_type": "simple_smart_answer",
+  "first_published_at": "2014-02-03T14:03:30Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/claim-national-insurance-refund",
+        "api_url": "https://www.gov.uk/api/content/claim-national-insurance-refund",
+        "base_path": "/claim-national-insurance-refund",
+        "content_id": "75bc16ab-5aec-4816-af53-5204c3b24bcc",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-10-31T17:04:43Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Claim a National Insurance refund",
+        "web_url": "https://www.gov.uk/claim-national-insurance-refund",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/national-insurance-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/national-insurance-detailed-information",
+        "base_path": "/government/collections/national-insurance-detailed-information",
+        "content_id": "b9320dc1-a423-4cd9-accf-58d7f60e4ab9",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/claim-national-insurance-refund",
+              "api_url": "https://www.gov.uk/api/content/claim-national-insurance-refund",
+              "base_path": "/claim-national-insurance-refund",
+              "content_id": "75bc16ab-5aec-4816-af53-5204c3b24bcc",
+              "document_type": "simple_smart_answer",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2016-10-31T17:04:43Z",
+              "schema_name": "simple_smart_answer",
+              "title": "Claim a National Insurance refund",
+              "web_url": "https://www.gov.uk/claim-national-insurance-refund",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-08T00:00:00Z",
+        "schema_name": "document_collection",
+        "title": "National Insurance: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/national-insurance-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/national-insurance",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+        "base_path": "/browse/tax/national-insurance",
+        "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+        "description": "Voluntary contributions and credits, numbers, rates and classes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "National Insurance",
+        "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/national-insurance",
+        "api_url": "https://www.gov.uk/api/content/national-insurance",
+        "base_path": "/national-insurance",
+        "content_id": "c995522c-4020-4d54-ae5d-271d4b3a8777",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+              "base_path": "/browse/tax/national-insurance",
+              "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+              "description": "Voluntary contributions and credits, numbers, rates and classes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/tax-minimum-wage",
+              "api_url": "https://www.gov.uk/api/content/browse/working/tax-minimum-wage",
+              "base_path": "/browse/working/tax-minimum-wage",
+              "content_id": "a3e4b233-e2f3-4709-b531-8da7f21a3f6d",
+              "description": "Includes National Minimum Wage rates, keeping pay records and pay rights",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Your pay, tax and the National Minimum Wage",
+              "web_url": "https://www.gov.uk/browse/working/tax-minimum-wage",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-15T17:11:10Z",
+        "schema_name": "guide",
+        "title": "National Insurance: introduction",
+        "web_url": "https://www.gov.uk/national-insurance",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/national-insurance-credits",
+        "api_url": "https://www.gov.uk/api/content/national-insurance-credits",
+        "base_path": "/national-insurance-credits",
+        "content_id": "84b8f145-e877-41d7-bd51-305b0aeabd00",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/working/state-pension",
+              "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+              "base_path": "/browse/working/state-pension",
+              "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+              "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:19Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "State Pension",
+              "web_url": "https://www.gov.uk/browse/working/state-pension",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+              "base_path": "/browse/tax/national-insurance",
+              "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+              "description": "Voluntary contributions and credits, numbers, rates and classes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-18T23:28:36Z",
+        "schema_name": "guide",
+        "title": "National Insurance credits",
+        "web_url": "https://www.gov.uk/national-insurance-credits",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/national-insurance-rates-letters",
+        "api_url": "https://www.gov.uk/api/content/national-insurance-rates-letters",
+        "base_path": "/national-insurance-rates-letters",
+        "content_id": "0cdbefbb-257a-40f9-97c4-eaef93e163fa",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/payroll",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+              "base_path": "/browse/employing-people/payroll",
+              "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+              "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:57:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Payroll",
+              "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+              "base_path": "/browse/tax/national-insurance",
+              "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+              "description": "Voluntary contributions and credits, numbers, rates and classes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-22T13:10:17Z",
+        "schema_name": "guide",
+        "title": "National Insurance rates and categories",
+        "web_url": "https://www.gov.uk/national-insurance-rates-letters",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D10",
+        "api_path": "/api/content/government/organisations/department-for-work-pensions",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-work-pensions",
+        "base_path": "/government/organisations/department-for-work-pensions",
+        "content_id": "b548a09f-8b35-4104-89f4-f1a40bf3136d",
+        "details": {
+          "acronym": "DWP",
+          "brand": "department-for-work-pensions",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab1e5274a7908e35204/s960_dwp-caxton-house-logo-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab040f0b649cfaf7b4b/s300_dwp-caxton-house-logo-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Work &amp; <br/>Pensions"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Work and Pensions",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/national-insurance",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+        "base_path": "/browse/tax/national-insurance",
+        "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+        "description": "Voluntary contributions and credits, numbers, rates and classes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "National Insurance",
+        "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/national-insurance",
+        "api_url": "https://www.gov.uk/api/content/national-insurance",
+        "base_path": "/national-insurance",
+        "content_id": "c995522c-4020-4d54-ae5d-271d4b3a8777",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-15T17:11:10Z",
+        "schema_name": "guide",
+        "title": "National Insurance: introduction",
+        "web_url": "https://www.gov.uk/national-insurance",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/national-insurance-rates-letters",
+        "api_url": "https://www.gov.uk/api/content/national-insurance-rates-letters",
+        "base_path": "/national-insurance-rates-letters",
+        "content_id": "0cdbefbb-257a-40f9-97c4-eaef93e163fa",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-22T13:10:17Z",
+        "schema_name": "guide",
+        "title": "National Insurance rates and categories",
+        "web_url": "https://www.gov.uk/national-insurance-rates-letters",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-national-insurance-record",
+        "api_url": "https://www.gov.uk/api/content/check-national-insurance-record",
+        "base_path": "/check-national-insurance-record",
+        "content_id": "cb366ff9-c541-4497-acc6-8f643c901e85",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-24T16:00:51Z",
+        "schema_name": "transaction",
+        "title": "Check your National Insurance record",
+        "web_url": "https://www.gov.uk/check-national-insurance-record",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/national-insurance-credits",
+        "api_url": "https://www.gov.uk/api/content/national-insurance-credits",
+        "base_path": "/national-insurance-credits",
+        "content_id": "84b8f145-e877-41d7-bd51-305b0aeabd00",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-18T23:28:36Z",
+        "schema_name": "guide",
+        "title": "National Insurance credits",
+        "web_url": "https://www.gov.uk/national-insurance-credits",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/claim-tax-refund",
+        "api_url": "https://www.gov.uk/api/content/claim-tax-refund",
+        "base_path": "/claim-tax-refund",
+        "content_id": "2df6d0c1-c3d4-4c44-ae5e-ee046446819e",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-09T11:54:16Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Check how to claim a tax refund",
+        "web_url": "https://www.gov.uk/claim-tax-refund",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/personal-tax-national-insurance-refunds",
+        "api_url": "https://www.gov.uk/api/content/money/personal-tax-national-insurance-refunds",
+        "base_path": "/money/personal-tax-national-insurance-refunds",
+        "content_id": "73153251-39a7-45a7-b5d0-ee7e79566ca7",
+        "details": {
+          "internal_name": "Refunds [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/money/national-insurance",
+              "base_path": "/money/national-insurance",
+              "content_id": "cc195f93-4244-489a-97e9-22480113c770",
+              "details": {
+                "internal_name": "National Insurance [T] (money)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money/personal-tax",
+                    "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+                    "base_path": "/money/personal-tax",
+                    "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+                    "details": {
+                      "internal_name": "Personal tax [T]",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/money",
+                          "api_url": "https://www.gov.uk/api/content/money",
+                          "base_path": "/money",
+                          "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Money",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T20:35:25Z",
+                          "schema_name": "taxon",
+                          "title": "Money",
+                          "web_url": "https://www.gov.uk/money",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-05T16:19:54Z",
+                    "schema_name": "taxon",
+                    "title": "Personal tax",
+                    "web_url": "https://www.gov.uk/money/personal-tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/money/national-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:54Z",
+        "schema_name": "taxon",
+        "title": "Refunds",
+        "web_url": "https://www.gov.uk/money/personal-tax-national-insurance-refunds",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/national-insurance",
+        "api_url": "https://www.gov.uk/api/content/money/national-insurance",
+        "base_path": "/money/national-insurance",
+        "content_id": "cc195f93-4244-489a-97e9-22480113c770",
+        "details": {
+          "internal_name": "National Insurance [T] (money)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:54Z",
+        "schema_name": "taxon",
+        "title": "National Insurance",
+        "web_url": "https://www.gov.uk/money/national-insurance",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-10-31T17:04:43Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1709806949.476-10.13.22.231-29727",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "simple_smart_answer",
+  "title": "Claim a National Insurance refund",
+  "updated_at": "2024-03-07T10:22:31Z",
+  "withdrawn_notice": {
+  }
+}

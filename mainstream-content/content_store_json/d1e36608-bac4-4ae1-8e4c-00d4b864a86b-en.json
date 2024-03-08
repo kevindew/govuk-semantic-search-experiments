@@ -1,0 +1,460 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/recycling-bin",
+  "content_id": "d1e36608-bac4-4ae1-8e4c-00d4b864a86b",
+  "description": "Find out how to get a recycling bin from your local council",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Contact your local council if you need a recycling bin.</p>\n",
+    "lgil_code": 0,
+    "lgsl_code": 533,
+    "more_information": "\n",
+    "need_to_know": "<ul>\n  <li>Available in England and Wales only</li>\n</ul>\n",
+    "service_tiers": [
+      "district",
+      "unitary"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2012-09-20T12:14:03Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/recycling-bin",
+        "api_url": "https://www.gov.uk/api/content/recycling-bin",
+        "base_path": "/recycling-bin",
+        "content_id": "d1e36608-bac4-4ae1-8e4c-00d4b864a86b",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-11T16:51:19Z",
+        "schema_name": "local_transaction",
+        "title": "Get a recycling bin",
+        "web_url": "https://www.gov.uk/recycling-bin",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/recycling-rubbish",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/recycling-rubbish",
+        "base_path": "/browse/housing-local-services/recycling-rubbish",
+        "content_id": "f4267150-2591-4c47-856a-25795c71f303",
+        "description": "Includes collecting large waste items, garden waste and reporting problems",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Recycling and rubbish",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/recycling-rubbish",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/recycling-collections",
+        "api_url": "https://www.gov.uk/api/content/recycling-collections",
+        "base_path": "/recycling-collections",
+        "content_id": "6e67c505-8779-459f-90b9-fda5c35204e4",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/environment-countryside/recycling-waste-management",
+              "api_url": "https://www.gov.uk/api/content/browse/environment-countryside/recycling-waste-management",
+              "base_path": "/browse/environment-countryside/recycling-waste-management",
+              "content_id": "e1f95744-84d0-4b0e-9440-276362406572",
+              "description": "Your responsibilities, hazardous waste and report an environmental incident",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/environment-countryside",
+                    "api_url": "https://www.gov.uk/api/content/browse/environment-countryside",
+                    "base_path": "/browse/environment-countryside",
+                    "content_id": "26b81913-d58a-47be-80b7-1e947212779a",
+                    "description": "Includes flooding, recycling, farming and wildlife",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-08-02T10:48:20Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Environment and countryside",
+                    "web_url": "https://www.gov.uk/browse/environment-countryside",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-22T09:27:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Waste management",
+              "web_url": "https://www.gov.uk/browse/environment-countryside/recycling-waste-management",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/local-councils",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+              "base_path": "/browse/housing-local-services/local-councils",
+              "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+              "description": "Find and access local services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Local councils and services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/recycling-rubbish",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/recycling-rubbish",
+              "base_path": "/browse/housing-local-services/recycling-rubbish",
+              "content_id": "f4267150-2591-4c47-856a-25795c71f303",
+              "description": "Includes collecting large waste items, garden waste and reporting problems",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Recycling and rubbish",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/recycling-rubbish",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-09T15:50:54Z",
+        "schema_name": "local_transaction",
+        "title": "Recycling collections",
+        "web_url": "https://www.gov.uk/recycling-collections",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D7",
+        "api_path": "/api/content/government/organisations/department-for-environment-food-rural-affairs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-environment-food-rural-affairs",
+        "base_path": "/government/organisations/department-for-environment-food-rural-affairs",
+        "content_id": "de4e9dc6-cca4-43af-a594-682023b84d6c",
+        "details": {
+          "acronym": "Defra",
+          "brand": "department-for-environment-food-rural-affairs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dad140f0b649cceb1813/s960_defra-sign-grey.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dad1ed915d5a62fdc6d6/s300_defra-sign-grey.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Environment<br/>Food &amp; Rural Affairs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Environment, Food & Rural Affairs",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/recycling-rubbish",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/recycling-rubbish",
+        "base_path": "/browse/housing-local-services/recycling-rubbish",
+        "content_id": "f4267150-2591-4c47-856a-25795c71f303",
+        "description": "Includes collecting large waste items, garden waste and reporting problems",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/housing-local-services",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+              "base_path": "/browse/housing-local-services",
+              "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+              "description": "Owning or renting and council services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Housing and local services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Recycling and rubbish",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/recycling-rubbish",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/recycling-collections",
+        "api_url": "https://www.gov.uk/api/content/recycling-collections",
+        "base_path": "/recycling-collections",
+        "content_id": "6e67c505-8779-459f-90b9-fda5c35204e4",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-09T15:50:54Z",
+        "schema_name": "local_transaction",
+        "title": "Recycling collections",
+        "web_url": "https://www.gov.uk/recycling-collections",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/rubbish-collection-day",
+        "api_url": "https://www.gov.uk/api/content/rubbish-collection-day",
+        "base_path": "/rubbish-collection-day",
+        "content_id": "124f58c3-ff8a-458a-9b83-5c1b9c3d9060",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-30T15:24:31Z",
+        "schema_name": "local_transaction",
+        "title": "Find out your rubbish collection day",
+        "web_url": "https://www.gov.uk/rubbish-collection-day",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/garden-waste-disposal",
+        "api_url": "https://www.gov.uk/api/content/garden-waste-disposal",
+        "base_path": "/garden-waste-disposal",
+        "content_id": "e6c46eba-881c-4f3f-ac7f-38767c1f6798",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:21Z",
+        "schema_name": "local_transaction",
+        "title": "Dispose of garden waste",
+        "web_url": "https://www.gov.uk/garden-waste-disposal",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/missed-bin-collection",
+        "api_url": "https://www.gov.uk/api/content/missed-bin-collection",
+        "base_path": "/missed-bin-collection",
+        "content_id": "ce4afee5-67d0-442a-a9c4-56f54b659cc1",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-06-07T10:08:40Z",
+        "schema_name": "local_transaction",
+        "title": "Report a missed bin collection",
+        "web_url": "https://www.gov.uk/missed-bin-collection",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/collection-large-waste-items",
+        "api_url": "https://www.gov.uk/api/content/collection-large-waste-items",
+        "base_path": "/collection-large-waste-items",
+        "content_id": "46bf0cc4-50be-4b14-8099-0553b8b42fc1",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:14Z",
+        "schema_name": "local_transaction",
+        "title": "Apply for special collection of large waste items",
+        "web_url": "https://www.gov.uk/collection-large-waste-items",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/housing-local-and-community/recycling-rubbish",
+        "api_url": "https://www.gov.uk/api/content/housing-local-and-community/recycling-rubbish",
+        "base_path": "/housing-local-and-community/recycling-rubbish",
+        "content_id": "6e11db64-8195-40f1-91b2-5f2bdd10a723",
+        "details": {
+          "internal_name": "Recycling, rubbish, streets and roads [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/housing-local-and-community/housing-and-communities",
+              "api_url": "https://www.gov.uk/api/content/housing-local-and-community/housing-and-communities",
+              "base_path": "/housing-local-and-community/housing-and-communities",
+              "content_id": "4ad66168-274d-4d83-9195-f4ab0ccc97cb",
+              "description": "",
+              "details": {
+                "internal_name": "Housing and communities (level 2)",
+                "notes_for_editors": "",
+                "url_override": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/housing-local-and-community",
+                    "api_url": "https://www.gov.uk/api/content/housing-local-and-community",
+                    "base_path": "/housing-local-and-community",
+                    "content_id": "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Housing, local and community",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:32:02Z",
+                    "schema_name": "taxon",
+                    "title": "Housing, local and community",
+                    "web_url": "https://www.gov.uk/housing-local-and-community",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2022-02-14T14:24:18Z",
+              "schema_name": "taxon",
+              "title": "Housing and communities",
+              "web_url": "https://www.gov.uk/housing-local-and-community/housing-and-communities",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T12:54:42Z",
+        "schema_name": "taxon",
+        "title": "Recycling, rubbish, streets and roads",
+        "web_url": "https://www.gov.uk/housing-local-and-community/recycling-rubbish",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-11-11T16:51:19Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "3592-1504182739.028-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Get a recycling bin",
+  "updated_at": "2024-02-12T17:41:11Z",
+  "withdrawn_notice": {
+  }
+}

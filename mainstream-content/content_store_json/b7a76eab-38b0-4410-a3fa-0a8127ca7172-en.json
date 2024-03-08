@@ -1,0 +1,733 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/co2-and-vehicle-tax-tools",
+  "content_id": "b7a76eab-38b0-4410-a3fa-0a8127ca7172",
+  "description": "Check fuel consumption, CO2 emissions and vehicle tax bands by make model and registration",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Search for fuel consumption, CO2 emissions, and tax bands for new and used cars.</p>\n",
+    "more_information": "<p>Find information about all new cars currently on sale in the UK, and used cars that were first registered on or after 1 March, 2001.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>A ‘new’ car is one that is currently available to buy or lease from a dealer and has not been previously registered.</p>\n</div>\n\n<h2 id=\"new-and-used-cars\">New and used cars</h2>\n\n<p>You can search for new and used cars to find:</p>\n\n<ul>\n  <li>fuel consumption and <abbr title=\"carbon dioxide\">CO2</abbr> emissions (by make and model)</li>\n  <li>vehicle tax information (by make, model, registration date and current tax tables)</li>\n  <li>the cost of tax for all vehicle types</li>\n</ul>\n\n<h2 id=\"new-cars-only\">New cars only</h2>\n\n<p>For new cars only you can also search:</p>\n\n<ul>\n  <li>by tax band, including Band A (exempt from tax)</li>\n  <li>by fuel economy</li>\n  <li>for annual fuel running costs</li>\n  <li>by company car taxation, based on <abbr title=\"carbon dioxide\">CO2</abbr> bands</li>\n  <li>by alternative fuel types</li>\n</ul>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://carfueldata.vehicle-certification-agency.gov.uk/",
+    "will_continue_on": "the Vehicle Certification Agency (VCA) website"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2012-09-26T17:14:32Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/co2-and-vehicle-tax-tools",
+        "api_url": "https://www.gov.uk/api/content/co2-and-vehicle-tax-tools",
+        "base_path": "/co2-and-vehicle-tax-tools",
+        "content_id": "b7a76eab-38b0-4410-a3fa-0a8127ca7172",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-09-19T16:17:24Z",
+        "schema_name": "transaction",
+        "title": "Car fuel and CO2 emissions data",
+        "web_url": "https://www.gov.uk/co2-and-vehicle-tax-tools",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/manufacture-adapt-vehicle",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/manufacture-adapt-vehicle",
+        "base_path": "/browse/driving/manufacture-adapt-vehicle",
+        "content_id": "3eb6e3d4-9a22-4519-915f-b0b0dd55335a",
+        "description": "Get a vehicle approved, register a vehicle, manufacturing regulations",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:39Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Manufacture or adapt a vehicle",
+        "web_url": "https://www.gov.uk/browse/driving/manufacture-adapt-vehicle",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/parking-public-transport-environment",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/parking-public-transport-environment",
+        "base_path": "/browse/driving/parking-public-transport-environment",
+        "content_id": "11c4c5fa-9667-4a7a-825f-9e8256f0e225",
+        "description": "Public transport and bus passes, parking, environment and emissions",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-14T14:34:58Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Parking, public transport and the environment",
+        "web_url": "https://www.gov.uk/browse/driving/parking-public-transport-environment",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+        "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+        "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+        "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-19T13:20:18Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Vehicle tax, MOT and insurance",
+        "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/check-tax-rates-new-unregistered-cars",
+        "api_url": "https://www.gov.uk/api/content/check-tax-rates-new-unregistered-cars",
+        "base_path": "/check-tax-rates-new-unregistered-cars",
+        "content_id": "f8490f74-437e-467a-9fa3-0e5f60e0bee0",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/manufacture-adapt-vehicle",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/manufacture-adapt-vehicle",
+              "base_path": "/browse/driving/manufacture-adapt-vehicle",
+              "content_id": "3eb6e3d4-9a22-4519-915f-b0b0dd55335a",
+              "description": "Get a vehicle approved, register a vehicle, manufacturing regulations",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manufacture or adapt a vehicle",
+              "web_url": "https://www.gov.uk/browse/driving/manufacture-adapt-vehicle",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-24T15:46:33Z",
+        "schema_name": "transaction",
+        "title": "Check tax rates for new unregistered cars",
+        "web_url": "https://www.gov.uk/check-tax-rates-new-unregistered-cars",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/vehicle-tax-rate-tables",
+        "api_url": "https://www.gov.uk/api/content/vehicle-tax-rate-tables",
+        "base_path": "/vehicle-tax-rate-tables",
+        "content_id": "db364fa7-96c5-42c2-a3db-ce06d4a7c97e",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/manufacture-adapt-vehicle",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/manufacture-adapt-vehicle",
+              "base_path": "/browse/driving/manufacture-adapt-vehicle",
+              "content_id": "3eb6e3d4-9a22-4519-915f-b0b0dd55335a",
+              "description": "Get a vehicle approved, register a vehicle, manufacturing regulations",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manufacture or adapt a vehicle",
+              "web_url": "https://www.gov.uk/browse/driving/manufacture-adapt-vehicle",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-01T00:01:09Z",
+        "schema_name": "guide",
+        "title": "Vehicle tax rates",
+        "web_url": "https://www.gov.uk/vehicle-tax-rate-tables",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D9",
+        "api_path": "/api/content/government/organisations/department-for-transport",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-transport",
+        "base_path": "/government/organisations/department-for-transport",
+        "content_id": "4c717efc-f47b-478e-a76d-ce1ae0af1946",
+        "details": {
+          "acronym": "DfT",
+          "brand": "department-for-transport",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/654bbccfe2e16a000d42abe1/s960_dft-gmh-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/654bbccfe70413000dfc4a51/s300_dft-gmh-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Transport"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Transport",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "EA74",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-licensing-agency",
+        "content_id": "70580624-93b5-4aed-823b-76042486c769",
+        "details": {
+          "acronym": "DVLA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Licensing<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Licensing Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "EA80",
+        "api_path": "/api/content/government/organisations/vehicle-certification-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/vehicle-certification-agency",
+        "base_path": "/government/organisations/vehicle-certification-agency",
+        "content_id": "685a3312-e096-4fde-b6c7-c8cf324d4784",
+        "details": {
+          "acronym": "VCA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Vehicle<br/>Certification<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "exempt",
+            "updated_at": null,
+            "url": "https://www.vehicle-certification-agency.gov.uk/"
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Vehicle Certification Agency",
+        "web_url": "https://www.gov.uk/government/organisations/vehicle-certification-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/parking-public-transport-environment",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/parking-public-transport-environment",
+        "base_path": "/browse/driving/parking-public-transport-environment",
+        "content_id": "11c4c5fa-9667-4a7a-825f-9e8256f0e225",
+        "description": "Public transport and bus passes, parking, environment and emissions",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-14T14:34:58Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Parking, public transport and the environment",
+        "web_url": "https://www.gov.uk/browse/driving/parking-public-transport-environment",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/get-vehicle-information-from-dvla",
+        "api_url": "https://www.gov.uk/api/content/get-vehicle-information-from-dvla",
+        "base_path": "/get-vehicle-information-from-dvla",
+        "content_id": "4ca3fd7e-efdb-4a24-9a84-60ba3c614588",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-19T19:00:05Z",
+        "schema_name": "transaction",
+        "title": "Get vehicle information from DVLA",
+        "web_url": "https://www.gov.uk/get-vehicle-information-from-dvla",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/vehicle-tax-rate-tables",
+        "api_url": "https://www.gov.uk/api/content/vehicle-tax-rate-tables",
+        "base_path": "/vehicle-tax-rate-tables",
+        "content_id": "db364fa7-96c5-42c2-a3db-ce06d4a7c97e",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-01T00:01:09Z",
+        "schema_name": "guide",
+        "title": "Vehicle tax rates",
+        "web_url": "https://www.gov.uk/vehicle-tax-rate-tables",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-tax-rates-new-unregistered-cars",
+        "api_url": "https://www.gov.uk/api/content/check-tax-rates-new-unregistered-cars",
+        "base_path": "/check-tax-rates-new-unregistered-cars",
+        "content_id": "f8490f74-437e-467a-9fa3-0e5f60e0bee0",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-24T15:46:33Z",
+        "schema_name": "transaction",
+        "title": "Check tax rates for new unregistered cars",
+        "web_url": "https://www.gov.uk/check-tax-rates-new-unregistered-cars",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/statistics/taxable-benefits-in-kind-and-expenses-payments-company-car-tax-rules-2005-to-2016",
+        "api_url": "https://www.gov.uk/api/content/government/statistics/taxable-benefits-in-kind-and-expenses-payments-company-car-tax-rules-2005-to-2016",
+        "base_path": "/government/statistics/taxable-benefits-in-kind-and-expenses-payments-company-car-tax-rules-2005-to-2016",
+        "content_id": "5ec3aab5-7631-11e4-a3cb-005056011aef",
+        "document_type": "official_statistics",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-06-27T08:30:10Z",
+        "schema_name": "publication",
+        "title": "Company car tax rules: 2013 to 2020",
+        "web_url": "https://www.gov.uk/government/statistics/taxable-benefits-in-kind-and-expenses-payments-company-car-tax-rules-2005-to-2016",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/tax-company-benefits",
+        "api_url": "https://www.gov.uk/api/content/tax-company-benefits",
+        "base_path": "/tax-company-benefits",
+        "content_id": "174b3493-2fc0-4471-8eff-2bff3e308f44",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-17T12:23:38Z",
+        "schema_name": "guide",
+        "title": "Tax on company benefits",
+        "web_url": "https://www.gov.uk/tax-company-benefits",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/road-transport-emissions",
+        "api_url": "https://www.gov.uk/api/content/transport/road-transport-emissions",
+        "base_path": "/transport/road-transport-emissions",
+        "content_id": "6c94d7f9-2270-41e2-b3a1-018cab93cfb7",
+        "description": "Vehicle emission testing, standards and data and how to report smoky lorries or buses.",
+        "details": {
+          "internal_name": "Road transport emissions",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/road-transport-and-the-environment",
+              "api_url": "https://www.gov.uk/api/content/transport/road-transport-and-the-environment",
+              "base_path": "/transport/road-transport-and-the-environment",
+              "content_id": "c23e2747-a59e-476e-be65-2add5c896f13",
+              "description": "Emissions testing, low emission and electric vehicles, chargepoints, low carbon and sustainable transport and renewable fuels.",
+              "details": {
+                "internal_name": "Road transport and the environment",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:13Z",
+              "schema_name": "taxon",
+              "title": "Road transport and the environment",
+              "web_url": "https://www.gov.uk/transport/road-transport-and-the-environment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-16T10:18:53Z",
+        "schema_name": "taxon",
+        "title": "Road transport emissions",
+        "web_url": "https://www.gov.uk/transport/road-transport-emissions",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/transport/vehicle-tax",
+        "api_url": "https://www.gov.uk/api/content/transport/vehicle-tax",
+        "base_path": "/transport/vehicle-tax",
+        "content_id": "1de432b7-2331-4450-9667-374d56e7f084",
+        "description": "How to tax a vehicle, report untaxed vehicles or see tax rates.",
+        "details": {
+          "internal_name": "Vehicle tax",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/vehicle-ownership-approval-and-standards",
+              "api_url": "https://www.gov.uk/api/content/transport/vehicle-ownership-approval-and-standards",
+              "base_path": "/transport/vehicle-ownership-approval-and-standards",
+              "content_id": "dbbf7f4d-78aa-46ac-8e67-d937fe9a8c69",
+              "description": "MOTs and vehicle tax, manufacturing, modifying and testing vehicles for use on UK roads, buying and selling vehicles.",
+              "details": {
+                "internal_name": "Vehicle ownership, approval and standards",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Vehicle ownership, approval and standards",
+              "web_url": "https://www.gov.uk/transport/vehicle-ownership-approval-and-standards",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:16Z",
+        "schema_name": "taxon",
+        "title": "Vehicle tax",
+        "web_url": "https://www.gov.uk/transport/vehicle-tax",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2018-09-19T16:17:24Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "13015-1537373844.257-213.86.153.236-7541",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Car fuel and CO2 emissions data",
+  "updated_at": "2024-02-06T14:14:27Z",
+  "withdrawn_notice": {
+  }
+}

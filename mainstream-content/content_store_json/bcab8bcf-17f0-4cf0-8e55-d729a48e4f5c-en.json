@@ -1,0 +1,496 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/tell-hmrc-change-address",
+  "content_id": "bcab8bcf-17f0-4cf0-8e55-d729a48e4f5c",
+  "description": "Tell HMRC about a change of address for your personal tax affairs, for example PAYE, Income Tax.",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Use this service to update your address for:</p>\n\n<ul>\n  <li>Income Tax</li>\n  <li>National Insurance</li>\n  <li>State Pension</li>\n  <li>tax credits and Child Benefit</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There’s a different way to <a href=\"/tell-hmrc-change-of-details\">update your details</a> for business tax.</p>\n</div>\n\n<p>You need to wait until you’ve moved before telling <abbr title=\"HM Revenue and Customs\">HMRC</abbr> about your new address.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This guide is also <a href=\"/rhoi-gwybod-i-cthef-newid-cyfeiriad\">available in Welsh (Cymraeg)</a>.</p>\n</div>\n\n",
+    "more_information": "<p>To update your address, you’ll need to sign in to your personal tax account using your Government Gateway user ID and password.</p>\n\n<h3 id=\"if-you-do-not-have-a-personal-tax-account\">If you do not have a personal tax account</h3>\n\n<p>You need a Government Gateway user ID and password to set up a personal tax account. If you do not already have a user ID you can create one when you sign in for the first time.</p>\n\n<p>You’ll need your National Insurance number or postcode and 2 of the following:</p>\n\n<ul>\n  <li>a valid UK passport</li>\n  <li>a UK photocard driving licence issued by the DVLA (or DVA in Northern Ireland)</li>\n  <li>a payslip from the last 3 months or a P60 from your employer for the last tax year</li>\n  <li>details of a tax credit claim if you made one</li>\n  <li>details from a Self Assessment tax return (in the last 2 years) if you made one</li>\n  <li>information held on your credit record if you have one (such as loans, credit cards or mortgages)</li>\n</ul>\n\n<p>You can also use your personal tax account to check your <abbr title=\"HM Revenue and Customs\">HMRC</abbr> records and manage your other details.</p>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.tax.service.gov.uk/gg/sign-in?continue=/personal-account/profile-and-settings&accountType=individual&origin=PTA-changeofaddress",
+    "variants": [
+
+    ],
+    "will_continue_on": "Government Gateway sign-in"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2016-06-29T16:45:24Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/tell-hmrc-change-address",
+        "api_url": "https://www.gov.uk/api/content/tell-hmrc-change-address",
+        "base_path": "/tell-hmrc-change-address",
+        "content_id": "bcab8bcf-17f0-4cf0-8e55-d729a48e4f5c",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-10T15:02:16Z",
+        "schema_name": "transaction",
+        "title": "Tell HMRC when you change your address",
+        "web_url": "https://www.gov.uk/tell-hmrc-change-address",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/dealing-with-hmrc",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/dealing-with-hmrc",
+        "base_path": "/browse/tax/dealing-with-hmrc",
+        "content_id": "8b432175-2324-4c96-b6c6-9708cdab4fa1",
+        "description": "Reporting changes, agents, appeals, checks, complaints and help with tax",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:28Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Dealing with HMRC",
+        "web_url": "https://www.gov.uk/browse/tax/dealing-with-hmrc",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/dealing-with-hmrc",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/dealing-with-hmrc",
+        "base_path": "/browse/tax/dealing-with-hmrc",
+        "content_id": "8b432175-2324-4c96-b6c6-9708cdab4fa1",
+        "description": "Reporting changes, agents, appeals, checks, complaints and help with tax",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:28Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Dealing with HMRC",
+        "web_url": "https://www.gov.uk/browse/tax/dealing-with-hmrc",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/tell-hmrc-changed-business-details",
+        "api_url": "https://www.gov.uk/api/content/tell-hmrc-changed-business-details",
+        "base_path": "/tell-hmrc-changed-business-details",
+        "content_id": "843a4e0c-c2fa-406d-9d2d-ad0561c53d28",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-26T17:01:28Z",
+        "schema_name": "guide",
+        "title": "Tell HMRC about a change to your business",
+        "web_url": "https://www.gov.uk/tell-hmrc-changed-business-details",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/change-address-driving-licence",
+        "api_url": "https://www.gov.uk/api/content/change-address-driving-licence",
+        "base_path": "/change-address-driving-licence",
+        "content_id": "eafed48e-6a19-44cf-993c-c7b9a3a22cfa",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-11-30T12:34:16Z",
+        "schema_name": "guide",
+        "title": "Change the address on your driving licence",
+        "web_url": "https://www.gov.uk/change-address-driving-licence",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/contact-hmrc",
+        "api_url": "https://www.gov.uk/api/content/contact-hmrc",
+        "base_path": "/contact-hmrc",
+        "content_id": "86f14e34-ba09-4e35-913e-af9e213cff2e",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-24T15:26:43Z",
+        "schema_name": "answer",
+        "title": "Contact HMRC",
+        "web_url": "https://www.gov.uk/contact-hmrc",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/tell-dvla-changed-address",
+        "api_url": "https://www.gov.uk/api/content/tell-dvla-changed-address",
+        "base_path": "/tell-dvla-changed-address",
+        "content_id": "c1f13d41-ed7f-44a3-be11-fd95525ddf40",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "text": "You must update your provisional or full driving licence when you move.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/change-address-driving-licence",
+                        "text": "Change the address on your driving licence"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Update your driving licence"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must update a vehicle's log book if you're the registered keeper.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/change-address-v5c",
+                        "text": "Change the address on your vehicle's log book"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Update your vehicle's log book (V5C)"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "If you pay for your vehicle tax by Direct Debit, you need to tell DVLA when you change address.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/contact-the-dvla/y/vehicle-tax-and-sorn",
+                        "text": "Phone DVLA to tell them you've moved"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Update your Direct Debit"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "If you have a private registration number and it's not on a vehicle, you must update your V750 or V778 documents.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/personalised-vehicle-registration-numbers/change-your-name-and-address",
+                        "text": "Update your personalised registration documents"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Update your personalised number plate documents"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "If you have a trailer and want to continue taking it abroad, you must register it to your new address.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/register-trailer-to-take-abroad",
+                        "text": "Change the address on your trailer registration certificate"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Update your trailer registration certificate"
+              }
+            ],
+            "title": "Tell DVLA you've changed address: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-06-19T11:09:53Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Tell DVLA you've changed address: step by step",
+        "web_url": "https://www.gov.uk/tell-dvla-changed-address",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/personal-tax-account",
+        "api_url": "https://www.gov.uk/api/content/personal-tax-account",
+        "base_path": "/personal-tax-account",
+        "content_id": "f4f2c99e-6d0a-4f2f-b3d0-ff2d00e33887",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-12T10:04:48Z",
+        "schema_name": "answer",
+        "title": "Personal tax account: sign in or set up",
+        "web_url": "https://www.gov.uk/personal-tax-account",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/income-tax",
+        "api_url": "https://www.gov.uk/api/content/money/income-tax",
+        "base_path": "/money/income-tax",
+        "content_id": "104ee859-8278-406b-80cb-5727373e0198",
+        "details": {
+          "internal_name": "Income Tax [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:55Z",
+        "schema_name": "taxon",
+        "title": "Income Tax",
+        "web_url": "https://www.gov.uk/money/income-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/dealing-with-hmrc",
+        "api_url": "https://www.gov.uk/api/content/money/dealing-with-hmrc",
+        "base_path": "/money/dealing-with-hmrc",
+        "content_id": "b20215a9-25fb-4fa6-80a3-42e23f5352c2",
+        "details": {
+          "internal_name": "Dealing with HMRC [T] (level 2, Money)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money",
+              "api_url": "https://www.gov.uk/api/content/money",
+              "base_path": "/money",
+              "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+              "description": "",
+              "details": {
+                "internal_name": "Money",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:35:25Z",
+              "schema_name": "taxon",
+              "title": "Money",
+              "web_url": "https://www.gov.uk/money",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:53Z",
+        "schema_name": "taxon",
+        "title": "Dealing with HMRC",
+        "web_url": "https://www.gov.uk/money/dealing-with-hmrc",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-10-10T15:02:16Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1704296859.745-10.13.21.39-9285",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Tell HMRC when you change your address",
+  "updated_at": "2024-02-08T11:45:19Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/help/report-vulnerability",
+  "content_id": "214d44e2-1c41-4eb5-bbdf-46ec1de90bff",
+  "description": "How to report a vulnerability on a GOV.UK domain or subdomain.",
+  "details": {
+    "body": "<p>A vulnerability is a technical issue with the GOV.UK website which attackers or hackers could use to exploit the website and its users.</p>\n\n<p>Vulnerabilities are covered by this policy if the security.txt file for the domain points to this page.</p>\n\n<p>You will not be paid a reward for reporting a vulnerability (known as a ‘bug bounty’).</p>\n\n<h2 id=\"how-to-report-a-vulnerability\">How to report a vulnerability</h2>\n\n<p>Include in your report:</p>\n\n<ul>\n  <li>the IP address and/or URL of the page where you found the vulnerability</li>\n  <li>a description of the type of vulnerability - for example, XSS vulnerability</li>\n  <li>details of the steps we need to take to reproduce the vulnerability</li>\n  <li>screenshots or logs if you have them</li>\n</ul>\n\n<p><a rel=\"external\" href=\"https://hackerone.com/44c348eb-e030-4273-b445-d4a2f6f83ba8/embedded_submissions/new\">Report a vulnerability on HackerOne</a>.</p>\n\n<h3 id=\"guidelines-for-reporting-a-vulnerability\">Guidelines for reporting a vulnerability</h3>\n\n<p>When you are investigating and reporting the vulnerability on a GOV.UK domain or subdomain, you must not:</p>\n\n<ul>\n  <li>break the law</li>\n  <li>access unnecessary or excessive amounts of data</li>\n  <li>modify data</li>\n  <li>use high-intensity invasive or destructive scanning tools to find vulnerabilities</li>\n  <li>try a denial of service - for example overwhelming a service on GOV.UK with a high volume of requests</li>\n  <li>disrupt GOV.UK’s services or systems</li>\n  <li>tell other people about the vulnerability you have found until we have disclosed it</li>\n  <li>social engineer, phish or physically attack our staff or infrastructure</li>\n  <li>demand money to disclose a vulnerability</li>\n</ul>\n\n<p>Only submit reports about exploitable vulnerabilities through HackerOne.</p>\n\n<p><a href=\"/contact/govuk\">Contact GOV.UK to report other issues</a> including:</p>\n\n<ul>\n  <li>a non-exploitable vulnerability</li>\n  <li>something you think could be improved - for example, missing security headers</li>\n  <li>\n<abbr title=\"Transport Layer Security\">TLS</abbr> configuration weaknesses - for example weak cipher suite support or the presence of TLS1.0 support</li>\n</ul>\n\n<h3 id=\"data-protection\">Data protection</h3>\n\n<p>You must <a href=\"/data-protection\">follow data protection rules</a> when reporting a vulnerability. This means you cannot share any data you might retrieve from GOV.UK when researching the vulnerability.</p>\n\n<p>You must keep the data secure until you delete it. You must delete the data as soon as we no longer need it or no later than 1 month after the vulnerability has been resolved - whichever comes first.</p>\n\n<h2 id=\"after-youve-reported-the-vulnerability\">After you’ve reported the vulnerability</h2>\n\n<p>You’ll get updates on the progress fixing the vulnerability through HackerOne, if you have an account.</p>\n\n<p>You’ll get confirmation that we have received your report within 5 working days. We’ll try to assess your report within 10 working days. We prioritise fixes by impact, severity and exploit complexity.</p>\n\n<p>Once the vulnerability has been fixed, we can work with you to disclose and publish the report.</p>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "help_page",
+  "first_published_at": "2021-03-23T10:45:38Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/help/report-vulnerability",
+        "api_url": "https://www.gov.uk/api/content/help/report-vulnerability",
+        "base_path": "/help/report-vulnerability",
+        "content_id": "214d44e2-1c41-4eb5-bbdf-46ec1de90bff",
+        "document_type": "help_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-03-23T10:45:37Z",
+        "schema_name": "help_page",
+        "title": "Report a vulnerability on a GOV.UK domain or subdomain",
+        "web_url": "https://www.gov.uk/help/report-vulnerability",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/help/about-govuk",
+        "api_url": "https://www.gov.uk/api/content/help/about-govuk",
+        "base_path": "/help/about-govuk",
+        "content_id": "464c5c16-dcdb-4ed0-9ba7-341ee652038a",
+        "document_type": "help_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-09-27T14:45:58Z",
+        "schema_name": "help_page",
+        "title": "About GOV.UK",
+        "web_url": "https://www.gov.uk/help/about-govuk",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/help/terms-conditions",
+        "api_url": "https://www.gov.uk/api/content/help/terms-conditions",
+        "base_path": "/help/terms-conditions",
+        "content_id": "df47bc71-2e96-4993-8342-11b4ba464f1d",
+        "document_type": "help_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-03-31T14:56:21Z",
+        "schema_name": "help_page",
+        "title": "Terms and conditions",
+        "web_url": "https://www.gov.uk/help/terms-conditions",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2021-03-23T10:45:37Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "4249-1616496337.643-10.13.1.43-9957",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "help_page",
+  "title": "Report a vulnerability on a GOV.UK domain or subdomain",
+  "updated_at": "2023-09-27T14:45:59Z",
+  "withdrawn_notice": {
+  }
+}

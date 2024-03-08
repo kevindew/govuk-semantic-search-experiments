@@ -1,0 +1,581 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-vehicle-safe",
+  "content_id": "64e7a713-e416-4fb2-b207-a83d240336f6",
+  "description": "You must make sure your car, motorcycle or other vehicle is safe to drive (‘roadworthy’) all year round.",
+  "details": {
+    "body": "<p>You’re responsible for making sure your vehicle is always safe to drive (‘roadworthy’). It can be unsafe even if you have a current MOT certificate.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You can be fined up to £2,500, be banned from driving and get 3 penalty points for driving a vehicle in a dangerous condition.</p>\n</div>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There are different <a href=\"/roadside-vehicle-checks-for-commercial-drivers/making-sure-your-vehicle-is-roadworthy\">rules for commercial vehicles</a>.</p>\n</div>\n\n<h2 id=\"checks-you-should-carry-out\">Checks you should carry out</h2>\n\n<p>Every time you drive you should check:</p>\n\n<ul>\n  <li>the windscreen, windows and mirrors are clean</li>\n  <li>all lights work</li>\n  <li>the brakes work</li>\n</ul>\n\n<p>Your vehicle’s handbook will tell you how often to check the:</p>\n\n<ul>\n  <li>engine oil</li>\n  <li>water level in the radiator or expansion tank</li>\n  <li>brake fluid level</li>\n  <li>battery</li>\n  <li>windscreen and rear window washer bottles - top up with windscreen washer fluid if necessary</li>\n  <li>tyres - they must have the correct tread depth and be free of cuts and defects</li>\n</ul>\n\n<p>The handbook will also tell you when your vehicle needs to be serviced.</p>\n\n<h3 id=\"tyre-tread\">Tyre tread</h3>\n\n<p>Tread must be a certain depth depending on the type of vehicle:</p>\n\n<ul>\n  <li>cars, light vans and light trailers - 1.6 millimetres (mm)</li>\n  <li>motorcycles, large vehicles and passenger-carrying vehicles - 1mm</li>\n</ul>\n\n<p>Mopeds only need to have visible tread.</p>\n\n<p>There must be tread across the middle three-quarters and around the entire tyre.</p>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2018-04-05T15:22:11Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-vehicle-safe",
+        "api_url": "https://www.gov.uk/api/content/check-vehicle-safe",
+        "base_path": "/check-vehicle-safe",
+        "content_id": "64e7a713-e416-4fb2-b207-a83d240336f6",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-04-05T15:19:23Z",
+        "schema_name": "answer",
+        "title": "Check your vehicle is safe to drive",
+        "web_url": "https://www.gov.uk/check-vehicle-safe",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/highway-code-road-safety",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/highway-code-road-safety",
+        "base_path": "/browse/driving/highway-code-road-safety",
+        "content_id": "eab15e3e-b9a5-48a9-82fe-6485d48a559d",
+        "description": "Rules for motorists, cyclists and pedestrians, road and boat safety",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:37Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "The Highway Code, road safety and vehicle rules",
+        "web_url": "https://www.gov.uk/browse/driving/highway-code-road-safety",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/legal-obligations-drivers-riders",
+        "api_url": "https://www.gov.uk/api/content/legal-obligations-drivers-riders",
+        "base_path": "/legal-obligations-drivers-riders",
+        "content_id": "2148f116-f909-4976-bb05-cb4899f3272a",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/driving-enforcing-the-law",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-enforcing-the-law",
+              "base_path": "/browse/driving/driving-enforcing-the-law",
+              "content_id": "32cd2eb4-26bc-4b1e-863a-f30a1d5a18b5",
+              "description": "Legal obligations of drivers and riders, report a crime",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:38Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and enforcing the law",
+              "web_url": "https://www.gov.uk/browse/driving/driving-enforcing-the-law",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/driving-licences",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+              "base_path": "/browse/driving/driving-licences",
+              "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+              "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-26T14:10:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving licences",
+              "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/learning-to-drive",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/learning-to-drive",
+              "base_path": "/browse/driving/learning-to-drive",
+              "content_id": "6af0f337-4da6-415c-a760-55b612d0e3e3",
+              "description": "Find driving lessons, book and manage theory and driving tests, tests for different vehicles",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving tests and learning to drive or ride",
+              "web_url": "https://www.gov.uk/browse/driving/learning-to-drive",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/highway-code-road-safety",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/highway-code-road-safety",
+              "base_path": "/browse/driving/highway-code-road-safety",
+              "content_id": "eab15e3e-b9a5-48a9-82fe-6485d48a559d",
+              "description": "Rules for motorists, cyclists and pedestrians, road and boat safety",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:37Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "The Highway Code, road safety and vehicle rules",
+              "web_url": "https://www.gov.uk/browse/driving/highway-code-road-safety",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-08-27T16:32:37Z",
+        "schema_name": "answer",
+        "title": "Legal obligations of drivers and riders ",
+        "web_url": "https://www.gov.uk/legal-obligations-drivers-riders",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/getting-an-mot",
+        "api_url": "https://www.gov.uk/api/content/getting-an-mot",
+        "base_path": "/getting-an-mot",
+        "content_id": "4a1f8cf7-3779-41d3-9b62-bf0297ff9545",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-10T12:43:54Z",
+        "schema_name": "guide",
+        "title": "Getting an MOT",
+        "web_url": "https://www.gov.uk/getting-an-mot",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/mot-reminder",
+        "api_url": "https://www.gov.uk/api/content/mot-reminder",
+        "base_path": "/mot-reminder",
+        "content_id": "00cad980-6bce-46e4-b83e-6a4238c25f3b",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-18T13:29:59Z",
+        "schema_name": "transaction",
+        "title": "Get MOT reminders",
+        "web_url": "https://www.gov.uk/mot-reminder",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/roadside-vehicle-checks-for-commercial-drivers",
+        "api_url": "https://www.gov.uk/api/content/roadside-vehicle-checks-for-commercial-drivers",
+        "base_path": "/roadside-vehicle-checks-for-commercial-drivers",
+        "content_id": "ff099696-03fc-435a-a71b-8f11ea8be82b",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/drivers-lorries-buses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/drivers-lorries-buses",
+              "base_path": "/browse/driving/drivers-lorries-buses",
+              "content_id": "13a30e05-d75e-45d8-95d9-0445042a4066",
+              "description": "Become a HGV or bus driver, find training, drivers' hours rules, specialist tests",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:15Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "HGV, bus and coach drivers",
+              "web_url": "https://www.gov.uk/browse/driving/drivers-lorries-buses",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-08-17T12:11:39Z",
+        "schema_name": "guide",
+        "title": "Roadside vehicle checks for commercial drivers",
+        "web_url": "https://www.gov.uk/roadside-vehicle-checks-for-commercial-drivers",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA570",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-standards-agency",
+        "content_id": "d39237a5-678b-4bb5-a372-eb2cb036933d",
+        "details": {
+          "acronym": "DVSA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Standards<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Standards Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/highway-code-road-safety",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/highway-code-road-safety",
+        "base_path": "/browse/driving/highway-code-road-safety",
+        "content_id": "eab15e3e-b9a5-48a9-82fe-6485d48a559d",
+        "description": "Rules for motorists, cyclists and pedestrians, road and boat safety",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:37Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "The Highway Code, road safety and vehicle rules",
+        "web_url": "https://www.gov.uk/browse/driving/highway-code-road-safety",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/check-mot-status",
+        "api_url": "https://www.gov.uk/api/content/check-mot-status",
+        "base_path": "/check-mot-status",
+        "content_id": "dc57162b-59f4-4d0f-9b83-a67f74ffccf5",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-10T11:41:36Z",
+        "schema_name": "transaction",
+        "title": "Check the MOT status of a vehicle",
+        "web_url": "https://www.gov.uk/check-mot-status",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/roadside-vehicle-checks-for-commercial-drivers",
+        "api_url": "https://www.gov.uk/api/content/roadside-vehicle-checks-for-commercial-drivers",
+        "base_path": "/roadside-vehicle-checks-for-commercial-drivers",
+        "content_id": "ff099696-03fc-435a-a71b-8f11ea8be82b",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-08-17T12:11:39Z",
+        "schema_name": "guide",
+        "title": "Roadside vehicle checks for commercial drivers",
+        "web_url": "https://www.gov.uk/roadside-vehicle-checks-for-commercial-drivers",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/getting-an-mot",
+        "api_url": "https://www.gov.uk/api/content/getting-an-mot",
+        "base_path": "/getting-an-mot",
+        "content_id": "4a1f8cf7-3779-41d3-9b62-bf0297ff9545",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-10T12:43:54Z",
+        "schema_name": "guide",
+        "title": "Getting an MOT",
+        "web_url": "https://www.gov.uk/getting-an-mot",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-mot-history",
+        "api_url": "https://www.gov.uk/api/content/check-mot-history",
+        "base_path": "/check-mot-history",
+        "content_id": "ad5110e0-fa62-49d3-923f-d50101f12014",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-20T14:58:22Z",
+        "schema_name": "transaction",
+        "title": "Check the MOT history of a vehicle",
+        "web_url": "https://www.gov.uk/check-mot-history",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/the-highway-code",
+        "api_url": "https://www.gov.uk/api/content/guidance/the-highway-code",
+        "base_path": "/guidance/the-highway-code",
+        "content_id": "bbf6c11a-7dc6-4fe6-8dd8-68c09bdbe562",
+        "document_type": "manual",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-09-16T23:01:10Z",
+        "schema_name": "manual",
+        "title": "The Highway Code",
+        "web_url": "https://www.gov.uk/guidance/the-highway-code",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2018-04-05T15:19:23Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "11928-1522941729.277-213.86.153.212-7582",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Check your vehicle is safe to drive",
+  "updated_at": "2024-03-08T09:58:58Z",
+  "withdrawn_notice": {
+  }
+}

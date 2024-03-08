@@ -1,0 +1,224 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/business-finance-support-finder",
+  "content_id": "64cdf9f3-bb08-4096-9a38-6314e7dd9e1d",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2015-04-15T15:02:54Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/business-finance-support-finder",
+        "api_url": "https://www.gov.uk/api/content/done/business-finance-support-finder",
+        "base_path": "/done/business-finance-support-finder",
+        "content_id": "64cdf9f3-bb08-4096-9a38-6314e7dd9e1d",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-10-07T11:28:51Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Business support finder",
+        "web_url": "https://www.gov.uk/done/business-finance-support-finder",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/apply-for-business-finance-and-support",
+        "api_url": "https://www.gov.uk/api/content/needs/apply-for-business-finance-and-support",
+        "base_path": "/needs/apply-for-business-finance-and-support",
+        "content_id": "acf7d632-14a8-4201-a422-e8a4b3a7a847",
+        "details": {
+          "benefit": "I can start or grow my business",
+          "goal": "apply for business finance and support",
+          "justifications": [
+            "It's something the government provides/does/pays for"
+          ],
+          "met_when": [
+            "the user knows what funding and advice they are eligible for and can apply for it"
+          ],
+          "role": "person starting or running a business"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a person starting or running a business, I need to apply for business finance and support, so that I can start or grow my business (100115)",
+        "web_url": "https://www.gov.uk/needs/apply-for-business-finance-and-support",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/write-business-plan",
+        "api_url": "https://www.gov.uk/api/content/write-business-plan",
+        "base_path": "/write-business-plan",
+        "content_id": "2efcd368-5571-4e5b-9d78-c814abe62911",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/finance-support",
+              "api_url": "https://www.gov.uk/api/content/browse/business/finance-support",
+              "base_path": "/browse/business/finance-support",
+              "content_id": "75357ba3-3a08-4291-8fac-ff23eee69885",
+              "description": "Finding finance, business support, writing a business plan",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:29Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business finance and support",
+              "web_url": "https://www.gov.uk/browse/business/finance-support",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/business/setting-up",
+              "api_url": "https://www.gov.uk/api/content/browse/business/setting-up",
+              "base_path": "/browse/business/setting-up",
+              "content_id": "4c82bdf6-be57-467f-975d-36910fba2fa7",
+              "description": "Includes self-employment and starting a business",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:20Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Setting up",
+              "web_url": "https://www.gov.uk/browse/business/setting-up",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-04-21T16:28:15Z",
+        "schema_name": "answer",
+        "title": "Write a business plan",
+        "web_url": "https://www.gov.uk/write-business-plan",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D3",
+        "api_path": "/api/content/government/organisations/department-for-business-innovation-skills",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-business-innovation-skills",
+        "base_path": "/government/organisations/department-for-business-innovation-skills",
+        "content_id": "569a9ee5-c195-4b7f-b9dc-edc17a09113f",
+        "details": {
+          "acronym": "BIS",
+          "brand": "department-for-business-innovation-skills",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db04ed915d5a5f966059/s960_department-for-business-innovation-skills.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db04e5274a7908e352aa/s300_department-for-business-innovation-skills.jpg"
+          },
+          "logo": {
+            "crest": "bis",
+            "formatted_title": "Department <br/>for Business<br/>Innovation &amp; Skills"
+          },
+          "organisation_govuk_status": {
+            "status": "replaced",
+            "updated_at": "2016-07-15T00:00:00.000+01:00",
+            "url": "http://www.bis.gov.uk/"
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Business, Innovation & Skills",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2022-10-07T11:28:51Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629918.259-10.13.26.132-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Business support finder",
+  "updated_at": "2023-11-29T13:18:13Z",
+  "withdrawn_notice": {
+  }
+}

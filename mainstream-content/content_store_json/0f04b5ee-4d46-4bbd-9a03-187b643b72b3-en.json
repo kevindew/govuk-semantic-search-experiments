@@ -1,0 +1,685 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/roads-council-will-grit",
+  "content_id": "0f04b5ee-4d46-4bbd-9a03-187b643b72b3",
+  "description": "Plan your journey in cold weather - find out about gritting of roads and footpaths, the location of grit bins and snow clearance",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Find out which roads and pavements your council grits in icy or snowy weather.</p>\n",
+    "lgil_code": 8,
+    "lgsl_code": 561,
+    "more_information": "\n",
+    "need_to_know": "<ul>\n  <li>Available in England and Wales only</li>\n</ul>\n",
+    "service_tiers": [
+      "county",
+      "unitary"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2012-01-25T17:27:53Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/roads-council-will-grit",
+        "api_url": "https://www.gov.uk/api/content/roads-council-will-grit",
+        "base_path": "/roads-council-will-grit",
+        "content_id": "0f04b5ee-4d46-4bbd-9a03-187b643b72b3",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:21Z",
+        "schema_name": "local_transaction",
+        "title": "Find out which roads your council will grit",
+        "web_url": "https://www.gov.uk/roads-council-will-grit",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/streets-roads-pavements-buildings",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/streets-roads-pavements-buildings",
+        "base_path": "/browse/housing-local-services/streets-roads-pavements-buildings",
+        "content_id": "0eef00df-cd70-4a77-8965-2a90af9616e2",
+        "description": "Includes street cleaning, traffic lights and reporting problems",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Streets, roads, pavements and buildings",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/streets-roads-pavements-buildings",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/check-school-closure",
+        "api_url": "https://www.gov.uk/api/content/check-school-closure",
+        "base_path": "/check-school-closure",
+        "content_id": "1cf67a8f-3f48-4e0b-9b65-fb23e73935e3",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/childcare-parenting/schools-education",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/schools-education",
+              "base_path": "/browse/childcare-parenting/schools-education",
+              "content_id": "6e3014fa-5bd1-48b9-9aab-f7b1241afdb6",
+              "description": "Sending a child to school, financial support, dealing with the school",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+                    "base_path": "/browse/childcare-parenting",
+                    "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+                    "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-07-15T11:40:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Childcare and parenting",
+                    "web_url": "https://www.gov.uk/browse/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:34Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Schools and education",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting/schools-education",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/education/school-life",
+              "api_url": "https://www.gov.uk/api/content/browse/education/school-life",
+              "base_path": "/browse/education/school-life",
+              "content_id": "99e2b248-baa4-4bf2-8a96-646fedd4d308",
+              "description": "Help with school costs, the curriculum and school attendance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/education",
+                    "api_url": "https://www.gov.uk/api/content/browse/education",
+                    "base_path": "/browse/education",
+                    "content_id": "4ba04d39-1f8c-4117-89f5-73ec4f1b48e8",
+                    "description": "Includes student loans, admissions and apprenticeships",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:23:24Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Education and learning",
+                    "web_url": "https://www.gov.uk/browse/education",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Schools and curriculum",
+              "web_url": "https://www.gov.uk/browse/education/school-life",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-03-20T19:24:28Z",
+        "schema_name": "local_transaction",
+        "title": "School closures",
+        "web_url": "https://www.gov.uk/check-school-closure",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/clear-snow-road-path-cycleway",
+        "api_url": "https://www.gov.uk/api/content/clear-snow-road-path-cycleway",
+        "base_path": "/clear-snow-road-path-cycleway",
+        "content_id": "7d16c30a-9dca-4d7c-8044-3efb0d88c441",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/recycling-rubbish",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/recycling-rubbish",
+              "base_path": "/browse/housing-local-services/recycling-rubbish",
+              "content_id": "f4267150-2591-4c47-856a-25795c71f303",
+              "description": "Includes collecting large waste items, garden waste and reporting problems",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Recycling and rubbish",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/recycling-rubbish",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/safety-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/safety-environment",
+              "base_path": "/browse/housing-local-services/safety-environment",
+              "content_id": "a5f60151-afe7-45ea-8239-a440814b1193",
+              "description": "Includes smoke control areas, road safety and crime prevention",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Safety and the environment in your community",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/safety-environment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/streets-roads-pavements-buildings",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/streets-roads-pavements-buildings",
+              "base_path": "/browse/housing-local-services/streets-roads-pavements-buildings",
+              "content_id": "0eef00df-cd70-4a77-8965-2a90af9616e2",
+              "description": "Includes street cleaning, traffic lights and reporting problems",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Streets, roads, pavements and buildings",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/streets-roads-pavements-buildings",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-12T12:26:02Z",
+        "schema_name": "answer",
+        "title": "Clear snow from a road, path or cycleway",
+        "web_url": "https://www.gov.uk/clear-snow-road-path-cycleway",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/cold-weather-payment",
+        "api_url": "https://www.gov.uk/api/content/cold-weather-payment",
+        "base_path": "/cold-weather-payment",
+        "content_id": "bc6d2c61-3cc8-4a02-af7f-3ed1534eda64",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/manage-your-benefit",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/manage-your-benefit",
+              "base_path": "/browse/benefits/manage-your-benefit",
+              "content_id": "d89b1fd0-6f3a-4675-a000-d2f0d9df21fa",
+              "description": "Sign in to your account, report changes, find out about overpayments, or appeal a decision. Includes existing Universal Credit and tax credits claims. ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-01T14:45:34Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manage an existing benefit, payment or claim",
+              "web_url": "https://www.gov.uk/browse/benefits/manage-your-benefit",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-05T23:01:09Z",
+        "schema_name": "guide",
+        "title": "Cold Weather Payment",
+        "web_url": "https://www.gov.uk/cold-weather-payment",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/winter-fuel-payment",
+        "api_url": "https://www.gov.uk/api/content/winter-fuel-payment",
+        "base_path": "/winter-fuel-payment",
+        "content_id": "403018fa-663a-4b5a-bf4c-38dcde904082",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/low-income",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/low-income",
+              "base_path": "/browse/benefits/low-income",
+              "content_id": "cb4c2480-73e8-4096-bc1e-4f5398063dfc",
+              "description": "Help with heating, housing and other living costs. Includes Universal Credit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:44Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're on a low income",
+              "web_url": "https://www.gov.uk/browse/benefits/low-income",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/benefits/manage-your-benefit",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/manage-your-benefit",
+              "base_path": "/browse/benefits/manage-your-benefit",
+              "content_id": "d89b1fd0-6f3a-4675-a000-d2f0d9df21fa",
+              "description": "Sign in to your account, report changes, find out about overpayments, or appeal a decision. Includes existing Universal Credit and tax credits claims. ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-01T14:45:34Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manage an existing benefit, payment or claim",
+              "web_url": "https://www.gov.uk/browse/benefits/manage-your-benefit",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/state-pension",
+              "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+              "base_path": "/browse/working/state-pension",
+              "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+              "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:19Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "State Pension",
+              "web_url": "https://www.gov.uk/browse/working/state-pension",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-12T15:14:38Z",
+        "schema_name": "guide",
+        "title": "Winter Fuel Payment",
+        "web_url": "https://www.gov.uk/winter-fuel-payment",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D9",
+        "api_path": "/api/content/government/organisations/department-for-transport",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-transport",
+        "base_path": "/government/organisations/department-for-transport",
+        "content_id": "4c717efc-f47b-478e-a76d-ce1ae0af1946",
+        "details": {
+          "acronym": "DfT",
+          "brand": "department-for-transport",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/654bbccfe2e16a000d42abe1/s960_dft-gmh-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/654bbccfe70413000dfc4a51/s300_dft-gmh-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Transport"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Transport",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/streets-roads-pavements-buildings",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/streets-roads-pavements-buildings",
+        "base_path": "/browse/housing-local-services/streets-roads-pavements-buildings",
+        "content_id": "0eef00df-cd70-4a77-8965-2a90af9616e2",
+        "description": "Includes street cleaning, traffic lights and reporting problems",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/housing-local-services",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+              "base_path": "/browse/housing-local-services",
+              "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+              "description": "Owning or renting and council services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Housing and local services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Streets, roads, pavements and buildings",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/streets-roads-pavements-buildings",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/rubbish-collection-day",
+        "api_url": "https://www.gov.uk/api/content/rubbish-collection-day",
+        "base_path": "/rubbish-collection-day",
+        "content_id": "124f58c3-ff8a-458a-9b83-5c1b9c3d9060",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-30T15:24:31Z",
+        "schema_name": "local_transaction",
+        "title": "Find out your rubbish collection day",
+        "web_url": "https://www.gov.uk/rubbish-collection-day",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/clear-snow-road-path-cycleway",
+        "api_url": "https://www.gov.uk/api/content/clear-snow-road-path-cycleway",
+        "base_path": "/clear-snow-road-path-cycleway",
+        "content_id": "7d16c30a-9dca-4d7c-8044-3efb0d88c441",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-12T12:26:02Z",
+        "schema_name": "answer",
+        "title": "Clear snow from a road, path or cycleway",
+        "web_url": "https://www.gov.uk/clear-snow-road-path-cycleway",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/local-street-cleaning",
+        "api_url": "https://www.gov.uk/api/content/local-street-cleaning",
+        "base_path": "/local-street-cleaning",
+        "content_id": "eb3d4401-aa94-4993-8f32-2842394bdba8",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-09T15:53:56Z",
+        "schema_name": "local_transaction",
+        "title": "Find out when your council cleans your street",
+        "web_url": "https://www.gov.uk/local-street-cleaning",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/housing-local-and-community/recycling-rubbish",
+        "api_url": "https://www.gov.uk/api/content/housing-local-and-community/recycling-rubbish",
+        "base_path": "/housing-local-and-community/recycling-rubbish",
+        "content_id": "6e11db64-8195-40f1-91b2-5f2bdd10a723",
+        "details": {
+          "internal_name": "Recycling, rubbish, streets and roads [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/housing-local-and-community/housing-and-communities",
+              "api_url": "https://www.gov.uk/api/content/housing-local-and-community/housing-and-communities",
+              "base_path": "/housing-local-and-community/housing-and-communities",
+              "content_id": "4ad66168-274d-4d83-9195-f4ab0ccc97cb",
+              "description": "",
+              "details": {
+                "internal_name": "Housing and communities (level 2)",
+                "notes_for_editors": "",
+                "url_override": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/housing-local-and-community",
+                    "api_url": "https://www.gov.uk/api/content/housing-local-and-community",
+                    "base_path": "/housing-local-and-community",
+                    "content_id": "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Housing, local and community",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:32:02Z",
+                    "schema_name": "taxon",
+                    "title": "Housing, local and community",
+                    "web_url": "https://www.gov.uk/housing-local-and-community",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2022-02-14T14:24:18Z",
+              "schema_name": "taxon",
+              "title": "Housing and communities",
+              "web_url": "https://www.gov.uk/housing-local-and-community/housing-and-communities",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T12:54:42Z",
+        "schema_name": "taxon",
+        "title": "Recycling, rubbish, streets and roads",
+        "web_url": "https://www.gov.uk/housing-local-and-community/recycling-rubbish",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-05-02T16:27:21Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "3594-1504182734.631-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Find out which roads your council will grit",
+  "updated_at": "2023-11-15T13:53:41Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/repair-council-property",
+  "content_id": "e8055636-1217-4667-bcbc-695a684c2f60",
+  "description": "Request a repair to a council property to your local council - urgent problems, Right to Repair, health, safety, security",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>The council has to fix urgent problems in council owned homes which could affect the tenant’s health, safety or security within a certain period. This is known as the Right to Repair scheme.</p>\n",
+    "lgil_code": 0,
+    "lgsl_code": 141,
+    "more_information": "\n",
+    "need_to_know": "<ul>\n  <li>Available in England and Wales only</li>\n</ul>\n",
+    "service_tiers": [
+      "district",
+      "unitary"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2012-01-20T14:13:12Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/repair-council-property",
+        "api_url": "https://www.gov.uk/api/content/repair-council-property",
+        "base_path": "/repair-council-property",
+        "content_id": "e8055636-1217-4667-bcbc-695a684c2f60",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:20Z",
+        "schema_name": "local_transaction",
+        "title": "Request a repair to a council property",
+        "web_url": "https://www.gov.uk/repair-council-property",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/council-housing-association",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/council-housing-association",
+        "base_path": "/browse/housing-local-services/council-housing-association",
+        "content_id": "c0f8dcc8-3973-478d-a287-83c41afb21f2",
+        "description": "Includes Right to Buy, shared ownership, getting repairs and housing benefit",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:43:21Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Council housing and housing associations",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/council-housing-association",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/ask-the-council-to-repair-something-that-is-affecting-my-health-and-safety",
+        "api_url": "https://www.gov.uk/api/content/needs/ask-the-council-to-repair-something-that-is-affecting-my-health-and-safety",
+        "base_path": "/needs/ask-the-council-to-repair-something-that-is-affecting-my-health-and-safety",
+        "content_id": "57c7fe7f-67ae-4f6a-acc5-5a843b5d5e4b",
+        "details": {
+          "benefit": "I can live safely in my home",
+          "goal": "ask the council to repair something that is affecting my health and safety",
+          "justifications": [
+            "It's something only government does",
+            "The government is legally obliged to provide it",
+            "It's something that people can do or it's something people need to know before they can do something that's regulated by/related to government"
+          ],
+          "met_when": [
+            "knows who to contact to fix their council flat"
+          ],
+          "role": "council tenant"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a council tenant, I need to ask the council to repair something that is affecting my health and safety, so that I can live safely in my home (103576)",
+        "web_url": "https://www.gov.uk/needs/ask-the-council-to-repair-something-that-is-affecting-my-health-and-safety",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/council-housing",
+        "api_url": "https://www.gov.uk/api/content/council-housing",
+        "base_path": "/council-housing",
+        "content_id": "6459b0e0-37c0-4c02-bcca-f156fbef54ce",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/council-housing-association",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/council-housing-association",
+              "base_path": "/browse/housing-local-services/council-housing-association",
+              "content_id": "c0f8dcc8-3973-478d-a287-83c41afb21f2",
+              "description": "Includes Right to Buy, shared ownership, getting repairs and housing benefit",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:43:21Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Council housing and housing associations",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/council-housing-association",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/repossessions-evictions",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/repossessions-evictions",
+              "base_path": "/browse/housing-local-services/repossessions-evictions",
+              "content_id": "d9944c93-da60-4b69-8109-2e26bf801e42",
+              "description": "Includes help with homelessness, evictions and squatting ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-29T14:51:54Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Repossessions, homelessness, emergency housing and evictions",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/repossessions-evictions",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2019-05-31T10:33:05Z",
+        "schema_name": "guide",
+        "title": "Council housing",
+        "web_url": "https://www.gov.uk/council-housing",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1342",
+        "api_path": "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "base_path": "/government/organisations/department-for-levelling-up-housing-and-communities",
+        "content_id": "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+        "details": {
+          "acronym": "DLUHC",
+          "brand": "department-for-levelling-up-housing-and-communities",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for Levelling Up,<br/>Housing &amp; Communities"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Levelling Up, Housing and Communities ",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/council-housing-association",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/council-housing-association",
+        "base_path": "/browse/housing-local-services/council-housing-association",
+        "content_id": "c0f8dcc8-3973-478d-a287-83c41afb21f2",
+        "description": "Includes Right to Buy, shared ownership, getting repairs and housing benefit",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/housing-local-services",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+              "base_path": "/browse/housing-local-services",
+              "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+              "description": "Owning or renting and council services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Housing and local services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:43:21Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Council housing and housing associations",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/council-housing-association",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/council-housing",
+        "api_url": "https://www.gov.uk/api/content/council-housing",
+        "base_path": "/council-housing",
+        "content_id": "6459b0e0-37c0-4c02-bcca-f156fbef54ce",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-05-31T10:33:05Z",
+        "schema_name": "guide",
+        "title": "Council housing",
+        "web_url": "https://www.gov.uk/council-housing",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/right-to-buy-buying-your-council-home",
+        "api_url": "https://www.gov.uk/api/content/right-to-buy-buying-your-council-home",
+        "base_path": "/right-to-buy-buying-your-council-home",
+        "content_id": "19f966d3-0f10-471c-b518-66e6142fa0db",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-25T12:35:20Z",
+        "schema_name": "guide",
+        "title": "Right to Buy: buying your council home",
+        "web_url": "https://www.gov.uk/right-to-buy-buying-your-council-home",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/housing-association-homes",
+        "api_url": "https://www.gov.uk/api/content/housing-association-homes",
+        "base_path": "/housing-association-homes",
+        "content_id": "b78c2881-25f5-439f-888c-e6b4452ea64f",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-27T09:28:13Z",
+        "schema_name": "guide",
+        "title": "Housing association homes",
+        "web_url": "https://www.gov.uk/housing-association-homes",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-swap-homes-council",
+        "api_url": "https://www.gov.uk/api/content/apply-swap-homes-council",
+        "base_path": "/apply-swap-homes-council",
+        "content_id": "b9479f02-3b9a-454d-8a81-771bddac13e4",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:19Z",
+        "schema_name": "local_transaction",
+        "title": "Swap your council or housing association home",
+        "web_url": "https://www.gov.uk/apply-swap-homes-council",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/housing-tribunals",
+        "api_url": "https://www.gov.uk/api/content/housing-tribunals",
+        "base_path": "/housing-tribunals",
+        "content_id": "c9cd3afb-1208-410a-8719-1469db684635",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-25T12:33:34Z",
+        "schema_name": "guide",
+        "title": "Solve a residential property dispute",
+        "web_url": "https://www.gov.uk/housing-tribunals",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/housing-local-and-community/council-housing-association",
+        "api_url": "https://www.gov.uk/api/content/housing-local-and-community/council-housing-association",
+        "base_path": "/housing-local-and-community/council-housing-association",
+        "content_id": "c8fec9a9-94e0-4d5e-b317-fc926d5e7b1c",
+        "details": {
+          "internal_name": "Council housing and housing association [M] (level 3, housing theme)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/housing-local-and-community/housing-and-communities",
+              "api_url": "https://www.gov.uk/api/content/housing-local-and-community/housing-and-communities",
+              "base_path": "/housing-local-and-community/housing-and-communities",
+              "content_id": "4ad66168-274d-4d83-9195-f4ab0ccc97cb",
+              "description": "",
+              "details": {
+                "internal_name": "Housing and communities (level 2)",
+                "notes_for_editors": "",
+                "url_override": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/housing-local-and-community",
+                    "api_url": "https://www.gov.uk/api/content/housing-local-and-community",
+                    "base_path": "/housing-local-and-community",
+                    "content_id": "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Housing, local and community",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:32:02Z",
+                    "schema_name": "taxon",
+                    "title": "Housing, local and community",
+                    "web_url": "https://www.gov.uk/housing-local-and-community",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2022-02-14T14:24:18Z",
+              "schema_name": "taxon",
+              "title": "Housing and communities",
+              "web_url": "https://www.gov.uk/housing-local-and-community/housing-and-communities",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T12:54:43Z",
+        "schema_name": "taxon",
+        "title": "Council housing and housing association",
+        "web_url": "https://www.gov.uk/housing-local-and-community/council-housing-association",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-05-02T16:27:20Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "3591-1504182735.054-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Request a repair to a council property",
+  "updated_at": "2024-03-01T16:02:36Z",
+  "withdrawn_notice": {
+  }
+}

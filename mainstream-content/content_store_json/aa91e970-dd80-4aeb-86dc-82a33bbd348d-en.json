@@ -1,0 +1,638 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/request-pedestrian-crossing",
+  "content_id": "aa91e970-dd80-4aeb-86dc-82a33bbd348d",
+  "description": "Request a pedestrian crossing like a puffin crossing, toucan crossing or zebra crossing from the local council ",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Request a pedestrian crossing like a puffin crossing, toucan crossing or zebra crossing from the local council.</p>\n",
+    "lgil_code": 0,
+    "lgsl_code": 568,
+    "more_information": "\n",
+    "need_to_know": "<ul>\n  <li>Available in England and Wales only</li>\n</ul>\n",
+    "service_tiers": [
+      "county",
+      "unitary"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2012-01-18T11:52:37Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/request-pedestrian-crossing",
+        "api_url": "https://www.gov.uk/api/content/request-pedestrian-crossing",
+        "base_path": "/request-pedestrian-crossing",
+        "content_id": "aa91e970-dd80-4aeb-86dc-82a33bbd348d",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:16Z",
+        "schema_name": "local_transaction",
+        "title": "Request a pedestrian crossing",
+        "web_url": "https://www.gov.uk/request-pedestrian-crossing",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/safety-environment",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/safety-environment",
+        "base_path": "/browse/housing-local-services/safety-environment",
+        "content_id": "a5f60151-afe7-45ea-8239-a440814b1193",
+        "description": "Includes smoke control areas, road safety and crime prevention",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Safety and the environment in your community",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/safety-environment",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/housing-local-services/streets-roads-pavements-buildings",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/streets-roads-pavements-buildings",
+        "base_path": "/browse/housing-local-services/streets-roads-pavements-buildings",
+        "content_id": "0eef00df-cd70-4a77-8965-2a90af9616e2",
+        "description": "Includes street cleaning, traffic lights and reporting problems",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Streets, roads, pavements and buildings",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/streets-roads-pavements-buildings",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/request-speed-limit-change",
+        "api_url": "https://www.gov.uk/api/content/request-speed-limit-change",
+        "base_path": "/request-speed-limit-change",
+        "content_id": "86980eab-8255-4ba9-acd1-f3dbfcf2ccba",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/recycling-rubbish",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/recycling-rubbish",
+              "base_path": "/browse/housing-local-services/recycling-rubbish",
+              "content_id": "f4267150-2591-4c47-856a-25795c71f303",
+              "description": "Includes collecting large waste items, garden waste and reporting problems",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Recycling and rubbish",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/recycling-rubbish",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/safety-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/safety-environment",
+              "base_path": "/browse/housing-local-services/safety-environment",
+              "content_id": "a5f60151-afe7-45ea-8239-a440814b1193",
+              "description": "Includes smoke control areas, road safety and crime prevention",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Safety and the environment in your community",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/safety-environment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/streets-roads-pavements-buildings",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/streets-roads-pavements-buildings",
+              "base_path": "/browse/housing-local-services/streets-roads-pavements-buildings",
+              "content_id": "0eef00df-cd70-4a77-8965-2a90af9616e2",
+              "description": "Includes street cleaning, traffic lights and reporting problems",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Streets, roads, pavements and buildings",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/streets-roads-pavements-buildings",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:18Z",
+        "schema_name": "local_transaction",
+        "title": "Request a speed limit change",
+        "web_url": "https://www.gov.uk/request-speed-limit-change",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/speed-limits",
+        "api_url": "https://www.gov.uk/api/content/speed-limits",
+        "base_path": "/speed-limits",
+        "content_id": "f12da8ca-fffc-4b67-89b2-5ffb665719f1",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/penalty-points-fines-bans",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/penalty-points-fines-bans",
+              "base_path": "/browse/driving/penalty-points-fines-bans",
+              "content_id": "a4ba1e34-fca1-497c-af7b-b7ff55d4e4b4",
+              "description": "Penalties and fines, speeding, drink-driving, parking fines, appeals",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:36Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Penalty points, fines and driving bans",
+              "web_url": "https://www.gov.uk/browse/driving/penalty-points-fines-bans",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/highway-code-road-safety",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/highway-code-road-safety",
+              "base_path": "/browse/driving/highway-code-road-safety",
+              "content_id": "eab15e3e-b9a5-48a9-82fe-6485d48a559d",
+              "description": "Rules for motorists, cyclists and pedestrians, road and boat safety",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:37Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "The Highway Code, road safety and vehicle rules",
+              "web_url": "https://www.gov.uk/browse/driving/highway-code-road-safety",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-05T23:01:44Z",
+        "schema_name": "answer",
+        "title": "Speed limits",
+        "web_url": "https://www.gov.uk/speed-limits",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1342",
+        "api_path": "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "base_path": "/government/organisations/department-for-levelling-up-housing-and-communities",
+        "content_id": "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+        "details": {
+          "acronym": "DLUHC",
+          "brand": "department-for-levelling-up-housing-and-communities",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for Levelling Up,<br/>Housing &amp; Communities"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Levelling Up, Housing and Communities ",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "EA77",
+        "api_path": "/api/content/government/organisations/highways-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/highways-agency",
+        "base_path": "/government/organisations/highways-agency",
+        "content_id": "14e2f2c2-6606-4f3f-92ed-24dedce86e3b",
+        "details": {
+          "acronym": "HA",
+          "brand": "department-for-transport",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dac740f0b649cceb1800/s960_M42_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dac7ed915d5a5f965ff0/s300_M42_960x640.jpg"
+          },
+          "logo": {
+            "formatted_title": "Highways<br/>Agency",
+            "image": {
+              "alt_text": "Highways Agency",
+              "url": "https://assets.publishing.service.gov.uk/media/59fa00e3ed915d7bfdf0a29a/HA_logo_with_strapline__RGB_.jpg"
+            }
+          },
+          "organisation_govuk_status": {
+            "status": "replaced",
+            "updated_at": "2015-04-01T00:00:00.000+01:00",
+            "url": "http://www.highways.gov.uk/"
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Highways Agency",
+        "web_url": "https://www.gov.uk/government/organisations/highways-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/safety-environment",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/safety-environment",
+        "base_path": "/browse/housing-local-services/safety-environment",
+        "content_id": "a5f60151-afe7-45ea-8239-a440814b1193",
+        "description": "Includes smoke control areas, road safety and crime prevention",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/housing-local-services",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+              "base_path": "/browse/housing-local-services",
+              "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+              "description": "Owning or renting and council services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Housing and local services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Safety and the environment in your community",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/safety-environment",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/request-speed-limit-change",
+        "api_url": "https://www.gov.uk/api/content/request-speed-limit-change",
+        "base_path": "/request-speed-limit-change",
+        "content_id": "86980eab-8255-4ba9-acd1-f3dbfcf2ccba",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:18Z",
+        "schema_name": "local_transaction",
+        "title": "Request a speed limit change",
+        "web_url": "https://www.gov.uk/request-speed-limit-change",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/the-highway-code",
+        "api_url": "https://www.gov.uk/api/content/guidance/the-highway-code",
+        "base_path": "/guidance/the-highway-code",
+        "content_id": "bbf6c11a-7dc6-4fe6-8dd8-68c09bdbe562",
+        "document_type": "manual",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-09-16T23:01:10Z",
+        "schema_name": "manual",
+        "title": "The Highway Code",
+        "web_url": "https://www.gov.uk/guidance/the-highway-code",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/housing-local-and-community/recycling-rubbish",
+        "api_url": "https://www.gov.uk/api/content/housing-local-and-community/recycling-rubbish",
+        "base_path": "/housing-local-and-community/recycling-rubbish",
+        "content_id": "6e11db64-8195-40f1-91b2-5f2bdd10a723",
+        "details": {
+          "internal_name": "Recycling, rubbish, streets and roads [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/housing-local-and-community/housing-and-communities",
+              "api_url": "https://www.gov.uk/api/content/housing-local-and-community/housing-and-communities",
+              "base_path": "/housing-local-and-community/housing-and-communities",
+              "content_id": "4ad66168-274d-4d83-9195-f4ab0ccc97cb",
+              "description": "",
+              "details": {
+                "internal_name": "Housing and communities (level 2)",
+                "notes_for_editors": "",
+                "url_override": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/housing-local-and-community",
+                    "api_url": "https://www.gov.uk/api/content/housing-local-and-community",
+                    "base_path": "/housing-local-and-community",
+                    "content_id": "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Housing, local and community",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:32:02Z",
+                    "schema_name": "taxon",
+                    "title": "Housing, local and community",
+                    "web_url": "https://www.gov.uk/housing-local-and-community",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2022-02-14T14:24:18Z",
+              "schema_name": "taxon",
+              "title": "Housing and communities",
+              "web_url": "https://www.gov.uk/housing-local-and-community/housing-and-communities",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T12:54:42Z",
+        "schema_name": "taxon",
+        "title": "Recycling, rubbish, streets and roads",
+        "web_url": "https://www.gov.uk/housing-local-and-community/recycling-rubbish",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/housing-local-and-community/housing-local-services-safety-environment",
+        "api_url": "https://www.gov.uk/api/content/housing-local-and-community/housing-local-services-safety-environment",
+        "base_path": "/housing-local-and-community/housing-local-services-safety-environment",
+        "content_id": "fc5f468f-a3ba-4fde-9c1d-ed2dd17cfd82",
+        "details": {
+          "internal_name": "Safety and the environment in your community [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/housing-local-and-community/housing-and-communities",
+              "api_url": "https://www.gov.uk/api/content/housing-local-and-community/housing-and-communities",
+              "base_path": "/housing-local-and-community/housing-and-communities",
+              "content_id": "4ad66168-274d-4d83-9195-f4ab0ccc97cb",
+              "description": "",
+              "details": {
+                "internal_name": "Housing and communities (level 2)",
+                "notes_for_editors": "",
+                "url_override": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/housing-local-and-community",
+                    "api_url": "https://www.gov.uk/api/content/housing-local-and-community",
+                    "base_path": "/housing-local-and-community",
+                    "content_id": "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Housing, local and community",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:32:02Z",
+                    "schema_name": "taxon",
+                    "title": "Housing, local and community",
+                    "web_url": "https://www.gov.uk/housing-local-and-community",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2022-02-14T14:24:18Z",
+              "schema_name": "taxon",
+              "title": "Housing and communities",
+              "web_url": "https://www.gov.uk/housing-local-and-community/housing-and-communities",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T12:54:43Z",
+        "schema_name": "taxon",
+        "title": "Safety and the environment in your community",
+        "web_url": "https://www.gov.uk/housing-local-and-community/housing-local-services-safety-environment",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-05-02T16:27:16Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "3594-1504182734.747-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Request a pedestrian crossing",
+  "updated_at": "2024-03-01T16:02:04Z",
+  "withdrawn_notice": {
+  }
+}

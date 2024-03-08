@@ -1,0 +1,1267 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/apply-blue-badge",
+  "content_id": "583e83bf-077e-4892-b8f0-52bfdf286fac",
+  "description": "Check if you're eligible for a Blue Badge and apply or renew",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Check your eligibility and apply for a Blue Badge. You can also use this service to reapply for a Blue Badge.</p>\n\n<p>You can apply for yourself, someone else or an organisation.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There’s a different way to <a rel=\"external\" href=\"https://www.nidirect.gov.uk/information-and-services/motoring-and-transport/blue-badge-scheme\">apply if you’re in Northern Ireland</a>.</p>\n</div>\n\n<p>A Blue Badge costs up to £10 in England and £20 in Scotland. It’s free in Wales.</p>\n\n<p>They usually last up to 3 years.</p>\n\n<p>You must reapply for a Blue Badge before your current one expires.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you’re replacing a lost, stolen or damaged blue badge, and it is not expiring in the next 3 months, you need to <a href=\"/replace-lost-stolen-blue-badge\">use a different service</a>.</p>\n</div>\n\n<h2 id=\"apply-or-renew-online\">Apply or renew online</h2>\n\n<p>You’ll need a recent digital photo showing your head and shoulders.</p>\n\n<p>You’ll also need a photo or scan of your:</p>\n\n<ul>\n  <li>proof of identity (such as a birth certificate, passport or driving licence)</li>\n  <li>proof of address (such as a Council Tax bill or government letter)</li>\n  <li>proof of benefits (if you get any)</li>\n</ul>\n\n<p>You’ll also need to know:</p>\n\n<ul>\n  <li>your National Insurance number (if you have one)</li>\n  <li>the details of your current Blue Badge (if you’re reapplying)</li>\n</ul>\n\n<p>You can <a rel=\"external\" href=\"https://apply-blue-badge.service.gov.uk/return-to-application\">save and return to your application</a> at a later date if you need to.</p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://apply-blue-badge.service.gov.uk/applicant",
+    "variants": [
+
+    ],
+    "what_you_need_to_know": "<p>How you pay depends on your local council. They’ll usually make a decision within 12 weeks.</p>\n\n<h2 id=\"if-your-application-is-refused\">If your application is refused</h2>\n\n<p>Your council should tell you why you’re not eligible for a Blue Badge.</p>\n\n<p>You can ask them to reconsider your case if you do not think all the important information you provided was taken into account.</p>\n\n<p>You can also reapply if your mobility problems become more serious.</p>\n\n<h2 id=\"if-you-need-help\">If you need help</h2>\n\n<p>For questions about the Blue Badge scheme <a href=\"/blue-badge-scheme-information-council\">contact your local council</a>.</p>\n",
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2012-01-26T12:54:18Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/apply-blue-badge",
+        "api_url": "https://www.gov.uk/api/content/apply-blue-badge",
+        "base_path": "/apply-blue-badge",
+        "content_id": "583e83bf-077e-4892-b8f0-52bfdf286fac",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-04-06T15:38:36Z",
+        "schema_name": "transaction",
+        "title": "Apply for or renew a Blue Badge",
+        "web_url": "https://www.gov.uk/apply-blue-badge",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/disabilities/equipment",
+        "api_url": "https://www.gov.uk/api/content/browse/disabilities/equipment",
+        "base_path": "/browse/disabilities/equipment",
+        "content_id": "48a1a4c2-23ac-44a8-b917-e72f629f2370",
+        "description": "Includes Disabled Students Allowances, Blue Badge and disabled access",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:50Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Disability equipment and transport",
+        "web_url": "https://www.gov.uk/browse/disabilities/equipment",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/disability-health-condition",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/disability-health-condition",
+        "base_path": "/browse/driving/disability-health-condition",
+        "content_id": "bf25c800-46e1-468b-8d79-beec491cfa89",
+        "description": "Check and report your medical condition, get a Blue Badge, mobility scooters and bus passes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-25T10:48:10Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Driving with medical conditions, Blue Badges and transport for disabled people",
+        "web_url": "https://www.gov.uk/browse/driving/disability-health-condition",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/parking-public-transport-environment",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/parking-public-transport-environment",
+        "base_path": "/browse/driving/parking-public-transport-environment",
+        "content_id": "11c4c5fa-9667-4a7a-825f-9e8256f0e225",
+        "description": "Public transport and bus passes, parking, environment and emissions",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-14T14:34:58Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Parking, public transport and the environment",
+        "web_url": "https://www.gov.uk/browse/driving/parking-public-transport-environment",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/apply-renew-or-update-details-for-a-blue-badge",
+        "api_url": "https://www.gov.uk/api/content/needs/apply-renew-or-update-details-for-a-blue-badge",
+        "base_path": "/needs/apply-renew-or-update-details-for-a-blue-badge",
+        "content_id": "bafbf425-f024-47a7-90e0-dc1c1fa10098",
+        "details": {
+          "benefit": "I can park nearer to my home or places I visit",
+          "goal": "apply, renew or update details for a Blue Badge",
+          "justifications": [
+            "It's something only government does",
+            "There is clear demand for it from users"
+          ],
+          "met_when": [
+            "understands eligibility criteria"
+          ],
+          "role": "disabled person or carer"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a disabled person or carer, I need to apply, renew or update details for a Blue Badge, so that I can park nearer to my home or places I visit (100308)",
+        "web_url": "https://www.gov.uk/needs/apply-renew-or-update-details-for-a-blue-badge",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/government/publications/blue-badge-can-i-get-one",
+        "api_url": "https://www.gov.uk/api/content/government/publications/blue-badge-can-i-get-one",
+        "base_path": "/government/publications/blue-badge-can-i-get-one",
+        "content_id": "5c7a79f9-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-08-10T13:51:55Z",
+        "schema_name": "publication",
+        "title": "Who can get a Blue Badge",
+        "web_url": "https://www.gov.uk/government/publications/blue-badge-can-i-get-one",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/where-registered-disabled-drivers-can-park",
+        "api_url": "https://www.gov.uk/api/content/where-registered-disabled-drivers-can-park",
+        "base_path": "/where-registered-disabled-drivers-can-park",
+        "content_id": "4975530d-db71-4d06-8fca-e47e2561abe2",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/disabilities/equipment",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/equipment",
+              "base_path": "/browse/disabilities/equipment",
+              "content_id": "48a1a4c2-23ac-44a8-b917-e72f629f2370",
+              "description": "Includes Disabled Students Allowances, Blue Badge and disabled access",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Disability equipment and transport",
+              "web_url": "https://www.gov.uk/browse/disabilities/equipment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/disability-health-condition",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/disability-health-condition",
+              "base_path": "/browse/driving/disability-health-condition",
+              "content_id": "bf25c800-46e1-468b-8d79-beec491cfa89",
+              "description": "Check and report your medical condition, get a Blue Badge, mobility scooters and bus passes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-25T10:48:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving with medical conditions, Blue Badges and transport for disabled people",
+              "web_url": "https://www.gov.uk/browse/driving/disability-health-condition",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/parking-public-transport-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/parking-public-transport-environment",
+              "base_path": "/browse/driving/parking-public-transport-environment",
+              "content_id": "11c4c5fa-9667-4a7a-825f-9e8256f0e225",
+              "description": "Public transport and bus passes, parking, environment and emissions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-12-14T14:34:58Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Parking, public transport and the environment",
+              "web_url": "https://www.gov.uk/browse/driving/parking-public-transport-environment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-16T16:38:23Z",
+        "schema_name": "local_transaction",
+        "title": "Find out where Blue Badge holders can park",
+        "web_url": "https://www.gov.uk/where-registered-disabled-drivers-can-park",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/replace-lost-stolen-blue-badge",
+        "api_url": "https://www.gov.uk/api/content/replace-lost-stolen-blue-badge",
+        "base_path": "/replace-lost-stolen-blue-badge",
+        "content_id": "fd5aebe7-727f-4aec-a21a-9d5a220a3f36",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/disabilities/equipment",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/equipment",
+              "base_path": "/browse/disabilities/equipment",
+              "content_id": "48a1a4c2-23ac-44a8-b917-e72f629f2370",
+              "description": "Includes Disabled Students Allowances, Blue Badge and disabled access",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Disability equipment and transport",
+              "web_url": "https://www.gov.uk/browse/disabilities/equipment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/disability-health-condition",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/disability-health-condition",
+              "base_path": "/browse/driving/disability-health-condition",
+              "content_id": "bf25c800-46e1-468b-8d79-beec491cfa89",
+              "description": "Check and report your medical condition, get a Blue Badge, mobility scooters and bus passes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-25T10:48:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving with medical conditions, Blue Badges and transport for disabled people",
+              "web_url": "https://www.gov.uk/browse/driving/disability-health-condition",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/parking-public-transport-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/parking-public-transport-environment",
+              "base_path": "/browse/driving/parking-public-transport-environment",
+              "content_id": "11c4c5fa-9667-4a7a-825f-9e8256f0e225",
+              "description": "Public transport and bus passes, parking, environment and emissions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-12-14T14:34:58Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Parking, public transport and the environment",
+              "web_url": "https://www.gov.uk/browse/driving/parking-public-transport-environment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-04-08T08:00:04Z",
+        "schema_name": "transaction",
+        "title": "Replace a lost, stolen or damaged Blue Badge",
+        "web_url": "https://www.gov.uk/replace-lost-stolen-blue-badge",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/change-blue-badge-details",
+        "api_url": "https://www.gov.uk/api/content/change-blue-badge-details",
+        "base_path": "/change-blue-badge-details",
+        "content_id": "4096f7a8-05e2-423b-bc09-b7d0552a4737",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/disabilities/equipment",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/equipment",
+              "base_path": "/browse/disabilities/equipment",
+              "content_id": "48a1a4c2-23ac-44a8-b917-e72f629f2370",
+              "description": "Includes Disabled Students Allowances, Blue Badge and disabled access",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Disability equipment and transport",
+              "web_url": "https://www.gov.uk/browse/disabilities/equipment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/disability-health-condition",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/disability-health-condition",
+              "base_path": "/browse/driving/disability-health-condition",
+              "content_id": "bf25c800-46e1-468b-8d79-beec491cfa89",
+              "description": "Check and report your medical condition, get a Blue Badge, mobility scooters and bus passes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-25T10:48:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving with medical conditions, Blue Badges and transport for disabled people",
+              "web_url": "https://www.gov.uk/browse/driving/disability-health-condition",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/parking-public-transport-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/parking-public-transport-environment",
+              "base_path": "/browse/driving/parking-public-transport-environment",
+              "content_id": "11c4c5fa-9667-4a7a-825f-9e8256f0e225",
+              "description": "Public transport and bus passes, parking, environment and emissions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-12-14T14:34:58Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Parking, public transport and the environment",
+              "web_url": "https://www.gov.uk/browse/driving/parking-public-transport-environment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2019-01-24T14:05:48Z",
+        "schema_name": "local_transaction",
+        "title": "Change the details on your Blue Badge",
+        "web_url": "https://www.gov.uk/change-blue-badge-details",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/blue-badge-scheme-information-council",
+        "api_url": "https://www.gov.uk/api/content/blue-badge-scheme-information-council",
+        "base_path": "/blue-badge-scheme-information-council",
+        "content_id": "92e804e2-a2c0-4fe8-93eb-9c6709307ae7",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/disability-health-condition",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/disability-health-condition",
+              "base_path": "/browse/driving/disability-health-condition",
+              "content_id": "bf25c800-46e1-468b-8d79-beec491cfa89",
+              "description": "Check and report your medical condition, get a Blue Badge, mobility scooters and bus passes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-25T10:48:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving with medical conditions, Blue Badges and transport for disabled people",
+              "web_url": "https://www.gov.uk/browse/driving/disability-health-condition",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/parking-public-transport-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/parking-public-transport-environment",
+              "base_path": "/browse/driving/parking-public-transport-environment",
+              "content_id": "11c4c5fa-9667-4a7a-825f-9e8256f0e225",
+              "description": "Public transport and bus passes, parking, environment and emissions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-12-14T14:34:58Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Parking, public transport and the environment",
+              "web_url": "https://www.gov.uk/browse/driving/parking-public-transport-environment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-05-06T11:14:45Z",
+        "schema_name": "local_transaction",
+        "title": "Blue Badge scheme: information from your council",
+        "web_url": "https://www.gov.uk/blue-badge-scheme-information-council",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-for-disabled-bus-pass",
+        "api_url": "https://www.gov.uk/api/content/apply-for-disabled-bus-pass",
+        "base_path": "/apply-for-disabled-bus-pass",
+        "content_id": "161dfa96-538c-4955-8a1a-f8a0a6fa1bb9",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/disabilities/equipment",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/equipment",
+              "base_path": "/browse/disabilities/equipment",
+              "content_id": "48a1a4c2-23ac-44a8-b917-e72f629f2370",
+              "description": "Includes Disabled Students Allowances, Blue Badge and disabled access",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Disability equipment and transport",
+              "web_url": "https://www.gov.uk/browse/disabilities/equipment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/disability-health-condition",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/disability-health-condition",
+              "base_path": "/browse/driving/disability-health-condition",
+              "content_id": "bf25c800-46e1-468b-8d79-beec491cfa89",
+              "description": "Check and report your medical condition, get a Blue Badge, mobility scooters and bus passes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-25T10:48:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving with medical conditions, Blue Badges and transport for disabled people",
+              "web_url": "https://www.gov.uk/browse/driving/disability-health-condition",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/parking-public-transport-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/parking-public-transport-environment",
+              "base_path": "/browse/driving/parking-public-transport-environment",
+              "content_id": "11c4c5fa-9667-4a7a-825f-9e8256f0e225",
+              "description": "Public transport and bus passes, parking, environment and emissions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-12-14T14:34:58Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Parking, public transport and the environment",
+              "web_url": "https://www.gov.uk/browse/driving/parking-public-transport-environment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-21T16:59:38Z",
+        "schema_name": "local_transaction",
+        "title": "Apply for a disabled person's bus pass",
+        "web_url": "https://www.gov.uk/apply-for-disabled-bus-pass",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/driving-medical-conditions",
+        "api_url": "https://www.gov.uk/api/content/driving-medical-conditions",
+        "base_path": "/driving-medical-conditions",
+        "content_id": "21574365-214c-49e1-a28a-bcec5f232ef9",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/disabilities/equipment",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/equipment",
+              "base_path": "/browse/disabilities/equipment",
+              "content_id": "48a1a4c2-23ac-44a8-b917-e72f629f2370",
+              "description": "Includes Disabled Students Allowances, Blue Badge and disabled access",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Disability equipment and transport",
+              "web_url": "https://www.gov.uk/browse/disabilities/equipment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/driving-licences",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+              "base_path": "/browse/driving/driving-licences",
+              "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+              "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-26T14:10:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving licences",
+              "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/disability-health-condition",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/disability-health-condition",
+              "base_path": "/browse/driving/disability-health-condition",
+              "content_id": "bf25c800-46e1-468b-8d79-beec491cfa89",
+              "description": "Check and report your medical condition, get a Blue Badge, mobility scooters and bus passes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-25T10:48:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving with medical conditions, Blue Badges and transport for disabled people",
+              "web_url": "https://www.gov.uk/browse/driving/disability-health-condition",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-06T16:22:16Z",
+        "schema_name": "guide",
+        "title": "Medical conditions, disabilities and driving",
+        "web_url": "https://www.gov.uk/driving-medical-conditions",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/the-blue-badge-scheme-rights-and-responsibilities-in-england",
+        "api_url": "https://www.gov.uk/api/content/government/publications/the-blue-badge-scheme-rights-and-responsibilities-in-england",
+        "base_path": "/government/publications/the-blue-badge-scheme-rights-and-responsibilities-in-england",
+        "content_id": "5c7a7b3e-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-07-09T09:19:24Z",
+        "schema_name": "publication",
+        "title": "The Blue Badge scheme: rights and responsibilities in England",
+        "web_url": "https://www.gov.uk/government/publications/the-blue-badge-scheme-rights-and-responsibilities-in-england",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/transport-disabled",
+        "api_url": "https://www.gov.uk/api/content/transport-disabled",
+        "base_path": "/transport-disabled",
+        "content_id": "84f80d04-d644-4cc4-bd8c-88a47699181d",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/disabilities/equipment",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/equipment",
+              "base_path": "/browse/disabilities/equipment",
+              "content_id": "48a1a4c2-23ac-44a8-b917-e72f629f2370",
+              "description": "Includes Disabled Students Allowances, Blue Badge and disabled access",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Disability equipment and transport",
+              "web_url": "https://www.gov.uk/browse/disabilities/equipment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/disability-health-condition",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/disability-health-condition",
+              "base_path": "/browse/driving/disability-health-condition",
+              "content_id": "bf25c800-46e1-468b-8d79-beec491cfa89",
+              "description": "Check and report your medical condition, get a Blue Badge, mobility scooters and bus passes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-25T10:48:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving with medical conditions, Blue Badges and transport for disabled people",
+              "web_url": "https://www.gov.uk/browse/driving/disability-health-condition",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-12T14:34:54Z",
+        "schema_name": "guide",
+        "title": "Transport support services for disabled people",
+        "web_url": "https://www.gov.uk/transport-disabled",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D9",
+        "api_path": "/api/content/government/organisations/department-for-transport",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-transport",
+        "base_path": "/government/organisations/department-for-transport",
+        "content_id": "4c717efc-f47b-478e-a76d-ce1ae0af1946",
+        "details": {
+          "acronym": "DfT",
+          "brand": "department-for-transport",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/654bbccfe2e16a000d42abe1/s960_dft-gmh-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/654bbccfe70413000dfc4a51/s300_dft-gmh-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Transport"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Transport",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/disability-health-condition",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/disability-health-condition",
+        "base_path": "/browse/driving/disability-health-condition",
+        "content_id": "bf25c800-46e1-468b-8d79-beec491cfa89",
+        "description": "Check and report your medical condition, get a Blue Badge, mobility scooters and bus passes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-25T10:48:10Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Driving with medical conditions, Blue Badges and transport for disabled people",
+        "web_url": "https://www.gov.uk/browse/driving/disability-health-condition",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/where-registered-disabled-drivers-can-park",
+        "api_url": "https://www.gov.uk/api/content/where-registered-disabled-drivers-can-park",
+        "base_path": "/where-registered-disabled-drivers-can-park",
+        "content_id": "4975530d-db71-4d06-8fca-e47e2561abe2",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-16T16:38:23Z",
+        "schema_name": "local_transaction",
+        "title": "Find out where Blue Badge holders can park",
+        "web_url": "https://www.gov.uk/where-registered-disabled-drivers-can-park",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/replace-lost-stolen-blue-badge",
+        "api_url": "https://www.gov.uk/api/content/replace-lost-stolen-blue-badge",
+        "base_path": "/replace-lost-stolen-blue-badge",
+        "content_id": "fd5aebe7-727f-4aec-a21a-9d5a220a3f36",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-04-08T08:00:04Z",
+        "schema_name": "transaction",
+        "title": "Replace a lost, stolen or damaged Blue Badge",
+        "web_url": "https://www.gov.uk/replace-lost-stolen-blue-badge",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pip",
+        "api_url": "https://www.gov.uk/api/content/pip",
+        "base_path": "/pip",
+        "content_id": "56ffb2a7-f45f-4e6c-bbfe-3d898a3358d8",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-09T14:46:50Z",
+        "schema_name": "guide",
+        "title": "Personal Independence Payment (PIP)",
+        "web_url": "https://www.gov.uk/pip",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/blue-badge-can-i-get-one",
+        "api_url": "https://www.gov.uk/api/content/government/publications/blue-badge-can-i-get-one",
+        "base_path": "/government/publications/blue-badge-can-i-get-one",
+        "content_id": "5c7a79f9-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-08-10T13:51:55Z",
+        "schema_name": "publication",
+        "title": "Who can get a Blue Badge",
+        "web_url": "https://www.gov.uk/government/publications/blue-badge-can-i-get-one",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/health-and-social-care/disabilities-equipment",
+        "api_url": "https://www.gov.uk/api/content/health-and-social-care/disabilities-equipment",
+        "base_path": "/health-and-social-care/disabilities-equipment",
+        "content_id": "15ddf138-3989-4997-b79c-1aa0ae496b26",
+        "details": {
+          "internal_name": "Disability equipment and transport [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/health-and-social-care/disabilities",
+              "api_url": "https://www.gov.uk/api/content/health-and-social-care/disabilities",
+              "base_path": "/health-and-social-care/disabilities",
+              "content_id": "d69977ab-4fb1-4ad6-b379-e967c5b7528b",
+              "details": {
+                "internal_name": "Disabled people [M]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/health-and-social-care",
+                    "api_url": "https://www.gov.uk/api/content/health-and-social-care",
+                    "base_path": "/health-and-social-care",
+                    "content_id": "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Health and social care",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:30:51Z",
+                    "schema_name": "taxon",
+                    "title": "Health and social care",
+                    "web_url": "https://www.gov.uk/health-and-social-care",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T12:56:16Z",
+              "schema_name": "taxon",
+              "title": "Disabled people",
+              "web_url": "https://www.gov.uk/health-and-social-care/disabilities",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T12:56:16Z",
+        "schema_name": "taxon",
+        "title": "Disability equipment and transport",
+        "web_url": "https://www.gov.uk/health-and-social-care/disabilities-equipment",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/transport/blue-badges",
+        "api_url": "https://www.gov.uk/api/content/transport/blue-badges",
+        "base_path": "/transport/blue-badges",
+        "content_id": "7d8a5648-852c-4d5c-9bd6-1e87a480f8cc",
+        "description": "Blue Badge eligibility criteria, application advice and guidance on how to run a parking scheme.",
+        "details": {
+          "internal_name": "Blue Badges",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/transport-accessibility-and-mobility",
+              "api_url": "https://www.gov.uk/api/content/transport/transport-accessibility-and-mobility",
+              "base_path": "/transport/transport-accessibility-and-mobility",
+              "content_id": "4d72b9fa-a11a-485e-9c22-8fb426e0feaa",
+              "description": "Blue badges, mobility scooters and wheelchairs, accessible public transport, taxi and private hire cars.",
+              "details": {
+                "internal_name": "Transport accessibility and disability",
+                "notes_for_editors": "",
+                "url_override": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport",
+                    "api_url": "https://www.gov.uk/api/content/transport",
+                    "base_path": "/transport",
+                    "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                    "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                    "details": {
+                      "internal_name": "Transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-15T14:31:46Z",
+                    "schema_name": "taxon",
+                    "title": "Transport",
+                    "web_url": "https://www.gov.uk/transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2023-08-31T15:34:25Z",
+              "schema_name": "taxon",
+              "title": "Transport accessibility and disability",
+              "web_url": "https://www.gov.uk/transport/transport-accessibility-and-mobility",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:11Z",
+        "schema_name": "taxon",
+        "title": "Blue badges",
+        "web_url": "https://www.gov.uk/transport/blue-badges",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-04-06T15:38:36Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15278-1605006598.480-10.13.3.253-9228",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Apply for or renew a Blue Badge",
+  "updated_at": "2024-02-12T14:05:17Z",
+  "withdrawn_notice": {
+  }
+}

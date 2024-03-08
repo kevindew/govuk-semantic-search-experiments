@@ -1,0 +1,401 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/view-right-to-work",
+  "content_id": "4b0906d6-8fe8-48c0-ac72-b1ee98cb5e01",
+  "description": "Use a job applicant's share code to check they're eligible to work in the UK if they’re from outside the UK and Ireland.\r\n",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Check details of a job applicant’s right to work in the UK, including:</p>\n\n<ul>\n  <li>the types of work they’re allowed to do</li>\n  <li>how long they can work in the UK for, if there’s a time limit</li>\n</ul>\n\n<p>You’ll need the job applicant’s:</p>\n\n<ul>\n  <li>date of birth</li>\n  <li>right to work share code</li>\n</ul>\n\n<p>You can also <a href=\"/check-job-applicant-right-to-work\">check someone’s original documents</a> instead - for example if you do not have a share code.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>British and Irish citizens cannot get a share code. You can <a href=\"/landlord-immigration-check\">check their physical documents yourself</a> or use <a href=\"https://www.gov.uk/government/publications/digital-identity-certification-for-right-to-work-right-to-rent-and-criminal-record-checks/digital-identity-certification-for-right-to-work-right-to-rent-and-criminal-record-checks\">an online identity service provider (IDSP)</a> to check them.</p>\n</div>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://right-to-work.service.gov.uk/rtw-view",
+    "variants": [
+
+    ],
+    "will_continue_on": "the right to work service"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2018-04-06T08:00:03Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/view-right-to-work",
+        "api_url": "https://www.gov.uk/api/content/view-right-to-work",
+        "base_path": "/view-right-to-work",
+        "content_id": "4b0906d6-8fe8-48c0-ac72-b1ee98cb5e01",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-10-10T16:00:06Z",
+        "schema_name": "transaction",
+        "title": "Check a job applicant's right to work: use their share code",
+        "web_url": "https://www.gov.uk/view-right-to-work",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/employing-people/recruiting-hiring",
+        "api_url": "https://www.gov.uk/api/content/browse/employing-people/recruiting-hiring",
+        "base_path": "/browse/employing-people/recruiting-hiring",
+        "content_id": "18316184-f6ff-4581-a487-83935a490074",
+        "description": "Advertise a job, Disclosure and Barring (DBS) checks, right to work checks, discrimination law and apprenticeships",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-08-03T13:11:33Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Recruiting and hiring",
+        "web_url": "https://www.gov.uk/browse/employing-people/recruiting-hiring",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/visas-immigration/what-you-need-to-do",
+        "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+        "base_path": "/browse/visas-immigration/what-you-need-to-do",
+        "content_id": "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+        "description": "Check if you need a UK visa, how to apply, sign in, manage your application, biometric residence permits (BRPs), share codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T12:05:51Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "What you need to do",
+        "web_url": "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/visas-immigration/work-visas",
+        "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/work-visas",
+        "base_path": "/browse/visas-immigration/work-visas",
+        "content_id": "4ab4764d-d9ce-425f-a8cc-aaba4a38be09",
+        "description": "Skilled Worker visa, Graduate visa, other work visas, right to work",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-13T12:27:58Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Work in the UK",
+        "web_url": "https://www.gov.uk/browse/visas-immigration/work-visas",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/penalties-for-employing-illegal-workers",
+        "api_url": "https://www.gov.uk/api/content/penalties-for-employing-illegal-workers",
+        "base_path": "/penalties-for-employing-illegal-workers",
+        "content_id": "b482ebeb-d93a-48f2-8c22-c858234b3817",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/recruiting-hiring",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/recruiting-hiring",
+              "base_path": "/browse/employing-people/recruiting-hiring",
+              "content_id": "18316184-f6ff-4581-a487-83935a490074",
+              "description": "Advertise a job, Disclosure and Barring (DBS) checks, right to work checks, discrimination law and apprenticeships",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-08-03T13:11:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Recruiting and hiring",
+              "web_url": "https://www.gov.uk/browse/employing-people/recruiting-hiring",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-15T08:49:22Z",
+        "schema_name": "answer",
+        "title": "Penalties for employing illegal workers",
+        "web_url": "https://www.gov.uk/penalties-for-employing-illegal-workers",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-job-applicant-right-to-work",
+        "api_url": "https://www.gov.uk/api/content/check-job-applicant-right-to-work",
+        "base_path": "/check-job-applicant-right-to-work",
+        "content_id": "63fe19b5-bbcd-4712-9250-a1cd3125c470",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/recruiting-hiring",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/recruiting-hiring",
+              "base_path": "/browse/employing-people/recruiting-hiring",
+              "content_id": "18316184-f6ff-4581-a487-83935a490074",
+              "description": "Advertise a job, Disclosure and Barring (DBS) checks, right to work checks, discrimination law and apprenticeships",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-08-03T13:11:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Recruiting and hiring",
+              "web_url": "https://www.gov.uk/browse/employing-people/recruiting-hiring",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/visas-immigration/work-visas",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/work-visas",
+              "base_path": "/browse/visas-immigration/work-visas",
+              "content_id": "4ab4764d-d9ce-425f-a8cc-aaba4a38be09",
+              "description": "Skilled Worker visa, Graduate visa, other work visas, right to work",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-13T12:27:58Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Work in the UK",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/work-visas",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-24T15:40:43Z",
+        "schema_name": "answer",
+        "title": "Checking a job applicant's right to work",
+        "web_url": "https://www.gov.uk/check-job-applicant-right-to-work",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "OT554",
+        "api_path": "/api/content/government/organisations/uk-visas-and-immigration",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/uk-visas-and-immigration",
+        "base_path": "/government/organisations/uk-visas-and-immigration",
+        "content_id": "04148522-b0c1-4137-b687-5f3c3bdd561a",
+        "details": {
+          "acronym": "UKVI",
+          "brand": "home-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "UK Visas and Immigration"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "UK Visas and Immigration",
+        "web_url": "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/employing-people/recruiting-hiring",
+        "api_url": "https://www.gov.uk/api/content/browse/employing-people/recruiting-hiring",
+        "base_path": "/browse/employing-people/recruiting-hiring",
+        "content_id": "18316184-f6ff-4581-a487-83935a490074",
+        "description": "Advertise a job, Disclosure and Barring (DBS) checks, right to work checks, discrimination law and apprenticeships",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/employing-people",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+              "base_path": "/browse/employing-people",
+              "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+              "description": "Includes pay, contracts, hiring and redundancies",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-07-09T12:54:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Employing people",
+              "web_url": "https://www.gov.uk/browse/employing-people",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-08-03T13:11:33Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Recruiting and hiring",
+        "web_url": "https://www.gov.uk/browse/employing-people/recruiting-hiring",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/check-job-applicant-right-to-work",
+        "api_url": "https://www.gov.uk/api/content/check-job-applicant-right-to-work",
+        "base_path": "/check-job-applicant-right-to-work",
+        "content_id": "63fe19b5-bbcd-4712-9250-a1cd3125c470",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-24T15:40:43Z",
+        "schema_name": "answer",
+        "title": "Checking a job applicant's right to work",
+        "web_url": "https://www.gov.uk/check-job-applicant-right-to-work",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/prove-right-to-work",
+        "api_url": "https://www.gov.uk/api/content/prove-right-to-work",
+        "base_path": "/prove-right-to-work",
+        "content_id": "ebf341bc-aa8f-4105-a042-b7ba1b7a110e",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-10-22T13:41:20Z",
+        "schema_name": "guide",
+        "title": "Prove your right to work to an employer",
+        "web_url": "https://www.gov.uk/prove-right-to-work",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employee-immigration-employment-status",
+        "api_url": "https://www.gov.uk/api/content/employee-immigration-employment-status",
+        "base_path": "/employee-immigration-employment-status",
+        "content_id": "e05cc0dd-1132-4258-aad4-8636c54f7102",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-26T09:29:07Z",
+        "schema_name": "transaction",
+        "title": "Use the Employer Checking Service",
+        "web_url": "https://www.gov.uk/employee-immigration-employment-status",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/right-to-work-checks-employers-guide",
+        "api_url": "https://www.gov.uk/api/content/government/publications/right-to-work-checks-employers-guide",
+        "base_path": "/government/publications/right-to-work-checks-employers-guide",
+        "content_id": "5f58b25b-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-09T09:18:10Z",
+        "schema_name": "publication",
+        "title": "Right to work checks: an employer's guide",
+        "web_url": "https://www.gov.uk/government/publications/right-to-work-checks-employers-guide",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2018-10-10T16:00:06Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1682520266.383-10.13.22.231-8540",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Check a job applicant's right to work: use their share code",
+  "updated_at": "2024-02-09T09:18:11Z",
+  "withdrawn_notice": {
+  }
+}

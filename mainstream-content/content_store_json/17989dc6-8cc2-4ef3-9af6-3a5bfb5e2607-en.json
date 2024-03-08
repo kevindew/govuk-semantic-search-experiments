@@ -1,0 +1,135 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/find-modern-slavery-statement",
+  "content_id": "17989dc6-8cc2-4ef3-9af6-3a5bfb5e2607",
+  "description": "Find a modern slavery statement from organisations in the UK. Search, download and compare data. \r\n",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Use this service to find a modern slavery statement from organisations that operate in the UK. You can only search for statements from 2020 onwards.</p>\n\n<p>You can also:</p>\n\n<ul>\n  <li>find information about the contents of each statement</li>\n  <li>download and compare data about statements by industry sector</li>\n</ul>\n\n<p>Some <a href=\"/guidance/publish-an-annual-modern-slavery-statement\">commercial organisations must publish an annual statement</a>, explaining how they prevent modern slavery in their business and supply chains.</p>\n\n<p>It is voluntary for organisations to add their statement to this service.</p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://modern-slavery-statement-registry.service.gov.uk",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2021-03-11T12:00:00Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/find-modern-slavery-statement",
+        "api_url": "https://www.gov.uk/api/content/find-modern-slavery-statement",
+        "base_path": "/find-modern-slavery-statement",
+        "content_id": "17989dc6-8cc2-4ef3-9af6-3a5bfb5e2607",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-03-11T10:35:57Z",
+        "schema_name": "transaction",
+        "title": "Find a modern slavery statement",
+        "web_url": "https://www.gov.uk/find-modern-slavery-statement",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/guidance/publish-an-annual-modern-slavery-statement",
+        "api_url": "https://www.gov.uk/api/content/guidance/publish-an-annual-modern-slavery-statement",
+        "base_path": "/guidance/publish-an-annual-modern-slavery-statement",
+        "content_id": "ae5f2999-34d1-4249-8a46-30bb9e00d059",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-07-28T09:42:55Z",
+        "schema_name": "detailed_guide",
+        "title": "Publish an annual modern slavery statement",
+        "web_url": "https://www.gov.uk/guidance/publish-an-annual-modern-slavery-statement",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D16",
+        "api_path": "/api/content/government/organisations/home-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/home-office",
+        "base_path": "/government/organisations/home-office",
+        "content_id": "06056197-bc69-4147-aa28-070bca132178",
+        "details": {
+          "acronym": "Home Office",
+          "brand": "home-office",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db3ce5274a7908e3530c/s960_home-office.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db3c40f0b649cceb18de/s300_home-office.jpg"
+          },
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "Home Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Home Office",
+        "web_url": "https://www.gov.uk/government/organisations/home-office",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2021-03-11T10:35:57Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "10084-1615458957.226-10.13.1.43-7490",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Find a modern slavery statement",
+  "updated_at": "2024-03-07T11:18:17Z",
+  "withdrawn_notice": {
+  }
+}

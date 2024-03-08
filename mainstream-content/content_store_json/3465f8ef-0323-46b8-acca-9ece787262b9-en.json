@@ -1,0 +1,307 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-alcohol-wholesaler-registration",
+  "content_id": "3465f8ef-0323-46b8-acca-9ece787262b9",
+  "description": "Check whether an alcohol wholesaler or producer is registered with HMRC on the Alcohol Wholesaler Registration Scheme (AWRS)",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+      {
+        "title": "The Alcohol Wholesaler Registration Scheme (AWRS)",
+        "url": "https://www.gov.uk/guidance/the-alcohol-wholesaler-registration-scheme-awrs"
+      }
+    ],
+    "introductory_paragraph": "<p>If you buy alcohol to sell on, you must check that the wholesaler or producer you buy it from is approved.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You can be fined or go to prison if you buy alcohol from a wholesaler who is not approved.</p>\n</div>\n\n<p>You do not need to check if you’re an individual buying alcohol for a one-off event, such as a party once a year. You still need to get a licence to sell alcohol, known as a <a href=\"/temporary-events-notice\">Temporary Events Notice</a>.</p>\n\n<p>You need to <a href=\"/government/publications/check-if-an-alcohol-wholesaler-in-the-isle-of-man-is-approved\">check wholesalers from the Isle of Man</a> separately.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/gwirio-cofrestriad-cyfanwerthwr-alcohol\">in Welsh (Cymraeg)</a>.</p>\n</div>\n",
+    "more_information": "<p>You need the wholesaler or producer’s Unique Reference Number (URN). This should be printed on their invoices. Contact them if you cannot find it.</p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.tax.service.gov.uk/check-the-awrs-register",
+    "will_continue_on": "the Alcohol Wholesaler Registration Scheme (AWRS)"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2017-03-31T14:00:14Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-alcohol-wholesaler-registration",
+        "api_url": "https://www.gov.uk/api/content/check-alcohol-wholesaler-registration",
+        "base_path": "/check-alcohol-wholesaler-registration",
+        "content_id": "3465f8ef-0323-46b8-acca-9ece787262b9",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-03-31T14:22:29Z",
+        "schema_name": "transaction",
+        "title": "Check if an alcohol wholesaler is approved",
+        "web_url": "https://www.gov.uk/check-alcohol-wholesaler-registration",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/guidance/the-alcohol-wholesaler-registration-scheme-awrs",
+        "api_url": "https://www.gov.uk/api/content/guidance/the-alcohol-wholesaler-registration-scheme-awrs",
+        "base_path": "/guidance/the-alcohol-wholesaler-registration-scheme-awrs",
+        "content_id": "889a358d-74eb-42e2-a8d5-0beb4c5522ae",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-08-06T12:14:37Z",
+        "schema_name": "detailed_guide",
+        "title": "The Alcohol Wholesaler Registration Scheme (AWRS)",
+        "web_url": "https://www.gov.uk/guidance/the-alcohol-wholesaler-registration-scheme-awrs",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/alcohol-wholesaler-registration-scheme-awrs-apply-to-register",
+        "api_url": "https://www.gov.uk/api/content/guidance/alcohol-wholesaler-registration-scheme-awrs-apply-to-register",
+        "base_path": "/guidance/alcohol-wholesaler-registration-scheme-awrs-apply-to-register",
+        "content_id": "e5b75cb3-762b-4adf-ad8d-e57ba2b88517",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-27T12:14:51Z",
+        "schema_name": "detailed_guide",
+        "title": "Alcohol Wholesaler Registration Scheme: register as an alcohol wholesaler or producer",
+        "web_url": "https://www.gov.uk/guidance/alcohol-wholesaler-registration-scheme-awrs-apply-to-register",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/get-information-about-a-company",
+        "api_url": "https://www.gov.uk/api/content/get-information-about-a-company",
+        "base_path": "/get-information-about-a-company",
+        "content_id": "9ca1a27b-af7b-44d2-b10d-0a6d0e3ff53d",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-24T08:36:53Z",
+        "schema_name": "transaction",
+        "title": "Get information about a company",
+        "web_url": "https://www.gov.uk/get-information-about-a-company",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/alcohol-licensing",
+        "api_url": "https://www.gov.uk/api/content/guidance/alcohol-licensing",
+        "base_path": "/guidance/alcohol-licensing",
+        "content_id": "5dc3ce16-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-04-19T11:51:31Z",
+        "schema_name": "detailed_guide",
+        "title": "Alcohol licensing",
+        "web_url": "https://www.gov.uk/guidance/alcohol-licensing",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/personal-licence-application--2",
+        "api_url": "https://www.gov.uk/api/content/government/publications/personal-licence-application--2",
+        "base_path": "/government/publications/personal-licence-application--2",
+        "content_id": "5e293a4d-7631-11e4-a3cb-005056011aef",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-04-05T23:00:07Z",
+        "schema_name": "publication",
+        "title": "Application for a personal licence to sell alcohol",
+        "web_url": "https://www.gov.uk/government/publications/personal-licence-application--2",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/alcohol-sales",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/alcohol-sales",
+        "base_path": "/business-and-industry/alcohol-sales",
+        "content_id": "13b3a4e4-7254-4650-819d-d9c6e26e01b3",
+        "description": "",
+        "details": {
+          "internal_name": "Alcohol licensing ",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/business-licensing",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/business-licensing",
+              "base_path": "/business-and-industry/business-licensing",
+              "content_id": "8758d11e-3c6f-4b81-99e6-791a99e44363",
+              "details": {
+                "internal_name": "Business licensing",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry/running-a-business",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+                    "base_path": "/business-and-industry/running-a-business",
+                    "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+                    "details": {
+                      "internal_name": "Running a business",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/business-and-industry",
+                          "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                          "base_path": "/business-and-industry",
+                          "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Business and industry",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-03T15:41:02Z",
+                          "schema_name": "taxon",
+                          "title": "Business and industry",
+                          "web_url": "https://www.gov.uk/business-and-industry",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Running a business",
+                    "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Business licensing ",
+              "web_url": "https://www.gov.uk/business-and-industry/business-licensing",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2020-02-06T11:28:57Z",
+        "schema_name": "taxon",
+        "title": "Alcohol licensing ",
+        "web_url": "https://www.gov.uk/business-and-industry/alcohol-sales",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-03-31T14:22:29Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "13017-1535108814.682-90.196.50.169-7305",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Check if an alcohol wholesaler is approved",
+  "updated_at": "2024-01-03T10:44:46Z",
+  "withdrawn_notice": {
+  }
+}

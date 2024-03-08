@@ -1,0 +1,273 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/mot-reminder",
+  "content_id": "998c2bb2-2961-484a-b406-f0e6e283bb58",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2017-12-12T15:52:24Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/mot-reminder",
+        "api_url": "https://www.gov.uk/api/content/done/mot-reminder",
+        "base_path": "/done/mot-reminder",
+        "content_id": "998c2bb2-2961-484a-b406-f0e6e283bb58",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-08-26T13:25:26Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Get MOT reminders",
+        "web_url": "https://www.gov.uk/done/mot-reminder",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA570",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-standards-agency",
+        "content_id": "d39237a5-678b-4bb5-a372-eb2cb036933d",
+        "details": {
+          "acronym": "DVSA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Standards<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Standards Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+        "withdrawn": false
+      }
+    ],
+    "part_of_step_navs": [
+      {
+        "api_path": "/api/content/buy-a-vehicle",
+        "api_url": "https://www.gov.uk/api/content/buy-a-vehicle",
+        "base_path": "/buy-a-vehicle",
+        "content_id": "58fad183-27f5-4dd9-b51e-696c992373d7",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "text": "You'll need the vehicle's registration number, make, model and MOT test number. You also need to see the V5C vehicle registration certificate (log book). ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/get-vehicle-information-from-dvla",
+                        "text": "Check the details you've been given match DVLA's information"
+                      },
+                      {
+                        "href": "/check-mot-history",
+                        "text": "Check the vehicle's MOT history"
+                      },
+                      {
+                        "href": "/check-vehicle-recall",
+                        "text": "Check if the vehicle has been recalled because of a safety issue"
+                      },
+                      {
+                        "href": "/checks-when-buying-a-used-car",
+                        "text": "Check the log book isn't for a stolen vehicle"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Check the vehicle before you buy it"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Once you've bought the vehicle, you have to register it. How you register it depends on whether it has a V5C registration certificate (log book).",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/vehicle-registration/new-and-used-vehicles",
+                        "text": "Find out how to register your vehicle"
+                      },
+                      {
+                        "context": "£25",
+                        "href": "/vehicle-log-book",
+                        "text": "Get a vehicle log book if you don't have it"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Buy and register the vehicle"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must get an MOT for your vehicle every year once it's 3 years old. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/mot-reminder",
+                        "text": "Get a reminder when your MOT is due"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "optional": true,
+                "title": "Register for MOT reminders"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must have insurance before you can use your vehicle on the road.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "https://ownvehicle.askmid.com/",
+                        "text": "Check if your vehicle is insured on the Motor Insurance Database"
+                      },
+                      {
+                        "href": "/vehicle-insurance/uninsured-vehicles",
+                        "text": "Read about vehicle insurance"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Insure the vehicle"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You need to tax the vehicle before you can use it on the road.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/vehicle-tax-rate-tables",
+                        "text": "Check how much you’ll have to pay to tax your vehicle"
+                      },
+                      {
+                        "href": "/vehicle-exempt-from-vehicle-tax",
+                        "text": "Check when you don't have to pay vehicle tax"
+                      },
+                      {
+                        "href": "/vehicle-tax",
+                        "text": "Tax your vehicle"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "optional": false,
+                "title": "Tax the vehicle"
+              }
+            ],
+            "title": "Buy a vehicle: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/done/mot-reminder",
+              "api_url": "https://www.gov.uk/api/content/done/mot-reminder",
+              "base_path": "/done/mot-reminder",
+              "content_id": "998c2bb2-2961-484a-b406-f0e6e283bb58",
+              "document_type": "completed_transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2020-08-26T13:25:26Z",
+              "schema_name": "completed_transaction",
+              "title": "Give feedback on Get MOT reminders",
+              "web_url": "https://www.gov.uk/done/mot-reminder",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2019-02-11T15:49:48Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Buy a vehicle: step by step",
+        "web_url": "https://www.gov.uk/buy-a-vehicle",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-08-26T13:25:26Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629923.185-10.13.26.132-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Get MOT reminders",
+  "updated_at": "2024-03-08T09:59:06Z",
+  "withdrawn_notice": {
+  }
+}

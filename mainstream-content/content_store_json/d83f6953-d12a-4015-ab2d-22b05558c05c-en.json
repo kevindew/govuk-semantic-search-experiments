@@ -1,0 +1,539 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/armed-forces-pension-calculator",
+  "content_id": "d83f6953-d12a-4015-ab2d-22b05558c05c",
+  "description": "Estimate your armed forces pension - get a forecast of your armed forces pension, apply online or by post",
+  "details": {
+    "body": "<p>You may be eligible for an <a href=\"/guidance/pensions-and-compensation-for-veterans#pensions\">armed forces pension</a> if you’re a current or former member of the armed forces.</p>\n\n<h2 id=\"if-youre-currently-serving-in-the-armed-forces\">If you’re currently serving in the armed forces</h2>\n\n<p>Use the calculator to <a rel=\"external\" href=\"http://www.mod-pc.co.uk/\">work out how much armed forces pension</a> you may get.</p>\n\n<p>You can also download and fill in a <a href=\"/government/publications/service-personnel-and-veterans-agency-spva-pensions-forms\">pension forecast request (form 12)</a>.</p>\n\n<h2 id=\"if-youve-left-the-armed-forces\">If you’ve left the armed forces</h2>\n\n<p>Download and fill in a <a href=\"/government/publications/service-personnel-and-veterans-agency-spva-pensions-forms\">preserved pension forecast form (form 14)</a> to get an estimate of your pension.</p>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-12-12T15:20:07Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/armed-forces-pension-calculator",
+        "api_url": "https://www.gov.uk/api/content/armed-forces-pension-calculator",
+        "base_path": "/armed-forces-pension-calculator",
+        "content_id": "d83f6953-d12a-4015-ab2d-22b05558c05c",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-19T14:15:31Z",
+        "schema_name": "answer",
+        "title": "Estimate your armed forces pension",
+        "web_url": "https://www.gov.uk/armed-forces-pension-calculator",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/working/armed-forces",
+        "api_url": "https://www.gov.uk/api/content/browse/working/armed-forces",
+        "base_path": "/browse/working/armed-forces",
+        "content_id": "201306e2-65d1-409a-92f6-d266f8151b8d",
+        "description": "Includes reserve forces and armed forces pensions, benefits and financial assistance. ",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-09T15:02:15Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Armed forces",
+        "web_url": "https://www.gov.uk/browse/working/armed-forces",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/working/workplace-personal-pensions",
+        "api_url": "https://www.gov.uk/api/content/browse/working/workplace-personal-pensions",
+        "base_path": "/browse/working/workplace-personal-pensions",
+        "content_id": "bc5ca140-2539-4ec2-8733-9e0acb02f912",
+        "description": "Includes automatic enrolment, lost pensions and planning for retirement",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Workplace and personal pensions",
+        "web_url": "https://www.gov.uk/browse/working/workplace-personal-pensions",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/guidance/pensions-and-compensation-for-veterans",
+        "api_url": "https://www.gov.uk/api/content/guidance/pensions-and-compensation-for-veterans",
+        "base_path": "/guidance/pensions-and-compensation-for-veterans",
+        "content_id": "5c8ec3dc-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-03-07T13:56:23Z",
+        "schema_name": "detailed_guide",
+        "title": "Armed forces pensions",
+        "web_url": "https://www.gov.uk/guidance/pensions-and-compensation-for-veterans",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/claim-for-injury-received-while-serving",
+        "api_url": "https://www.gov.uk/api/content/claim-for-injury-received-while-serving",
+        "base_path": "/claim-for-injury-received-while-serving",
+        "content_id": "3c855e83-af2c-475d-b8db-af7e9859e892",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/disability",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/disability",
+              "base_path": "/browse/benefits/disability",
+              "content_id": "55137051-1759-4251-a94c-476239ddfb36",
+              "description": "Help if you're living with a health condition or disability. Includes Employment and Support Allowance (ESA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're disabled or have a health condition",
+              "web_url": "https://www.gov.uk/browse/benefits/disability",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/armed-forces",
+              "api_url": "https://www.gov.uk/api/content/browse/working/armed-forces",
+              "base_path": "/browse/working/armed-forces",
+              "content_id": "201306e2-65d1-409a-92f6-d266f8151b8d",
+              "description": "Includes reserve forces and armed forces pensions, benefits and financial assistance. ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-10-09T15:02:15Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Armed forces",
+              "web_url": "https://www.gov.uk/browse/working/armed-forces",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-05T11:26:18Z",
+        "schema_name": "guide",
+        "title": "Claim if you were injured while serving in the armed forces",
+        "web_url": "https://www.gov.uk/claim-for-injury-received-while-serving",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D17",
+        "api_path": "/api/content/government/organisations/ministry-of-defence",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/ministry-of-defence",
+        "base_path": "/government/organisations/ministry-of-defence",
+        "content_id": "d994e55c-48c9-4795-b872-58d8ec98af12",
+        "details": {
+          "acronym": "MOD",
+          "brand": "ministry-of-defence",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/63495d46d3bf7f618eda94d2/s960_ministry-of-defence-building.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/63495d468fa8f5346732690e/s300_ministry-of-defence-building.jpg"
+          },
+          "logo": {
+            "crest": "mod",
+            "formatted_title": "Ministry<br/>of Defence"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Ministry of Defence",
+        "web_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "EA50",
+        "api_path": "/api/content/government/organisations/service-personnel-and-veterans-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/service-personnel-and-veterans-agency",
+        "base_path": "/government/organisations/service-personnel-and-veterans-agency",
+        "content_id": "d65a2eb9-10c8-462a-8627-dd97691caf9b",
+        "details": {
+          "acronym": "SPVA",
+          "brand": "ministry-of-defence",
+          "default_news_image": null,
+          "logo": {
+            "crest": "mod",
+            "formatted_title": "Service Personnel <br/>and Veterans Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "merged",
+            "updated_at": "2014-04-01T00:00:00.000+01:00",
+            "url": "http://www.veterans-uk.info/"
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Service Personnel and Veterans Agency",
+        "web_url": "https://www.gov.uk/government/organisations/service-personnel-and-veterans-agency",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "OT1087",
+        "api_path": "/api/content/government/organisations/veterans-uk",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/veterans-uk",
+        "base_path": "/government/organisations/veterans-uk",
+        "content_id": "33cf4faf-f09b-457d-b516-0704547e1f89",
+        "details": {
+          "acronym": "Veterans UK ",
+          "brand": "ministry-of-defence",
+          "default_news_image": null,
+          "logo": {
+            "crest": "mod",
+            "formatted_title": "Veterans UK"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Veterans UK",
+        "web_url": "https://www.gov.uk/government/organisations/veterans-uk",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/working/armed-forces",
+        "api_url": "https://www.gov.uk/api/content/browse/working/armed-forces",
+        "base_path": "/browse/working/armed-forces",
+        "content_id": "201306e2-65d1-409a-92f6-d266f8151b8d",
+        "description": "Includes reserve forces and armed forces pensions, benefits and financial assistance. ",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/working",
+              "api_url": "https://www.gov.uk/api/content/browse/working",
+              "base_path": "/browse/working",
+              "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+              "description": "Includes holidays, finding a job and redundancy",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-07-09T12:54:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/browse/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-09T15:02:15Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Armed forces",
+        "web_url": "https://www.gov.uk/browse/working/armed-forces",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/guidance/pensions-and-compensation-for-veterans",
+        "api_url": "https://www.gov.uk/api/content/guidance/pensions-and-compensation-for-veterans",
+        "base_path": "/guidance/pensions-and-compensation-for-veterans",
+        "content_id": "5c8ec3dc-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-03-07T13:56:23Z",
+        "schema_name": "detailed_guide",
+        "title": "Armed forces pensions",
+        "web_url": "https://www.gov.uk/guidance/pensions-and-compensation-for-veterans",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/armed-forces-pension-scheme-1975-regulations",
+        "api_url": "https://www.gov.uk/api/content/government/publications/armed-forces-pension-scheme-1975-regulations",
+        "base_path": "/government/publications/armed-forces-pension-scheme-1975-regulations",
+        "content_id": "5c8feed1-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-05-20T13:12:25Z",
+        "schema_name": "publication",
+        "title": "Armed Forces Pension Scheme 1975 Regulations",
+        "web_url": "https://www.gov.uk/government/publications/armed-forces-pension-scheme-1975-regulations",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/tri-service-pension-codes-april-2017",
+        "api_url": "https://www.gov.uk/api/content/government/publications/tri-service-pension-codes-april-2017",
+        "base_path": "/government/publications/tri-service-pension-codes-april-2017",
+        "content_id": "e8263cef-8405-4a7a-8557-5334c1c68017",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-02-14T09:50:22Z",
+        "schema_name": "publication",
+        "title": "Tri-service pension codes: April 2017",
+        "web_url": "https://www.gov.uk/government/publications/tri-service-pension-codes-april-2017",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/defence/working-armed-forces",
+        "api_url": "https://www.gov.uk/api/content/defence/working-armed-forces",
+        "base_path": "/defence/working-armed-forces",
+        "content_id": "8ff8cf05-a6e6-4757-a896-4fabd9f3229a",
+        "details": {
+          "internal_name": "Armed forces [M] (level 2, defence theme)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/defence-and-armed-forces",
+              "api_url": "https://www.gov.uk/api/content/defence-and-armed-forces",
+              "base_path": "/defence-and-armed-forces",
+              "content_id": "e491505c-77ae-45b2-84be-8c94b94f6a2b",
+              "description": "",
+              "details": {
+                "internal_name": "Defence and armed forces",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:34:16Z",
+              "schema_name": "taxon",
+              "title": "Defence and armed forces",
+              "web_url": "https://www.gov.uk/defence-and-armed-forces",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:16:52Z",
+        "schema_name": "taxon",
+        "title": "Armed forces",
+        "web_url": "https://www.gov.uk/defence/working-armed-forces",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employment/workplace-personal-pensions",
+        "api_url": "https://www.gov.uk/api/content/employment/workplace-personal-pensions",
+        "base_path": "/employment/workplace-personal-pensions",
+        "content_id": "a99fc39c-997a-4b1a-9e6d-8cf63a3100be",
+        "description": "Includes automatic enrolment, lost pensions and planning for retirement",
+        "details": {
+          "internal_name": "Workplace and personal pensions [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/employment/working",
+              "api_url": "https://www.gov.uk/api/content/employment/working",
+              "base_path": "/employment/working",
+              "content_id": "092348a4-b896-4f8f-a0dc-e6d4605a4904",
+              "description": "Includes holidays and finding a job",
+              "details": {
+                "internal_name": "Working, jobs and pensions [M] (merged, level 2, work theme)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/work",
+                    "api_url": "https://www.gov.uk/api/content/work",
+                    "base_path": "/work",
+                    "content_id": "d0f1e5a3-c8f4-4780-8678-994f19104b21",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Work",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:33:40Z",
+                    "schema_name": "taxon",
+                    "title": "Work",
+                    "web_url": "https://www.gov.uk/work",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T11:08:23Z",
+              "schema_name": "taxon",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/employment/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T11:08:23Z",
+        "schema_name": "taxon",
+        "title": "Workplace and personal pensions",
+        "web_url": "https://www.gov.uk/employment/workplace-personal-pensions",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-11-19T14:15:31Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15545-1504179317.909-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Estimate your armed forces pension",
+  "updated_at": "2024-03-07T13:56:26Z",
+  "withdrawn_notice": {
+  }
+}

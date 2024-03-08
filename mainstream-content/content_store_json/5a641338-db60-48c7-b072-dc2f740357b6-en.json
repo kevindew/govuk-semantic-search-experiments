@@ -1,0 +1,616 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/redundancy-payments-helpline",
+  "content_id": "5a641338-db60-48c7-b072-dc2f740357b6",
+  "description": "Get information and advice on statutory redundancy pay in England, Scotland and Wales - telephone, opening hours",
+  "details": {
+    "body": "\n<div class=\"summary\">\n<p>Contact Acas (Advisory, Conciliation and Arbitration Service) for help and advice on dealing with redundancy.</p>\n</div>\n\n<div class=\"contact\">\n<p>Acas  <br>\n<a href=\"http://www.acas.org.uk\">www.acas.org.uk</a>  <br>\nTelephone: 0300 123 1100  <br>\nTextphone: 18001 0300 123 1100  <br>\nMonday to Friday, 8am to 6pm   <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<h2 id=\"if-your-employer-is-insolvent\">If your employer is insolvent</h2>\n<p>Contact the Insolvency Service if your employer cannot pay your statutory redundancy payment because it’s <a href=\"/your-rights-if-your-employer-is-insolvent\">insolvent</a>.</p>\n\n<div class=\"contact\">\n<p>Insolvency Service redundancy payments helpline\n<a href=\"mailto:redundancypaymentsonline@insolvency.gov.uk\">redundancypaymentsonline@insolvency.gov.uk</a>   <br>\nTelephone: 0330 331 0020    <br>\nMonday to Thursday, 9am to 5pm   <br>\nFriday, 9am to 3pm <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-10-15T16:42:17Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/redundancy-payments-helpline",
+        "api_url": "https://www.gov.uk/api/content/redundancy-payments-helpline",
+        "base_path": "/redundancy-payments-helpline",
+        "content_id": "5a641338-db60-48c7-b072-dc2f740357b6",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-26T15:47:22Z",
+        "schema_name": "answer",
+        "title": "Redundancy payments helplines",
+        "web_url": "https://www.gov.uk/redundancy-payments-helpline",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/working/redundancies-dismissals",
+        "api_url": "https://www.gov.uk/api/content/browse/working/redundancies-dismissals",
+        "base_path": "/browse/working/redundancies-dismissals",
+        "content_id": "d81c1d6e-c54b-4fc1-a169-0b45520358cc",
+        "description": "Includes solving a workplace dispute, calculating redundancy pay and dismissal",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:48Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Redundancies, dismissals and disciplinaries",
+        "web_url": "https://www.gov.uk/browse/working/redundancies-dismissals",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/calculate-your-redundancy-pay",
+        "api_url": "https://www.gov.uk/api/content/calculate-your-redundancy-pay",
+        "base_path": "/calculate-your-redundancy-pay",
+        "content_id": "d2786d90-20fa-467e-ac4a-ff51dcd01b4f",
+        "document_type": "smart_answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/working/redundancies-dismissals",
+              "api_url": "https://www.gov.uk/api/content/browse/working/redundancies-dismissals",
+              "base_path": "/browse/working/redundancies-dismissals",
+              "content_id": "d81c1d6e-c54b-4fc1-a169-0b45520358cc",
+              "description": "Includes solving a workplace dispute, calculating redundancy pay and dismissal",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Redundancies, dismissals and disciplinaries",
+              "web_url": "https://www.gov.uk/browse/working/redundancies-dismissals",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2021-06-16T08:18:46Z",
+        "schema_name": "smart_answer",
+        "title": "Calculate your statutory redundancy pay",
+        "web_url": "https://www.gov.uk/calculate-your-redundancy-pay",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/redundancy-your-rights",
+        "api_url": "https://www.gov.uk/api/content/redundancy-your-rights",
+        "base_path": "/redundancy-your-rights",
+        "content_id": "f14d9026-2d74-4a1d-aad3-7dddff9de029",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/working/redundancies-dismissals",
+              "api_url": "https://www.gov.uk/api/content/browse/working/redundancies-dismissals",
+              "base_path": "/browse/working/redundancies-dismissals",
+              "content_id": "d81c1d6e-c54b-4fc1-a169-0b45520358cc",
+              "description": "Includes solving a workplace dispute, calculating redundancy pay and dismissal",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Redundancies, dismissals and disciplinaries",
+              "web_url": "https://www.gov.uk/browse/working/redundancies-dismissals",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-25T17:06:14Z",
+        "schema_name": "guide",
+        "title": "Redundancy: your rights",
+        "web_url": "https://www.gov.uk/redundancy-your-rights",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/your-rights-if-your-employer-is-insolvent",
+        "api_url": "https://www.gov.uk/api/content/your-rights-if-your-employer-is-insolvent",
+        "base_path": "/your-rights-if-your-employer-is-insolvent",
+        "content_id": "de09348e-cb0c-4d58-96f3-4ff2156a236e",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/trade-unions",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/trade-unions",
+              "base_path": "/browse/employing-people/trade-unions",
+              "content_id": "25ac566b-121e-4e1c-9c73-030e6554cb85",
+              "description": "Includes industrial action and recognising trade unions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:46Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Trade unions and workers rights",
+              "web_url": "https://www.gov.uk/browse/employing-people/trade-unions",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/redundancies-dismissals",
+              "api_url": "https://www.gov.uk/api/content/browse/working/redundancies-dismissals",
+              "base_path": "/browse/working/redundancies-dismissals",
+              "content_id": "d81c1d6e-c54b-4fc1-a169-0b45520358cc",
+              "description": "Includes solving a workplace dispute, calculating redundancy pay and dismissal",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Redundancies, dismissals and disciplinaries",
+              "web_url": "https://www.gov.uk/browse/working/redundancies-dismissals",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2021-04-05T23:01:20Z",
+        "schema_name": "guide",
+        "title": "Your rights if your employer is insolvent",
+        "web_url": "https://www.gov.uk/your-rights-if-your-employer-is-insolvent",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1382",
+        "api_path": "/api/content/government/organisations/department-for-business-and-trade",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-business-and-trade",
+        "base_path": "/government/organisations/department-for-business-and-trade",
+        "content_id": "aa750cdf-7925-429d-a2b3-0d9fa47d2c48",
+        "details": {
+          "acronym": "DBT",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/64539946faf4aa0012e132d1/s960_DBT_Plaque-2.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/64539946c33b46000cf5e655/s300_DBT_Plaque-2.jpg"
+          },
+          "logo": {
+            "crest": "dbt",
+            "formatted_title": "Department for<br/>Business &amp; Trade"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Business and Trade",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D10",
+        "api_path": "/api/content/government/organisations/department-for-work-pensions",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-work-pensions",
+        "base_path": "/government/organisations/department-for-work-pensions",
+        "content_id": "b548a09f-8b35-4104-89f4-f1a40bf3136d",
+        "details": {
+          "acronym": "DWP",
+          "brand": "department-for-work-pensions",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab1e5274a7908e35204/s960_dwp-caxton-house-logo-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab040f0b649cfaf7b4b/s300_dwp-caxton-house-logo-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Work &amp; <br/>Pensions"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Work and Pensions",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D1198",
+        "api_path": "/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "base_path": "/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "content_id": "2bde479a-97f2-42b5-986a-287a623c2a1c",
+        "details": {
+          "acronym": "BEIS",
+          "brand": "department-for-business-innovation-skills",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a62fdc6b1/s960_beis-sign-1vs.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a5f965fd5/s300_beis-sign-1vs.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for<br/>Business, Energy<br/>&amp; Industrial Strategy"
+          },
+          "organisation_govuk_status": {
+            "status": "split",
+            "updated_at": null,
+            "url": ""
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Business, Energy & Industrial Strategy",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/working/redundancies-dismissals",
+        "api_url": "https://www.gov.uk/api/content/browse/working/redundancies-dismissals",
+        "base_path": "/browse/working/redundancies-dismissals",
+        "content_id": "d81c1d6e-c54b-4fc1-a169-0b45520358cc",
+        "description": "Includes solving a workplace dispute, calculating redundancy pay and dismissal",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/working",
+              "api_url": "https://www.gov.uk/api/content/browse/working",
+              "base_path": "/browse/working",
+              "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+              "description": "Includes holidays, finding a job and redundancy",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-07-09T12:54:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/browse/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:48Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Redundancies, dismissals and disciplinaries",
+        "web_url": "https://www.gov.uk/browse/working/redundancies-dismissals",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/calculate-your-redundancy-pay",
+        "api_url": "https://www.gov.uk/api/content/calculate-your-redundancy-pay",
+        "base_path": "/calculate-your-redundancy-pay",
+        "content_id": "d2786d90-20fa-467e-ac4a-ff51dcd01b4f",
+        "document_type": "smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-06-16T08:18:46Z",
+        "schema_name": "smart_answer",
+        "title": "Calculate your statutory redundancy pay",
+        "web_url": "https://www.gov.uk/calculate-your-redundancy-pay",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/redundancy-your-rights",
+        "api_url": "https://www.gov.uk/api/content/redundancy-your-rights",
+        "base_path": "/redundancy-your-rights",
+        "content_id": "f14d9026-2d74-4a1d-aad3-7dddff9de029",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-25T17:06:14Z",
+        "schema_name": "guide",
+        "title": "Redundancy: your rights",
+        "web_url": "https://www.gov.uk/redundancy-your-rights",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/claim-redundancy",
+        "api_url": "https://www.gov.uk/api/content/claim-redundancy",
+        "base_path": "/claim-redundancy",
+        "content_id": "a4459daa-d034-43fc-b094-a04cbc0395ed",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-11-16T14:14:10Z",
+        "schema_name": "transaction",
+        "title": "Claim for redundancy and other money you’re owed by an employer",
+        "web_url": "https://www.gov.uk/claim-redundancy",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/staff-redundant",
+        "api_url": "https://www.gov.uk/api/content/staff-redundant",
+        "base_path": "/staff-redundant",
+        "content_id": "ae878ae2-0fa9-420e-ba2e-87c8d855e771",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-30T16:54:58Z",
+        "schema_name": "guide",
+        "title": "Making staff redundant",
+        "web_url": "https://www.gov.uk/staff-redundant",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/claim-loss-notice",
+        "api_url": "https://www.gov.uk/api/content/claim-loss-notice",
+        "base_path": "/claim-loss-notice",
+        "content_id": "e9fddddb-c308-4e60-8c26-b236754446a4",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-06-08T08:58:13Z",
+        "schema_name": "transaction",
+        "title": "Claim for loss of notice pay ",
+        "web_url": "https://www.gov.uk/claim-loss-notice",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/employment/redundancies-dismissals",
+        "api_url": "https://www.gov.uk/api/content/employment/redundancies-dismissals",
+        "base_path": "/employment/redundancies-dismissals",
+        "content_id": "a4d954b4-3a64-488c-a0fc-fa91ecb8cf2b",
+        "description": "",
+        "details": {
+          "internal_name": "Redundancies, dismissals and disciplinaries [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/employment/working",
+              "api_url": "https://www.gov.uk/api/content/employment/working",
+              "base_path": "/employment/working",
+              "content_id": "092348a4-b896-4f8f-a0dc-e6d4605a4904",
+              "description": "Includes holidays and finding a job",
+              "details": {
+                "internal_name": "Working, jobs and pensions [M] (merged, level 2, work theme)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/work",
+                    "api_url": "https://www.gov.uk/api/content/work",
+                    "base_path": "/work",
+                    "content_id": "d0f1e5a3-c8f4-4780-8678-994f19104b21",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Work",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:33:40Z",
+                    "schema_name": "taxon",
+                    "title": "Work",
+                    "web_url": "https://www.gov.uk/work",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T11:08:23Z",
+              "schema_name": "taxon",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/employment/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T19:38:17Z",
+        "schema_name": "taxon",
+        "title": "Redundancies, dismissals and disciplinaries",
+        "web_url": "https://www.gov.uk/employment/redundancies-dismissals",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-01-26T15:47:22Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "23499-1625845530.824-10.13.2.197-8050",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Redundancy payments helplines",
+  "updated_at": "2024-03-06T08:30:06Z",
+  "withdrawn_notice": {
+  }
+}

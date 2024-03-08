@@ -1,0 +1,313 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/make-a-plea",
+  "content_id": "88714072-7cc9-40c9-a5db-00801571a996",
+  "description": "Plead guilty or not guilty to a traffic offence ",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+      {
+        "title": "Legal help and advice",
+        "url": "http://www.lawsociety.org.uk/for-the-public/common-legal-issues/criminal/"
+      }
+    ],
+    "introductory_paragraph": "<p>Use this service to plead guilty or not guilty to a traffic offence.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This page is also available <a href=\"/cofnodi-ple-ar-gyfer-trosedd-traffig\">in Welsh (Cymraeg).</a></p>\n</div>\n\n<p>You must be either:</p>\n\n<ul>\n  <li>the person charged with the offence</li>\n  <li>an official representative of the company charged with the offence</li>\n</ul>\n\n<p>Before you start, you’ll need:</p>\n\n<ul>\n  <li>the notice the police sent you, including your Unique Reference Number (URN)</li>\n  <li>your driving licence</li>\n  <li>your National Insurance number</li>\n  <li>details of your income</li>\n  <li>details of your outgoings, example rent or mortgage, household bills</li>\n</ul>\n\n<p><a rel=\"external\" href=\"https://www.makeaplea.service.gov.uk/helping-you-plead-online\">Contact HM Courts and Tribunals Service</a> if you have questions about your case or you need help making a plea online.</p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://makeaplea.service.gov.uk/plea/enter_urn/",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2015-12-23T14:31:47Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/make-a-plea",
+        "api_url": "https://www.gov.uk/api/content/make-a-plea",
+        "base_path": "/make-a-plea",
+        "content_id": "88714072-7cc9-40c9-a5db-00801571a996",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-05-19T10:22:51Z",
+        "schema_name": "transaction",
+        "title": "Make a plea for a traffic offence",
+        "web_url": "https://www.gov.uk/make-a-plea",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/justice/courts-sentencing-tribunals",
+        "api_url": "https://www.gov.uk/api/content/browse/justice/courts-sentencing-tribunals",
+        "base_path": "/browse/justice/courts-sentencing-tribunals",
+        "content_id": "6a7a5105-b09c-44ab-af8c-be64b20a0068",
+        "description": "Includes going to court, paying fines, appealing a sentence, jury service and tribunals",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:21Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Courts, tribunals and appeals",
+        "web_url": "https://www.gov.uk/browse/justice/courts-sentencing-tribunals",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA73",
+        "api_path": "/api/content/government/organisations/hm-courts-and-tribunals-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-courts-and-tribunals-service",
+        "base_path": "/government/organisations/hm-courts-and-tribunals-service",
+        "content_id": "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+        "details": {
+          "acronym": "HMCTS",
+          "brand": "ministry-of-justice",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "HM Courts &amp; <br/>Tribunals Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Courts & Tribunals Service",
+        "web_url": "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/justice/courts-sentencing-tribunals",
+        "api_url": "https://www.gov.uk/api/content/browse/justice/courts-sentencing-tribunals",
+        "base_path": "/browse/justice/courts-sentencing-tribunals",
+        "content_id": "6a7a5105-b09c-44ab-af8c-be64b20a0068",
+        "description": "Includes going to court, paying fines, appealing a sentence, jury service and tribunals",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/justice",
+              "api_url": "https://www.gov.uk/api/content/browse/justice",
+              "base_path": "/browse/justice",
+              "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+              "description": "Legal processes, courts and the police",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2022-04-06T18:09:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Crime, justice and the law",
+              "web_url": "https://www.gov.uk/browse/justice",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:21Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Courts, tribunals and appeals",
+        "web_url": "https://www.gov.uk/browse/justice/courts-sentencing-tribunals",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/single-justice-procedure-notices",
+        "api_url": "https://www.gov.uk/api/content/single-justice-procedure-notices",
+        "base_path": "/single-justice-procedure-notices",
+        "content_id": "f95ede9d-e0ff-45ba-81e3-9964dde9fc29",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-12-11T17:03:14Z",
+        "schema_name": "answer",
+        "title": "Single justice procedure notices",
+        "web_url": "https://www.gov.uk/single-justice-procedure-notices",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/penalty-points-endorsements",
+        "api_url": "https://www.gov.uk/api/content/penalty-points-endorsements",
+        "base_path": "/penalty-points-endorsements",
+        "content_id": "936281b6-07ce-4880-8544-ebfdfbef959a",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-02T11:12:56Z",
+        "schema_name": "guide",
+        "title": "Penalty points (endorsements)",
+        "web_url": "https://www.gov.uk/penalty-points-endorsements",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/speeding-penalties",
+        "api_url": "https://www.gov.uk/api/content/speeding-penalties",
+        "base_path": "/speeding-penalties",
+        "content_id": "8fe76fd2-9e07-46a8-8094-405b578269a8",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-28T13:29:35Z",
+        "schema_name": "answer",
+        "title": "Speeding penalties",
+        "web_url": "https://www.gov.uk/speeding-penalties",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pay-court-fine-online",
+        "api_url": "https://www.gov.uk/api/content/pay-court-fine-online",
+        "base_path": "/pay-court-fine-online",
+        "content_id": "6ae16c12-a554-44e2-b3e3-596375aa1b9a",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-21T16:42:30Z",
+        "schema_name": "answer",
+        "title": "Pay a court fine",
+        "web_url": "https://www.gov.uk/pay-court-fine-online",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/help",
+        "api_url": "https://www.gov.uk/api/content/help",
+        "base_path": "/help",
+        "content_id": "3c7060f7-9efa-47be-bd36-0326f3fa4f04",
+        "document_type": "special_route",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-10T13:10:02Z",
+        "schema_name": "special_route",
+        "title": "Help using GOV.UK",
+        "web_url": "https://www.gov.uk/help",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/crime-justice-and-law/courts-sentencing-tribunals",
+        "api_url": "https://www.gov.uk/api/content/crime-justice-and-law/courts-sentencing-tribunals",
+        "base_path": "/crime-justice-and-law/courts-sentencing-tribunals",
+        "content_id": "357110bb-cbc5-4708-9711-1b26e6c63e86",
+        "details": {
+          "internal_name": "Courts, sentencing and tribunals [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/crime-justice-and-law",
+              "api_url": "https://www.gov.uk/api/content/crime-justice-and-law",
+              "base_path": "/crime-justice-and-law",
+              "content_id": "ba951b09-5146-43be-87af-44075eac3ae9",
+              "description": "",
+              "details": {
+                "internal_name": "Crime, justice and law",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:34:51Z",
+              "schema_name": "taxon",
+              "title": "Crime, justice and law",
+              "web_url": "https://www.gov.uk/crime-justice-and-law",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:15:52Z",
+        "schema_name": "taxon",
+        "title": "Courts, sentencing and tribunals",
+        "web_url": "https://www.gov.uk/crime-justice-and-law/courts-sentencing-tribunals",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-05-19T10:22:51Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "20422-1631710479.534-10.13.3.253-7944",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Make a plea for a traffic offence",
+  "updated_at": "2024-03-06T12:45:40Z",
+  "withdrawn_notice": {
+  }
+}

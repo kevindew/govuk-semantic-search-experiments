@@ -1,0 +1,1917 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/claim-tax-refund",
+  "content_id": "2df6d0c1-c3d4-4c44-ae5e-ee046446819e",
+  "description": "Use this tool to find out what you need to do to get a tax refund (rebate) if you’ve paid too much Income Tax.\r\n\r\n",
+  "details": {
+    "body": "<p>You may be able to get a tax refund (rebate) if you’ve paid too much tax. Use this tool to find out what you need to do if you paid too much on:</p>\n\n<ul>\n  <li>pay from a job</li>\n  <li>job expenses such as working from home, fuel, work clothing or tools</li>\n  <li>a pension</li>\n  <li>a Self Assessment tax return</li>\n  <li>a redundancy payment</li>\n  <li>UK income if you live abroad</li>\n  <li>interest from savings or payment protection insurance (<abbr title=\"payment protection insurance\">PPI</abbr>)</li>\n  <li>income from a life or pension annuity</li>\n  <li>foreign income</li>\n  <li>UK income earned before leaving the UK</li>\n</ul>\n\n<p>You cannot claim a refund using this tool.</p>\n\n<p>If you’ve already claimed a tax refund, <a href=\"https://www.gov.uk/guidance/check-when-you-can-expect-a-reply-from-hmrc\">check when you can expect a reply</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/hawlio-ad-daliad-treth\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n",
+    "external_related_links": [
+
+    ],
+    "nodes": [
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Pay from a job",
+            "next_node": "question-2",
+            "slug": "pay-from-a-job"
+          },
+          {
+            "label": "Job expenses such as working from home, fuel, work clothing or tools",
+            "next_node": "outcome-22",
+            "slug": "job-expenses-such-as-working-from-home-fuel-work-clothing-or-tools"
+          },
+          {
+            "label": "A pension ",
+            "next_node": "question-6",
+            "slug": "a-pension"
+          },
+          {
+            "label": "A Self Assessment tax return or bill",
+            "next_node": "question-15",
+            "slug": "a-self-assessment-tax-return-or-bill"
+          },
+          {
+            "label": "A redundancy payment",
+            "next_node": "outcome-1",
+            "slug": "a-redundancy-payment"
+          },
+          {
+            "label": "UK income if you live abroad",
+            "next_node": "outcome-25",
+            "slug": "uk-income-if-you-live-abroad"
+          },
+          {
+            "label": "Interest from savings or payment protection insurance (PPI)",
+            "next_node": "question-19",
+            "slug": "interest-from-savings-or-payment-protection-insurance-ppi"
+          },
+          {
+            "label": "Income from a pension annuity",
+            "next_node": "question-20",
+            "slug": "income-from-a-pension-annuity"
+          },
+          {
+            "label": "Income from a life annuity (sometimes called a ‘purchased life annuity’)",
+            "next_node": "outcome-16",
+            "slug": "income-from-a-life-annuity-sometimes-called-a-purchased-life-annuity"
+          },
+          {
+            "label": "Foreign income",
+            "next_node": "outcome-24",
+            "slug": "foreign-income"
+          },
+          {
+            "label": "UK income earned before leaving the UK",
+            "next_node": "outcome-34",
+            "slug": "uk-income-earned-before-leaving-the-uk"
+          }
+        ],
+        "slug": "question-1",
+        "title": "What did you pay too much tax on?"
+      },
+      {
+        "body": "<p>How to claim depends on which tax year you paid too much. The tax year runs from 6 April to 5 April the following year.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "On or after 6 April 2023",
+            "next_node": "question-3",
+            "slug": "on-or-after-6-april-2023"
+          },
+          {
+            "label": "Between 6 April 2022 and 5 April 2023",
+            "next_node": "question-22",
+            "slug": "between-6-april-2022-and-5-april-2023"
+          },
+          {
+            "label": "Between 6 April 2019 and 5 April 2022",
+            "next_node": "outcome-3",
+            "slug": "between-6-april-2019-and-5-april-2022"
+          },
+          {
+            "label": "Before 6 April 2019",
+            "next_node": "outcome-4",
+            "slug": "before-6-april-2019"
+          }
+        ],
+        "slug": "question-2",
+        "title": "When did you pay the tax?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Previous job",
+            "next_node": "question-4",
+            "slug": "previous-job"
+          },
+          {
+            "label": "Current job",
+            "next_node": "outcome-2",
+            "slug": "current-job"
+          }
+        ],
+        "slug": "question-3",
+        "title": "Did you overpay tax in a previous job or your current job?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-5",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-26",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-4",
+        "title": "Have you had your final pay from your previous job?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Employee",
+            "next_node": "outcome-29",
+            "slug": "employee"
+          },
+          {
+            "label": "Self-employed",
+            "next_node": "question-16",
+            "slug": "self-employed"
+          },
+          {
+            "label": "Starting a new job in the next 4 weeks",
+            "next_node": "outcome-31",
+            "slug": "starting-a-new-job-in-the-next-4-weeks"
+          },
+          {
+            "label": "Unemployed or not working",
+            "next_node": "question-13",
+            "slug": "unemployed-or-not-working"
+          }
+        ],
+        "slug": "question-5",
+        "title": "What is your work situation now?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "A private pension",
+            "next_node": "question-7",
+            "slug": "a-private-pension"
+          },
+          {
+            "label": "A UK pension and you live abroad",
+            "next_node": "outcome-25",
+            "slug": "a-uk-pension-and-you-live-abroad"
+          }
+        ],
+        "slug": "question-6",
+        "title": "Which type of pension did you pay too much tax on?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "The regular income from your pension",
+            "next_node": "outcome-9",
+            "slug": "the-regular-income-from-your-pension"
+          },
+          {
+            "label": "An additional lump sum or cash payment (such as ‘drawdown’)",
+            "next_node": "question-8",
+            "slug": "an-additional-lump-sum-or-cash-payment-such-as-drawdown"
+          },
+          {
+            "label": "A pension you inherited",
+            "next_node": "outcome-10",
+            "slug": "a-pension-you-inherited"
+          }
+        ],
+        "slug": "question-7",
+        "title": "What did you pay too much tax on?"
+      },
+      {
+        "body": "<p>Find out about the <a href=\"/pension-types\">different types of pension scheme</a>.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "You took the money from a defined contribution scheme (for example 'drawdown')",
+            "next_node": "question-10",
+            "slug": "you-took-the-money-from-a-defined-contribution-scheme-for-example-drawdown"
+          },
+          {
+            "label": "You took the money from a defined benefit scheme (‘trivial commutation’)",
+            "next_node": "question-9",
+            "slug": "you-took-the-money-from-a-defined-benefit-scheme-trivial-commutation"
+          },
+          {
+            "label": "Your pension provider paid you pension owed from previous tax years",
+            "next_node": "outcome-32",
+            "slug": "your-pension-provider-paid-you-pension-owed-from-previous-tax-years"
+          }
+        ],
+        "slug": "question-8",
+        "title": "Why did you get the additional payment?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-11",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-12",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-9",
+        "title": "Do you send a Self Assessment tax return each year?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-11",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-12",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-10",
+        "title": "Did the payment use up your pension pot?"
+      },
+      {
+        "body": "<p><a href=\"/income-tax\">Taxable income</a> may include money from employment, another private pension or rental income.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-13",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-14",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-11",
+        "title": "Do you have other taxable income?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-9",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-15",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-12",
+        "title": "Are you taking regular payments from your pension?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-14",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-16",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-13",
+        "title": "Do you plan to get another job before 5 April (when the current tax year ends)?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-16",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-26",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-14",
+        "title": "Did you finish your last paid job more than 4 weeks ago?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-20",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-19",
+            "slug": "no"
+          },
+          {
+            "label": "I'm not sure",
+            "next_node": "outcome-33",
+            "slug": "i-m-not-sure"
+          }
+        ],
+        "slug": "question-15",
+        "title": "Did you apply for a refund when you completed your tax return?"
+      },
+      {
+        "body": "<ul>\n  <li>Jobseeker’s Allowance (unless you’re claiming for National Insurance credits only)</li>\n  <li>Employment and Support Allowance</li>\n  <li>Carer’s Allowance</li>\n  <li>Incapacity Benefit (if you’ve been getting it for more than 28 weeks).</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-7",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-17",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-16",
+        "title": "Do you get any of the following benefits?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-27",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-21",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-17",
+        "title": "Will you be paid a workplace pension before 5 April (when the current tax year ends)?"
+      },
+      {
+        "body": "<p><a href=\"/check-if-you-need-tax-return\">Check if you must send a Self Assessment return</a> if you’re not sure.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-28",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-8",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-18",
+        "title": "Will you have to send a Self Assessment return this year?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-21",
+            "slug": "yes"
+          },
+          {
+            "label": "No ",
+            "next_node": "outcome-23",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-19",
+        "title": "Is your income less than £17,500?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-17",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-18",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-20",
+        "title": "Did you buy the annuity on or after 6 April 2019?"
+      },
+      {
+        "body": "<p><a href=\"/check-if-you-need-tax-return\">Check if you must send a Self Assessment return</a> if you’re not sure.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes, but only because you became self-employed",
+            "next_node": "outcome-8",
+            "slug": "yes-but-only-because-you-became-self-employed"
+          },
+          {
+            "label": "Yes, for other reasons",
+            "next_node": "outcome-28",
+            "slug": "yes-for-other-reasons"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-8",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-21",
+        "title": "Will you have to send a Self Assessment return this year?"
+      },
+      {
+        "body": "<p>HMRC will post you a tax calculation letter (known as a ‘P800’) if they work out you’ve paid too much tax.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-5",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-6",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-22",
+        "title": "Have you got a tax calculation letter from HMRC?"
+      },
+      {
+        "body": "<p><a href=\"/contact/hm-revenue-customs/income-tax-enquiries-for-individuals-pensioners-and-employees\">Call HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>)</a> if you’ve overpaid tax because of your redundancy payment. They may be able to refund you before the end of the tax year.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>The tax year is from 6 April to 5 April the following year.</p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-1",
+        "title": "How to claim a tax refund on your redundancy payment"
+      },
+      {
+        "body": "<p>You may be paying too much tax because <abbr title=\"HM Revenue and Customs,\">HMRC</abbr> do not have up to date details about your income. For example, this could happen when:</p>\n\n<ul>\n  <li>you’ve recently started a new job</li>\n  <li>you have more than one job</li>\n  <li>you’re getting company benefits</li>\n</ul>\n\n<p>You can <a href=\"/check-income-tax-current-year\">check how much tax you’re currently paying</a> by signing in to:</p>\n\n<ul>\n  <li>\n    <p>your personal tax account - <a href=\"/personal-tax-account\">set up a personal tax account</a> if you do not have one</p>\n  </li>\n  <li>\n    <p>the <abbr title=\"HM Revenue and Customs,\">HMRC</abbr> app - <a href=\"/guidance/download-the-hmrc-app\">download the <abbr title=\"HM Revenue and Customs,\">HMRC</abbr> app</a> if you do not have it</p>\n  </li>\n</ul>\n\n<p>Once signed in to either your personal tax account or the <abbr title=\"HM Revenue and Customs,\">HMRC</abbr> app, you can also:</p>\n\n<ul>\n  <li>\n    <p>check your <a href=\"/tax-codes\">tax code</a></p>\n  </li>\n  <li>\n    <p>update your employment details if they’re not correct</p>\n  </li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Your tax code tells your employer how much tax to take from your pay.</p>\n</div>\n\n<p>If you’re due a refund and your tax code has been corrected, your employer will give you a refund in your pay.</p>\n\n<p>You should get the refund in your next pay once <abbr title=\"HM Revenue and Customs,\">HMRC</abbr> has sent your employer your new tax code.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-2",
+        "title": "What to do if you think you’re paying too much tax"
+      },
+      {
+        "body": "<p>If you did not get a tax calculation letter (known as a ‘P800’) from HM Revenue and Customs after the end of each tax year, you probably paid the right amount of tax.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There’s a different way to <a href=\"/tax-relief-for-employees\">claim tax relief for job related expenses</a>, such as uniforms, tools and professional subscriptions.</p>\n</div>\n\n<h2 id=\"if-you-think-you-paid-too-much-tax\">If you think you paid too much tax</h2>\n\n<p>Sign in to <a rel=\"external\" href=\"https://www.tax.service.gov.uk/check-income-tax/income-tax-history?ga=2.170606496.1637616547.1681377498-1727281509.1655907626\">your personal tax account</a> to:</p>\n\n<ul>\n  <li>check how much tax you paid for each tax year</li>\n  <li>tell <abbr title=\"HM Revenue and Customs\">HMRC</abbr> by sending an update for each year that you paid too much tax</li>\n</ul>\n\n<p>If you do not have a personal tax account, <a href=\"/personal-tax-account\">you can set one up</a>.</p>\n\n<h3 id=\"other-ways-to-tell-hmrc-youve-paid-too-much-tax\">Other ways to tell <abbr title=\"HM Revenue and Customs\">HMRC</abbr> you’ve paid too much tax</h3>\n\n<p><a href=\"/contact/hm-revenue-customs/income-tax-enquiries-for-individuals-pensioners-and-employees\">Contact <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> and explain why you think you’ve paid too much tax.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You can use this calculator to <a href=\"/check-income-tax\">estimate your Income Tax for previous tax years</a>.</p>\n</div>\n\n<h2 id=\"what-happens-next\">What happens next</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will tell you if you’re due a refund or not. If not, they’ll tell you why.</p>\n\n<p>If they need more information, they’ll contact you.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>HMRC does not send details of tax refunds by email. You can <a href=\"/report-suspicious-emails-websites-phishing/report-hmrc-phishing-emails-texts-and-phone-call-scams\">report suspicious emails</a> to them.</p>\n</div>\n\n<h2 id=\"when-youll-get-your-refund\">When you’ll get your refund</h2>\n\n<p>If you are due a refund, you’ll usually get it within 3 weeks.</p>\n\n<p>You can <a href=\"/guidance/check-when-you-can-expect-a-reply-from-hmrc\">check when to expect a reply</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-3",
+        "title": "How to claim a tax refund for the years 6 April 2019 to 5 April 2022"
+      },
+      {
+        "body": "<p>You cannot reclaim any tax you overpaid before April 2019.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-4",
+        "title": "You cannot claim a tax refund "
+      },
+      {
+        "body": "<p>If you’re due a refund, your tax calculation letter (known as a ‘P800’) will tell you whether:</p>\n\n<ul>\n  <li>you can claim the refund online - if so, the refund will be sent to your bank account within 5 working days of making a claim</li>\n  <li>HM Revenue and Customs will send you a refund by post - if so, you’ll get a cheque within 14 days of the date on your letter</li>\n</ul>\n\n<p>Read more about <a href=\"/tax-overpayments-and-underpayments/if-youre-due-a-refund\">how to claim your refund</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-5",
+        "title": "Your tax calculation letter will tell you how to claim"
+      },
+      {
+        "body": "<p>You should get a tax calculation letter (known as a ‘P800’) by 30 November 2023 if <abbr title=\"HM Revenue and Customs\">HMRC</abbr> works out you have paid too much tax.</p>\n\n<p>If you’ve not received a letter by 30 November, then you’ve probably paid the correct amount of tax.</p>\n\n<p>You can <a href=\"/check-income-tax-last-year\">check if you paid the correct amount of Income Tax last year</a> by signing in to:</p>\n\n<ul>\n  <li>\n    <p>your personal tax account - <a href=\"/personal-tax-account\">set up a personal tax account</a> if you do not have one</p>\n  </li>\n  <li>\n    <p>the <abbr title=\"HM Revenue and Customs\">HMRC</abbr> app - <a href=\"/guidance/download-the-hmrc-app\">download the <abbr title=\"HM Revenue and Customs\">HMRC</abbr> app</a> if you do not have it</p>\n  </li>\n</ul>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-6",
+        "title": " Your tax may not have been calculated yet"
+      },
+      {
+        "body": "<p>Give the Jobcentre Plus parts 2 and 3 of your P45. If you’ve overpaid tax, you may get a refund either:</p>\n\n<ul>\n  <li>at the end of the tax year</li>\n  <li>when you start a new job</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you’re out of work for less than 4 weeks and you’re due a refund, you’ll get it through your wages from your new job. You cannot claim a refund.</p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-7",
+        "title": "You cannot get a refund straight away"
+      },
+      {
+        "body": "<p>You can <a rel=\"external\" href=\"https://www.tax.service.gov.uk/digital-forms/form/claim-tax-back-when-you-have-stopped-working/draft/guide\">claim your refund online</a>.</p>\n\n<p>If you would rather apply by post <a href=\"/government/publications/income-tax-claiming-tax-back-when-you-have-stopped-working-p50\">use form P50</a>.</p>\n\n<p>If you leave the UK to live abroad, there’s a different way to <a href=\"/tax-uk-income-live-abroad\">claim a tax refund on your UK income</a>.</p>\n\n<h2 id=\"what-happens-after-you-apply\">What happens after you apply</h2>\n\n<p>HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) will do one of the following:</p>\n\n<ul>\n  <li>confirm you are owed a refund</li>\n  <li>contact you for more information</li>\n  <li>tell you that you’re not due a refund, and why</li>\n</ul>\n\n<p>Wait at least 14 days before contacting <abbr title=\"HM Revenue and Customs\">HMRC</abbr> about your application.</p>\n\n<h2 id=\"when-youll-get-your-refund\">When you’ll get your refund</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will send a cheque (known as a ‘payable order’) to you or someone you nominate within 5 weeks of processing your claim.</p>\n\n<h3 id=\"if-you-do-not-get-your-refund\">If you do not get your refund</h3>\n\n<p>You should wait 5 weeks after making an online claim and 6 weeks after making a postal claim before <a href=\"/contact/hm-revenue-customs/income-tax-enquiries-for-individuals-pensioners-and-employees\">contacting <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> about the payment.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-8",
+        "title": "You may be able to claim a tax refund"
+      },
+      {
+        "body": "<p>Your pension provider may pay you back automatically if you pay too much tax on your pension.</p>\n\n<p>If your pension provider does not pay you back automatically HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) will send you a <a href=\"/tax-overpayments-and-underpayments\">a tax calculation letter</a> (known as a ‘P800’) by the end of November.</p>\n\n<p>If your tax calculation letter says you can get your refund online, <a href=\"/tax-overpayments-and-underpayments/if-youre-due-a-refund\">claim it that way</a>.</p>\n\n<p>If it says <abbr title=\"HM Revenue and Customs\">HMRC</abbr> will send you a cheque (also known as a ‘payable order’) you’ll receive it within 14 days. If you’re owed tax from more than one year you’ll get a single cheque for the entire amount.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>HMRC does not send notifications of tax refunds by email. You can <a href=\"/report-suspicious-emails-websites-phishing/report-hmrc-phishing-emails-texts-and-phone-call-scams\">report suspicious emails</a> to them.</p>\n</div>\n\n<p><a href=\"/contact/hm-revenue-customs/income-tax-enquiries-for-individuals-pensioners-and-employees\">Call <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> and tell them why you think you’ve overpaid if:</p>\n\n<ul>\n  <li>your pension provider does not pay you back automatically and you need a refund within the current tax year</li>\n  <li>you have not received a tax calculation letter</li>\n</ul>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-9",
+        "title": "How to claim a refund on a private pension"
+      },
+      {
+        "body": "<p>There are <a href=\"/tax-on-pension-death-benefits\">different ways to claim</a> depending on your other income and whether the payment uses up the whole pension pot.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-10",
+        "title": "How to claim a refund on a pension you inherited"
+      },
+      {
+        "body": "<p>You’ll get a refund when you’ve sent your Self Assessment tax return.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-11",
+        "title": "You’ll get a refund automatically"
+      },
+      {
+        "body": "<p>Fill in <a href=\"/government/publications/income-tax-repayment-claim-when-small-pension-taken-as-a-lump-sum-p53\">form P53</a> to claim a refund.</p>\n\n<h2 id=\"what-happens-next\">What happens next</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will do one of the following:</p>\n\n<ul>\n  <li>contact you for more information</li>\n  <li>give you a refund either by cheque (also known as a ‘payable order’) or directly to your bank account</li>\n  <li>send your refund to your nominee by cheque or directly to their bank account (if you’ve nominated someone else to get the money)</li>\n  <li>tell you that you’re not due a refund, and why</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>HMRC will only pay refunds into UK bank accounts.</p>\n</div>\n\n<p>If you do not have a bank account you can nominate someone else to receive the money or cheque.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>HMRC does not send notifications of tax refunds by email. You can <a href=\"/report-suspicious-emails-websites-phishing/report-hmrc-phishing-emails-texts-and-phone-call-scams\">report suspicious emails</a> to them.</p>\n</div>\n\n<h2 id=\"when-youll-get-your-refund\">When you’ll get your refund</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will normally refund you within:</p>\n\n<ul>\n  <li>5 working days of processing your claim - if you’re expecting a payment into your bank account</li>\n  <li>5 weeks of processing your claim - if you’re expecting a cheque (or ‘payable order’)</li>\n</ul>\n\n<p>It can take up to 25 working days after your claim if both of the following apply:</p>\n\n<ul>\n  <li>your refund is for tax taken from your pay or pension</li>\n  <li>you have not got a tax calculation letter (known as a ‘P800’)</li>\n</ul>\n\n<h3 id=\"if-you-do-not-get-your-refund\">If you do not get your refund</h3>\n\n<p>You should wait 5 weeks after making an online claim and 6 weeks after making a postal claim before <a href=\"/contact/hm-revenue-customs/income-tax-enquiries-for-individuals-pensioners-and-employees\">contacting <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> about the payment.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-12",
+        "title": "Fill in a form to claim"
+      },
+      {
+        "body": "<p>Fill in <a href=\"/government/publications/income-tax-repayment-claim-when-small-pension-taken-as-a-lump-sum-p53\">form P53Z</a>.</p>\n\n<h2 id=\"what-happens-next\">What happens next</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will do one of the following:</p>\n\n<ul>\n  <li>contact you for more information</li>\n  <li>give you a refund either by cheque (also known as a ‘payable order’) or directly to your bank account</li>\n  <li>send your refund to your nominee by cheque or directly to their bank account (if you’ve nominated someone else to get the money)</li>\n  <li>tell you that you’re not due a refund, and why</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>HMRC will only pay refunds into UK bank accounts.</p>\n</div>\n\n<p>If you do not have a bank account you can nominate someone else to receive the money or cheque.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>HMRC does not send notifications of tax refunds by email. You can <a href=\"/report-suspicious-emails-websites-phishing/report-hmrc-phishing-emails-texts-and-phone-call-scams\">report suspicious emails</a> to them.</p>\n</div>\n\n<h2 id=\"when-youll-get-your-refund\">When you’ll get your refund</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will normally refund you within 30 days of receiving your claim.</p>\n\n<h3 id=\"if-you-do-not-get-your-refund\">If you do not get your refund</h3>\n\n<p>You should wait 7 weeks after making a claim before <a href=\"/contact/hm-revenue-customs/income-tax-enquiries-for-individuals-pensioners-and-employees\">contacting <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> about the payment.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-13",
+        "title": "Fill in a form to claim"
+      },
+      {
+        "body": "<p>Fill in <a href=\"/government/publications/income-tax-claim-for-repayment-of-tax-when-youve-stopped-working-and-flexibly-accessed-your-pension\">form P50Z</a>.</p>\n\n<h2 id=\"what-happens-next\">What happens next</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will do one of the following:</p>\n\n<ul>\n  <li>contact you for more information</li>\n  <li>give you a refund either by cheque (also known as a ‘payable order’) or directly to your bank account</li>\n  <li>send your refund to your nominee by cheque or directly to their bank account (if you’ve nominated someone else to get the money)</li>\n  <li>tell you that you’re not due a refund, and why</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>HMRC will only pay refunds into UK bank accounts.</p>\n</div>\n\n<p>If you do not have a bank account you can nominate someone else to receive the money or cheque.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>HMRC does not send notifications of tax refunds by email. You can <a href=\"/report-suspicious-emails-websites-phishing/report-hmrc-phishing-emails-texts-and-phone-call-scams\">report suspicious emails</a> to them.</p>\n</div>\n\n<h2 id=\"when-youll-get-your-refund\">When you’ll get your refund</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will normally refund you within 30 days of receiving your claim.</p>\n\n<h3 id=\"if-you-do-not-get-your-refund\">If you do not get your refund</h3>\n\n<p>You should wait 7 weeks after making a claim before <a href=\"/contact/hm-revenue-customs/income-tax-enquiries-for-individuals-pensioners-and-employees\">contacting <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> about the payment.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-14",
+        "title": "Fill in a form to claim"
+      },
+      {
+        "body": "<p>Fill in <a href=\"/government/publications/flexibly-accessed-pension-payment-repayment-claim-p55\">form P55</a>. You can only use this form if your pension provider cannot refund you.</p>\n\n<h2 id=\"what-happens-next\">What happens next</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will do one of the following:</p>\n\n<ul>\n  <li>contact you for more information</li>\n  <li>give you a refund either by cheque (also known as a ‘payable order’) or directly to your bank account</li>\n  <li>send your refund to your nominee by cheque or directly to their bank account (if you’ve nominated someone else to get the money)</li>\n  <li>tell you that you’re not due a refund, and why</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>HMRC will only pay refunds into UK bank accounts.</p>\n</div>\n\n<p>If you do not have a bank account you can nominate someone else to receive the money or cheque.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>HMRC does not send notifications of tax refunds by email. You can <a href=\"/report-suspicious-emails-websites-phishing/report-hmrc-phishing-emails-texts-and-phone-call-scams\">report suspicious emails</a> to them.</p>\n</div>\n\n<h2 id=\"when-youll-get-your-refund\">When you’ll get your refund</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will normally refund you within 30 days of receiving your claim.</p>\n\n<h3 id=\"if-you-do-not-get-your-refund\">If you do not get your refund</h3>\n\n<p>You should wait 7 weeks after making a claim before <a href=\"/contact/hm-revenue-customs/income-tax-enquiries-for-individuals-pensioners-and-employees\">contacting <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> about the payment.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-15",
+        "title": "Fill in a form to claim"
+      },
+      {
+        "body": "<p>A life annuity is usually a guaranteed income for life, which you buy from an insurer in exchange for a lump sum. You can claim a refund if you’ve overpaid tax on income from a life annuity that you’ve bought.</p>\n\n<p>You usually pay some tax automatically on life annuity payments, at a rate of 20%. But if you do not need to pay Income Tax because you do not earn more than your <a href=\"/income-tax-rates/personal-allowances\">Personal Allowance</a> you can:</p>\n\n<ul>\n  <li>reclaim tax you’ve overpaid</li>\n  <li>ask to get tax-free income from your life annuity</li>\n</ul>\n\n<h2 id=\"how-to-reclaim-the-tax\">How to reclaim the tax</h2>\n<p>Fill in <a href=\"/government/publications/income-tax-claim-for-repayment-of-tax-deducted-from-savings-and-investments-r40\">form R40</a> for each tax year you think you’ve overpaid tax.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You need to claim within 4 years of the end of the tax year you’re claiming for.</p>\n</div>\n\n<h2 id=\"ask-for-tax-free-income\">Ask for tax-free income</h2>\n<p>Fill in <a href=\"/government/publications/income-tax-application-to-receive-an-annuity-without-tax-taken-off-r892009\">form R89</a> and send it to the company that pays your annuity.</p>\n\n<p>If you have a joint life annuity, use <a href=\"/government/publications/income-tax-application-to-receive-a-joint-annuity-without-tax-taken-off-r86\">form R86</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Tell the company that pays your annuity if your income goes up - you may get a tax bill if your income goes over your Personal Allowance.</p>\n</div>\n\n<h2 id=\"get-help\">Get help</h2>\n\n<p>Call the HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) helpline.</p>\n\n<div class=\"contact\">\n<p>HMRC Retirement Annuity Helpline<br>\nTelephone: 0300 200 3302<br>\nCalling from abroad: +44 (0)151 471 8436<br>\nMonday to Friday, 8am to 8pm  <br>\nSaturday, 8am to 4pm<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<h2 id=\"what-happens-next\">What happens next</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will do one of the following:</p>\n\n<ul>\n  <li>contact you for more information</li>\n  <li>give you a refund either by cheque (also known as a ‘payable order’) or directly to your bank account</li>\n  <li>send your refund to your nominee by cheque or directly to their bank account (if you’ve nominated someone else to get the money)</li>\n  <li>tell you that you’re not due a refund, and why</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>HMRC will only pay refunds into UK bank accounts.</p>\n</div>\n\n<p>If you do not have a bank account you can nominate someone else to receive the money or cheque.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>HMRC does not send notifications of tax refunds by email. You can <a href=\"/report-suspicious-emails-websites-phishing/report-hmrc-phishing-emails-texts-and-phone-call-scams\">report suspicious emails</a> to them.</p>\n</div>\n\n<h2 id=\"when-youll-get-your-refund\">When you’ll get your refund</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will normally refund you within:</p>\n\n<ul>\n  <li>5 working days of processing your claim - if you’re expecting a payment into your bank account</li>\n  <li>5 weeks of processing your claim - if you’re expecting a cheque (or ‘payable order’)</li>\n</ul>\n\n<p>It can take up to 25 working days after your claim if both of the following apply:</p>\n\n<ul>\n  <li>your refund is for tax taken from your pay or pension</li>\n  <li>you have not got a tax calculation letter (known as a ‘P800’)</li>\n</ul>\n\n<h3 id=\"if-you-do-not-get-your-refund\">If you do not get your refund</h3>\n\n<p>You should wait 5 weeks after making an online claim and 6 weeks after making a postal claim before <a href=\"/contact/hm-revenue-customs/income-tax-enquiries-for-individuals-pensioners-and-employees\">contacting <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> about the payment.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-16",
+        "title": "How to claim a refund on a life annuity"
+      },
+      {
+        "body": "<p>Tax on a pension annuity is taken through PAYE - the same as a company or personal pension.</p>\n\n<p>HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) will send you a <a href=\"/tax-overpayments-and-underpayments\">tax calculation letter</a> (known as a ‘P800’) if they know you’ve paid too much tax, by the end of November.</p>\n\n<p>You’ll normally get a cheque (also known as a ‘payable order’) within 14 days of getting the tax calculation letter - you do not have to do anything.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>HMRC does not send notifications of tax refunds by email. You can <a href=\"/report-suspicious-emails-websites-phishing/report-hmrc-phishing-emails-texts-and-phone-call-scams\">report suspicious emails</a> to them.</p>\n</div>\n\n<p><a href=\"/contact/hm-revenue-customs/income-tax-enquiries-for-individuals-pensioners-and-employees\">Call <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> and tell them why you think you’ve overpaid if:</p>\n\n<ul>\n  <li>you have not received a tax calculation letter</li>\n  <li>you need a refund sooner, for example within the current tax year</li>\n</ul>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-17",
+        "title": "HMRC will send you a tax calculation letter"
+      },
+      {
+        "body": "<p>You cannot reclaim any tax you overpaid on a pension annuity before April 2019.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-18",
+        "title": "You cannot claim a tax refund"
+      },
+      {
+        "body": "<p>You can claim a refund through your HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) online account. The way you claim depends on the type of account you have.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You may not get a refund if you have tax due in the next 45 days (for example for a <a href=\"/understand-self-assessment-bill/payments-on-account\">payment on account</a>). Instead, the money will be deducted from the tax you owe.</p>\n</div>\n\n<h2 id=\"if-you-do-self-assessment-online\">If you do Self Assessment online</h2>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/log-in-file-self-assessment-tax-return/sign-in\">Sign in to your Self Assessment account</a> to see if you are owed a refund.</p>\n</li>\n<li>\n<p>Choose ‘Request a Repayment’ and follow the instructions.</p>\n</li>\n</ol>\n\n<h2 id=\"if-you-have-a-personal-tax-account\">If you have a personal tax account</h2>\n\n<ol class=\"steps\">\n<li>\n<p><a rel=\"external\" href=\"https://www.tax.service.gov.uk/personal-account/self-assessment-summary\">Sign in to your personal tax account</a> to see if you are owed a refund.</p>\n</li>\n<li>\n<p>Choose ‘Claim a tax refund’ and follow the instructions.</p>\n</li>\n</ol>\n\n<h2 id=\"if-you-have-a-business-tax-account\">If you have a business tax account</h2>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"https://www.gov.uk/guidance/sign-in-to-your-hmrc-business-tax-account\">Sign in to your business tax account</a> to see if you are owed a refund.</p>\n</li>\n<li>\n<p>Choose ‘Claim a tax refund’ and follow the instructions.</p>\n</li>\n</ol>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>HMRC will only pay refunds into UK bank accounts.</p>\n</div>\n\n<p>If you do not have a bank account you can nominate someone else to receive the money or cheque.</p>\n\n<h2 id=\"when-youll-get-your-refund\">When you’ll get your refund</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will normally refund you within 2 weeks.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>HMRC does not send details of tax refunds by email. You can <a href=\"/report-suspicious-emails-websites-phishing/report-hmrc-phishing-emails-texts-and-phone-call-scams\">report suspicious emails</a> to them.</p>\n</div>\n\n<h3 id=\"if-you-do-not-get-your-refund\">If you do not get your refund</h3>\n\n<p>You should wait 4 weeks after making an online claim before <a href=\"/government/organisations/hm-revenue-customs/contact/self-assessment\">contacting <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> about the payment.</p>\n\n<h2 id=\"if-you-do-not-have-an-online-account\">If you do not have an online account</h2>\n\n<p>You can either:</p>\n\n<ul>\n  <li><a href=\"https://www.gov.uk/log-in-register-hmrc-online-services/register\">set up an online account</a></li>\n  <li><a href=\"/government/organisations/hm-revenue-customs/contact/self-assessment\">contact <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a></li>\n</ul>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-19",
+        "title": "You'll need to claim a refund through your online account"
+      },
+      {
+        "body": "<p>You’ll usually be refunded to the account you included on your tax return.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you paid by card, HMRC will always try to refund to that card first, even if you’ve provided other bank or building society details in your return. This is for security reasons.</p>\n</div>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will only pay refunds into UK bank accounts.</p>\n\n<h2 id=\"when-youll-get-your-refund\">When you’ll get your refund</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will usually refund you within 2 weeks of submitting your return.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>HMRC does not send details of tax refunds by email. You can <a href=\"/report-suspicious-emails-websites-phishing/report-hmrc-phishing-emails-texts-and-phone-call-scams\">report suspicious emails</a> to them.</p>\n</div>\n\n<h3 id=\"if-you-do-not-get-your-refund\">If you do not get your refund</h3>\n\n<p>If you do not get your refund within 4 weeks, you can:</p>\n\n<ul>\n  <li><a href=\"/log-in-register-hmrc-online-services\">check your online account</a></li>\n  <li><a href=\"/guidance/check-when-you-can-expect-a-reply-from-hmrc\">check when to expect a reply</a></li>\n</ul>\n\n<h2 id=\"if-you-sent-a-paper-return\">If you sent a paper return</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will send you a Self Assessment calculation letter (SA302) once they have processed your return.</p>\n\n<p>If you’re due a refund, you’ll get it within 4 weeks of the date on the letter.</p>\n\n<h3 id=\"if-you-do-not-get-your-refund-1\">If you do not get your refund</h3>\n\n<p>Wait 4 weeks after the date on the letter before <a href=\"/government/organisations/hm-revenue-customs/contact/self-assessment\">contacting <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-20",
+        "title": "HMRC will usually refund you automatically "
+      },
+      {
+        "body": "<p>If your annual income is less than £17,500, you can fill in <a href=\"/government/publications/income-tax-claim-for-repayment-of-tax-deducted-from-savings-and-investments-r40\">form R40</a> to claim a refund on tax deducted from any of your savings or <abbr title=\"Payment protection insurance\">PPI</abbr> interest.</p>\n\n<h2 id=\"when-youll-get-your-refund\">When you’ll get your refund</h2>\n\n<p>It normally takes 6 weeks to get the tax back.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-21",
+        "title": "How to claim a refund on savings or PPI interest"
+      },
+      {
+        "body": "<p>You might be able to <a href=\"/tax-relief-for-employees\">claim tax relief</a> for things you needed to buy for your job if all of the following are true:</p>\n\n<ul>\n  <li>you paid for them with your own money</li>\n  <li>you only use those things for your work</li>\n  <li>your employer has not given back all the money you spent</li>\n  <li>you paid tax in the year you’re claiming for</li>\n</ul>\n\n<p>You can claim for this tax year and the 4 previous tax years.</p>\n\n<h2 id=\"how-to-claim\">How to claim</h2>\n\n<p>Check if you’re eligible and find out how to claim:</p>\n\n<ul>\n  <li><a href=\"/tax-relief-for-employees/working-at-home\">if you work from home</a></li>\n  <li><a href=\"/tax-relief-for-employees/uniforms-work-clothing-and-tools\">for uniforms, work clothing and tools</a></li>\n  <li><a href=\"/tax-relief-for-employees/vehicles-you-use-for-work\">for vehicles you use for work</a></li>\n  <li><a href=\"/tax-relief-for-employees/professional-fees-and-subscriptions\">for professional fees and subscriptions</a></li>\n  <li><a href=\"/tax-relief-for-employees/travel-and-overnight-expenses\">for travel and overnight expenses</a></li>\n  <li><a href=\"/tax-relief-for-employees/buying-other-equipment\">for buying other equipment</a></li>\n</ul>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-22",
+        "title": "How to claim a refund if you’ve used your own money to buy things for your job"
+      },
+      {
+        "body": "<p>If you’re a basic rate taxpayer, you can earn up to £1,000 of interest tax-free on your savings. For higher rate taxpayers the limit is £500. This is your <a href=\"/apply-tax-free-interest-on-savings\">Personal Savings Allowance</a> (<abbr title=\"Personal Savings Allowance\">PSA</abbr>).</p>\n\n<p>If you’ve had tax deducted on any interest and you’ve not used all of your <abbr title=\"Personal Savings Allowance\">PSA</abbr>, you can <a href=\"/government/publications/income-tax-claim-for-repayment-of-tax-deducted-from-savings-and-investments-r40\">fill in form R40</a> to claim a refund. It normally takes 6 weeks to get the tax back.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-23",
+        "title": "You may be eligible for a tax refund"
+      },
+      {
+        "body": "<p>Find out how to claim a tax refund on your <a href=\"/tax-foreign-income\">foreign income</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-24",
+        "title": "How to claim a tax refund on foreign income"
+      },
+      {
+        "body": "<p>You can claim back tax and personal allowances on any UK income you get <a href=\"/tax-uk-income-live-abroad\">if you live abroad</a>.</p>\n\n<p>To claim, complete <a href=\"/guidance/claim-personal-allowances-and-tax-refunds-if-you-live-abroad\">form R43</a>.</p>\n\n<p>You can claim for the current and previous 4 tax years.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you <a href=\"/self-assessment-tax-returns\">send a Self Assessment tax return</a> you do not need to complete an R43 form.</p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-25",
+        "title": "How to claim a tax refund on UK income if you live abroad"
+      },
+      {
+        "body": "<p>To make a claim for a tax refund you must have:</p>\n\n<ul>\n  <li>been paid for the final time from your last employer</li>\n  <li>finished your last paid job more than 4 weeks ago</li>\n</ul>\n\n<p>Wait until you’re eligible to claim before applying.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-26",
+        "title": "You cannot claim a refund just now"
+      },
+      {
+        "body": "<p>You’ll get any tax you’re owed the next time your <a href=\"https://www.gov.uk/tax-codes\">tax code</a> is reviewed.</p>\n\n<p>This will usually be at the end of the current tax year.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-27",
+        "title": "You will get your refund through your tax code"
+      },
+      {
+        "body": "<p>Include the total tax you’ve paid in your <a href=\"https://www.gov.uk/self-assessment-tax-returns\">Self Assessment Tax return</a>.</p>\n\n<p>Any tax you’ve overpaid will be included when your Self Assessment tax bill or refund is worked out.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-28",
+        "title": "Get your refund through Self Assessment"
+      },
+      {
+        "body": "<p>If you started your current job after leaving your previous job then you should have given your new employer parts 2 and 3 of your P45.</p>\n\n<p>If you’ve overpaid tax you will get a refund through your pay.</p>\n\n<h3 id=\"if-you-had-your-current-job-at-the-same-time-as-your-previous-job\">If you had your current job at the same time as your previous job</h3>\n\n<p>If you started your current job before you left your previous job, you will get any tax you’re owed the next time your <a href=\"https://www.gov.uk/tax-codes\">tax code</a> is reviewed.</p>\n\n<p>This will usually be at the end of the current tax year.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-29",
+        "title": "You'll get your refund through your employer or tax code"
+      },
+      {
+        "body": "<p>Give your new employer parts 2 and 3 of your P45.</p>\n\n<p>If you’ve overpaid tax in the current tax year you will get a refund through your pay.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-31",
+        "title": "You'll get your refund through your pay"
+      },
+      {
+        "body": "<p>Wait until the end of the tax year that you got the lump sum payment in, then write to HM Revenue and Customs (HMRC).</p>\n\n<p>Include:</p>\n\n<ul>\n  <li>that you want to claim a tax refund on a ‘pension payment in arrears’</li>\n  <li>your contact details</li>\n  <li>the date you were paid the lump sum</li>\n  <li>the total amount you got as a lump sum</li>\n  <li>the tax years you were underpaid pension</li>\n  <li>how much you were underpaid in each tax year</li>\n  <li>copies of any P60s you have for the relevant tax years</li>\n  <li>details of any other taxable income you got in the relevant tax years</li>\n</ul>\n\n<p>Send your letter and supporting information to:</p>\n\n<div class=\"contact\">\n<p>Pensions<br>\nHM Revenue and Customs<br>\nBX9 1GH<br>\nUnited Kingdom</p>\n</div>\n\n<h2 id=\"what-happens-next\">What happens next</h2>\n\n<p>HMRC will either:</p>\n\n<ul>\n  <li>give you a refund, by cheque (also known as a ‘payable order’) or directly to your bank account</li>\n  <li>tell you that you’re not due a refund and why</li>\n</ul>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-32",
+        "title": "Write to HMRC to claim a tax refund"
+      },
+      {
+        "body": "<p>If you submitted your return online, <a href=\"/log-in-register-hmrc-online-services\">sign in to your online account</a> and check if you completed the section ‘If you have paid too much tax’. Check the same section if you sent a paper return.</p>\n\n<p>If you completed the section, you’ll usually <a href=\"https://www.gov.uk/claim-tax-refund/y/a-self-assessment-tax-return-or-bill/no\">get a refund automatically</a>.</p>\n\n<p>If not, you’ll need to <a href=\"https://www.gov.uk/claim-tax-refund/y/a-self-assessment-tax-return-or-bill/yes\">claim a refund through your online account</a>.</p>\n\n<p>If you do not have an online account you can either:</p>\n\n<ul>\n  <li><a href=\"https://www.gov.uk/log-in-register-hmrc-online-services/register\">set up an online account</a></li>\n  <li><a href=\"/government/organisations/hm-revenue-customs/contact/self-assessment\">contact HMRC</a></li>\n</ul>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-33",
+        "title": "Check your tax return "
+      },
+      {
+        "body": "<p>You can claim a tax refund by completing <a href=\"/guidance/get-your-income-tax-right-if-youre-leaving-the-uk-p85\">form P85</a> if you’ve been working in the UK and you: </p>\n\n<ul>\n  <li>have now left and may not be coming back</li>\n  <li>are working abroad full-time for at least one full tax year </li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you’re <a href=\"/self-assessment-tax-returns\">sending a Self Assessment tax return</a> for the tax year when you left, you do not need to complete a P85 form.</p>\n</div>\n\n<h2 id=\"if-you-have-not-left-yet\">If you have not left yet</h2>\n\n<p>If you intend to leave the UK but have not left yet, you’ll need to download and complete a paper copy of <a href=\"https://www.gov.uk/guidance/get-your-income-tax-right-if-youre-leaving-the-uk-p85\">form P85</a> and send it to HMRC by post.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-34",
+        "title": "Claim a refund by completing a P85 form"
+      }
+    ],
+    "start_button_text": "Start now"
+  },
+  "document_type": "simple_smart_answer",
+  "first_published_at": "2012-09-20T12:07:13Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/claim-tax-refund",
+        "api_url": "https://www.gov.uk/api/content/claim-tax-refund",
+        "base_path": "/claim-tax-refund",
+        "content_id": "2df6d0c1-c3d4-4c44-ae5e-ee046446819e",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-09T11:54:16Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Check how to claim a tax refund",
+        "web_url": "https://www.gov.uk/claim-tax-refund",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/income-tax-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/income-tax-detailed-information",
+        "base_path": "/government/collections/income-tax-detailed-information",
+        "content_id": "12b16ad2-691d-4245-848f-c52c5d0aeb3c",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/claim-tax-refund",
+              "api_url": "https://www.gov.uk/api/content/claim-tax-refund",
+              "base_path": "/claim-tax-refund",
+              "content_id": "2df6d0c1-c3d4-4c44-ae5e-ee046446819e",
+              "document_type": "simple_smart_answer",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2014-12-09T11:54:16Z",
+              "schema_name": "simple_smart_answer",
+              "title": "Check how to claim a tax refund",
+              "web_url": "https://www.gov.uk/claim-tax-refund",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-08T10:17:28Z",
+        "schema_name": "document_collection",
+        "title": "Income Tax: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/income-tax-detailed-information",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/collections/self-assessment-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/self-assessment-detailed-information",
+        "base_path": "/government/collections/self-assessment-detailed-information",
+        "content_id": "74cdc9d3-8864-4032-9a30-08d0d795b0c4",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/claim-tax-refund",
+              "api_url": "https://www.gov.uk/api/content/claim-tax-refund",
+              "base_path": "/claim-tax-refund",
+              "content_id": "2df6d0c1-c3d4-4c44-ae5e-ee046446819e",
+              "document_type": "simple_smart_answer",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2014-12-09T11:54:16Z",
+              "schema_name": "simple_smart_answer",
+              "title": "Check how to claim a tax refund",
+              "web_url": "https://www.gov.uk/claim-tax-refund",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-12T12:09:42Z",
+        "schema_name": "document_collection",
+        "title": "Self Assessment: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/self-assessment-detailed-information",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/collections/pension-scheme-administration-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/pension-scheme-administration-detailed-information",
+        "base_path": "/government/collections/pension-scheme-administration-detailed-information",
+        "content_id": "4ef0d6a9-e484-458b-9a8d-b8fcba37a271",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/claim-tax-refund",
+              "api_url": "https://www.gov.uk/api/content/claim-tax-refund",
+              "base_path": "/claim-tax-refund",
+              "content_id": "2df6d0c1-c3d4-4c44-ae5e-ee046446819e",
+              "document_type": "simple_smart_answer",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2014-12-09T11:54:16Z",
+              "schema_name": "simple_smart_answer",
+              "title": "Check how to claim a tax refund",
+              "web_url": "https://www.gov.uk/claim-tax-refund",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-05T17:07:09Z",
+        "schema_name": "document_collection",
+        "title": "Pension scheme administration: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/pension-scheme-administration-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/income-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+        "base_path": "/browse/tax/income-tax",
+        "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+        "description": "Includes rates and allowances, tax codes and refunds",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:16Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Income Tax",
+        "web_url": "https://www.gov.uk/browse/tax/income-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/tax/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+        "base_path": "/browse/tax/self-assessment",
+        "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+        "description": "Includes filing, deadlines, pay and tax records",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Self Assessment",
+        "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/income-tax",
+        "api_url": "https://www.gov.uk/api/content/income-tax",
+        "base_path": "/income-tax",
+        "content_id": "21c81878-c580-454e-9319-eb947ba40aa8",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/income-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+              "base_path": "/browse/tax/income-tax",
+              "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+              "description": "Includes rates and allowances, tax codes and refunds",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Income Tax",
+              "web_url": "https://www.gov.uk/browse/tax/income-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-11T14:42:57Z",
+        "schema_name": "guide",
+        "title": "Income Tax: introduction",
+        "web_url": "https://www.gov.uk/income-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/income-tax-rates",
+        "api_url": "https://www.gov.uk/api/content/income-tax-rates",
+        "base_path": "/income-tax-rates",
+        "content_id": "9b8a4862-56dc-47b1-b56b-8a647fdd72e5",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/income-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+              "base_path": "/browse/tax/income-tax",
+              "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+              "description": "Includes rates and allowances, tax codes and refunds",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Income Tax",
+              "web_url": "https://www.gov.uk/browse/tax/income-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-07T15:09:24Z",
+        "schema_name": "guide",
+        "title": "Income Tax rates and Personal Allowances ",
+        "web_url": "https://www.gov.uk/income-tax-rates",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/tax-overpayments-and-underpayments",
+        "api_url": "https://www.gov.uk/api/content/tax-overpayments-and-underpayments",
+        "base_path": "/tax-overpayments-and-underpayments",
+        "content_id": "ca7ad9db-fb88-4260-b3d5-03a710dc1800",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/income-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+              "base_path": "/browse/tax/income-tax",
+              "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+              "description": "Includes rates and allowances, tax codes and refunds",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Income Tax",
+              "web_url": "https://www.gov.uk/browse/tax/income-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-04T14:20:17Z",
+        "schema_name": "guide",
+        "title": "Tax overpayments and underpayments",
+        "web_url": "https://www.gov.uk/tax-overpayments-and-underpayments",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/tax-right-retire-abroad-return-to-uk",
+        "api_url": "https://www.gov.uk/api/content/tax-right-retire-abroad-return-to-uk",
+        "base_path": "/tax-right-retire-abroad-return-to-uk",
+        "content_id": "090fa2f4-d596-47d4-8bf7-7dceec4ac4f1",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/income-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+              "base_path": "/browse/tax/income-tax",
+              "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+              "description": "Includes rates and allowances, tax codes and refunds",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Income Tax",
+              "web_url": "https://www.gov.uk/browse/tax/income-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/abroad/living-abroad",
+              "api_url": "https://www.gov.uk/api/content/browse/abroad/living-abroad",
+              "base_path": "/browse/abroad/living-abroad",
+              "content_id": "bbb8985a-5451-4e9d-a601-8c55853a096c",
+              "description": "Includes tax, State Pension, benefits and UK government services abroad",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-09-21T12:40:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Living abroad",
+              "web_url": "https://www.gov.uk/browse/abroad/living-abroad",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-08T15:30:02Z",
+        "schema_name": "answer",
+        "title": "Tax if you leave the UK to live abroad",
+        "web_url": "https://www.gov.uk/tax-right-retire-abroad-return-to-uk",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/claim-national-insurance-refund",
+        "api_url": "https://www.gov.uk/api/content/claim-national-insurance-refund",
+        "base_path": "/claim-national-insurance-refund",
+        "content_id": "75bc16ab-5aec-4816-af53-5204c3b24bcc",
+        "document_type": "simple_smart_answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+              "base_path": "/browse/tax/national-insurance",
+              "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+              "description": "Voluntary contributions and credits, numbers, rates and classes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-10-31T17:04:43Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Claim a National Insurance refund",
+        "web_url": "https://www.gov.uk/claim-national-insurance-refund",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/income-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+        "base_path": "/browse/tax/income-tax",
+        "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+        "description": "Includes rates and allowances, tax codes and refunds",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:16Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Income Tax",
+        "web_url": "https://www.gov.uk/browse/tax/income-tax",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/business-tax-pension-scheme-administration-tax-on-pensions",
+        "api_url": "https://www.gov.uk/api/content/money/business-tax-pension-scheme-administration-tax-on-pensions",
+        "base_path": "/money/business-tax-pension-scheme-administration-tax-on-pensions",
+        "content_id": "de3203c9-8f36-49a1-a8d5-d08ee9bc8c22",
+        "details": {
+          "internal_name": "Tax on pensions [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/pension-scheme-administration",
+              "api_url": "https://www.gov.uk/api/content/money/pension-scheme-administration",
+              "base_path": "/money/pension-scheme-administration",
+              "content_id": "bf3906da-359c-4366-9e1b-2e5b5334167e",
+              "details": {
+                "internal_name": "Pension scheme administration [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money/business-tax",
+                    "api_url": "https://www.gov.uk/api/content/money/business-tax",
+                    "base_path": "/money/business-tax",
+                    "content_id": "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+                    "details": {
+                      "internal_name": "Business tax [T] (level 2, money)",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/money",
+                          "api_url": "https://www.gov.uk/api/content/money",
+                          "base_path": "/money",
+                          "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Money",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T20:35:25Z",
+                          "schema_name": "taxon",
+                          "title": "Money",
+                          "web_url": "https://www.gov.uk/money",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-05T16:19:49Z",
+                    "schema_name": "taxon",
+                    "title": "Business tax",
+                    "web_url": "https://www.gov.uk/money/business-tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:52Z",
+              "schema_name": "taxon",
+              "title": "Pension scheme administration",
+              "web_url": "https://www.gov.uk/money/pension-scheme-administration",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:52Z",
+        "schema_name": "taxon",
+        "title": "Tax on pensions",
+        "web_url": "https://www.gov.uk/money/business-tax-pension-scheme-administration-tax-on-pensions",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/personal-tax-income-tax-overpayments-and-underpayments",
+        "api_url": "https://www.gov.uk/api/content/money/personal-tax-income-tax-overpayments-and-underpayments",
+        "base_path": "/money/personal-tax-income-tax-overpayments-and-underpayments",
+        "content_id": "ad06699f-5543-4d96-9016-ba252e1a00a7",
+        "details": {
+          "internal_name": "Overpayments and underpayments [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/income-tax",
+              "api_url": "https://www.gov.uk/api/content/money/income-tax",
+              "base_path": "/money/income-tax",
+              "content_id": "104ee859-8278-406b-80cb-5727373e0198",
+              "details": {
+                "internal_name": "Income Tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money/personal-tax",
+                    "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+                    "base_path": "/money/personal-tax",
+                    "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+                    "details": {
+                      "internal_name": "Personal tax [T]",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/money",
+                          "api_url": "https://www.gov.uk/api/content/money",
+                          "base_path": "/money",
+                          "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Money",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T20:35:25Z",
+                          "schema_name": "taxon",
+                          "title": "Money",
+                          "web_url": "https://www.gov.uk/money",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-05T16:19:54Z",
+                    "schema_name": "taxon",
+                    "title": "Personal tax",
+                    "web_url": "https://www.gov.uk/money/personal-tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:55Z",
+              "schema_name": "taxon",
+              "title": "Income Tax",
+              "web_url": "https://www.gov.uk/money/income-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:55Z",
+        "schema_name": "taxon",
+        "title": "Overpayments and underpayments",
+        "web_url": "https://www.gov.uk/money/personal-tax-income-tax-overpayments-and-underpayments",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/personal-tax-self-assessment-refunds-appeals-and-penalties",
+        "api_url": "https://www.gov.uk/api/content/money/personal-tax-self-assessment-refunds-appeals-and-penalties",
+        "base_path": "/money/personal-tax-self-assessment-refunds-appeals-and-penalties",
+        "content_id": "f8415414-4d98-466e-a991-5d97aa4733de",
+        "details": {
+          "internal_name": "Refunds, appeals and penalties [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/self-assessment",
+              "api_url": "https://www.gov.uk/api/content/money/self-assessment",
+              "base_path": "/money/self-assessment",
+              "content_id": "edb9b4a6-b804-4348-beee-81827c86bf0b",
+              "details": {
+                "internal_name": "Self Assessment [T] (level 2)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money/personal-tax",
+                    "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+                    "base_path": "/money/personal-tax",
+                    "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+                    "details": {
+                      "internal_name": "Personal tax [T]",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/money",
+                          "api_url": "https://www.gov.uk/api/content/money",
+                          "base_path": "/money",
+                          "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Money",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T20:35:25Z",
+                          "schema_name": "taxon",
+                          "title": "Money",
+                          "web_url": "https://www.gov.uk/money",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-05T16:19:54Z",
+                    "schema_name": "taxon",
+                    "title": "Personal tax",
+                    "web_url": "https://www.gov.uk/money/personal-tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:55Z",
+              "schema_name": "taxon",
+              "title": "Self Assessment",
+              "web_url": "https://www.gov.uk/money/self-assessment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:55Z",
+        "schema_name": "taxon",
+        "title": "Refunds, appeals and penalties",
+        "web_url": "https://www.gov.uk/money/personal-tax-self-assessment-refunds-appeals-and-penalties",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/pension-scheme-administration",
+        "api_url": "https://www.gov.uk/api/content/money/pension-scheme-administration",
+        "base_path": "/money/pension-scheme-administration",
+        "content_id": "bf3906da-359c-4366-9e1b-2e5b5334167e",
+        "details": {
+          "internal_name": "Pension scheme administration [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/business-tax",
+              "api_url": "https://www.gov.uk/api/content/money/business-tax",
+              "base_path": "/money/business-tax",
+              "content_id": "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+              "details": {
+                "internal_name": "Business tax [T] (level 2, money)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:49Z",
+              "schema_name": "taxon",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/money/business-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:52Z",
+        "schema_name": "taxon",
+        "title": "Pension scheme administration",
+        "web_url": "https://www.gov.uk/money/pension-scheme-administration",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/income-tax",
+        "api_url": "https://www.gov.uk/api/content/money/income-tax",
+        "base_path": "/money/income-tax",
+        "content_id": "104ee859-8278-406b-80cb-5727373e0198",
+        "details": {
+          "internal_name": "Income Tax [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:55Z",
+        "schema_name": "taxon",
+        "title": "Income Tax",
+        "web_url": "https://www.gov.uk/money/income-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/money/self-assessment",
+        "base_path": "/money/self-assessment",
+        "content_id": "edb9b4a6-b804-4348-beee-81827c86bf0b",
+        "details": {
+          "internal_name": "Self Assessment [T] (level 2)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:55Z",
+        "schema_name": "taxon",
+        "title": "Self Assessment",
+        "web_url": "https://www.gov.uk/money/self-assessment",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-12-09T11:54:16Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1708527947.560-10.13.22.232-89355",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "simple_smart_answer",
+  "title": "Check how to claim a tax refund",
+  "updated_at": "2024-02-21T15:05:50Z",
+  "withdrawn_notice": {
+  }
+}

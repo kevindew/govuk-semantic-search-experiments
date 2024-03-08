@@ -1,0 +1,284 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-if-youre-eligible-for-warm-home-discount",
+  "content_id": "8981cc47-8bb5-449e-8418-59a3c885d1fb",
+  "description": "Check if you’re eligible for the Warm Home Discount from October 2023. The discount could take money off your winter electricity bill.",
+  "details": {
+    "body": "<p>You do not need to apply for the Warm Home Discount. You’ll be paid automatically by your energy supplier.</p>\n\n<p>Use this service to find out:</p>\n\n<ul>\n  <li>if you’re eligible for the scheme </li>\n  <li>what to do if you did not get a letter about the Warm Home Discount but think you may be eligible</li>\n</ul>\n\n<p>The Warm Home Discount is not available in Northern Ireland. <a rel=\"external\" href=\"https://www.nihe.gov.uk/Housing-Help/Affordable-Warmth-Boiler-Replacement/Affordable-Warmth-Scheme\">Find out about the Affordable Warmth scheme</a> instead.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you live in a park home, you’ll need to <a rel=\"external\" href=\"https://charisgrants.com/partners/park-homes/\">apply for the Park Homes Warm Home Discount Scheme</a>.</p>\n</div>\n\n<p><a class=\"gem-c-button govuk-button govuk-button--start\" role=\"button\" data-module=\"govuk-button\" draggable=\"false\" href=\"https://www.check-warm-home-discount-eligibility.service.gov.uk/region/\"><span> Start now </span><svg class=\"govuk-button__start-icon govuk-!-display-none-print\" xmlns=\"http://www.w3.org/2000/svg\" width=\"17.5\" height=\"19\" viewbox=\"0 0 33 40\" focusable=\"false\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M0 0h13l20 20-20 20H0l20-20z\"></path></svg></a></p>\n\n<h2 id=\"before-you-start\">Before you start</h2>\n\n<p>You’ll need:</p>\n\n<ul>\n  <li>\n    <p>the name of your electricity supplier</p>\n  </li>\n  <li>\n    <p>details of any benefits you receive</p>\n  </li>\n</ul>\n\n<p>You’ll also need to know the size and age of your property and what type of property it is.</p>\n\n<p>If your property has an energy performance certificate (EPC), you can enter your postcode to fill in these details. </p>\n\n<p>If your property does not have an EPC, you can find these details on property documents, like your tenancy agreement or insurance paperwork.</p>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2022-11-14T09:34:21Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-if-youre-eligible-for-warm-home-discount",
+        "api_url": "https://www.gov.uk/api/content/check-if-youre-eligible-for-warm-home-discount",
+        "base_path": "/check-if-youre-eligible-for-warm-home-discount",
+        "content_id": "8981cc47-8bb5-449e-8418-59a3c885d1fb",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-11-14T10:09:19Z",
+        "schema_name": "answer",
+        "title": "Check if you're eligible for the Warm Home Discount",
+        "web_url": "https://www.gov.uk/check-if-youre-eligible-for-warm-home-discount",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/benefits/low-income",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/low-income",
+        "base_path": "/browse/benefits/low-income",
+        "content_id": "cb4c2480-73e8-4096-bc1e-4f5398063dfc",
+        "description": "Help with heating, housing and other living costs. Includes Universal Credit.",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:44Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're on a low income",
+        "web_url": "https://www.gov.uk/browse/benefits/low-income",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/the-warm-home-discount-scheme",
+        "api_url": "https://www.gov.uk/api/content/the-warm-home-discount-scheme",
+        "base_path": "/the-warm-home-discount-scheme",
+        "content_id": "b9787536-5b9c-4caf-b83b-4f593e9a2191",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/low-income",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/low-income",
+              "base_path": "/browse/benefits/low-income",
+              "content_id": "cb4c2480-73e8-4096-bc1e-4f5398063dfc",
+              "description": "Help with heating, housing and other living costs. Includes Universal Credit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:44Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're on a low income",
+              "web_url": "https://www.gov.uk/browse/benefits/low-income",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/household-energy",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/household-energy",
+              "base_path": "/browse/housing-local-services/household-energy",
+              "content_id": "67da376c-b408-4229-8586-b09969f65d3a",
+              "description": "Includes energy support, grants, energy performance certificates (EPCs), energy saving and renewable energy for your home",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-09-21T08:29:22Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Household energy",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/household-energy",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-18T17:29:15Z",
+        "schema_name": "guide",
+        "title": "Warm Home Discount Scheme",
+        "web_url": "https://www.gov.uk/the-warm-home-discount-scheme",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1380",
+        "api_path": "/api/content/government/organisations/department-for-energy-security-and-net-zero",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-energy-security-and-net-zero",
+        "base_path": "/government/organisations/department-for-energy-security-and-net-zero",
+        "content_id": "6315817c-ef11-4905-bb4d-b6dca8e9052c",
+        "details": {
+          "acronym": "DESNZ",
+          "brand": "department-for-business-innovation-skills",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/656df1fd1104cf000dfa74a1/s960_whitehall-place-exterior-960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/656df1fd0f12ef07a53e01be/s300_whitehall-place-exterior-960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for<br/>Energy Security<br/>&amp; Net Zero"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Energy Security and Net Zero",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D1198",
+        "api_path": "/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "base_path": "/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "content_id": "2bde479a-97f2-42b5-986a-287a623c2a1c",
+        "details": {
+          "acronym": "BEIS",
+          "brand": "department-for-business-innovation-skills",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a62fdc6b1/s960_beis-sign-1vs.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a5f965fd5/s300_beis-sign-1vs.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for<br/>Business, Energy<br/>&amp; Industrial Strategy"
+          },
+          "organisation_govuk_status": {
+            "status": "split",
+            "updated_at": null,
+            "url": ""
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Business, Energy & Industrial Strategy",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/benefits/low-income",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/low-income",
+        "base_path": "/browse/benefits/low-income",
+        "content_id": "cb4c2480-73e8-4096-bc1e-4f5398063dfc",
+        "description": "Help with heating, housing and other living costs. Includes Universal Credit.",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/benefits",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits",
+              "base_path": "/browse/benefits",
+              "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+              "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2018-05-16T16:12:49Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits",
+              "web_url": "https://www.gov.uk/browse/benefits",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:44Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're on a low income",
+        "web_url": "https://www.gov.uk/browse/benefits/low-income",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2022-11-14T10:09:19Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1699005013.982-10.13.21.238-8624",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Check if you're eligible for the Warm Home Discount",
+  "updated_at": "2024-02-23T07:43:32Z",
+  "withdrawn_notice": {
+  }
+}

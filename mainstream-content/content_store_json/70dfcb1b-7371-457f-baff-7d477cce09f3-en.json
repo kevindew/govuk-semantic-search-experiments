@@ -1,0 +1,481 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/report-stranded-whale-dolphin",
+  "content_id": "70dfcb1b-7371-457f-baff-7d477cce09f3",
+  "description": "If you find a stranded whale or dolphin you need to report it straight away - what to do, who to call",
+  "details": {
+    "body": "\n<div class=\"summary\">\n<p>Call the Cetacean Strandings Investigation Programme (CSIP) hotline to report a stranded whale or dolphin.</p>\n</div>\n\n<h2 id=\"if-the-animal-is-alive\">If the animal is alive</h2>\n\n<p>Call the hotline immediately.</p>\n\n<div class=\"contact\">\n<p><strong>CSIP stranded whale or dolphin hotline</strong>  <br>\n0800 652 0333 <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<p>Give as much information as possible about the animal’s location and condition to the <a rel=\"external\" href=\"http://ukstrandings.org/\">CSIP.</a></p>\n\n<p>It’s important to take care when near a stranded dolphin or whale, as the tail is powerful and can cause injury. Gloves should also be worn when handling a living or dead animal.</p>\n\n<h2 id=\"if-the-animal-is-dead\">If the animal is dead</h2>\n\n<p>If you think the whale or dolphin is dead call the hotline and let them know where you found the animal. To avoid disease, don’t have any contact with the dead animal without the right protective clothing, eg thick rubber gloves.</p>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-01-09T12:21:32Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/report-stranded-whale-dolphin",
+        "api_url": "https://www.gov.uk/api/content/report-stranded-whale-dolphin",
+        "base_path": "/report-stranded-whale-dolphin",
+        "content_id": "70dfcb1b-7371-457f-baff-7d477cce09f3",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:03Z",
+        "schema_name": "answer",
+        "title": "Report a stranded whale or dolphin",
+        "web_url": "https://www.gov.uk/report-stranded-whale-dolphin",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/environment-countryside/wildlife-biodiversity",
+        "api_url": "https://www.gov.uk/api/content/browse/environment-countryside/wildlife-biodiversity",
+        "base_path": "/browse/environment-countryside/wildlife-biodiversity",
+        "content_id": "9803954d-13ad-433e-8d7c-5130029d7f70",
+        "description": "Protected species, report a sighting",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:57:00Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Wildlife and biodiversity",
+        "web_url": "https://www.gov.uk/browse/environment-countryside/wildlife-biodiversity",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/report-dead-animal",
+        "api_url": "https://www.gov.uk/api/content/report-dead-animal",
+        "base_path": "/report-dead-animal",
+        "content_id": "4de29c71-7e71-4f30-a321-85ff83871305",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/environment-countryside/wildlife-biodiversity",
+              "api_url": "https://www.gov.uk/api/content/browse/environment-countryside/wildlife-biodiversity",
+              "base_path": "/browse/environment-countryside/wildlife-biodiversity",
+              "content_id": "9803954d-13ad-433e-8d7c-5130029d7f70",
+              "description": "Protected species, report a sighting",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/environment-countryside",
+                    "api_url": "https://www.gov.uk/api/content/browse/environment-countryside",
+                    "base_path": "/browse/environment-countryside",
+                    "content_id": "26b81913-d58a-47be-80b7-1e947212779a",
+                    "description": "Includes flooding, recycling, farming and wildlife",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-08-02T10:48:20Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Environment and countryside",
+                    "web_url": "https://www.gov.uk/browse/environment-countryside",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:57:00Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Wildlife and biodiversity",
+              "web_url": "https://www.gov.uk/browse/environment-countryside/wildlife-biodiversity",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/noise-neighbours",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/noise-neighbours",
+              "base_path": "/browse/housing-local-services/noise-neighbours",
+              "content_id": "ae8c76fb-16ac-4c8a-94e1-47de716896af",
+              "description": "Includes neighbour disputes, reporting noise nuisance, pest control and looking after pets",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Noise, neighbours, pets and pests",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/noise-neighbours",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-01T08:11:13Z",
+        "schema_name": "local_transaction",
+        "title": "Report a dead or injured animal",
+        "web_url": "https://www.gov.uk/report-dead-animal",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D7",
+        "api_path": "/api/content/government/organisations/department-for-environment-food-rural-affairs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-environment-food-rural-affairs",
+        "base_path": "/government/organisations/department-for-environment-food-rural-affairs",
+        "content_id": "de4e9dc6-cca4-43af-a594-682023b84d6c",
+        "details": {
+          "acronym": "Defra",
+          "brand": "department-for-environment-food-rural-affairs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dad140f0b649cceb1813/s960_defra-sign-grey.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dad1ed915d5a62fdc6d6/s300_defra-sign-grey.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Environment<br/>Food &amp; Rural Affairs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Environment, Food & Rural Affairs",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/environment-countryside/wildlife-biodiversity",
+        "api_url": "https://www.gov.uk/api/content/browse/environment-countryside/wildlife-biodiversity",
+        "base_path": "/browse/environment-countryside/wildlife-biodiversity",
+        "content_id": "9803954d-13ad-433e-8d7c-5130029d7f70",
+        "description": "Protected species, report a sighting",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/environment-countryside",
+              "api_url": "https://www.gov.uk/api/content/browse/environment-countryside",
+              "base_path": "/browse/environment-countryside",
+              "content_id": "26b81913-d58a-47be-80b7-1e947212779a",
+              "description": "Includes flooding, recycling, farming and wildlife",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-02T10:48:20Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Environment and countryside",
+              "web_url": "https://www.gov.uk/browse/environment-countryside",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:57:00Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Wildlife and biodiversity",
+        "web_url": "https://www.gov.uk/browse/environment-countryside/wildlife-biodiversity",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/report-dead-animal",
+        "api_url": "https://www.gov.uk/api/content/report-dead-animal",
+        "base_path": "/report-dead-animal",
+        "content_id": "4de29c71-7e71-4f30-a321-85ff83871305",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-01T08:11:13Z",
+        "schema_name": "local_transaction",
+        "title": "Report a dead or injured animal",
+        "web_url": "https://www.gov.uk/report-dead-animal",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/nonnative-wildlife",
+        "api_url": "https://www.gov.uk/api/content/nonnative-wildlife",
+        "base_path": "/nonnative-wildlife",
+        "content_id": "b1721694-bd57-414a-be65-13f915d400e2",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-05-28T15:32:08Z",
+        "schema_name": "answer",
+        "title": "Licence to release non-native wildlife and plants",
+        "web_url": "https://www.gov.uk/nonnative-wildlife",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/report-dangerous-building-structure",
+        "api_url": "https://www.gov.uk/api/content/report-dangerous-building-structure",
+        "base_path": "/report-dangerous-building-structure",
+        "content_id": "cd32b365-b84c-48dc-bb7c-fbe00c7ec073",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:26:43Z",
+        "schema_name": "local_transaction",
+        "title": "Report a dangerous building or structure",
+        "web_url": "https://www.gov.uk/report-dangerous-building-structure",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/preventing-air-pollution",
+        "api_url": "https://www.gov.uk/api/content/preventing-air-pollution",
+        "base_path": "/preventing-air-pollution",
+        "content_id": "d9ab91f4-f3f2-434d-80da-4f9bed15fd33",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-05-04T16:28:33Z",
+        "schema_name": "guide",
+        "title": "Preventing air pollution",
+        "web_url": "https://www.gov.uk/preventing-air-pollution",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-your-business-protected-area",
+        "api_url": "https://www.gov.uk/api/content/check-your-business-protected-area",
+        "base_path": "/check-your-business-protected-area",
+        "content_id": "caede71e-a6ae-4268-841b-33d9a9421ddc",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-19T15:50:06Z",
+        "schema_name": "answer",
+        "title": "Find protected areas of countryside",
+        "web_url": "https://www.gov.uk/check-your-business-protected-area",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/environment/wildlife-habitat-conservation",
+        "api_url": "https://www.gov.uk/api/content/environment/wildlife-habitat-conservation",
+        "base_path": "/environment/wildlife-habitat-conservation",
+        "content_id": "8953ca7a-ed45-49a9-93af-87d55e69f910",
+        "description": "",
+        "details": {
+          "internal_name": "Wildlife and habitat conservation [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/environment/wildlife-animals-biodiversity-and-ecosystems",
+              "api_url": "https://www.gov.uk/api/content/environment/wildlife-animals-biodiversity-and-ecosystems",
+              "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems",
+              "content_id": "695dc6f2-27cc-4d8b-adc4-8d07c2bff748",
+              "description": "",
+              "details": {
+                "internal_name": "Wildlife, animals, biodiversity and ecosystems",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/environment",
+                    "api_url": "https://www.gov.uk/api/content/environment",
+                    "base_path": "/environment",
+                    "content_id": "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Environment",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T13:39:00Z",
+                    "schema_name": "taxon",
+                    "title": "Environment",
+                    "web_url": "https://www.gov.uk/environment",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T10:53:02Z",
+              "schema_name": "taxon",
+              "title": "Wildlife, animals, biodiversity and ecosystems",
+              "web_url": "https://www.gov.uk/environment/wildlife-animals-biodiversity-and-ecosystems",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-20T13:49:13Z",
+        "schema_name": "taxon",
+        "title": "Wildlife and habitat conservation",
+        "web_url": "https://www.gov.uk/environment/wildlife-habitat-conservation",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/environment/wildlife-animals-biodiversity-and-ecosystems",
+        "api_url": "https://www.gov.uk/api/content/environment/wildlife-animals-biodiversity-and-ecosystems",
+        "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems",
+        "content_id": "695dc6f2-27cc-4d8b-adc4-8d07c2bff748",
+        "description": "",
+        "details": {
+          "internal_name": "Wildlife, animals, biodiversity and ecosystems",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/environment",
+              "api_url": "https://www.gov.uk/api/content/environment",
+              "base_path": "/environment",
+              "content_id": "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+              "description": "",
+              "details": {
+                "internal_name": "Environment",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T13:39:00Z",
+              "schema_name": "taxon",
+              "title": "Environment",
+              "web_url": "https://www.gov.uk/environment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-16T10:53:02Z",
+        "schema_name": "taxon",
+        "title": "Wildlife, animals, biodiversity and ecosystems",
+        "web_url": "https://www.gov.uk/environment/wildlife-animals-biodiversity-and-ecosystems",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-05-02T16:27:03Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15546-1504179293.304-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Report a stranded whale or dolphin",
+  "updated_at": "2024-02-12T17:36:39Z",
+  "withdrawn_notice": {
+  }
+}

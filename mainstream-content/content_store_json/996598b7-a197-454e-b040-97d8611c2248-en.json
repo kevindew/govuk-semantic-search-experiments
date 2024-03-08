@@ -1,0 +1,416 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/register-trailer-to-take-abroad",
+  "content_id": "996598b7-a197-454e-b040-97d8611c2248",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2019-02-08T11:36:41Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/register-trailer-to-take-abroad",
+        "api_url": "https://www.gov.uk/api/content/done/register-trailer-to-take-abroad",
+        "base_path": "/done/register-trailer-to-take-abroad",
+        "content_id": "996598b7-a197-454e-b040-97d8611c2248",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-08-27T08:59:17Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Register your trailer to take it abroad",
+        "web_url": "https://www.gov.uk/done/register-trailer-to-take-abroad",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/government/publications/get-an-abnormal-load-trailer-keepers-certificate-to-use-it-abroad",
+        "api_url": "https://www.gov.uk/api/content/government/publications/get-an-abnormal-load-trailer-keepers-certificate-to-use-it-abroad",
+        "base_path": "/government/publications/get-an-abnormal-load-trailer-keepers-certificate-to-use-it-abroad",
+        "content_id": "02a824bc-a00f-4bc6-8ea5-bca81b9de18a",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-08-15T10:52:30Z",
+        "schema_name": "publication",
+        "title": "Get an abnormal load trailer keeper's certificate to use it abroad",
+        "web_url": "https://www.gov.uk/government/publications/get-an-abnormal-load-trailer-keepers-certificate-to-use-it-abroad",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA74",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-licensing-agency",
+        "content_id": "70580624-93b5-4aed-823b-76042486c769",
+        "details": {
+          "acronym": "DVLA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Licensing<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Licensing Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+        "withdrawn": false
+      }
+    ],
+    "part_of_step_navs": [
+      {
+        "api_path": "/api/content/transport-goods-from-uk-by-road",
+        "api_url": "https://www.gov.uk/api/content/transport-goods-from-uk-by-road",
+        "base_path": "/transport-goods-from-uk-by-road",
+        "content_id": "9be67e23-bd76-4d60-b6e1-66e0dce5965a",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/being-a-goods-vehicle-operator",
+                        "text": "Check if you need a vehicle operator licence"
+                      },
+                      {
+                        "href": "/apply-vehicle-operator-licence",
+                        "text": "Apply for a vehicle operator licence"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You'll need other licences and permits, depending on the countries you're driving to or through.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/international-authorisations-and-permits-for-road-haulage",
+                        "text": "Check which licences and permits you need"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Apply for operator licences and permits"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You may need to register your trailer to drive through or to the EU if it weighs over 750kg.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/register-trailer-to-take-abroad",
+                        "text": "Register your trailer to take it abroad"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You’ll need to get specialist vehicle approvals to transport any of the following:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/specialist-tests-for-lorries/the-adr-test",
+                        "text": "dangerous goods"
+                      },
+                      {
+                        "href": "/guidance/atp-rules-on-carrying-perishable-foodstuffs-in-road-vehicles",
+                        "text": "perishable food"
+                      },
+                      {
+                        "href": "/specialist-tests-for-lorries/the-tir-test",
+                        "text": "goods in a sealed load compartment for quicker border crossings"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "title": "Register and get approval for your vehicle "
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/driver-documents-required-for-international-road-haulage",
+                        "text": "Check your driver has the documents they need to drive abroad"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "The driver must carry these documents with them.",
+                    "type": "paragraph"
+                  }
+                ],
+                "title": "Make sure your driver is eligible to drive abroad"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/starting-to-export",
+                        "text": "Find out what you need to do if you're exporting your own goods"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "There are rules for transporting certain goods. Your driver may need to follow set routes or stop at specific check points. Check the rules for:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/moving-live-animals-or-animal-products-as-part-of-eu-trade",
+                        "text": "live animals or animal products"
+                      },
+                      {
+                        "href": "/guidance/driving-dangerous-goods-and-special-loads",
+                        "text": "dangerous goods"
+                      },
+                      {
+                        "href": "/esdal-and-abnormal-loads/taking-abnormal-load-abroad",
+                        "text": "abnormal loads"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/taking-goods-out-uk-temporarily",
+                        "text": "Find out what you need to apply for if you’re moving goods temporarily out of the UK"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "If you're transporting goods outside the EU they must have been cleared by customs (given ‘permission to progress’). The exporter can tell you if this has happened.",
+                    "type": "paragraph"
+                  }
+                ],
+                "title": "Check the rules for the goods you're carrying"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Your driver will need copies of:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "text": "any export licences"
+                      },
+                      {
+                        "href": "https://www.gov.uk/guidance/carry-out-international-road-haulage",
+                        "text": "the road consignment note (‘CMR note’)"
+                      },
+                      {
+                        "text": "the Movement Reference Number (MRN) from the export declaration - if you're moving goods out of the EU"
+                      },
+                      {
+                        "text": "the MRN and the Local Reference Number (LRN) - if you're moving goods under the Common Transit convention (CTC)"
+                      },
+                      {
+                        "text": "the ATA Carnet document - if you're moving goods out of the EU temporarily"
+                      },
+                      {
+                        "text": "the TiR Carnet document - if you’re moving goods in a sealed load compartment with a seal number"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "text": "The exporter should be able to give all of these to you.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "You'll also need to have a customs seal approval certificate for the vehicle if you’re moving goods in a sealed load compartment. You'll get this when your vehicle passes the TiR test.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "You may need to use the Goods Vehicle Movement Service (GVMS) to move goods through some ports.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/check-how-to-move-goods-through-ports-that-use-the-goods-vehicle-movement-service",
+                        "text": "Check how to move goods through ports that use the GVMS"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Make sure your driver has the right export documents"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/vehicle-documents-required-for-international-road-haulage",
+                        "text": "Check what HGV and trailer documents your driver must carry"
+                      },
+                      {
+                        "href": "/guidance/driver-documents-required-for-international-road-haulage",
+                        "text": "Check what driving documents your driver must carry"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Find out what vehicle documents your driver needs to carry"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You may need to attend an inland border facility if you're leaving from the Port of Dover, Eurotunnel or Holyhead. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "https://www.gov.uk/government/publications/attending-an-inland-border-facility/attending-an-inland-border-facility",
+                        "text": "Check whether you need to attend an inland border facility"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check you are ready for the Port of Dover, Eurotunnel or Holyhead "
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "https://www.theaa.com/european-breakdown-cover/driving-in-europe/country-by-country",
+                        "text": "Check the road rules for European countries on the AA website"
+                      },
+                      {
+                        "href": "/foreign-travel-advice",
+                        "text": "Check travel advice for countries outside Europe"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "When you have your documents, insurance and any extra equipment you need, you can transport goods abroad.",
+                    "type": "paragraph"
+                  }
+                ],
+                "title": "Check local road rules"
+              }
+            ],
+            "title": "Transport goods out of the UK by road: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/done/register-trailer-to-take-abroad",
+              "api_url": "https://www.gov.uk/api/content/done/register-trailer-to-take-abroad",
+              "base_path": "/done/register-trailer-to-take-abroad",
+              "content_id": "996598b7-a197-454e-b040-97d8611c2248",
+              "document_type": "completed_transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2020-08-27T08:59:17Z",
+              "schema_name": "completed_transaction",
+              "title": "Give feedback on Register your trailer to take it abroad",
+              "web_url": "https://www.gov.uk/done/register-trailer-to-take-abroad",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-03-06T10:43:41Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Transport goods out of the UK by road: step by step",
+        "web_url": "https://www.gov.uk/transport-goods-from-uk-by-road",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-08-27T08:59:17Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629922.206-10.13.32.223-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Register your trailer to take it abroad",
+  "updated_at": "2024-03-06T10:43:47Z",
+  "withdrawn_notice": {
+  }
+}

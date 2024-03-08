@@ -1,0 +1,415 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/permission-software-tax-information",
+  "content_id": "f5d38591-bf55-4d49-8cc2-4bab241be141",
+  "description": "Manage, check and withdraw permission you've given to software applications to share and update your tax information",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>You may be using software to interact with HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>), for example to send your Self Assessment tax return.</p>\n\n<p>You can use this service to:</p>\n\n<ul>\n  <li>check which software you’ve given permission to</li>\n  <li>remove permission from any software, for example permission to file your return</li>\n</ul>\n\n",
+    "more_information": "<p>To sign in for the first time, you’ll need:</p>\n\n<ul>\n  <li>a Government Gateway user ID and password - if you do not have a user ID you can create one when you use the service</li>\n  <li>a permanent National Insurance number</li>\n</ul>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.tax.service.gov.uk/gg/sign-in?continue=/applications-manage-authority/applications/&origin=SA-frontend",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2016-08-18T12:39:40Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/permission-software-tax-information",
+        "api_url": "https://www.gov.uk/api/content/permission-software-tax-information",
+        "base_path": "/permission-software-tax-information",
+        "content_id": "f5d38591-bf55-4d49-8cc2-4bab241be141",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-09-20T15:58:39Z",
+        "schema_name": "transaction",
+        "title": "Manage permissions for tax software",
+        "web_url": "https://www.gov.uk/permission-software-tax-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/dealing-with-hmrc",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/dealing-with-hmrc",
+        "base_path": "/browse/tax/dealing-with-hmrc",
+        "content_id": "8b432175-2324-4c96-b6c6-9708cdab4fa1",
+        "description": "Reporting changes, agents, appeals, checks, complaints and help with tax",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:28Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Dealing with HMRC",
+        "web_url": "https://www.gov.uk/browse/tax/dealing-with-hmrc",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/tax/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+        "base_path": "/browse/tax/self-assessment",
+        "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+        "description": "Includes filing, deadlines, pay and tax records",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Self Assessment",
+        "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+        "base_path": "/browse/tax/self-assessment",
+        "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+        "description": "Includes filing, deadlines, pay and tax records",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Self Assessment",
+        "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/pay-self-assessment-tax-bill",
+        "api_url": "https://www.gov.uk/api/content/pay-self-assessment-tax-bill",
+        "base_path": "/pay-self-assessment-tax-bill",
+        "content_id": "999dd0f5-41d3-4a63-8bb9-f00a68c129a8",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-30T10:52:29Z",
+        "schema_name": "guide",
+        "title": "Pay your Self Assessment tax bill",
+        "web_url": "https://www.gov.uk/pay-self-assessment-tax-bill",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/self-assessment-tax-returns",
+        "api_url": "https://www.gov.uk/api/content/self-assessment-tax-returns",
+        "base_path": "/self-assessment-tax-returns",
+        "content_id": "f29ca4a8-8ed9-4b0f-bb6a-11e373095dee",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-17T10:55:14Z",
+        "schema_name": "guide",
+        "title": "Self Assessment tax returns",
+        "web_url": "https://www.gov.uk/self-assessment-tax-returns",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/keeping-your-pay-tax-records",
+        "api_url": "https://www.gov.uk/api/content/keeping-your-pay-tax-records",
+        "base_path": "/keeping-your-pay-tax-records",
+        "content_id": "a7aef437-da3d-4d93-90b9-cbb10ab9a7ab",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-23T15:44:11Z",
+        "schema_name": "guide",
+        "title": "Keeping your pay and tax records",
+        "web_url": "https://www.gov.uk/keeping-your-pay-tax-records",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/log-in-file-self-assessment-tax-return",
+        "api_url": "https://www.gov.uk/api/content/log-in-file-self-assessment-tax-return",
+        "base_path": "/log-in-file-self-assessment-tax-return",
+        "content_id": "6a2bf66e-2313-4204-afd5-9940de5e1d66",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-15T16:17:28Z",
+        "schema_name": "answer",
+        "title": "File your Self Assessment tax return online",
+        "web_url": "https://www.gov.uk/log-in-file-self-assessment-tax-return",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/tax-compliance-checks",
+        "api_url": "https://www.gov.uk/api/content/tax-compliance-checks",
+        "base_path": "/tax-compliance-checks",
+        "content_id": "ecb67ea9-35bd-45c3-92bd-7101a7c3999d",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-11T10:45:18Z",
+        "schema_name": "answer",
+        "title": "Tax compliance checks ",
+        "web_url": "https://www.gov.uk/tax-compliance-checks",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/money/self-assessment",
+        "base_path": "/money/self-assessment",
+        "content_id": "edb9b4a6-b804-4348-beee-81827c86bf0b",
+        "details": {
+          "internal_name": "Self Assessment [T] (level 2)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:55Z",
+        "schema_name": "taxon",
+        "title": "Self Assessment",
+        "web_url": "https://www.gov.uk/money/self-assessment",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/dealing-with-hmrc",
+        "api_url": "https://www.gov.uk/api/content/money/dealing-with-hmrc",
+        "base_path": "/money/dealing-with-hmrc",
+        "content_id": "b20215a9-25fb-4fa6-80a3-42e23f5352c2",
+        "details": {
+          "internal_name": "Dealing with HMRC [T] (level 2, Money)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money",
+              "api_url": "https://www.gov.uk/api/content/money",
+              "base_path": "/money",
+              "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+              "description": "",
+              "details": {
+                "internal_name": "Money",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:35:25Z",
+              "schema_name": "taxon",
+              "title": "Money",
+              "web_url": "https://www.gov.uk/money",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:53Z",
+        "schema_name": "taxon",
+        "title": "Dealing with HMRC",
+        "web_url": "https://www.gov.uk/money/dealing-with-hmrc",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-09-20T15:58:39Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "2061-1545140148.360-213.86.153.212-7198",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Manage permissions for tax software",
+  "updated_at": "2024-02-06T14:09:12Z",
+  "withdrawn_notice": {
+  }
+}

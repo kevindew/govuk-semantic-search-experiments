@@ -1,0 +1,456 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/vehicle-tax-advance",
+  "content_id": "38e8c238-26ec-4116-b796-5048c20b17b7",
+  "description": "Tax your vehicle up to 2 months in advance if it's due to run out while you're away from home",
+  "details": {
+    "body": "<p>You can tax your vehicle up to 2 months before it expires if you’re going to be away from home (for example on holiday) when your current tax runs out.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This guide is also available <a href=\"/gwneud-cais-ymlaen-llaw-am-dreth-cerbyd\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<h2 id=\"apply-by-post-before-you-go\">Apply by post before you go</h2>\n\n<p>You need to send:</p>\n\n<ul>\n  <li>your V5C registration certificate (log book)</li>\n  <li>a letter explaining why you’re applying in advance</li>\n  <li>a completed <a href=\"/government/publications/application-for-vehicle-tax-v10\">application for vehicle tax (V10)</a> or application to <a href=\"/government/publications/application-to-tax-a-heavy-goods-vehicle-hgv\">tax a heavy goods vehicle (V85)</a>\n</li>\n  <li>evidence of a valid MOT - for example, a copy of <a href=\"/check-mot-history\">your vehicle’s MOT history</a> or your MOT certificate, if you have one</li>\n  <li>an original goods vehicle testing (GVT) certificate (if you need one) - it must be valid when the new tax starts</li>\n  <li>a cheque, postal order or banker’s draft to pay for your <a href=\"/vehicle-tax-rate-tables\">vehicle tax</a> made payable to ‘DVLA Swansea’ - damaged or altered cheques will not be accepted</li>\n</ul>\n\n<p>In Northern Ireland, you’ll also need an insurance certificate or cover note and an original MOT test certificate.</p>\n\n<p>Send your documents and payment to:</p>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nDVLA  \n<br>Swansea  \n<br>SA99 1DZ  \n<br>\n</p></div></div>\n\n<h2 id=\"if-you-dont-want-to-apply-in-advance\">If you don’t want to apply in advance</h2>\n\n<p>You can <a href=\"/vehicle-tax\">tax your vehicle online</a> while you’re away from home. You’ll need the following:</p>\n\n<ul>\n  <li>V5C vehicle registration certificate (log book) number</li>\n  <li>vehicle registration number</li>\n</ul>\n\n<p>You can only do this from the 5th of the month.</p>\n\n<div class=\"example\">\n<h3 id=\"example\">Example</h3>\n<p>You can tax online from 5 March if your vehicle tax runs out on 31 March.</p>\n</div>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2016-03-23T12:07:15Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/vehicle-tax-advance",
+        "api_url": "https://www.gov.uk/api/content/vehicle-tax-advance",
+        "base_path": "/vehicle-tax-advance",
+        "content_id": "38e8c238-26ec-4116-b796-5048c20b17b7",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-04-05T17:36:44Z",
+        "schema_name": "answer",
+        "title": "Apply for vehicle tax in advance",
+        "web_url": "https://www.gov.uk/vehicle-tax-advance",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+        "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+        "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+        "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-19T13:20:18Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Vehicle tax, MOT and insurance",
+        "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/vehicle-tax",
+        "api_url": "https://www.gov.uk/api/content/vehicle-tax",
+        "base_path": "/vehicle-tax",
+        "content_id": "fa748fae-3de4-4266-ae85-0797ada3f40c",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-12-07T12:54:39Z",
+        "schema_name": "transaction",
+        "title": "Tax your vehicle",
+        "web_url": "https://www.gov.uk/vehicle-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/tax-vehicle-without-v11-reminder",
+        "api_url": "https://www.gov.uk/api/content/tax-vehicle-without-v11-reminder",
+        "base_path": "/tax-vehicle-without-v11-reminder",
+        "content_id": "5165dcf5-4e9a-4ed0-96a3-e35c6c1060e0",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-14T11:58:09Z",
+        "schema_name": "answer",
+        "title": "Tax your vehicle without a vehicle tax reminder",
+        "web_url": "https://www.gov.uk/tax-vehicle-without-v11-reminder",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA74",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-licensing-agency",
+        "content_id": "70580624-93b5-4aed-823b-76042486c769",
+        "details": {
+          "acronym": "DVLA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Licensing<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Licensing Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+        "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+        "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+        "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-19T13:20:18Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Vehicle tax, MOT and insurance",
+        "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/tax-vehicle-without-v11-reminder",
+        "api_url": "https://www.gov.uk/api/content/tax-vehicle-without-v11-reminder",
+        "base_path": "/tax-vehicle-without-v11-reminder",
+        "content_id": "5165dcf5-4e9a-4ed0-96a3-e35c6c1060e0",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-14T11:58:09Z",
+        "schema_name": "answer",
+        "title": "Tax your vehicle without a vehicle tax reminder",
+        "web_url": "https://www.gov.uk/tax-vehicle-without-v11-reminder",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-vehicle-tax",
+        "api_url": "https://www.gov.uk/api/content/check-vehicle-tax",
+        "base_path": "/check-vehicle-tax",
+        "content_id": "0889f128-e479-465f-b3e1-a3db6a3879cf",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-04T00:01:05Z",
+        "schema_name": "transaction",
+        "title": "Check if a vehicle is taxed",
+        "web_url": "https://www.gov.uk/check-vehicle-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/vehicle-tax-direct-debit",
+        "api_url": "https://www.gov.uk/api/content/vehicle-tax-direct-debit",
+        "base_path": "/vehicle-tax-direct-debit",
+        "content_id": "e41bd8f3-148c-4285-ad16-131c716bc067",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-25T16:05:24Z",
+        "schema_name": "guide",
+        "title": "Vehicle tax Direct Debit payments",
+        "web_url": "https://www.gov.uk/vehicle-tax-direct-debit",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-tax-rates-new-unregistered-cars",
+        "api_url": "https://www.gov.uk/api/content/check-tax-rates-new-unregistered-cars",
+        "base_path": "/check-tax-rates-new-unregistered-cars",
+        "content_id": "f8490f74-437e-467a-9fa3-0e5f60e0bee0",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-24T15:46:33Z",
+        "schema_name": "transaction",
+        "title": "Check tax rates for new unregistered cars",
+        "web_url": "https://www.gov.uk/check-tax-rates-new-unregistered-cars",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/vehicle-tax-refund",
+        "api_url": "https://www.gov.uk/api/content/vehicle-tax-refund",
+        "base_path": "/vehicle-tax-refund",
+        "content_id": "fff88e3b-ae66-43e4-afd0-6fc1f227b452",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-11T11:11:36Z",
+        "schema_name": "answer",
+        "title": "Cancel your vehicle tax and get a refund",
+        "web_url": "https://www.gov.uk/vehicle-tax-refund",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/vehicle-tax",
+        "api_url": "https://www.gov.uk/api/content/transport/vehicle-tax",
+        "base_path": "/transport/vehicle-tax",
+        "content_id": "1de432b7-2331-4450-9667-374d56e7f084",
+        "description": "How to tax a vehicle, report untaxed vehicles or see tax rates.",
+        "details": {
+          "internal_name": "Vehicle tax",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/vehicle-ownership-approval-and-standards",
+              "api_url": "https://www.gov.uk/api/content/transport/vehicle-ownership-approval-and-standards",
+              "base_path": "/transport/vehicle-ownership-approval-and-standards",
+              "content_id": "dbbf7f4d-78aa-46ac-8e67-d937fe9a8c69",
+              "description": "MOTs and vehicle tax, manufacturing, modifying and testing vehicles for use on UK roads, buying and selling vehicles.",
+              "details": {
+                "internal_name": "Vehicle ownership, approval and standards",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Vehicle ownership, approval and standards",
+              "web_url": "https://www.gov.uk/transport/vehicle-ownership-approval-and-standards",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:16Z",
+        "schema_name": "taxon",
+        "title": "Vehicle tax",
+        "web_url": "https://www.gov.uk/transport/vehicle-tax",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-04-05T17:36:44Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1701425406.087-10.13.21.63-9100",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Apply for vehicle tax in advance",
+  "updated_at": "2024-02-06T13:28:19Z",
+  "withdrawn_notice": {
+  }
+}

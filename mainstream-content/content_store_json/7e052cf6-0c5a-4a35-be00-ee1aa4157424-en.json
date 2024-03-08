@@ -1,0 +1,335 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/register-jobs-international-organisations",
+  "content_id": "7e052cf6-0c5a-4a35-be00-ee1aa4157424",
+  "description": "Register your details to receive alerts about suitable job and career opportunities in international organisations (eg the United Nations, European Parliament), graduates, business professionals",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>You can get email alerts for jobs in international organisations, eg the European institutions and United Nations.</p>\n\n<p>Register if you’re a British citizen and interested in working for either:</p>\n\n<ul>\n  <li>the UN and you have 15 years work experience</li>\n  <li>an EU institution and you can speak a second EU language well (or you’re prepared to improve)</li>\n</ul>\n\n<p>You may get help with your application and the recruitment process.</p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.register-alerts-international-opportunities.service.gov.uk/Registration/Register",
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2015-07-15T10:44:56Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/register-jobs-international-organisations",
+        "api_url": "https://www.gov.uk/api/content/register-jobs-international-organisations",
+        "base_path": "/register-jobs-international-organisations",
+        "content_id": "7e052cf6-0c5a-4a35-be00-ee1aa4157424",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-12-11T13:39:13Z",
+        "schema_name": "transaction",
+        "title": "Register for alerts about careers in international organisations",
+        "web_url": "https://www.gov.uk/register-jobs-international-organisations",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/working/finding-job",
+        "api_url": "https://www.gov.uk/api/content/browse/working/finding-job",
+        "base_path": "/browse/working/finding-job",
+        "content_id": "eceb3053-43d1-4a49-873d-85ff9ade7066",
+        "description": "Job search, Jobseeker's Allowance (JSA), job offers, right to work share codes, apprenticeships and volunteering",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-08-03T13:08:33Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Finding a job",
+        "web_url": "https://www.gov.uk/browse/working/finding-job",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1315",
+        "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+        "base_path": "/government/organisations/foreign-commonwealth-development-office",
+        "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+        "details": {
+          "acronym": "FCDO",
+          "brand": "foreign-commonwealth-development-office",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Foreign, Commonwealth & Development Office",
+        "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/working/finding-job",
+        "api_url": "https://www.gov.uk/api/content/browse/working/finding-job",
+        "base_path": "/browse/working/finding-job",
+        "content_id": "eceb3053-43d1-4a49-873d-85ff9ade7066",
+        "description": "Job search, Jobseeker's Allowance (JSA), job offers, right to work share codes, apprenticeships and volunteering",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/working",
+              "api_url": "https://www.gov.uk/api/content/browse/working",
+              "base_path": "/browse/working",
+              "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+              "description": "Includes holidays, finding a job and redundancy",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-07-09T12:54:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/browse/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-08-03T13:08:33Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Finding a job",
+        "web_url": "https://www.gov.uk/browse/working/finding-job",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/find-a-job",
+        "api_url": "https://www.gov.uk/api/content/find-a-job",
+        "base_path": "/find-a-job",
+        "content_id": "a01fcb59-5dc8-4bf5-b06d-dd567a6d2f5f",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-26T11:26:56Z",
+        "schema_name": "transaction",
+        "title": "Find a job",
+        "web_url": "https://www.gov.uk/find-a-job",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/jobsearch-rights",
+        "api_url": "https://www.gov.uk/api/content/jobsearch-rights",
+        "base_path": "/jobsearch-rights",
+        "content_id": "c67916ea-924c-425a-9a8b-1596c8ecba6f",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-05-24T13:51:56Z",
+        "schema_name": "answer",
+        "title": "Your rights and safety when looking for a job",
+        "web_url": "https://www.gov.uk/jobsearch-rights",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/working-for-international-organisations",
+        "api_url": "https://www.gov.uk/api/content/government/publications/working-for-international-organisations",
+        "base_path": "/government/publications/working-for-international-organisations",
+        "content_id": "5e647c7e-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-11-22T18:29:50Z",
+        "schema_name": "publication",
+        "title": "Working for international organisations",
+        "web_url": "https://www.gov.uk/government/publications/working-for-international-organisations",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/career-skills-and-training",
+        "api_url": "https://www.gov.uk/api/content/career-skills-and-training",
+        "base_path": "/career-skills-and-training",
+        "content_id": "ed060ec6-ff55-43a2-99fb-99c36fc16490",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-01-14T10:44:25Z",
+        "schema_name": "answer",
+        "title": "Career skills and training",
+        "web_url": "https://www.gov.uk/career-skills-and-training",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/volunteering",
+        "api_url": "https://www.gov.uk/api/content/volunteering",
+        "base_path": "/volunteering",
+        "content_id": "9300b5bb-25f6-43c7-8fdc-82c4c4f5cf64",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-05-27T12:50:11Z",
+        "schema_name": "guide",
+        "title": "Volunteer opportunities, rights and expenses",
+        "web_url": "https://www.gov.uk/volunteering",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/employment/finding-job",
+        "api_url": "https://www.gov.uk/api/content/employment/finding-job",
+        "base_path": "/employment/finding-job",
+        "content_id": "21bfd8f6-3360-43f9-be42-b00002982d70",
+        "description": "Job search, Jobseeker's Allowance (JSA), volunteering, apprenticeships and job offers",
+        "details": {
+          "internal_name": "Finding a job [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/employment/working",
+              "api_url": "https://www.gov.uk/api/content/employment/working",
+              "base_path": "/employment/working",
+              "content_id": "092348a4-b896-4f8f-a0dc-e6d4605a4904",
+              "description": "Includes holidays and finding a job",
+              "details": {
+                "internal_name": "Working, jobs and pensions [M] (merged, level 2, work theme)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/work",
+                    "api_url": "https://www.gov.uk/api/content/work",
+                    "base_path": "/work",
+                    "content_id": "d0f1e5a3-c8f4-4780-8678-994f19104b21",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Work",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:33:40Z",
+                    "schema_name": "taxon",
+                    "title": "Work",
+                    "web_url": "https://www.gov.uk/work",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T11:08:23Z",
+              "schema_name": "taxon",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/employment/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T11:08:23Z",
+        "schema_name": "taxon",
+        "title": "Finding a job",
+        "web_url": "https://www.gov.uk/employment/finding-job",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-12-11T13:39:13Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15544-1504183246.582-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Register for alerts about careers in international organisations",
+  "updated_at": "2024-02-27T09:43:32Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-tariff-goods-ni-from-gb",
+  "content_id": "e229915f-e64c-4aec-b87e-b2d58f8d3f9f",
+  "description": "Check which tariff to use for goods brought into Northern Ireland from Great Britain and how much duty to pay. ",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Businesses that bring goods into Northern Ireland from Great Britain (England, Scotland and Wales) must submit declarations for those goods.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/gwirio-tariff-ar-nwyddau-gi-o-bf\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<p>It’s important to complete your declarations correctly so that you pay the right amount of duty.</p>\n\n<p>Check if you need to pay a tariff and if so, how much you need to pay.</p>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.tax.service.gov.uk/guidance/tariff-on-goods-brought-into-NI",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2021-06-11T09:00:48Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-tariff-goods-ni-from-gb",
+        "api_url": "https://www.gov.uk/api/content/check-tariff-goods-ni-from-gb",
+        "base_path": "/check-tariff-goods-ni-from-gb",
+        "content_id": "e229915f-e64c-4aec-b87e-b2d58f8d3f9f",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-07-09T11:11:51Z",
+        "schema_name": "transaction",
+        "title": "Check if you need to pay a tariff on goods brought into Northern Ireland from Great Britain",
+        "web_url": "https://www.gov.uk/check-tariff-goods-ni-from-gb",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/exports",
+        "api_url": "https://www.gov.uk/api/content/browse/business/exports",
+        "base_path": "/browse/business/exports",
+        "content_id": "2d9131f5-d1a8-4f0c-b087-53ea0adfd160",
+        "description": "Includes moving goods in the EU and commodity codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Exporting and doing business abroad",
+        "web_url": "https://www.gov.uk/browse/business/exports",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business/business-tax-import-export-uk-trade-tariff-and-classification-of-goods",
+        "api_url": "https://www.gov.uk/api/content/business/business-tax-import-export-uk-trade-tariff-and-classification-of-goods",
+        "base_path": "/business/business-tax-import-export-uk-trade-tariff-and-classification-of-goods",
+        "content_id": "277fd1ce-61c3-46a4-9172-3101fda02111",
+        "details": {
+          "internal_name": "UK Trade Tariff and classification of goods [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/customs-declarations-duties-tariffs",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/customs-declarations-duties-tariffs",
+              "base_path": "/business-and-industry/customs-declarations-duties-tariffs",
+              "content_id": "5984199c-d85c-4ffc-b13a-c5f2482d2258",
+              "description": "",
+              "details": {
+                "internal_name": "Customs declarations, duties and tariffs (import and export)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry/trade-and-investment",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry/trade-and-investment",
+                    "base_path": "/business-and-industry/trade-and-investment",
+                    "content_id": "ed2ca1f7-5463-4eda-9324-b597e269e242",
+                    "details": {
+                      "internal_name": "Trade and investment",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/business-and-industry",
+                          "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                          "base_path": "/business-and-industry",
+                          "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Business and industry",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-03T15:41:02Z",
+                          "schema_name": "taxon",
+                          "title": "Business and industry",
+                          "web_url": "https://www.gov.uk/business-and-industry",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:05Z",
+                    "schema_name": "taxon",
+                    "title": "Trade and investment",
+                    "web_url": "https://www.gov.uk/business-and-industry/trade-and-investment",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-07T09:44:16Z",
+              "schema_name": "taxon",
+              "title": "Customs declarations, duties and tariffs (import and export)",
+              "web_url": "https://www.gov.uk/business-and-industry/customs-declarations-duties-tariffs",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:05Z",
+        "schema_name": "taxon",
+        "title": "UK Trade Tariff and classification of goods",
+        "web_url": "https://www.gov.uk/business/business-tax-import-export-uk-trade-tariff-and-classification-of-goods",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2021-07-09T11:11:51Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1696519663.606-10.13.22.56-8180",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Check if you need to pay a tariff on goods brought into Northern Ireland from Great Britain",
+  "updated_at": "2024-01-03T11:33:40Z",
+  "withdrawn_notice": {
+  }
+}

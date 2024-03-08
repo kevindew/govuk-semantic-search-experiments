@@ -1,0 +1,636 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/send-rent-lease-details",
+  "content_id": "115cde3f-54f0-4cac-82a1-9eedf0681e41",
+  "description": "Use this service to send your lease and rent details to the Valuation Office Agency (VOA) if you've been contacted by them",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>You must send the Valuation Office Agency (<abbr title=\"Valuation Office Agency\">VOA</abbr>) information about your business property if they’ve asked you to. You need to do this even if you no longer own or rent the property.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you do not send the information within 56 days of getting the letter the VOA sent to you, <a href=\"/guidance/rent-lease-or-ownership-details-penalties\">you may have to pay a penalty</a>.</p>\n</div>\n\n<p>The information you provide will be used by the local authority to help calculate business rates in your area.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You could be taken to court if you submit false information.</p>\n</div>\n\n<p>You’ll need:</p>\n\n<ul>\n  <li>the reference number from the letter the <abbr title=\"Valuation Office Agency\">VOA</abbr> sent to you</li>\n  <li>your lease or agreement, including the current rent you pay or any tenants’ details if you’re the owner</li>\n  <li>information about any recent changes to your rent or any rent-free periods</li>\n  <li>details of any sub-lettings</li>\n  <li>information about any changes you’ve made to the property, including costs</li>\n</ul>\n\n",
+    "more_information": "\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/anfonwch-rhent-prydles-manylion\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<p>You do not have to complete the form in one go. You can save what you’ve done and return to finish it later on.</p>\n\n<h2 id=\"businesses-that-cannot-use-the-online-service\">Businesses that cannot use the online service</h2>\n\n<p>You must <a href=\"/government/collections/valuation-office-agency-request-for-rental-information-forms#forms-of-return\">send the business property details by post</a> if the business is a:</p>\n\n<ul>\n  <li>caravan site</li>\n  <li>gas network</li>\n  <li>hotel, guest house or holiday home</li>\n  <li>livestock market</li>\n  <li>marina</li>\n  <li>market place</li>\n  <li>mineral dealer</li>\n  <li>motorway service station</li>\n  <li>petrol station</li>\n  <li>pipeline</li>\n  <li>pub, bar or restaurant that sells alcohol</li>\n  <li>sports ground or animal race course</li>\n  <li>stately home</li>\n  <li>telecom network, mast or station</li>\n  <li>timeshare complex</li>\n</ul>\n\n<h2 id=\"if-you-need-help\">If you need help</h2>\n\n<p>Contact the <abbr title=\"Valuation Office Agency\">VOA</abbr> team for help with using the service.</p>\n\n<p>You can find their contact details on the letter sent by the <abbr title=\"Valuation Office Agency\">VOA</abbr>.</p>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.tax.service.gov.uk/sending-rental-information/login",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2016-02-24T16:52:08Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/send-rent-lease-details",
+        "api_url": "https://www.gov.uk/api/content/send-rent-lease-details",
+        "base_path": "/send-rent-lease-details",
+        "content_id": "115cde3f-54f0-4cac-82a1-9eedf0681e41",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-04-29T08:28:01Z",
+        "schema_name": "transaction",
+        "title": "Send your rent, lease or ownership details to the Valuation Office Agency",
+        "web_url": "https://www.gov.uk/send-rent-lease-details",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/premises-rates",
+        "api_url": "https://www.gov.uk/api/content/browse/business/premises-rates",
+        "base_path": "/browse/business/premises-rates",
+        "content_id": "61dc0b91-3e32-4eaa-9aaf-219410baf81f",
+        "description": "Includes business rates, leases, renting, planning permission, waste, and energy certificates",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-30T10:53:01Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business premises and business rates",
+        "web_url": "https://www.gov.uk/browse/business/premises-rates",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/introduction-to-business-rates",
+        "api_url": "https://www.gov.uk/api/content/introduction-to-business-rates",
+        "base_path": "/introduction-to-business-rates",
+        "content_id": "9de3b790-386a-4f9d-8459-d19090075b0d",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/premises-rates",
+              "api_url": "https://www.gov.uk/api/content/browse/business/premises-rates",
+              "base_path": "/browse/business/premises-rates",
+              "content_id": "61dc0b91-3e32-4eaa-9aaf-219410baf81f",
+              "description": "Includes business rates, leases, renting, planning permission, waste, and energy certificates",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-30T10:53:01Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business premises and business rates",
+              "web_url": "https://www.gov.uk/browse/business/premises-rates",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-01T16:16:08Z",
+        "schema_name": "guide",
+        "title": "Business rates",
+        "web_url": "https://www.gov.uk/introduction-to-business-rates",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-business-rates",
+        "api_url": "https://www.gov.uk/api/content/find-business-rates",
+        "base_path": "/find-business-rates",
+        "content_id": "cb95ae82-6260-47c4-b19b-66c4f39c3c8c",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/premises-rates",
+              "api_url": "https://www.gov.uk/api/content/browse/business/premises-rates",
+              "base_path": "/browse/business/premises-rates",
+              "content_id": "61dc0b91-3e32-4eaa-9aaf-219410baf81f",
+              "description": "Includes business rates, leases, renting, planning permission, waste, and energy certificates",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-30T10:53:01Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business premises and business rates",
+              "web_url": "https://www.gov.uk/browse/business/premises-rates",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-12-12T17:14:39Z",
+        "schema_name": "transaction",
+        "title": "Find a business rates valuation",
+        "web_url": "https://www.gov.uk/find-business-rates",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-for-business-rate-relief",
+        "api_url": "https://www.gov.uk/api/content/apply-for-business-rate-relief",
+        "base_path": "/apply-for-business-rate-relief",
+        "content_id": "f130b78d-4f36-42f0-8aed-948b6fa7c34a",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/premises-rates",
+              "api_url": "https://www.gov.uk/api/content/browse/business/premises-rates",
+              "base_path": "/browse/business/premises-rates",
+              "content_id": "61dc0b91-3e32-4eaa-9aaf-219410baf81f",
+              "description": "Includes business rates, leases, renting, planning permission, waste, and energy certificates",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-30T10:53:01Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business premises and business rates",
+              "web_url": "https://www.gov.uk/browse/business/premises-rates",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-21T14:13:54Z",
+        "schema_name": "guide",
+        "title": "Business rates relief",
+        "web_url": "https://www.gov.uk/apply-for-business-rate-relief",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/contact-your-local-council-about-business-rates",
+        "api_url": "https://www.gov.uk/api/content/contact-your-local-council-about-business-rates",
+        "base_path": "/contact-your-local-council-about-business-rates",
+        "content_id": "8778fcd3-f375-4792-9bb3-804e1f7281a7",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/premises-rates",
+              "api_url": "https://www.gov.uk/api/content/browse/business/premises-rates",
+              "base_path": "/browse/business/premises-rates",
+              "content_id": "61dc0b91-3e32-4eaa-9aaf-219410baf81f",
+              "description": "Includes business rates, leases, renting, planning permission, waste, and energy certificates",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-30T10:53:01Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business premises and business rates",
+              "web_url": "https://www.gov.uk/browse/business/premises-rates",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2012-10-08T12:30:10Z",
+        "schema_name": "local_transaction",
+        "title": "Contact your council about business rates bill",
+        "web_url": "https://www.gov.uk/contact-your-local-council-about-business-rates",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA87",
+        "api_path": "/api/content/government/organisations/valuation-office-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/valuation-office-agency",
+        "base_path": "/government/organisations/valuation-office-agency",
+        "content_id": "ae98edb5-87b4-4a69-a31a-e0e5298f949d",
+        "details": {
+          "acronym": "VOA",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db26e5274a7908e352e5/s960_VOA-Wingate-Sign.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db27e5274a79051c9268/s300_VOA-Wingate-Sign.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Valuation Office Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Valuation Office Agency",
+        "web_url": "https://www.gov.uk/government/organisations/valuation-office-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/premises-rates",
+        "api_url": "https://www.gov.uk/api/content/browse/business/premises-rates",
+        "base_path": "/browse/business/premises-rates",
+        "content_id": "61dc0b91-3e32-4eaa-9aaf-219410baf81f",
+        "description": "Includes business rates, leases, renting, planning permission, waste, and energy certificates",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-30T10:53:01Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business premises and business rates",
+        "web_url": "https://www.gov.uk/browse/business/premises-rates",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/find-business-rates",
+        "api_url": "https://www.gov.uk/api/content/find-business-rates",
+        "base_path": "/find-business-rates",
+        "content_id": "cb95ae82-6260-47c4-b19b-66c4f39c3c8c",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-12-12T17:14:39Z",
+        "schema_name": "transaction",
+        "title": "Find a business rates valuation",
+        "web_url": "https://www.gov.uk/find-business-rates",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/introduction-to-business-rates",
+        "api_url": "https://www.gov.uk/api/content/introduction-to-business-rates",
+        "base_path": "/introduction-to-business-rates",
+        "content_id": "9de3b790-386a-4f9d-8459-d19090075b0d",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-01T16:16:08Z",
+        "schema_name": "guide",
+        "title": "Business rates",
+        "web_url": "https://www.gov.uk/introduction-to-business-rates",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-for-business-rate-relief",
+        "api_url": "https://www.gov.uk/api/content/apply-for-business-rate-relief",
+        "base_path": "/apply-for-business-rate-relief",
+        "content_id": "f130b78d-4f36-42f0-8aed-948b6fa7c34a",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-21T14:13:54Z",
+        "schema_name": "guide",
+        "title": "Business rates relief",
+        "web_url": "https://www.gov.uk/apply-for-business-rate-relief",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/get-information-about-a-company",
+        "api_url": "https://www.gov.uk/api/content/get-information-about-a-company",
+        "base_path": "/get-information-about-a-company",
+        "content_id": "9ca1a27b-af7b-44d2-b10d-0a6d0e3ff53d",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-24T08:36:53Z",
+        "schema_name": "transaction",
+        "title": "Get information about a company",
+        "web_url": "https://www.gov.uk/get-information-about-a-company",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business/premises-rates",
+        "api_url": "https://www.gov.uk/api/content/business/premises-rates",
+        "base_path": "/business/premises-rates",
+        "content_id": "68cc0b3c-7f80-4869-9dc7-b2ceef5f4f08",
+        "details": {
+          "internal_name": "Business premises and business rates [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/running-a-business",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+              "base_path": "/business-and-industry/running-a-business",
+              "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+              "details": {
+                "internal_name": "Running a business",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                    "base_path": "/business-and-industry",
+                    "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Business and industry",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Business and industry",
+                    "web_url": "https://www.gov.uk/business-and-industry",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Running a business",
+              "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:03Z",
+        "schema_name": "taxon",
+        "title": "Business premises and business rates",
+        "web_url": "https://www.gov.uk/business/premises-rates",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/regional-and-local-government/local-government-business-rates-submit-your-rent-or-lease-details",
+        "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-government-business-rates-submit-your-rent-or-lease-details",
+        "base_path": "/regional-and-local-government/local-government-business-rates-submit-your-rent-or-lease-details",
+        "content_id": "6b0e810c-84e4-4527-9c96-70abd2e4922f",
+        "details": {
+          "internal_name": "Submit your rent or lease details [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/regional-and-local-government/local-government-business-rates",
+              "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-government-business-rates",
+              "base_path": "/regional-and-local-government/local-government-business-rates",
+              "content_id": "76af3d10-f1ff-4129-aad9-7c69edf7bb60",
+              "details": {
+                "internal_name": "Business rates [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/regional-and-local-government/local-government",
+                    "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-government",
+                    "base_path": "/regional-and-local-government/local-government",
+                    "content_id": "c914fd40-dd0a-45c4-a6ff-bce0cda31bde",
+                    "details": {
+                      "internal_name": "Local government (merged, Level 2)",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/regional-and-local-government",
+                          "api_url": "https://www.gov.uk/api/content/regional-and-local-government",
+                          "base_path": "/regional-and-local-government",
+                          "content_id": "503c5bc7-809a-47b9-83e2-bd0c212dbabb",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Regional and local government",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T20:30:05Z",
+                          "schema_name": "taxon",
+                          "title": "Regional and local government",
+                          "web_url": "https://www.gov.uk/regional-and-local-government",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-08-22T13:09:38Z",
+                    "schema_name": "taxon",
+                    "title": "Local government",
+                    "web_url": "https://www.gov.uk/regional-and-local-government/local-government",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T13:09:39Z",
+              "schema_name": "taxon",
+              "title": "Business rates",
+              "web_url": "https://www.gov.uk/regional-and-local-government/local-government-business-rates",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:09:39Z",
+        "schema_name": "taxon",
+        "title": "Submit your rent or lease details",
+        "web_url": "https://www.gov.uk/regional-and-local-government/local-government-business-rates-submit-your-rent-or-lease-details",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-04-29T08:28:01Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "2274-1628852308.869-10.13.2.197-9620",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Send your rent, lease or ownership details to the Valuation Office Agency",
+  "updated_at": "2023-11-10T12:14:55Z",
+  "withdrawn_notice": {
+  }
+}

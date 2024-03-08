@@ -1,0 +1,363 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/contact-local-marine-management-organisation",
+  "content_id": "546e3e3d-4d30-4ef3-84ee-1670caf88f82",
+  "description": "Write to, email or call your local Marine Management Organisation office (MMO)",
+  "details": {
+    "external_related_links": [
+      {
+        "title": "Marine Scotland: contact details",
+        "url": "http://www.scotland.gov.uk/Topics/marine/contact"
+      }
+    ],
+    "introduction": "<p>You can write to, email or call your local Marine Management Organisation (MMO) office.</p>\n",
+    "more_information": "<p>See the <a href=\"/government/organisations/marine-management-organisation#org-contacts\">full list of MMO offices</a>.</p>\n",
+    "need_to_know": "<ul>\n  <li>Not available in Scotland</li>\n</ul>\n",
+    "place_type": "mmo-offices"
+  },
+  "document_type": "place",
+  "first_published_at": "2014-06-09T17:14:33Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/contact-local-marine-management-organisation",
+        "api_url": "https://www.gov.uk/api/content/contact-local-marine-management-organisation",
+        "base_path": "/contact-local-marine-management-organisation",
+        "content_id": "546e3e3d-4d30-4ef3-84ee-1670caf88f82",
+        "document_type": "place",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-06-20T15:05:05Z",
+        "schema_name": "place",
+        "title": "Contact your local Marine Management Organisation office",
+        "web_url": "https://www.gov.uk/contact-local-marine-management-organisation",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/maritime",
+        "api_url": "https://www.gov.uk/api/content/browse/business/maritime",
+        "base_path": "/browse/business/maritime",
+        "content_id": "206cab77-67ee-43d4-bdba-9291ff374bba",
+        "description": "Includes health and safety onboard, crew, registering vessels",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-05-09T12:37:35Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Maritime vessels and work at sea",
+        "web_url": "https://www.gov.uk/browse/business/maritime",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/fishing-vessel-licence-under-10-metres",
+        "api_url": "https://www.gov.uk/api/content/fishing-vessel-licence-under-10-metres",
+        "base_path": "/fishing-vessel-licence-under-10-metres",
+        "content_id": "f4dc89b9-1234-4af0-b59d-f4a631409c45",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/maritime",
+              "api_url": "https://www.gov.uk/api/content/browse/business/maritime",
+              "base_path": "/browse/business/maritime",
+              "content_id": "206cab77-67ee-43d4-bdba-9291ff374bba",
+              "description": "Includes health and safety onboard, crew, registering vessels",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2017-05-09T12:37:35Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Maritime vessels and work at sea",
+              "web_url": "https://www.gov.uk/browse/business/maritime",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-08-27T15:11:02Z",
+        "schema_name": "guide",
+        "title": "Get a fishing vessel licence: vessels 10 metres or under",
+        "web_url": "https://www.gov.uk/fishing-vessel-licence-under-10-metres",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "PB57",
+        "api_path": "/api/content/government/organisations/marine-management-organisation",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/marine-management-organisation",
+        "base_path": "/government/organisations/marine-management-organisation",
+        "content_id": "8d56bb52-2f79-4b6d-9fc6-6d7dcc4f7586",
+        "details": {
+          "acronym": "MMO",
+          "brand": "department-for-environment-food-rural-affairs",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Marine <br/>Management <br/>Organisation"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Marine Management Organisation",
+        "web_url": "https://www.gov.uk/government/organisations/marine-management-organisation",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/maritime",
+        "api_url": "https://www.gov.uk/api/content/browse/business/maritime",
+        "base_path": "/browse/business/maritime",
+        "content_id": "206cab77-67ee-43d4-bdba-9291ff374bba",
+        "description": "Includes health and safety onboard, crew, registering vessels",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-05-09T12:37:35Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Maritime vessels and work at sea",
+        "web_url": "https://www.gov.uk/browse/business/maritime",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/fishing-vessel-licence-under-10-metres",
+        "api_url": "https://www.gov.uk/api/content/fishing-vessel-licence-under-10-metres",
+        "base_path": "/fishing-vessel-licence-under-10-metres",
+        "content_id": "f4dc89b9-1234-4af0-b59d-f4a631409c45",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-08-27T15:11:02Z",
+        "schema_name": "guide",
+        "title": "Get a fishing vessel licence: vessels 10 metres or under",
+        "web_url": "https://www.gov.uk/fishing-vessel-licence-under-10-metres",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/organisations/maritime-and-coastguard-agency/about/access-and-opening",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/maritime-and-coastguard-agency/about/access-and-opening",
+        "base_path": "/government/organisations/maritime-and-coastguard-agency/about/access-and-opening",
+        "content_id": "5f5612fc-7631-11e4-a3cb-005056011aef",
+        "document_type": "access_and_opening",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-06-01T10:49:02Z",
+        "schema_name": "corporate_information_page",
+        "title": "Office access and opening times",
+        "web_url": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency/about/access-and-opening",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/get-a-fishing-vessel-licence-vessels-over-10-metres",
+        "api_url": "https://www.gov.uk/api/content/guidance/get-a-fishing-vessel-licence-vessels-over-10-metres",
+        "base_path": "/guidance/get-a-fishing-vessel-licence-vessels-over-10-metres",
+        "content_id": "5f5da5cf-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-12-06T14:49:28Z",
+        "schema_name": "detailed_guide",
+        "title": "Get a fishing vessel licence: over 10 metres and mussel seed",
+        "web_url": "https://www.gov.uk/guidance/get-a-fishing-vessel-licence-vessels-over-10-metres",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/fishing-vessel-licence-variations",
+        "api_url": "https://www.gov.uk/api/content/government/publications/fishing-vessel-licence-variations",
+        "base_path": "/government/publications/fishing-vessel-licence-variations",
+        "content_id": "5f5de9eb-7631-11e4-a3cb-005056011aef",
+        "document_type": "statutory_guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-03-07T13:03:23Z",
+        "schema_name": "publication",
+        "title": "Fishing vessel licence variations",
+        "web_url": "https://www.gov.uk/government/publications/fishing-vessel-licence-variations",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/fishing-vessel-licence-types",
+        "api_url": "https://www.gov.uk/api/content/government/publications/fishing-vessel-licence-types",
+        "base_path": "/government/publications/fishing-vessel-licence-types",
+        "content_id": "5f5da6ca-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-06-11T09:38:00Z",
+        "schema_name": "publication",
+        "title": "Fishing vessel licence types",
+        "web_url": "https://www.gov.uk/government/publications/fishing-vessel-licence-types",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/maritime-and-shipping",
+        "api_url": "https://www.gov.uk/api/content/transport/maritime-and-shipping",
+        "base_path": "/transport/maritime-and-shipping",
+        "content_id": "4a9ab4d7-0d03-4c61-9e16-47787cbf53cd",
+        "description": "Shipping, ports and harbours, security, safety at sea, crew training and certifications, sea passengers and vessel registration.",
+        "details": {
+          "internal_name": "Maritime and shipping",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport",
+              "api_url": "https://www.gov.uk/api/content/transport",
+              "base_path": "/transport",
+              "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+              "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+              "details": {
+                "internal_name": "Transport",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-15T14:31:46Z",
+              "schema_name": "taxon",
+              "title": "Transport",
+              "web_url": "https://www.gov.uk/transport",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:18Z",
+        "schema_name": "taxon",
+        "title": "Maritime and shipping",
+        "web_url": "https://www.gov.uk/transport/maritime-and-shipping",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-06-20T15:05:05Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15543-1504182875.116-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "place",
+  "title": "Contact your local Marine Management Organisation office",
+  "updated_at": "2024-03-07T13:03:32Z",
+  "withdrawn_notice": {
+  }
+}

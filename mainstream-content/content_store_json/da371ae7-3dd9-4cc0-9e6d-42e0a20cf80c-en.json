@@ -1,0 +1,835 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/data-requests-dvla",
+  "content_id": "da371ae7-3dd9-4cc0-9e6d-42e0a20cf80c",
+  "description": "DVLA can provide certain companies and buyers with sets of specialist vehicle data, including the 'bulk data set', 'anonymised data set' and vehicle mileage data",
+  "details": {
+    "body": "<p>Certain companies and buyers can request specialist vehicle data from <abbr title=\"Driver and Vehicle Licensing Agency\">DVLA</abbr>, including the ‘bulk data set’, ‘anonymised data set’ and vehicle mileage data.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You can also ask DVLA for <a href=\"/request-information-from-dvla\">information about your vehicle or another vehicle and its registered keeper</a> if you have a ‘reasonable cause’.</p>\n</div>\n\n<h2 id=\"bulk-data\">Bulk data</h2>\n\n<p><abbr title=\"Driver and Vehicle Licensing Agency\">DVLA</abbr> can provide certain companies with the <a href=\"/government/publications/bulk-data-set-information-for-vehicle-buyers\">‘bulk data set’</a>, which contains 47 different information fields about a vehicle. These companies can provide a vehicle checking service to the public and the motor trade.</p>\n\n<h2 id=\"anonymised-data\">Anonymised data</h2>\n\n<p><abbr title=\"Driver and Vehicle Licensing Agency\">DVLA</abbr> provides certain companies with the <a href=\"/government/publications/anonymised-data-set-information-for-vehicle-buyers\">‘anonymised data set’</a>, mainly used for marketing purposes, and containing vehicle identifying information including make, model and partial postcode.</p>\n\n<h2 id=\"mileage-data\">Mileage data</h2>\n\n<p><abbr title=\"Driver and Vehicle Licensing Agency\">DVLA</abbr> provides certain companies with <a href=\"/government/publications/mileage-data-information-for-vehicle-buyers\">mileage data</a> to help buyers check a vehicle’s mileage.</p>\n\n<h2 id=\"how-to-make-a-request\">How to make a request</h2>\n\n<p>You must <a href=\"/government/publications/data-requests-from-dvla-mis838\">fill in a data request form</a> if you’re asking <abbr title=\"Driver and Vehicle Licensing Agency\">DVLA</abbr> for new data or want to make changes to an existing data sharing process.</p>\n\n<p>You must explain:</p>\n\n<ul>\n  <li>what data you need</li>\n  <li>why you need it</li>\n  <li>how you plan to use and store it</li>\n</ul>\n\n<p>Email your completed form to:</p>\n\n<div class=\"contact\">\n<p><strong>Data Sharing Strategy and Compliance Team</strong>\n<a href=\"mailto:dvladatarequests@dvla.gov.uk\">dvladatarequests@dvla.gov.uk</a></p>\n</div>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2013-03-28T16:15:02Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/data-requests-dvla",
+        "api_url": "https://www.gov.uk/api/content/data-requests-dvla",
+        "base_path": "/data-requests-dvla",
+        "content_id": "da371ae7-3dd9-4cc0-9e6d-42e0a20cf80c",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-30T14:58:19Z",
+        "schema_name": "answer",
+        "title": "Data requests from DVLA",
+        "web_url": "https://www.gov.uk/data-requests-dvla",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/number-plate",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/number-plate",
+        "base_path": "/browse/driving/number-plate",
+        "content_id": "33b8985e-9353-4f12-914e-531aad5469a0",
+        "description": "Update details in your (V5C) log book, get a personalised number plate or trade licence plate",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:14Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Number plates, vehicle registration and log books",
+        "web_url": "https://www.gov.uk/browse/driving/number-plate",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/vehicle-and-driver-information",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-and-driver-information",
+        "base_path": "/browse/driving/vehicle-and-driver-information",
+        "content_id": "52feb778-b249-4804-a9c3-dfdc05b7b224",
+        "description": "Get vehicle information, check MOT history, check driving licence history",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-25T09:29:48Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Vehicle and driver data and information",
+        "web_url": "https://www.gov.uk/browse/driving/vehicle-and-driver-information",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/request-bulk-data-from-dvla",
+        "api_url": "https://www.gov.uk/api/content/needs/request-bulk-data-from-dvla",
+        "base_path": "/needs/request-bulk-data-from-dvla",
+        "content_id": "25276047-9ba6-4d4e-b6e3-080d2e04b2f0",
+        "details": {
+          "benefit": "i can check that vehicles I am buying are genuine",
+          "goal": "request bulk data from DVLA",
+          "justifications": [
+            "It's something only government does",
+            "The government is legally obliged to provide it",
+            "It's something that people can do or it's something people need to know before they can do something that's regulated by/related to government",
+            "It's straightforward advice that helps people to comply with their statutory obligations"
+          ],
+          "met_when": [
+            "knows what data they can request",
+            "knows how to make a request"
+          ],
+          "role": "company that provides a checking service for cars"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a company that provides a checking service for cars, I need to request bulk data from DVLA, so that i can check that vehicles I am buying are genuine (103589)",
+        "web_url": "https://www.gov.uk/needs/request-bulk-data-from-dvla",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/request-information-from-dvla",
+        "api_url": "https://www.gov.uk/api/content/request-information-from-dvla",
+        "base_path": "/request-information-from-dvla",
+        "content_id": "5ad8f035-5791-45f0-8d4e-d65f96709784",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/number-plate",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/number-plate",
+              "base_path": "/browse/driving/number-plate",
+              "content_id": "33b8985e-9353-4f12-914e-531aad5469a0",
+              "description": "Update details in your (V5C) log book, get a personalised number plate or trade licence plate",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Number plates, vehicle registration and log books",
+              "web_url": "https://www.gov.uk/browse/driving/number-plate",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/vehicle-and-driver-information",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-and-driver-information",
+              "base_path": "/browse/driving/vehicle-and-driver-information",
+              "content_id": "52feb778-b249-4804-a9c3-dfdc05b7b224",
+              "description": "Get vehicle information, check MOT history, check driving licence history",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-25T09:29:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle and driver data and information",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-and-driver-information",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-05T12:35:21Z",
+        "schema_name": "answer",
+        "title": "Request information about a vehicle or its registered keeper from DVLA ",
+        "web_url": "https://www.gov.uk/request-information-from-dvla",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/get-vehicle-information-from-dvla",
+        "api_url": "https://www.gov.uk/api/content/get-vehicle-information-from-dvla",
+        "base_path": "/get-vehicle-information-from-dvla",
+        "content_id": "4ca3fd7e-efdb-4a24-9a84-60ba3c614588",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/vehicle-and-driver-information",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-and-driver-information",
+              "base_path": "/browse/driving/vehicle-and-driver-information",
+              "content_id": "52feb778-b249-4804-a9c3-dfdc05b7b224",
+              "description": "Get vehicle information, check MOT history, check driving licence history",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-25T09:29:48Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle and driver data and information",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-and-driver-information",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/number-plate",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/number-plate",
+              "base_path": "/browse/driving/number-plate",
+              "content_id": "33b8985e-9353-4f12-914e-531aad5469a0",
+              "description": "Update details in your (V5C) log book, get a personalised number plate or trade licence plate",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Number plates, vehicle registration and log books",
+              "web_url": "https://www.gov.uk/browse/driving/number-plate",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-19T19:00:05Z",
+        "schema_name": "transaction",
+        "title": "Get vehicle information from DVLA",
+        "web_url": "https://www.gov.uk/get-vehicle-information-from-dvla",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/contact-the-dvla",
+        "api_url": "https://www.gov.uk/api/content/contact-the-dvla",
+        "base_path": "/contact-the-dvla",
+        "content_id": "9a24dcce-c03a-4523-96e3-893be1c400cd",
+        "document_type": "simple_smart_answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/driving-licences",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+              "base_path": "/browse/driving/driving-licences",
+              "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+              "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-26T14:10:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving licences",
+              "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/learning-to-drive",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/learning-to-drive",
+              "base_path": "/browse/driving/learning-to-drive",
+              "content_id": "6af0f337-4da6-415c-a760-55b612d0e3e3",
+              "description": "Find driving lessons, book and manage theory and driving tests, tests for different vehicles",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving tests and learning to drive or ride",
+              "web_url": "https://www.gov.uk/browse/driving/learning-to-drive",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/number-plate",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/number-plate",
+              "base_path": "/browse/driving/number-plate",
+              "content_id": "33b8985e-9353-4f12-914e-531aad5469a0",
+              "description": "Update details in your (V5C) log book, get a personalised number plate or trade licence plate",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Number plates, vehicle registration and log books",
+              "web_url": "https://www.gov.uk/browse/driving/number-plate",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-03T11:47:42Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Contact DVLA",
+        "web_url": "https://www.gov.uk/contact-the-dvla",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA74",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-licensing-agency",
+        "content_id": "70580624-93b5-4aed-823b-76042486c769",
+        "details": {
+          "acronym": "DVLA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Licensing<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Licensing Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/vehicle-and-driver-information",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-and-driver-information",
+        "base_path": "/browse/driving/vehicle-and-driver-information",
+        "content_id": "52feb778-b249-4804-a9c3-dfdc05b7b224",
+        "description": "Get vehicle information, check MOT history, check driving licence history",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-25T09:29:48Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Vehicle and driver data and information",
+        "web_url": "https://www.gov.uk/browse/driving/vehicle-and-driver-information",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/request-information-from-dvla",
+        "api_url": "https://www.gov.uk/api/content/request-information-from-dvla",
+        "base_path": "/request-information-from-dvla",
+        "content_id": "5ad8f035-5791-45f0-8d4e-d65f96709784",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-05T12:35:21Z",
+        "schema_name": "answer",
+        "title": "Request information about a vehicle or its registered keeper from DVLA ",
+        "web_url": "https://www.gov.uk/request-information-from-dvla",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/get-vehicle-information-from-dvla",
+        "api_url": "https://www.gov.uk/api/content/get-vehicle-information-from-dvla",
+        "base_path": "/get-vehicle-information-from-dvla",
+        "content_id": "4ca3fd7e-efdb-4a24-9a84-60ba3c614588",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-19T19:00:05Z",
+        "schema_name": "transaction",
+        "title": "Get vehicle information from DVLA",
+        "web_url": "https://www.gov.uk/get-vehicle-information-from-dvla",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/v888-request-by-an-individual-for-information-about-a-vehicle",
+        "api_url": "https://www.gov.uk/api/content/government/publications/v888-request-by-an-individual-for-information-about-a-vehicle",
+        "base_path": "/government/publications/v888-request-by-an-individual-for-information-about-a-vehicle",
+        "content_id": "5e348602-7631-11e4-a3cb-005056011aef",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-07-22T13:55:54Z",
+        "schema_name": "publication",
+        "title": "Request by an individual for information about a vehicle (form V888)",
+        "web_url": "https://www.gov.uk/government/publications/v888-request-by-an-individual-for-information-about-a-vehicle",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-driving-information",
+        "api_url": "https://www.gov.uk/api/content/check-driving-information",
+        "base_path": "/check-driving-information",
+        "content_id": "bba3ade7-f0ee-4f4a-a99a-0297d02310bd",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-08-31T14:01:28Z",
+        "schema_name": "transaction",
+        "title": "Check someone's driving licence information",
+        "web_url": "https://www.gov.uk/check-driving-information",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/giving-people-information-from-our-vehicle-record",
+        "api_url": "https://www.gov.uk/api/content/government/publications/giving-people-information-from-our-vehicle-record",
+        "base_path": "/government/publications/giving-people-information-from-our-vehicle-record",
+        "content_id": "5e3492d8-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-10T14:33:19Z",
+        "schema_name": "publication",
+        "title": "How we give people information from our vehicle record",
+        "web_url": "https://www.gov.uk/government/publications/giving-people-information-from-our-vehicle-record",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/buying-selling-registering-and-scrapping-a-vehicle",
+        "api_url": "https://www.gov.uk/api/content/transport/buying-selling-registering-and-scrapping-a-vehicle",
+        "base_path": "/transport/buying-selling-registering-and-scrapping-a-vehicle",
+        "content_id": "d1e5dcf5-5f36-4838-bcb6-f0068eddb8a7",
+        "description": "Vehicle log books and registration certificates, checks for buying and selling vehicles and how to scrap a vehicle.",
+        "details": {
+          "internal_name": "Buying, selling, registering and scrapping a vehicle",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/vehicle-ownership-approval-and-standards",
+              "api_url": "https://www.gov.uk/api/content/transport/vehicle-ownership-approval-and-standards",
+              "base_path": "/transport/vehicle-ownership-approval-and-standards",
+              "content_id": "dbbf7f4d-78aa-46ac-8e67-d937fe9a8c69",
+              "description": "MOTs and vehicle tax, manufacturing, modifying and testing vehicles for use on UK roads, buying and selling vehicles.",
+              "details": {
+                "internal_name": "Vehicle ownership, approval and standards",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Vehicle ownership, approval and standards",
+              "web_url": "https://www.gov.uk/transport/vehicle-ownership-approval-and-standards",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:15Z",
+        "schema_name": "taxon",
+        "title": "Buying, selling, registering and scrapping a vehicle",
+        "web_url": "https://www.gov.uk/transport/buying-selling-registering-and-scrapping-a-vehicle",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/transport/driver-and-vehicle-record",
+        "api_url": "https://www.gov.uk/api/content/transport/driver-and-vehicle-record",
+        "base_path": "/transport/driver-and-vehicle-record",
+        "content_id": "1d9ac892-220f-4a21-89fa-e1a0e1f512ef",
+        "description": "Check used vehicles, driving licence information and DVLA data.",
+        "details": {
+          "internal_name": "Driver and vehicle record",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/vehicle-ownership-approval-and-standards",
+              "api_url": "https://www.gov.uk/api/content/transport/vehicle-ownership-approval-and-standards",
+              "base_path": "/transport/vehicle-ownership-approval-and-standards",
+              "content_id": "dbbf7f4d-78aa-46ac-8e67-d937fe9a8c69",
+              "description": "MOTs and vehicle tax, manufacturing, modifying and testing vehicles for use on UK roads, buying and selling vehicles.",
+              "details": {
+                "internal_name": "Vehicle ownership, approval and standards",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Vehicle ownership, approval and standards",
+              "web_url": "https://www.gov.uk/transport/vehicle-ownership-approval-and-standards",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:16Z",
+        "schema_name": "taxon",
+        "title": "Driver and vehicle record",
+        "web_url": "https://www.gov.uk/transport/driver-and-vehicle-record",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-10-30T14:58:19Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "31094-1561370336.790-10.3.3.1-8154",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Data requests from DVLA",
+  "updated_at": "2024-02-06T13:29:35Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/drug-analysis-prints",
+  "content_id": "d0ad9e57-c4db-475d-a13f-52fd73437e24",
+  "description": "Check what side effects people have reported when they've taken a medicine. ",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Check what side effects people have reported when they’ve taken a medicine.</p>\n\n<p>You’ll need the medicine’s active ingredient, not its brand name.</p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://yellowcard.mhra.gov.uk/idaps",
+    "variants": [
+
+    ],
+    "will_continue_on": "the MHRA website"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2015-12-01T15:26:39Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/drug-analysis-prints",
+        "api_url": "https://www.gov.uk/api/content/drug-analysis-prints",
+        "base_path": "/drug-analysis-prints",
+        "content_id": "d0ad9e57-c4db-475d-a13f-52fd73437e24",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-25T10:37:40Z",
+        "schema_name": "transaction",
+        "title": "Check drug analysis profiles (iDAPs)",
+        "web_url": "https://www.gov.uk/drug-analysis-prints",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA63",
+        "api_path": "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+        "base_path": "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+        "content_id": "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+        "details": {
+          "acronym": "MHRA",
+          "brand": "department-of-health",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Medicines &amp; Healthcare products<br/>Regulatory Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Medicines and Healthcare products Regulatory Agency",
+        "web_url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/report-problem-medicine-medical-device",
+        "api_url": "https://www.gov.uk/api/content/report-problem-medicine-medical-device",
+        "base_path": "/report-problem-medicine-medical-device",
+        "content_id": "29cf45d6-62f1-4552-9974-3585b5445768",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-24T11:41:50Z",
+        "schema_name": "transaction",
+        "title": "Report a problem with a medicine or medical device",
+        "web_url": "https://www.gov.uk/report-problem-medicine-medical-device",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/medicines-packaging-labelling-and-patient-information-leaflets",
+        "api_url": "https://www.gov.uk/api/content/guidance/medicines-packaging-labelling-and-patient-information-leaflets",
+        "base_path": "/guidance/medicines-packaging-labelling-and-patient-information-leaflets",
+        "content_id": "5efc392f-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-03-07T10:15:23Z",
+        "schema_name": "detailed_guide",
+        "title": "Medicines: packaging, labelling and patient information leaflets",
+        "web_url": "https://www.gov.uk/guidance/medicines-packaging-labelling-and-patient-information-leaflets",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/contact-mhra",
+        "api_url": "https://www.gov.uk/api/content/guidance/contact-mhra",
+        "base_path": "/guidance/contact-mhra",
+        "content_id": "dfe90c09-d09d-4f52-8606-108140980ed7",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-02-14T10:48:42Z",
+        "schema_name": "detailed_guide",
+        "title": "Contact MHRA",
+        "web_url": "https://www.gov.uk/guidance/contact-mhra",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-11-25T10:37:40Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "17215-1645629942.979-10.13.2.197-7520",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Check drug analysis profiles (iDAPs)",
+  "updated_at": "2024-03-07T10:15:24Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/apply-vehicle-approval",
+  "content_id": "fa721407-a800-4e86-a921-0a2ab5ef5ba6",
+  "description": "Apply for an Individual Vehicle Approval (IVA) test for cars, goods vehicles, buses and coaches, and trailers on the technical application submission (TAS) service",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Apply for an <a href=\"/vehicle-approval/individual-vehicle-approval\">Individual Vehicle Approval</a> test for:</p>\n\n<ul>\n  <li>passenger cars</li>\n  <li>goods vehicles</li>\n  <li>buses and coaches</li>\n  <li>trailers</li>\n  <li>special purpose vehicles, for example, vehicles specially designed to hold a wheelchair</li>\n</ul>\n\n<p>You can use this service for single and multiple vehicles.</p>\n\n",
+    "more_information": "<p>To use the service you’ll need:</p>\n\n<ul>\n  <li>a completed <a href=\"/vehicle-approval/individual-vehicle-approval-application-forms\">IVA application form</a>\n</li>\n  <li>Vehicle Identification Number (VIN) or chassis number</li>\n  <li>vehicle registration number (if registered)</li>\n</ul>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://tas.dvsa.gov.uk/tass/create",
+    "variants": [
+
+    ],
+    "will_continue_on": "the technical application submission (TAS) service"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2015-02-09T09:30:23Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/apply-vehicle-approval",
+        "api_url": "https://www.gov.uk/api/content/apply-vehicle-approval",
+        "base_path": "/apply-vehicle-approval",
+        "content_id": "fa721407-a800-4e86-a921-0a2ab5ef5ba6",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-27T16:19:19Z",
+        "schema_name": "transaction",
+        "title": "Apply for Individual Vehicle Approval (IVA)",
+        "web_url": "https://www.gov.uk/apply-vehicle-approval",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/driving-uk-and-abroad",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/driving-uk-and-abroad",
+        "base_path": "/browse/driving/driving-uk-and-abroad",
+        "content_id": "231ad2c1-c1cd-4e00-8479-5277cfe05027",
+        "description": "Drive abroad, drive in the UK with a foreign licence, bring a vehicle to the UK",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:39Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Driving in the UK and abroad",
+        "web_url": "https://www.gov.uk/browse/driving/driving-uk-and-abroad",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/manufacture-adapt-vehicle",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/manufacture-adapt-vehicle",
+        "base_path": "/browse/driving/manufacture-adapt-vehicle",
+        "content_id": "3eb6e3d4-9a22-4519-915f-b0b0dd55335a",
+        "description": "Get a vehicle approved, register a vehicle, manufacturing regulations",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:39Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Manufacture or adapt a vehicle",
+        "web_url": "https://www.gov.uk/browse/driving/manufacture-adapt-vehicle",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/businesses",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+        "base_path": "/browse/driving/businesses",
+        "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+        "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-22T16:19:11Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Transport and driving businesses",
+        "web_url": "https://www.gov.uk/browse/driving/businesses",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/know-how-to-get-my-vehicle-approved-as-safe-and-legal",
+        "api_url": "https://www.gov.uk/api/content/needs/know-how-to-get-my-vehicle-approved-as-safe-and-legal",
+        "base_path": "/needs/know-how-to-get-my-vehicle-approved-as-safe-and-legal",
+        "content_id": "c7d33e16-fa0b-42b3-a451-310ff225fd95",
+        "details": {
+          "benefit": "I can use it on UK roads",
+          "goal": "know how to get my vehicle approved as safe and legal",
+          "justifications": [
+            "It's something that people can do or it's something people need to know before they can do something that's regulated by/related to government",
+            "It's something the government provides/does/pays for"
+          ],
+          "met_when": [
+            "Knows how to get approval for their vehicle",
+            "Knows which form they need to fill out",
+            "Has got approval for their vehicle"
+          ],
+          "role": "person or business importing a vehicle into the UK"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a person or business importing a vehicle into the UK, I need to know how to get my vehicle approved as safe and legal, so that I can use it on UK roads (103276)",
+        "web_url": "https://www.gov.uk/needs/know-how-to-get-my-vehicle-approved-as-safe-and-legal",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA74",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-licensing-agency",
+        "content_id": "70580624-93b5-4aed-823b-76042486c769",
+        "details": {
+          "acronym": "DVLA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Licensing<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Licensing Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "EA570",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-standards-agency",
+        "content_id": "d39237a5-678b-4bb5-a372-eb2cb036933d",
+        "details": {
+          "acronym": "DVSA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Standards<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Standards Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/manufacture-adapt-vehicle",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/manufacture-adapt-vehicle",
+        "base_path": "/browse/driving/manufacture-adapt-vehicle",
+        "content_id": "3eb6e3d4-9a22-4519-915f-b0b0dd55335a",
+        "description": "Get a vehicle approved, register a vehicle, manufacturing regulations",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:39Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Manufacture or adapt a vehicle",
+        "web_url": "https://www.gov.uk/browse/driving/manufacture-adapt-vehicle",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/vehicle-approval",
+        "api_url": "https://www.gov.uk/api/content/vehicle-approval",
+        "base_path": "/vehicle-approval",
+        "content_id": "195d2a02-fabf-47b3-a01c-1745d927dcdd",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-15T13:36:56Z",
+        "schema_name": "guide",
+        "title": "Vehicle approval",
+        "web_url": "https://www.gov.uk/vehicle-approval",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/iva-application-form-for-passenger-cars-iva-1c",
+        "api_url": "https://www.gov.uk/api/content/government/publications/iva-application-form-for-passenger-cars-iva-1c",
+        "base_path": "/government/publications/iva-application-form-for-passenger-cars-iva-1c",
+        "content_id": "5e336968-7631-11e4-a3cb-005056011aef",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-01T16:15:35Z",
+        "schema_name": "publication",
+        "title": "Apply for Individual Vehicle Approval (IVA): cars",
+        "web_url": "https://www.gov.uk/government/publications/iva-application-form-for-passenger-cars-iva-1c",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/individual-vehicle-approval-iva-ih",
+        "api_url": "https://www.gov.uk/api/content/government/publications/individual-vehicle-approval-iva-ih",
+        "base_path": "/government/publications/individual-vehicle-approval-iva-ih",
+        "content_id": "5e29507d-7631-11e4-a3cb-005056011aef",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-01T16:15:25Z",
+        "schema_name": "publication",
+        "title": "Apply for Individual Vehicle Approval (IVA): lorries and goods vehicles",
+        "web_url": "https://www.gov.uk/government/publications/individual-vehicle-approval-iva-ih",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/guide-to-the-individual-vehicle-approval-iva-scheme",
+        "api_url": "https://www.gov.uk/api/content/government/publications/guide-to-the-individual-vehicle-approval-iva-scheme",
+        "base_path": "/government/publications/guide-to-the-individual-vehicle-approval-iva-scheme",
+        "content_id": "5e2a6475-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-01-18T13:48:59Z",
+        "schema_name": "publication",
+        "title": "Individual Vehicle Approval (IVA) scheme guide",
+        "web_url": "https://www.gov.uk/government/publications/guide-to-the-individual-vehicle-approval-iva-scheme",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/iva-application-form-for-light-goods-vehicles-up-to-3500kg-iva-1lg",
+        "api_url": "https://www.gov.uk/api/content/government/publications/iva-application-form-for-light-goods-vehicles-up-to-3500kg-iva-1lg",
+        "base_path": "/government/publications/iva-application-form-for-light-goods-vehicles-up-to-3500kg-iva-1lg",
+        "content_id": "5e3369fb-7631-11e4-a3cb-005056011aef",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-01T16:48:14Z",
+        "schema_name": "publication",
+        "title": "Apply for Individual Vehicle Approval (IVA): vans and light goods vehicles",
+        "web_url": "https://www.gov.uk/government/publications/iva-application-form-for-light-goods-vehicles-up-to-3500kg-iva-1lg",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/vehicle-manufacturing-and-modification",
+        "api_url": "https://www.gov.uk/api/content/transport/vehicle-manufacturing-and-modification",
+        "base_path": "/transport/vehicle-manufacturing-and-modification",
+        "content_id": "1127bf21-8774-4c58-9ac7-0906b96cfb59",
+        "description": "The law on converting or making modifications to vehicles, vehicle manufacturing classification.",
+        "details": {
+          "internal_name": "Vehicle manufacturing and modification",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/vehicle-ownership-approval-and-standards",
+              "api_url": "https://www.gov.uk/api/content/transport/vehicle-ownership-approval-and-standards",
+              "base_path": "/transport/vehicle-ownership-approval-and-standards",
+              "content_id": "dbbf7f4d-78aa-46ac-8e67-d937fe9a8c69",
+              "description": "MOTs and vehicle tax, manufacturing, modifying and testing vehicles for use on UK roads, buying and selling vehicles.",
+              "details": {
+                "internal_name": "Vehicle ownership, approval and standards",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Vehicle ownership, approval and standards",
+              "web_url": "https://www.gov.uk/transport/vehicle-ownership-approval-and-standards",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:15Z",
+        "schema_name": "taxon",
+        "title": "Vehicle manufacturing and modification",
+        "web_url": "https://www.gov.uk/transport/vehicle-manufacturing-and-modification",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/transport/vehicle-import-and-export",
+        "api_url": "https://www.gov.uk/api/content/transport/vehicle-import-and-export",
+        "base_path": "/transport/vehicle-import-and-export",
+        "content_id": "0c5fc8b5-bf51-4a9b-abc3-512d78d719cb",
+        "description": "Forms and guidance for importing and exporting vehicles.",
+        "details": {
+          "internal_name": "Vehicle import and export",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/vehicle-ownership-approval-and-standards",
+              "api_url": "https://www.gov.uk/api/content/transport/vehicle-ownership-approval-and-standards",
+              "base_path": "/transport/vehicle-ownership-approval-and-standards",
+              "content_id": "dbbf7f4d-78aa-46ac-8e67-d937fe9a8c69",
+              "description": "MOTs and vehicle tax, manufacturing, modifying and testing vehicles for use on UK roads, buying and selling vehicles.",
+              "details": {
+                "internal_name": "Vehicle ownership, approval and standards",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Vehicle ownership, approval and standards",
+              "web_url": "https://www.gov.uk/transport/vehicle-ownership-approval-and-standards",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:16Z",
+        "schema_name": "taxon",
+        "title": "Vehicle import and export",
+        "web_url": "https://www.gov.uk/transport/vehicle-import-and-export",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-10-27T16:19:19Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1679919194.136-10.13.20.233-8209",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Apply for Individual Vehicle Approval (IVA)",
+  "updated_at": "2024-03-08T09:58:10Z",
+  "withdrawn_notice": {
+  }
+}

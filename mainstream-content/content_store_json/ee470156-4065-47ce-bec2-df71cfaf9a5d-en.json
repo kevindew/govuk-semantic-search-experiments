@@ -1,0 +1,485 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/sign-in-visa",
+  "content_id": "ee470156-4065-47ce-bec2-df71cfaf9a5d",
+  "description": "How to log in to your UK visa application (or account) to complete and submit your application form.",
+  "details": {
+    "body": "<p>If you’ve started a UK visa application, you can sign back in to continue your application.</p>\n\n<p>To sign back in:</p>\n\n<ol class=\"steps\">\n<li>\n<p>Find your registration email.</p>\n</li>\n<li>\n<p>Follow the link in the email.</p>\n</li>\n<li>\n<p>Enter your sign in details.</p>\n</li>\n</ol>\n\n<h2 id=\"find-your-registration-email\">Find your registration email</h2>\n\n<p>Your registration email will be from UK Visas and Immigration (<abbr title=\"UK Visas and Immigration\">UKVI</abbr>). It’s sent to the email address you entered in your visa application.</p>\n\n<p>The email subject line will be either:</p>\n\n<ul>\n  <li>UK visa application: sign in details</li>\n  <li>One time code</li>\n</ul>\n\n<p>You’ll find the sign in link in the email.</p>\n\n<p>If you cannot find the email in your inbox, check your junk or spam folder.</p>\n\n<h2 id=\"enter-your-sign-in-details\">Enter your sign in details</h2>\n\n<p>After you follow the link in your email, you will be prompted to enter either:</p>\n\n<ul>\n  <li>your password, if you created one</li>\n  <li>details from the identity document you used in your application (passport, national identity card, or biometric residence card or permit) and your date of birth</li>\n</ul>\n\n<h3 id=\"if-you-created-a-password\">If you created a password</h3>\n\n<p>Your password will be at least 10 characters long and contain at least 3 of the following:</p>\n\n<ul>\n  <li>an uppercase letter</li>\n  <li>a lowercase letter</li>\n  <li>a number</li>\n  <li>a symbol</li>\n</ul>\n\n<p>If you’ve forgotten your password there’s a link to reset it.</p>\n\n<h2 id=\"when-you-cannot-sign-in\">When you cannot sign in</h2>\n\n<p>You can only sign in if you’ve started a visa application and entered your email address.</p>\n\n<p>You may not be able to sign in if you’ve not returned to your application for over 10 weeks.</p>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2022-12-21T12:01:46Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/sign-in-visa",
+        "api_url": "https://www.gov.uk/api/content/sign-in-visa",
+        "base_path": "/sign-in-visa",
+        "content_id": "ee470156-4065-47ce-bec2-df71cfaf9a5d",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T12:01:45Z",
+        "schema_name": "answer",
+        "title": "How to sign in to continue your visa application",
+        "web_url": "https://www.gov.uk/sign-in-visa",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/visas-immigration/what-you-need-to-do",
+        "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+        "base_path": "/browse/visas-immigration/what-you-need-to-do",
+        "content_id": "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+        "description": "Check if you need a UK visa, how to apply, sign in, manage your application, biometric residence permits (BRPs), share codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T12:05:51Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "What you need to do",
+        "web_url": "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/apply-to-come-to-the-uk",
+        "api_url": "https://www.gov.uk/api/content/apply-to-come-to-the-uk",
+        "base_path": "/apply-to-come-to-the-uk",
+        "content_id": "76698ffe-70ab-4fda-be0d-755234f6d340",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/visas-immigration/what-you-need-to-do",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+              "base_path": "/browse/visas-immigration/what-you-need-to-do",
+              "content_id": "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+              "description": "Check if you need a UK visa, how to apply, sign in, manage your application, biometric residence permits (BRPs), share codes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T12:05:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "What you need to do",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2019-06-20T13:46:12Z",
+        "schema_name": "guide",
+        "title": "How to apply for a visa to come to the UK",
+        "web_url": "https://www.gov.uk/apply-to-come-to-the-uk",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/visa-documents-returned",
+        "api_url": "https://www.gov.uk/api/content/visa-documents-returned",
+        "base_path": "/visa-documents-returned",
+        "content_id": "240281d1-4e92-428b-a784-9fa085c44777",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/visas-immigration/what-you-need-to-do",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+              "base_path": "/browse/visas-immigration/what-you-need-to-do",
+              "content_id": "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+              "description": "Check if you need a UK visa, how to apply, sign in, manage your application, biometric residence permits (BRPs), share codes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T12:05:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "What you need to do",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-05-20T11:08:51Z",
+        "schema_name": "answer",
+        "title": "Get your visa, immigration or citizenship documents back",
+        "web_url": "https://www.gov.uk/visa-documents-returned",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/cancel-visa",
+        "api_url": "https://www.gov.uk/api/content/cancel-visa",
+        "base_path": "/cancel-visa",
+        "content_id": "f4c6ac13-1769-4e0a-aba5-46eedaab2bcf",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/visas-immigration/what-you-need-to-do",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+              "base_path": "/browse/visas-immigration/what-you-need-to-do",
+              "content_id": "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+              "description": "Check if you need a UK visa, how to apply, sign in, manage your application, biometric residence permits (BRPs), share codes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T12:05:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "What you need to do",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-01T13:00:36Z",
+        "schema_name": "guide",
+        "title": "Cancel your visa, immigration or citizenship application",
+        "web_url": "https://www.gov.uk/cancel-visa",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/update-uk-visas-immigration-account-details",
+        "api_url": "https://www.gov.uk/api/content/update-uk-visas-immigration-account-details",
+        "base_path": "/update-uk-visas-immigration-account-details",
+        "content_id": "052ce2b1-4f0c-4595-85da-76c851b629e9",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/visas-immigration/settle-in-the-uk",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/settle-in-the-uk",
+              "base_path": "/browse/visas-immigration/settle-in-the-uk",
+              "content_id": "b5c53aed-51d4-430c-b79f-b09f669ce30a",
+              "description": "Ways to settle in the UK, indefinite leave to remain (ILR) and routes to British citizenship",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:19Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Live permanently in the UK",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/settle-in-the-uk",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/visas-immigration/what-you-need-to-do",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+              "base_path": "/browse/visas-immigration/what-you-need-to-do",
+              "content_id": "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+              "description": "Check if you need a UK visa, how to apply, sign in, manage your application, biometric residence permits (BRPs), share codes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T12:05:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "What you need to do",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2019-02-07T16:21:29Z",
+        "schema_name": "guide",
+        "title": "Update your UK Visas and Immigration account details",
+        "web_url": "https://www.gov.uk/update-uk-visas-immigration-account-details",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/contact-ukvi-inside-outside-uk",
+        "api_url": "https://www.gov.uk/api/content/contact-ukvi-inside-outside-uk",
+        "base_path": "/contact-ukvi-inside-outside-uk",
+        "content_id": "c5d378e5-d800-4475-932f-d5e44615f91b",
+        "document_type": "simple_smart_answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/visas-immigration/what-you-need-to-do",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+              "base_path": "/browse/visas-immigration/what-you-need-to-do",
+              "content_id": "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+              "description": "Check if you need a UK visa, how to apply, sign in, manage your application, biometric residence permits (BRPs), share codes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T12:05:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "What you need to do",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-06-02T15:53:45Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Contact UK Visas and Immigration for help",
+        "web_url": "https://www.gov.uk/contact-ukvi-inside-outside-uk",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D16",
+        "api_path": "/api/content/government/organisations/home-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/home-office",
+        "base_path": "/government/organisations/home-office",
+        "content_id": "06056197-bc69-4147-aa28-070bca132178",
+        "details": {
+          "acronym": "Home Office",
+          "brand": "home-office",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db3ce5274a7908e3530c/s960_home-office.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db3c40f0b649cceb18de/s300_home-office.jpg"
+          },
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "Home Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Home Office",
+        "web_url": "https://www.gov.uk/government/organisations/home-office",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "OT554",
+        "api_path": "/api/content/government/organisations/uk-visas-and-immigration",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/uk-visas-and-immigration",
+        "base_path": "/government/organisations/uk-visas-and-immigration",
+        "content_id": "04148522-b0c1-4137-b687-5f3c3bdd561a",
+        "details": {
+          "acronym": "UKVI",
+          "brand": "home-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "UK Visas and Immigration"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "UK Visas and Immigration",
+        "web_url": "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/visas-immigration/what-you-need-to-do",
+        "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+        "base_path": "/browse/visas-immigration/what-you-need-to-do",
+        "content_id": "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+        "description": "Check if you need a UK visa, how to apply, sign in, manage your application, biometric residence permits (BRPs), share codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/visas-immigration",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+              "base_path": "/browse/visas-immigration",
+              "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+              "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-06-03T13:56:26Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Visas and immigration",
+              "web_url": "https://www.gov.uk/browse/visas-immigration",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T12:05:51Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "What you need to do",
+        "web_url": "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2022-12-21T12:01:45Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "29448-1671624105.703-10.13.3.60-8813",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "How to sign in to continue your visa application",
+  "updated_at": "2024-03-07T11:21:21Z",
+  "withdrawn_notice": {
+  }
+}

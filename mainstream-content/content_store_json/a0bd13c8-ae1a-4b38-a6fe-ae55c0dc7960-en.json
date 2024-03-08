@@ -1,0 +1,75 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/check-immigration-status",
+  "content_id": "a0bd13c8-ae1a-4b38-a6fe-ae55c0dc7960",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2019-11-13T17:24:54Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/check-immigration-status",
+        "api_url": "https://www.gov.uk/api/content/done/check-immigration-status",
+        "base_path": "/done/check-immigration-status",
+        "content_id": "a0bd13c8-ae1a-4b38-a6fe-ae55c0dc7960",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-08-26T13:36:40Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Check someone's immigration status",
+        "web_url": "https://www.gov.uk/done/check-immigration-status",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-08-26T13:36:40Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629921.520-10.13.32.223-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Check someone's immigration status",
+  "updated_at": "2023-07-21T14:27:03Z",
+  "withdrawn_notice": {
+  }
+}

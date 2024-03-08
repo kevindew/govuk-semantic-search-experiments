@@ -1,0 +1,1016 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/driving-motorhome",
+  "content_id": "e15cab28-c745-4fa8-a767-7ddcc29949cb",
+  "description": "Motorhomes and campervans - size limits and licences you need to drive in the UK",
+  "details": {
+    "body": "\n<div class=\"summary\">\n<p>You need the right licence to drive a motorhome or campervan, and your vehicle needs to be within UK size limits.</p>\n</div>\n\n<h2 id=\"licence-requirements\">Licence requirements</h2>\n\n<p>The licence you need to drive a motorhome depends on your age and the vehicle’s maximum authorised mass (<abbr title=\"maximum authorised mass\">MAM</abbr>). This is the vehicle’s weight plus the maximum load it can carry.</p>\n\n<p>To drive a motorhome with a <abbr title=\"maximum authorised mass\">MAM</abbr> of between 3.5 and 7.5 tonnes, you need a category C1 licence.</p>\n\n<p>To drive a motorhome with a <abbr title=\"maximum authorised mass\">MAM</abbr> of over 7.5 tonnes, you need a category C licence.</p>\n\n<p><a href=\"/vehicles-you-can-drive\">Check which vehicles you can drive</a> and <a href=\"/towing-rules\">the licence and age requirements for towing</a>.</p>\n\n<p>Licence requirements may be <a rel=\"external\" href=\"http://www.nidirect.gov.uk/index/information-and-services/motoring/driver-licensing/information-on-vehicles-you-can-drive/driving-motorhomes.htm\">different in Northern Ireland</a>.</p>\n\n<h2 id=\"importing-a-motorhome-and-size-limits\">Importing a motorhome and size limits</h2>\n\n<p>To import a motorhome into the UK permanently you’ll need to <a href=\"/vehicle-registration/new-registrations\">register it</a>.</p>\n\n<p>The size of motorhomes is restricted in the UK - you can’t register one more than 12 metres long and 2.55 metres wide.</p>\n\n<p>The measurements don’t include driving mirrors, rear bumpers, lamps, or reflectors.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There’s no height limit, but if the motorhome is over 3 metres tall you must have a notice showing the height where the driver can see it.</p>\n</div>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-10-15T11:50:05Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/driving-motorhome",
+        "api_url": "https://www.gov.uk/api/content/driving-motorhome",
+        "base_path": "/driving-motorhome",
+        "content_id": "e15cab28-c745-4fa8-a767-7ddcc29949cb",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-11-07T10:40:25Z",
+        "schema_name": "answer",
+        "title": "Driving a motorhome",
+        "web_url": "https://www.gov.uk/driving-motorhome",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/driving-licences",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+        "base_path": "/browse/driving/driving-licences",
+        "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+        "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-26T14:10:42Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Driving licences",
+        "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/drivers-lorries-buses",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/drivers-lorries-buses",
+        "base_path": "/browse/driving/drivers-lorries-buses",
+        "content_id": "13a30e05-d75e-45d8-95d9-0445042a4066",
+        "description": "Become a HGV or bus driver, find training, drivers' hours rules, specialist tests",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:15Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "HGV, bus and coach drivers",
+        "web_url": "https://www.gov.uk/browse/driving/drivers-lorries-buses",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/view-driving-licence",
+        "api_url": "https://www.gov.uk/api/content/view-driving-licence",
+        "base_path": "/view-driving-licence",
+        "content_id": "bee455d5-5a4f-440a-88be-eb65ae8fde7d",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/driving-uk-and-abroad",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-uk-and-abroad",
+              "base_path": "/browse/driving/driving-uk-and-abroad",
+              "content_id": "231ad2c1-c1cd-4e00-8479-5277cfe05027",
+              "description": "Drive abroad, drive in the UK with a foreign licence, bring a vehicle to the UK",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving in the UK and abroad",
+              "web_url": "https://www.gov.uk/browse/driving/driving-uk-and-abroad",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/driving-licences",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+              "base_path": "/browse/driving/driving-licences",
+              "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+              "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-26T14:10:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving licences",
+              "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/learning-to-drive",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/learning-to-drive",
+              "base_path": "/browse/driving/learning-to-drive",
+              "content_id": "6af0f337-4da6-415c-a760-55b612d0e3e3",
+              "description": "Find driving lessons, book and manage theory and driving tests, tests for different vehicles",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving tests and learning to drive or ride",
+              "web_url": "https://www.gov.uk/browse/driving/learning-to-drive",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-20T17:45:31Z",
+        "schema_name": "transaction",
+        "title": "View or share your driving licence information",
+        "web_url": "https://www.gov.uk/view-driving-licence",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/clean-air-zones",
+        "api_url": "https://www.gov.uk/api/content/clean-air-zones",
+        "base_path": "/clean-air-zones",
+        "content_id": "5ff060df-bd8b-4df2-a6bd-64c3f9519758",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/parking-public-transport-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/parking-public-transport-environment",
+              "base_path": "/browse/driving/parking-public-transport-environment",
+              "content_id": "11c4c5fa-9667-4a7a-825f-9e8256f0e225",
+              "description": "Public transport and bus passes, parking, environment and emissions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-12-14T14:34:58Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Parking, public transport and the environment",
+              "web_url": "https://www.gov.uk/browse/driving/parking-public-transport-environment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-02-18T12:22:55Z",
+        "schema_name": "transaction",
+        "title": "Drive in a clean air zone",
+        "web_url": "https://www.gov.uk/clean-air-zones",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/driving-abroad",
+        "api_url": "https://www.gov.uk/api/content/driving-abroad",
+        "base_path": "/driving-abroad",
+        "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/driving-uk-and-abroad",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-uk-and-abroad",
+              "base_path": "/browse/driving/driving-uk-and-abroad",
+              "content_id": "231ad2c1-c1cd-4e00-8479-5277cfe05027",
+              "description": "Drive abroad, drive in the UK with a foreign licence, bring a vehicle to the UK",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving in the UK and abroad",
+              "web_url": "https://www.gov.uk/browse/driving/driving-uk-and-abroad",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/abroad/living-abroad",
+              "api_url": "https://www.gov.uk/api/content/browse/abroad/living-abroad",
+              "base_path": "/browse/abroad/living-abroad",
+              "content_id": "bbb8985a-5451-4e9d-a601-8c55853a096c",
+              "description": "Includes tax, State Pension, benefits and UK government services abroad",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-09-21T12:40:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Living abroad",
+              "web_url": "https://www.gov.uk/browse/abroad/living-abroad",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/abroad/travel-abroad",
+              "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+              "base_path": "/browse/abroad/travel-abroad",
+              "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+              "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-09-22T09:55:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Travel abroad",
+              "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-09T08:31:23Z",
+        "schema_name": "guide",
+        "title": "Driving abroad",
+        "web_url": "https://www.gov.uk/driving-abroad",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/driving-licence-categories",
+        "api_url": "https://www.gov.uk/api/content/driving-licence-categories",
+        "base_path": "/driving-licence-categories",
+        "content_id": "ade8b3d0-7f28-4f9e-bf7b-af832900c4b3",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/driving-licences",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+              "base_path": "/browse/driving/driving-licences",
+              "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+              "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-26T14:10:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving licences",
+              "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-18T15:36:14Z",
+        "schema_name": "answer",
+        "title": "Driving licence categories",
+        "web_url": "https://www.gov.uk/driving-licence-categories",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/importing-vehicles-into-the-uk",
+        "api_url": "https://www.gov.uk/api/content/importing-vehicles-into-the-uk",
+        "base_path": "/importing-vehicles-into-the-uk",
+        "content_id": "e41f9444-ba8b-4c88-97c3-ba0c9536ba4c",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/driving-uk-and-abroad",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-uk-and-abroad",
+              "base_path": "/browse/driving/driving-uk-and-abroad",
+              "content_id": "231ad2c1-c1cd-4e00-8479-5277cfe05027",
+              "description": "Drive abroad, drive in the UK with a foreign licence, bring a vehicle to the UK",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving in the UK and abroad",
+              "web_url": "https://www.gov.uk/browse/driving/driving-uk-and-abroad",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/number-plate",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/number-plate",
+              "base_path": "/browse/driving/number-plate",
+              "content_id": "33b8985e-9353-4f12-914e-531aad5469a0",
+              "description": "Update details in your (V5C) log book, get a personalised number plate or trade licence plate",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Number plates, vehicle registration and log books",
+              "web_url": "https://www.gov.uk/browse/driving/number-plate",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/businesses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+              "base_path": "/browse/driving/businesses",
+              "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+              "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:15Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Transport and driving businesses",
+              "web_url": "https://www.gov.uk/browse/driving/businesses",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/vat",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/vat",
+              "base_path": "/browse/tax/vat",
+              "content_id": "895d337a-fa68-4c83-ab79-1c08016afe87",
+              "description": "Includes online returns, rates, charging and record keeping",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-03-08T14:50:05Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "VAT",
+              "web_url": "https://www.gov.uk/browse/tax/vat",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/abroad/travel-abroad",
+              "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+              "base_path": "/browse/abroad/travel-abroad",
+              "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+              "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-09-22T09:55:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Travel abroad",
+              "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/visas-immigration/arriving-in-the-uk",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/arriving-in-the-uk",
+              "base_path": "/browse/visas-immigration/arriving-in-the-uk",
+              "content_id": "2d9903ac-4194-4034-a53b-30d768f4fafb",
+              "description": "Moving your belongings, going through customs and tax",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/visas-immigration",
+                    "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+                    "base_path": "/browse/visas-immigration",
+                    "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                    "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-06-03T13:56:26Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Visas and immigration",
+                    "web_url": "https://www.gov.uk/browse/visas-immigration",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-09-22T09:45:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Travelling to the UK",
+              "web_url": "https://www.gov.uk/browse/visas-immigration/arriving-in-the-uk",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-19T15:30:16Z",
+        "schema_name": "guide",
+        "title": "Importing vehicles into the UK",
+        "web_url": "https://www.gov.uk/importing-vehicles-into-the-uk",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/towing-rules",
+        "api_url": "https://www.gov.uk/api/content/towing-rules",
+        "base_path": "/towing-rules",
+        "content_id": "7bab842c-a9aa-4369-b162-4e3e2a475245",
+        "document_type": "smart_answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/driving-licences",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+              "base_path": "/browse/driving/driving-licences",
+              "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+              "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-26T14:10:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving licences",
+              "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/learning-to-drive",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/learning-to-drive",
+              "base_path": "/browse/driving/learning-to-drive",
+              "content_id": "6af0f337-4da6-415c-a760-55b612d0e3e3",
+              "description": "Find driving lessons, book and manage theory and driving tests, tests for different vehicles",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving tests and learning to drive or ride",
+              "web_url": "https://www.gov.uk/browse/driving/learning-to-drive",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2021-06-16T08:18:54Z",
+        "schema_name": "smart_answer",
+        "title": "Towing: licence and age requirements",
+        "web_url": "https://www.gov.uk/towing-rules",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA74",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-licensing-agency",
+        "content_id": "70580624-93b5-4aed-823b-76042486c769",
+        "details": {
+          "acronym": "DVLA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Licensing<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Licensing Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/driving-licences",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+        "base_path": "/browse/driving/driving-licences",
+        "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+        "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-26T14:10:42Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Driving licences",
+        "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/vehicles-can-drive",
+        "api_url": "https://www.gov.uk/api/content/vehicles-can-drive",
+        "base_path": "/vehicles-can-drive",
+        "content_id": "d6b1901d-b925-47c5-b1ca-1e52197097e2",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-07-14T14:52:53Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Vehicles you can drive",
+        "web_url": "https://www.gov.uk/vehicles-can-drive",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/driving-licence-categories",
+        "api_url": "https://www.gov.uk/api/content/driving-licence-categories",
+        "base_path": "/driving-licence-categories",
+        "content_id": "ade8b3d0-7f28-4f9e-bf7b-af832900c4b3",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-18T15:36:14Z",
+        "schema_name": "answer",
+        "title": "Driving licence categories",
+        "web_url": "https://www.gov.uk/driving-licence-categories",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/adding-higher-categories-to-your-driving-licence",
+        "api_url": "https://www.gov.uk/api/content/adding-higher-categories-to-your-driving-licence",
+        "base_path": "/adding-higher-categories-to-your-driving-licence",
+        "content_id": "af6d536f-6cd0-4f7b-95e4-c83163b8b112",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-09T09:17:43Z",
+        "schema_name": "answer",
+        "title": "Adding categories to your driving licence",
+        "web_url": "https://www.gov.uk/adding-higher-categories-to-your-driving-licence",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/become-lorry-bus-driver",
+        "api_url": "https://www.gov.uk/api/content/become-lorry-bus-driver",
+        "base_path": "/become-lorry-bus-driver",
+        "content_id": "ade4791d-a7fa-451b-afd1-6d0ad00ee630",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-09T09:21:27Z",
+        "schema_name": "guide",
+        "title": "Become a qualified heavy goods vehicle (HGV) or bus driver",
+        "web_url": "https://www.gov.uk/become-lorry-bus-driver",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/vehicle-weights-explained",
+        "api_url": "https://www.gov.uk/api/content/vehicle-weights-explained",
+        "base_path": "/vehicle-weights-explained",
+        "content_id": "4b5e77f7-69e5-45a9-9061-348cdce876fb",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-02-07T14:22:48Z",
+        "schema_name": "answer",
+        "title": "Vehicle weights explained",
+        "web_url": "https://www.gov.uk/vehicle-weights-explained",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/driving-licence-categories",
+        "api_url": "https://www.gov.uk/api/content/transport/driving-licence-categories",
+        "base_path": "/transport/driving-licence-categories",
+        "content_id": "8e9e3f2c-45c3-4b8b-84b9-a16af77636f3",
+        "description": "The types of vehicles you can drive with certain licences.",
+        "details": {
+          "internal_name": "Driving licence categories",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/driving-licences",
+              "api_url": "https://www.gov.uk/api/content/transport/driving-licences",
+              "base_path": "/transport/driving-licences",
+              "content_id": "c71f6a1e-2bcd-407e-b0da-6728cb55e4db",
+              "description": "Apply, check, change or share details of your driving licence, replace or surrender your driving licence.",
+              "details": {
+                "internal_name": "Driving licences",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Driving licences",
+              "web_url": "https://www.gov.uk/transport/driving-licences",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:15Z",
+        "schema_name": "taxon",
+        "title": "Driving licence categories",
+        "web_url": "https://www.gov.uk/transport/driving-licence-categories",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-11-07T10:40:25Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15544-1504179297.157-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Driving a motorhome",
+  "updated_at": "2024-02-06T13:29:36Z",
+  "withdrawn_notice": {
+  }
+}

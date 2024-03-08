@@ -1,0 +1,837 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/get-refund-interest-corporation-tax",
+  "content_id": "b5764cb9-77a5-49d6-9ee9-c4fdd6f88990",
+  "description": "Get a refund or interest if your company pays too much Corporation Tax or pays it early",
+  "details": {
+    "body": "<p>If your company or organisation pays too much Corporation Tax, HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) will repay what you’ve overpaid and may also pay you interest on it.</p>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr>’s interest rate is 0.5%.</p>\n\n<h2 id=\"refunds\">Refunds</h2>\n\n<p>Use your <a href=\"/prepare-file-annual-accounts-for-limited-company/prepare-a-company-tax-return\">Company Tax Return</a> to tell <abbr title=\"HM Revenue and Customs\">HMRC</abbr> if you think you’re due a Corporation Tax refund (known as a ‘repayment’) and how you want it paid.</p>\n\n<p>If you include your bank details (account number and sort code) on your Company Tax Return, <abbr title=\"HM Revenue and Customs\">HMRC</abbr> will automatically refund what you’re owed into your bank account.</p>\n\n<p>If you do not include your bank details, <abbr title=\"HM Revenue and Customs\">HMRC</abbr> will use the money you’re owed to pay either:</p>\n\n<ul>\n  <li>other tax your company owes, for example PAYE or VAT</li>\n  <li>your next Corporation Tax bill or a late filing penalty (if you do not enter a repayment limit when you submit your next Company Tax Return)</li>\n</ul>\n\n<p>If any part of your repayment is used to pay debts you owe <abbr title=\"HM Revenue and Customs\">HMRC</abbr>, you’ll see repayment confirmation in your company tax system. You’ll be refunded the amount left after you have repaid the tax you owe. <abbr title=\"HM Revenue and Customs\">HMRC</abbr> will refund the amount left after you’ve repaid the tax you owe, either:</p>\n\n<ul>\n  <li>to the original payment card</li>\n  <li>as a payable order, to your registered company address</li>\n</ul>\n\n<h2 id=\"when-hmrc-will-pay-you-interest\">When <abbr title=\"HM Revenue and Customs\">HMRC</abbr> will pay you interest</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will pay you interest if you’ve:</p>\n\n<ul>\n  <li>paid tax early (known as ‘credit interest’)</li>\n  <li>paid more than your company owes (known as ‘repayment interest’)</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>The interest is taxable - include it as income in your <a href=\"/prepare-file-annual-accounts-for-limited-company/prepare-a-company-tax-return\">Company Tax Return</a>.</p>\n</div>\n\n<h3 id=\"early-payments\">Early payments</h3>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will usually pay interest from the date you pay your Corporation Tax to the payment deadline.</p>\n\n<p>The earliest date they’ll pay interest from is 6 months and 13 days after the start of your <a href=\"/corporation-tax-accounting-period\">accounting period</a>.</p>\n\n<h3 id=\"if-you-pay-more-than-you-owe\">If you pay more than you owe</h3>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will usually pay interest on your refund from either:</p>\n\n<ul>\n  <li>when the tax was due</li>\n  <li>when you paid the tax, if you paid after the due date</li>\n</ul>\n\n<h3 id=\"if-you-pay-in-instalments\">If you pay in instalments</h3>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> automatically pays you the interest after they know your final Corporation Tax bill for the accounting period, which is normally when you file your Company Tax Return.</p>\n\n<p>If you pay by quarterly instalments, your interest is calculated from the later date of either:</p>\n\n<ul>\n  <li>the first instalment date</li>\n  <li>the date your balance goes above what you owe</li>\n</ul>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2014-09-25T11:23:09Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/get-refund-interest-corporation-tax",
+        "api_url": "https://www.gov.uk/api/content/get-refund-interest-corporation-tax",
+        "base_path": "/get-refund-interest-corporation-tax",
+        "content_id": "b5764cb9-77a5-49d6-9ee9-c4fdd6f88990",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-18T12:09:24Z",
+        "schema_name": "answer",
+        "title": "Get a refund or interest on your Corporation Tax",
+        "web_url": "https://www.gov.uk/get-refund-interest-corporation-tax",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/corporation-tax-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/corporation-tax-detailed-information",
+        "base_path": "/government/collections/corporation-tax-detailed-information",
+        "content_id": "92b8c56a-8498-4451-a2eb-7c34e09a00e3",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/get-refund-interest-corporation-tax",
+              "api_url": "https://www.gov.uk/api/content/get-refund-interest-corporation-tax",
+              "base_path": "/get-refund-interest-corporation-tax",
+              "content_id": "b5764cb9-77a5-49d6-9ee9-c4fdd6f88990",
+              "document_type": "answer",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2014-12-18T12:09:24Z",
+              "schema_name": "answer",
+              "title": "Get a refund or interest on your Corporation Tax",
+              "web_url": "https://www.gov.uk/get-refund-interest-corporation-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-12T13:25:42Z",
+        "schema_name": "document_collection",
+        "title": "Corporation Tax: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/corporation-tax-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/business-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/business/business-tax",
+        "base_path": "/browse/business/business-tax",
+        "content_id": "b7d6588c-a056-47fc-9528-0b9ff42c3866",
+        "description": "Includes Corporation Tax, Capital Gains Tax, Construction Industry Scheme (CIS) and VAT",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:20Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business tax",
+        "web_url": "https://www.gov.uk/browse/business/business-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/business/limited-company",
+        "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+        "base_path": "/browse/business/limited-company",
+        "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+        "description": "Includes registering, setting up, company accounts and tax returns",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-18T16:02:30Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Running a limited company",
+        "web_url": "https://www.gov.uk/browse/business/limited-company",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/find-out-if-and-how-much-interest-hmrc-might-pay-me-on-this-payment",
+        "api_url": "https://www.gov.uk/api/content/needs/find-out-if-and-how-much-interest-hmrc-might-pay-me-on-this-payment",
+        "base_path": "/needs/find-out-if-and-how-much-interest-hmrc-might-pay-me-on-this-payment",
+        "content_id": "9a856a5f-d652-403d-9da9-137c08d545fc",
+        "details": {
+          "benefit": "I can collect the money",
+          "goal": "find out if and how much interest HMRC might pay me on this payment",
+          "justifications": [
+            "It's something only government does",
+            "The government is legally obliged to provide it",
+            "It's inherent to a person's or an organisation's rights and obligations"
+          ],
+          "met_when": [
+            "knows when HMRC is likely to pay interest automatically",
+            "knows how to ask HMRC for interest owed if they don't pay it automatically",
+            "knows that the interest counts as taxable income"
+          ],
+          "role": "limited company, club, charity owner or manager who has paid Corporation Tax early"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a limited company, club, charity owner or manager who has paid Corporation Tax early, I need to find out if and how much interest HMRC might pay me on this payment, so that I can collect the money (102311)",
+        "web_url": "https://www.gov.uk/needs/find-out-if-and-how-much-interest-hmrc-might-pay-me-on-this-payment",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/pay-corporation-tax",
+        "api_url": "https://www.gov.uk/api/content/pay-corporation-tax",
+        "base_path": "/pay-corporation-tax",
+        "content_id": "b10892cc-e2dc-4ed2-960f-95472053bff7",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/business-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/business/business-tax",
+              "base_path": "/browse/business/business-tax",
+              "content_id": "b7d6588c-a056-47fc-9528-0b9ff42c3866",
+              "description": "Includes Corporation Tax, Capital Gains Tax, Construction Industry Scheme (CIS) and VAT",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:20Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/browse/business/business-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/business/limited-company",
+              "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+              "base_path": "/browse/business/limited-company",
+              "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+              "description": "Includes registering, setting up, company accounts and tax returns",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:30Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Running a limited company",
+              "web_url": "https://www.gov.uk/browse/business/limited-company",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-23T18:00:11Z",
+        "schema_name": "guide",
+        "title": "Pay your Corporation Tax bill",
+        "web_url": "https://www.gov.uk/pay-corporation-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/prepare-file-annual-accounts-for-limited-company",
+        "api_url": "https://www.gov.uk/api/content/prepare-file-annual-accounts-for-limited-company",
+        "base_path": "/prepare-file-annual-accounts-for-limited-company",
+        "content_id": "5cb58486-0b00-4da8-8076-382e474b4f03",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/business-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/business/business-tax",
+              "base_path": "/browse/business/business-tax",
+              "content_id": "b7d6588c-a056-47fc-9528-0b9ff42c3866",
+              "description": "Includes Corporation Tax, Capital Gains Tax, Construction Industry Scheme (CIS) and VAT",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:20Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/browse/business/business-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/business/limited-company",
+              "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+              "base_path": "/browse/business/limited-company",
+              "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+              "description": "Includes registering, setting up, company accounts and tax returns",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:30Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Running a limited company",
+              "web_url": "https://www.gov.uk/browse/business/limited-company",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-24T17:30:19Z",
+        "schema_name": "guide",
+        "title": "Accounts and tax returns for private limited companies",
+        "web_url": "https://www.gov.uk/prepare-file-annual-accounts-for-limited-company",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/file-your-company-accounts-and-tax-return",
+        "api_url": "https://www.gov.uk/api/content/file-your-company-accounts-and-tax-return",
+        "base_path": "/file-your-company-accounts-and-tax-return",
+        "content_id": "0a8423f3-8f91-4769-85a7-f5e985e69009",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/business-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/business/business-tax",
+              "base_path": "/browse/business/business-tax",
+              "content_id": "b7d6588c-a056-47fc-9528-0b9ff42c3866",
+              "description": "Includes Corporation Tax, Capital Gains Tax, Construction Industry Scheme (CIS) and VAT",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:20Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/browse/business/business-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/business/limited-company",
+              "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+              "base_path": "/browse/business/limited-company",
+              "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+              "description": "Includes registering, setting up, company accounts and tax returns",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:30Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Running a limited company",
+              "web_url": "https://www.gov.uk/browse/business/limited-company",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-28T10:17:01Z",
+        "schema_name": "transaction",
+        "title": "File your accounts and Company Tax Return",
+        "web_url": "https://www.gov.uk/file-your-company-accounts-and-tax-return",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/business-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/business/business-tax",
+        "base_path": "/browse/business/business-tax",
+        "content_id": "b7d6588c-a056-47fc-9528-0b9ff42c3866",
+        "description": "Includes Corporation Tax, Capital Gains Tax, Construction Industry Scheme (CIS) and VAT",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:20Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business tax",
+        "web_url": "https://www.gov.uk/browse/business/business-tax",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/prepare-file-annual-accounts-for-limited-company",
+        "api_url": "https://www.gov.uk/api/content/prepare-file-annual-accounts-for-limited-company",
+        "base_path": "/prepare-file-annual-accounts-for-limited-company",
+        "content_id": "5cb58486-0b00-4da8-8076-382e474b4f03",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-24T17:30:19Z",
+        "schema_name": "guide",
+        "title": "Accounts and tax returns for private limited companies",
+        "web_url": "https://www.gov.uk/prepare-file-annual-accounts-for-limited-company",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/corporation-tax-calculating-and-claiming-a-loss",
+        "api_url": "https://www.gov.uk/api/content/guidance/corporation-tax-calculating-and-claiming-a-loss",
+        "base_path": "/guidance/corporation-tax-calculating-and-claiming-a-loss",
+        "content_id": "601f5c1b-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-07-05T08:42:05Z",
+        "schema_name": "detailed_guide",
+        "title": "Work out and claim relief from Corporation Tax trading losses",
+        "web_url": "https://www.gov.uk/guidance/corporation-tax-calculating-and-claiming-a-loss",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/company-tax-returns",
+        "api_url": "https://www.gov.uk/api/content/company-tax-returns",
+        "base_path": "/company-tax-returns",
+        "content_id": "830e403b-7d81-45f1-8862-81dcd55b4ec7",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-09-22T13:24:06Z",
+        "schema_name": "guide",
+        "title": "Company Tax Returns",
+        "web_url": "https://www.gov.uk/company-tax-returns",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/corporation-tax-interest-charges",
+        "api_url": "https://www.gov.uk/api/content/guidance/corporation-tax-interest-charges",
+        "base_path": "/guidance/corporation-tax-interest-charges",
+        "content_id": "601f7a38-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-01-30T00:00:00Z",
+        "schema_name": "detailed_guide",
+        "title": "Corporation Tax: interest charges",
+        "web_url": "https://www.gov.uk/guidance/corporation-tax-interest-charges",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pay-corporation-tax",
+        "api_url": "https://www.gov.uk/api/content/pay-corporation-tax",
+        "base_path": "/pay-corporation-tax",
+        "content_id": "b10892cc-e2dc-4ed2-960f-95472053bff7",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-23T18:00:11Z",
+        "schema_name": "guide",
+        "title": "Pay your Corporation Tax bill",
+        "web_url": "https://www.gov.uk/pay-corporation-tax",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/business-tax-corporation-tax-payments-and-refunds",
+        "api_url": "https://www.gov.uk/api/content/money/business-tax-corporation-tax-payments-and-refunds",
+        "base_path": "/money/business-tax-corporation-tax-payments-and-refunds",
+        "content_id": "e19a4a42-727d-4d97-aca7-fbf449a3bd72",
+        "details": {
+          "internal_name": "Payments and refunds [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/corporation-tax",
+              "api_url": "https://www.gov.uk/api/content/money/corporation-tax",
+              "base_path": "/money/corporation-tax",
+              "content_id": "386180ca-4219-478e-8b80-a271dd5ce5f2",
+              "details": {
+                "internal_name": "Corporation Tax [T] (Level 3 money)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money/business-tax",
+                    "api_url": "https://www.gov.uk/api/content/money/business-tax",
+                    "base_path": "/money/business-tax",
+                    "content_id": "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+                    "details": {
+                      "internal_name": "Business tax [T] (level 2, money)",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/money",
+                          "api_url": "https://www.gov.uk/api/content/money",
+                          "base_path": "/money",
+                          "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Money",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T20:35:25Z",
+                          "schema_name": "taxon",
+                          "title": "Money",
+                          "web_url": "https://www.gov.uk/money",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-05T16:19:49Z",
+                    "schema_name": "taxon",
+                    "title": "Business tax",
+                    "web_url": "https://www.gov.uk/money/business-tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:52Z",
+              "schema_name": "taxon",
+              "title": "Corporation Tax",
+              "web_url": "https://www.gov.uk/money/corporation-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:52Z",
+        "schema_name": "taxon",
+        "title": "Payments and refunds",
+        "web_url": "https://www.gov.uk/money/business-tax-corporation-tax-payments-and-refunds",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/business-and-industry/running-a-business",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+        "base_path": "/business-and-industry/running-a-business",
+        "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+        "details": {
+          "internal_name": "Running a business",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry",
+              "base_path": "/business-and-industry",
+              "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+              "description": "",
+              "details": {
+                "internal_name": "Business and industry",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Business and industry",
+              "web_url": "https://www.gov.uk/business-and-industry",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:02Z",
+        "schema_name": "taxon",
+        "title": "Running a business",
+        "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/corporation-tax",
+        "api_url": "https://www.gov.uk/api/content/money/corporation-tax",
+        "base_path": "/money/corporation-tax",
+        "content_id": "386180ca-4219-478e-8b80-a271dd5ce5f2",
+        "details": {
+          "internal_name": "Corporation Tax [T] (Level 3 money)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/business-tax",
+              "api_url": "https://www.gov.uk/api/content/money/business-tax",
+              "base_path": "/money/business-tax",
+              "content_id": "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+              "details": {
+                "internal_name": "Business tax [T] (level 2, money)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:49Z",
+              "schema_name": "taxon",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/money/business-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:52Z",
+        "schema_name": "taxon",
+        "title": "Corporation Tax",
+        "web_url": "https://www.gov.uk/money/corporation-tax",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-12-18T12:09:24Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "29598-1628759608.798-10.13.2.197-9936",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Get a refund or interest on your Corporation Tax",
+  "updated_at": "2024-02-12T14:09:09Z",
+  "withdrawn_notice": {
+  }
+}

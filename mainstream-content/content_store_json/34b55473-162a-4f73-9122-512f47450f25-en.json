@@ -1,0 +1,542 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/recover-debt-from-eu",
+  "content_id": "34b55473-162a-4f73-9122-512f47450f25",
+  "description": "Debt recovery if you're owed money from people or businesses in an EU country.",
+  "details": {
+    "body": "<p>You can no longer make a European Payment Order or use the European Small Claims procedure to recover money you’re owed by someone in an EU country.</p>\n\n<p><a href=\"/find-a-legal-adviser\">Get legal advice</a> if you need to recover debt from a person or a business in an EU country.</p>\n\n<h2 id=\"if-youve-already-started-a-claim\">If you’ve already started a claim</h2>\n\n<p>You can complete existing <a rel=\"external\" href=\"https://beta.e-justice.europa.eu/41/EN/european_payment_order\">European Payment Order</a> claims and <a rel=\"external\" href=\"https://beta.e-justice.europa.eu/42/EN/small_claims\">European Small Claims</a> that you started before 11pm on 31 December 2020.</p>\n\n<p>Find out more about <a href=\"/government/publications/make-a-cross-border-claim-in-the-eu-ex725\">completing a cross-border claim with an EU country</a>.</p>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-07-11T15:22:20Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/recover-debt-from-eu",
+        "api_url": "https://www.gov.uk/api/content/recover-debt-from-eu",
+        "base_path": "/recover-debt-from-eu",
+        "content_id": "34b55473-162a-4f73-9122-512f47450f25",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-07-13T23:01:00Z",
+        "schema_name": "answer",
+        "title": "Recover debt from an EU country",
+        "web_url": "https://www.gov.uk/recover-debt-from-eu",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/funding-debt",
+        "api_url": "https://www.gov.uk/api/content/browse/business/funding-debt",
+        "base_path": "/browse/business/funding-debt",
+        "content_id": "8c5661a7-dc03-4d80-8f66-69798c2f4dde",
+        "description": "Includes bankruptcy, insolvency and recovering debt",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-18T16:02:29Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/business/funding-debt",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+        "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+        "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-05T14:07:55Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/make-a-cross-border-claim",
+        "api_url": "https://www.gov.uk/api/content/needs/make-a-cross-border-claim",
+        "base_path": "/needs/make-a-cross-border-claim",
+        "content_id": "bc93c836-99a8-499f-9988-0ecc3289066c",
+        "details": {
+          "benefit": "I get my money or property back legally",
+          "goal": "make a cross border claim ",
+          "justifications": [
+            "It's something only government does",
+            "It's inherent to a person's or an organisation's rights and obligations",
+            "It's something that people can do or it's something people need to know before they can do something that's regulated by/related to government",
+            "It's something the government provides/does/pays for"
+          ],
+          "met_when": [
+            "knows how to make a cross border claim",
+            "know that you'll have to pay a court fee",
+            "know about European Small claims procedures"
+          ],
+          "role": "creditor of a EU company that owes me money"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a creditor of a EU company that owes me money, I need to make a cross border claim, so that I get my money or property back legally (103546)",
+        "web_url": "https://www.gov.uk/needs/make-a-cross-border-claim",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/make-court-claim-for-money",
+        "api_url": "https://www.gov.uk/api/content/make-court-claim-for-money",
+        "base_path": "/make-court-claim-for-money",
+        "content_id": "6fc19509-621a-4b61-8294-49a756d24ced",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/funding-debt",
+              "api_url": "https://www.gov.uk/api/content/browse/business/funding-debt",
+              "base_path": "/browse/business/funding-debt",
+              "content_id": "8c5661a7-dc03-4d80-8f66-69798c2f4dde",
+              "description": "Includes bankruptcy, insolvency and recovering debt",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:29Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business debt and bankruptcy",
+              "web_url": "https://www.gov.uk/browse/business/funding-debt",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/justice/courts-sentencing-tribunals",
+              "api_url": "https://www.gov.uk/api/content/browse/justice/courts-sentencing-tribunals",
+              "base_path": "/browse/justice/courts-sentencing-tribunals",
+              "content_id": "6a7a5105-b09c-44ab-af8c-be64b20a0068",
+              "description": "Includes going to court, paying fines, appealing a sentence, jury service and tribunals",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/justice",
+                    "api_url": "https://www.gov.uk/api/content/browse/justice",
+                    "base_path": "/browse/justice",
+                    "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+                    "description": "Legal processes, courts and the police",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2022-04-06T18:09:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Crime, justice and the law",
+                    "web_url": "https://www.gov.uk/browse/justice",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:21Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Courts, tribunals and appeals",
+              "web_url": "https://www.gov.uk/browse/justice/courts-sentencing-tribunals",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+              "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+              "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+              "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-10-05T14:07:55Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Court claims, debt and bankruptcy",
+              "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-09T00:01:05Z",
+        "schema_name": "guide",
+        "title": "Make a court claim for money",
+        "web_url": "https://www.gov.uk/make-court-claim-for-money",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA73",
+        "api_path": "/api/content/government/organisations/hm-courts-and-tribunals-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-courts-and-tribunals-service",
+        "base_path": "/government/organisations/hm-courts-and-tribunals-service",
+        "content_id": "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+        "details": {
+          "acronym": "HMCTS",
+          "brand": "ministry-of-justice",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "HM Courts &amp; <br/>Tribunals Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Courts & Tribunals Service",
+        "web_url": "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+        "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+        "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-05T14:07:55Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/make-court-claim-for-money",
+        "api_url": "https://www.gov.uk/api/content/make-court-claim-for-money",
+        "base_path": "/make-court-claim-for-money",
+        "content_id": "6fc19509-621a-4b61-8294-49a756d24ced",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-09T00:01:05Z",
+        "schema_name": "guide",
+        "title": "Make a court claim for money",
+        "web_url": "https://www.gov.uk/make-court-claim-for-money",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/options-if-youre-owed-money",
+        "api_url": "https://www.gov.uk/api/content/options-if-youre-owed-money",
+        "base_path": "/options-if-youre-owed-money",
+        "content_id": "8491c423-f9d3-41c5-8908-736cb88b9cf2",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-08-21T10:00:42Z",
+        "schema_name": "answer",
+        "title": "Options if you're owed money",
+        "web_url": "https://www.gov.uk/options-if-youre-owed-money",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/wind-up-a-company-that-owes-you-money",
+        "api_url": "https://www.gov.uk/api/content/wind-up-a-company-that-owes-you-money",
+        "base_path": "/wind-up-a-company-that-owes-you-money",
+        "content_id": "64135ddf-7e6d-4d64-a917-77199bfeb34d",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-28T15:59:19Z",
+        "schema_name": "guide",
+        "title": "Wind up a company that owes you money",
+        "web_url": "https://www.gov.uk/wind-up-a-company-that-owes-you-money",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/county-court-judgments-ccj-for-debt",
+        "api_url": "https://www.gov.uk/api/content/county-court-judgments-ccj-for-debt",
+        "base_path": "/county-court-judgments-ccj-for-debt",
+        "content_id": "554200d7-13e7-48bd-bd71-ad3e8f37ff0c",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-03T15:39:29Z",
+        "schema_name": "guide",
+        "title": "County court judgments for debt",
+        "web_url": "https://www.gov.uk/county-court-judgments-ccj-for-debt",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/business-debt-and-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/business-debt-and-bankruptcy",
+        "base_path": "/business-and-industry/business-debt-and-bankruptcy",
+        "content_id": "a1119685-ffef-4417-a3e4-116014ad4523",
+        "details": {
+          "internal_name": "Business debt and bankruptcy",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/running-a-business",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+              "base_path": "/business-and-industry/running-a-business",
+              "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+              "details": {
+                "internal_name": "Running a business",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                    "base_path": "/business-and-industry",
+                    "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Business and industry",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Business and industry",
+                    "web_url": "https://www.gov.uk/business-and-industry",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Running a business",
+              "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:02Z",
+        "schema_name": "taxon",
+        "title": "Business debt and bankruptcy",
+        "web_url": "https://www.gov.uk/business-and-industry/business-debt-and-bankruptcy",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/money/court-claims-debt-bankruptcy",
+        "base_path": "/money/court-claims-debt-bankruptcy",
+        "content_id": "7c4cf197-2dba-4a82-83e2-6c8bb332525c",
+        "details": {
+          "internal_name": "Court claims, debt and bankruptcy [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money",
+              "api_url": "https://www.gov.uk/api/content/money",
+              "base_path": "/money",
+              "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+              "description": "",
+              "details": {
+                "internal_name": "Money",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:35:25Z",
+              "schema_name": "taxon",
+              "title": "Money",
+              "web_url": "https://www.gov.uk/money",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:49Z",
+        "schema_name": "taxon",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/money/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-07-13T23:01:00Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "2988-1608640516.795-10.13.3.253-7690",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Recover debt from an EU country",
+  "updated_at": "2024-03-06T12:18:29Z",
+  "withdrawn_notice": {
+  }
+}

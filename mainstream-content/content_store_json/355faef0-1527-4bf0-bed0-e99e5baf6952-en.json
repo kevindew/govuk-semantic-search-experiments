@@ -1,0 +1,926 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/ask-export-support-team",
+  "content_id": "355faef0-1527-4bf0-bed0-e99e5baf6952",
+  "description": "Ask the UK government export support team a question to help your UK business export goods or services.",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+      {
+        "title": "Find your local trade office",
+        "url": "https://www.great.gov.uk/contact/office-finder/"
+      }
+    ],
+    "introductory_paragraph": "<p>Contact the export support team if you’re a UK business selling goods or services to any market in the world except Ukraine, Russia, Belarus, Israel or the Occupied Palestinian Territories.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>There are different services for questions about trading with <a rel=\"external\" href=\"https://www.get-help-selling-goods-services-abroad.service.gov.uk/russia-ukraine/enquiry-form\">Ukraine, Russia, and Belarus</a> or <a rel=\"external\" href=\"https://www.get-help-selling-goods-services-abroad.service.gov.uk/israel-palestine/enquiry-form\">Israel and the Occupied Palestinian Territories</a>.</p>\n</div>\n\n<p>You can ask any question for your business, including on:</p>\n\n<ul>\n  <li>exporting to new markets</li>\n  <li>paperwork you need to sell your goods abroad</li>\n  <li>rules for a specific market where you want to sell services</li>\n</ul>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.get-help-selling-goods-services-abroad.service.gov.uk/",
+    "variants": [
+
+    ],
+    "what_you_need_to_know": "<p>The export support team will reply within 3 working days. They might contact you for more information or to arrange a call.</p>\n",
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2021-07-22T15:46:43Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/ask-export-support-team",
+        "api_url": "https://www.gov.uk/api/content/ask-export-support-team",
+        "base_path": "/ask-export-support-team",
+        "content_id": "355faef0-1527-4bf0-bed0-e99e5baf6952",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-09-30T23:01:01Z",
+        "schema_name": "transaction",
+        "title": "Ask the export support team a question",
+        "web_url": "https://www.gov.uk/ask-export-support-team",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/brexit-guidance",
+        "api_url": "https://www.gov.uk/api/content/government/collections/brexit-guidance",
+        "base_path": "/government/collections/brexit-guidance",
+        "content_id": "479cd15b-680f-4fbe-bc64-55058879957e",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/ask-export-support-team",
+              "api_url": "https://www.gov.uk/api/content/ask-export-support-team",
+              "base_path": "/ask-export-support-team",
+              "content_id": "355faef0-1527-4bf0-bed0-e99e5baf6952",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-09-30T23:01:01Z",
+              "schema_name": "transaction",
+              "title": "Ask the export support team a question",
+              "web_url": "https://www.gov.uk/ask-export-support-team",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-04-05T08:09:16Z",
+        "schema_name": "document_collection",
+        "title": "Travel or do business in Europe: Brexit guidance",
+        "web_url": "https://www.gov.uk/government/collections/brexit-guidance",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/exports",
+        "api_url": "https://www.gov.uk/api/content/browse/business/exports",
+        "base_path": "/browse/business/exports",
+        "content_id": "2d9131f5-d1a8-4f0c-b087-53ea0adfd160",
+        "description": "Includes moving goods in the EU and commodity codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Exporting and doing business abroad",
+        "web_url": "https://www.gov.uk/browse/business/exports",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/check-how-to-import-export",
+        "api_url": "https://www.gov.uk/api/content/check-how-to-import-export",
+        "base_path": "/check-how-to-import-export",
+        "content_id": "1eeb7129-f951-4249-b29d-ed63570a1220",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/exports",
+              "api_url": "https://www.gov.uk/api/content/browse/business/exports",
+              "base_path": "/browse/business/exports",
+              "content_id": "2d9131f5-d1a8-4f0c-b087-53ea0adfd160",
+              "description": "Includes moving goods in the EU and commodity codes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:40Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Exporting and doing business abroad",
+              "web_url": "https://www.gov.uk/browse/business/exports",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/business/imports",
+              "api_url": "https://www.gov.uk/api/content/browse/business/imports",
+              "base_path": "/browse/business/imports",
+              "content_id": "26df9466-7d33-4c1e-924f-eeafa7db96b4",
+              "description": "Includes moving goods in the EU and commodity codes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:40Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Importing",
+              "web_url": "https://www.gov.uk/browse/business/imports",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-03-15T12:17:36Z",
+        "schema_name": "answer",
+        "title": "Check how to import or export goods",
+        "web_url": "https://www.gov.uk/check-how-to-import-export",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-duties-customs-exporting",
+        "api_url": "https://www.gov.uk/api/content/check-duties-customs-exporting",
+        "base_path": "/check-duties-customs-exporting",
+        "content_id": "bec35f0c-d801-4aa7-9ded-361bc148e597",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/exports",
+              "api_url": "https://www.gov.uk/api/content/browse/business/exports",
+              "base_path": "/browse/business/exports",
+              "content_id": "2d9131f5-d1a8-4f0c-b087-53ea0adfd160",
+              "description": "Includes moving goods in the EU and commodity codes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:40Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Exporting and doing business abroad",
+              "web_url": "https://www.gov.uk/browse/business/exports",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-02-11T10:51:16Z",
+        "schema_name": "transaction",
+        "title": "Check duties and customs procedures for exporting goods",
+        "web_url": "https://www.gov.uk/check-duties-customs-exporting",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/research-export-markets",
+        "api_url": "https://www.gov.uk/api/content/research-export-markets",
+        "base_path": "/research-export-markets",
+        "content_id": "e4717c05-761e-4323-9a81-3dacf2adaaa0",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/exports",
+              "api_url": "https://www.gov.uk/api/content/browse/business/exports",
+              "base_path": "/browse/business/exports",
+              "content_id": "2d9131f5-d1a8-4f0c-b087-53ea0adfd160",
+              "description": "Includes moving goods in the EU and commodity codes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:40Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Exporting and doing business abroad",
+              "web_url": "https://www.gov.uk/browse/business/exports",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-01-23T10:15:02Z",
+        "schema_name": "answer",
+        "title": "Get help researching export markets",
+        "web_url": "https://www.gov.uk/research-export-markets",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/overseas-customers-export-opportunities",
+        "api_url": "https://www.gov.uk/api/content/overseas-customers-export-opportunities",
+        "base_path": "/overseas-customers-export-opportunities",
+        "content_id": "8e9b03c4-ab8c-4c24-b0f9-2e1933c387f4",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/exports",
+              "api_url": "https://www.gov.uk/api/content/browse/business/exports",
+              "base_path": "/browse/business/exports",
+              "content_id": "2d9131f5-d1a8-4f0c-b087-53ea0adfd160",
+              "description": "Includes moving goods in the EU and commodity codes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:40Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Exporting and doing business abroad",
+              "web_url": "https://www.gov.uk/browse/business/exports",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-20T14:44:57Z",
+        "schema_name": "guide",
+        "title": "Find overseas customers and export opportunities",
+        "web_url": "https://www.gov.uk/overseas-customers-export-opportunities",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/taking-humanitarian-aid-out-of-great-britain-to-support-ukraine",
+        "api_url": "https://www.gov.uk/api/content/guidance/taking-humanitarian-aid-out-of-great-britain-to-support-ukraine",
+        "base_path": "/guidance/taking-humanitarian-aid-out-of-great-britain-to-support-ukraine",
+        "content_id": "0ea26b38-7858-46f3-8774-72aaffbdf9be",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-03-22T11:33:10Z",
+        "schema_name": "detailed_guide",
+        "title": "Taking humanitarian aid out of Great Britain to support Ukraine",
+        "web_url": "https://www.gov.uk/guidance/taking-humanitarian-aid-out-of-great-britain-to-support-ukraine",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1382",
+        "api_path": "/api/content/government/organisations/department-for-business-and-trade",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-business-and-trade",
+        "base_path": "/government/organisations/department-for-business-and-trade",
+        "content_id": "aa750cdf-7925-429d-a2b3-0d9fa47d2c48",
+        "details": {
+          "acronym": "DBT",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/64539946faf4aa0012e132d1/s960_DBT_Plaque-2.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/64539946c33b46000cf5e655/s300_DBT_Plaque-2.jpg"
+          },
+          "logo": {
+            "crest": "dbt",
+            "formatted_title": "Department for<br/>Business &amp; Trade"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Business and Trade",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D1196",
+        "api_path": "/api/content/government/organisations/department-for-international-trade",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-international-trade",
+        "base_path": "/government/organisations/department-for-international-trade",
+        "content_id": "082092f1-656c-470e-b024-229dc6e750e9",
+        "details": {
+          "acronym": "DIT",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dabee5274a7908e3521d/s960_Flight-Path-World-govuk.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dabeed915d5a62fdc6ba/s300_Flight-Path-World-govuk.jpg"
+          },
+          "logo": {
+            "crest": "dbt",
+            "formatted_title": "Department for<br/>International Trade"
+          },
+          "organisation_govuk_status": {
+            "status": "replaced",
+            "updated_at": null,
+            "url": ""
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for International Trade",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-international-trade",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/exports",
+        "api_url": "https://www.gov.uk/api/content/browse/business/exports",
+        "base_path": "/browse/business/exports",
+        "content_id": "2d9131f5-d1a8-4f0c-b087-53ea0adfd160",
+        "description": "Includes moving goods in the EU and commodity codes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Exporting and doing business abroad",
+        "web_url": "https://www.gov.uk/browse/business/exports",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/brexit",
+        "api_url": "https://www.gov.uk/api/content/brexit",
+        "base_path": "/brexit",
+        "content_id": "d6c2de5d-ef90-45d1-82d4-5f2438369eea",
+        "description": "Find out how new Brexit rules apply to things like travel and doing business with Europe.",
+        "details": {
+          "internal_name": "Brexit",
+          "notes_for_editors": "",
+          "url_override": "/government/collections/brexit-guidance",
+          "visible_to_departmental_editors": true
+        },
+        "document_type": "taxon",
+        "links": {
+          "root_taxon": [
+            {
+              "api_path": "/api/content/",
+              "api_url": "https://www.gov.uk/api/content/",
+              "base_path": "/",
+              "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+              "document_type": "homepage",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-06-28T09:32:34Z",
+              "schema_name": "homepage",
+              "title": "GOV.UK homepage",
+              "web_url": "https://www.gov.uk/",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2022-03-28T13:06:30Z",
+        "schema_name": "taxon",
+        "title": "Brexit",
+        "web_url": "https://www.gov.uk/brexit",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/business-and-industry/customs-declarations-duties-tariffs",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/customs-declarations-duties-tariffs",
+        "base_path": "/business-and-industry/customs-declarations-duties-tariffs",
+        "content_id": "5984199c-d85c-4ffc-b13a-c5f2482d2258",
+        "description": "",
+        "details": {
+          "internal_name": "Customs declarations, duties and tariffs (import and export)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/trade-and-investment",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/trade-and-investment",
+              "base_path": "/business-and-industry/trade-and-investment",
+              "content_id": "ed2ca1f7-5463-4eda-9324-b597e269e242",
+              "details": {
+                "internal_name": "Trade and investment",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                    "base_path": "/business-and-industry",
+                    "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Business and industry",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Business and industry",
+                    "web_url": "https://www.gov.uk/business-and-industry",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:05Z",
+              "schema_name": "taxon",
+              "title": "Trade and investment",
+              "web_url": "https://www.gov.uk/business-and-industry/trade-and-investment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-07T09:44:16Z",
+        "schema_name": "taxon",
+        "title": "Customs declarations, duties and tariffs (import and export)",
+        "web_url": "https://www.gov.uk/business-and-industry/customs-declarations-duties-tariffs",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/business-and-industry/exporting",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/exporting",
+        "base_path": "/business-and-industry/exporting",
+        "content_id": "efa9782b-a3d0-4ca0-9c92-3b89748175b7",
+        "details": {
+          "internal_name": "Exporting",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/trade-and-investment",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/trade-and-investment",
+              "base_path": "/business-and-industry/trade-and-investment",
+              "content_id": "ed2ca1f7-5463-4eda-9324-b597e269e242",
+              "details": {
+                "internal_name": "Trade and investment",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                    "base_path": "/business-and-industry",
+                    "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Business and industry",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Business and industry",
+                    "web_url": "https://www.gov.uk/business-and-industry",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:05Z",
+              "schema_name": "taxon",
+              "title": "Trade and investment",
+              "web_url": "https://www.gov.uk/business-and-industry/trade-and-investment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:06Z",
+        "schema_name": "taxon",
+        "title": "Exporting",
+        "web_url": "https://www.gov.uk/business-and-industry/exporting",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/business-tax-vat-exporting-goods-and-services",
+        "api_url": "https://www.gov.uk/api/content/money/business-tax-vat-exporting-goods-and-services",
+        "base_path": "/money/business-tax-vat-exporting-goods-and-services",
+        "content_id": "8af13fba-d969-4d87-a02e-2e71783d47be",
+        "details": {
+          "internal_name": "Exporting goods and services [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/vat",
+              "api_url": "https://www.gov.uk/api/content/money/vat",
+              "base_path": "/money/vat",
+              "content_id": "e04c9a5c-88e8-46e5-91d9-add405e098fb",
+              "details": {
+                "internal_name": "VAT [T] (level 3, money)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money/business-tax",
+                    "api_url": "https://www.gov.uk/api/content/money/business-tax",
+                    "base_path": "/money/business-tax",
+                    "content_id": "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+                    "details": {
+                      "internal_name": "Business tax [T] (level 2, money)",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/money",
+                          "api_url": "https://www.gov.uk/api/content/money",
+                          "base_path": "/money",
+                          "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Money",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T20:35:25Z",
+                          "schema_name": "taxon",
+                          "title": "Money",
+                          "web_url": "https://www.gov.uk/money",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-05T16:19:49Z",
+                    "schema_name": "taxon",
+                    "title": "Business tax",
+                    "web_url": "https://www.gov.uk/money/business-tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:52Z",
+              "schema_name": "taxon",
+              "title": "VAT",
+              "web_url": "https://www.gov.uk/money/vat",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:52Z",
+        "schema_name": "taxon",
+        "title": "Exporting goods and services",
+        "web_url": "https://www.gov.uk/money/business-tax-vat-exporting-goods-and-services",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/business-and-industry/trade-restrictions-on-exports",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/trade-restrictions-on-exports",
+        "base_path": "/business-and-industry/trade-restrictions-on-exports",
+        "content_id": "598b403a-b16d-470e-acca-74b7e1d2ed3f",
+        "details": {
+          "internal_name": "Trade restrictions on exports",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/exporting",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/exporting",
+              "base_path": "/business-and-industry/exporting",
+              "content_id": "efa9782b-a3d0-4ca0-9c92-3b89748175b7",
+              "details": {
+                "internal_name": "Exporting",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry/trade-and-investment",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry/trade-and-investment",
+                    "base_path": "/business-and-industry/trade-and-investment",
+                    "content_id": "ed2ca1f7-5463-4eda-9324-b597e269e242",
+                    "details": {
+                      "internal_name": "Trade and investment",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/business-and-industry",
+                          "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                          "base_path": "/business-and-industry",
+                          "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Business and industry",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-03T15:41:02Z",
+                          "schema_name": "taxon",
+                          "title": "Business and industry",
+                          "web_url": "https://www.gov.uk/business-and-industry",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:05Z",
+                    "schema_name": "taxon",
+                    "title": "Trade and investment",
+                    "web_url": "https://www.gov.uk/business-and-industry/trade-and-investment",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:06Z",
+              "schema_name": "taxon",
+              "title": "Exporting",
+              "web_url": "https://www.gov.uk/business-and-industry/exporting",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:06Z",
+        "schema_name": "taxon",
+        "title": "Trade restrictions on exports",
+        "web_url": "https://www.gov.uk/business-and-industry/trade-restrictions-on-exports",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2021-09-30T23:01:01Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1709121744.833-10.13.21.74-8588",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Ask the export support team a question",
+  "updated_at": "2024-03-01T13:23:36Z",
+  "withdrawn_notice": {
+  }
+}

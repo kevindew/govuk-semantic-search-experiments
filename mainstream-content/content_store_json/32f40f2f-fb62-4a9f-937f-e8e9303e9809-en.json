@@ -1,0 +1,328 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/register-406-beacons",
+  "content_id": "32f40f2f-fb62-4a9f-937f-e8e9303e9809",
+  "description": "Register a UK 406 MHz emergency beacon",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>A UK 406 megahertz (MHz) beacon sends a distress signal to alert search and rescue authorities to your location.</p>\n\n<p>Use this service to:</p>\n\n<ul>\n  <li>register a UK 406 MHz beacon</li>\n  <li>update your beacon registration details</li>\n  <li>update your vessel or aircraft details</li>\n</ul>\n\n<p>You can register the following types of UK 406 MHz beacon:</p>\n\n<ul>\n  <li>Personal Locator Beacon (PLB), for any use</li>\n  <li>Emergency Position Indicating Radio Beacon (EPIRB) or Simplified Voyage-Data Recorder, for maritime use</li>\n  <li>Emergency Locator Transmitter (ELT) or ELT dongle, for aircraft use</li>\n</ul>\n\n<p>Registering is free and takes around 15 minutes.</p>\n\n",
+    "more_information": "<p>You’ll need:</p>\n\n<ul>\n  <li>the beacon Hexadecimal Identification (<abbr title=\"Hexadecimal Identification\">HEX ID</abbr>) or Unique Identifying Number (<abbr title=\"Unique Identifying Number\">UIN</abbr>), manufacturer serial number and model</li>\n  <li>an emergency contact for search and rescue authorities </li>\n  <li>if you have a vessel - your vessel name, number, call sign, Maritime Mobile Service Identity (<abbr title=\"Maritime Mobile Service Identity\">MMSI</abbr>) number, and details of the radio communications equipment you use</li>\n  <li>if you have an aircraft - your aircraft make, model, registration mark, and details of the radio communications equipment you use</li>\n</ul>\n\n<h2 id=\"other-ways-to-apply\">Other ways to apply</h2>\n\n<p>Contact the UK Beacon Registry team to:</p>\n\n<ul>\n  <li>get help registering online</li>\n  <li>register multiple beacons at once</li>\n  <li>register by post</li>\n</ul>\n\n<div class=\"contact\">\n<p>The UK Beacon Registry<br>\n<a href=\"mailto:ukbeacons@mcga.gov.uk\">ukbeacons@mcga.gov.uk</a><br>\nTelephone: +44 (0)20 3817 2006 <br>\nFax: +44 (0)1326 319264<br>\nMonday to Friday, 9am to 5pm (except public holidays)   <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://register-406-beacons.service.gov.uk/account/sign-up-or-sign-in",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2021-11-04T14:36:14Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/register-406-beacons",
+        "api_url": "https://www.gov.uk/api/content/register-406-beacons",
+        "base_path": "/register-406-beacons",
+        "content_id": "32f40f2f-fb62-4a9f-937f-e8e9303e9809",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-11-04T14:36:14Z",
+        "schema_name": "transaction",
+        "title": "Register a UK 406 MHz beacon",
+        "web_url": "https://www.gov.uk/register-406-beacons",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/maritime",
+        "api_url": "https://www.gov.uk/api/content/browse/business/maritime",
+        "base_path": "/browse/business/maritime",
+        "content_id": "206cab77-67ee-43d4-bdba-9291ff374bba",
+        "description": "Includes health and safety onboard, crew, registering vessels",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-05-09T12:37:35Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Maritime vessels and work at sea",
+        "web_url": "https://www.gov.uk/browse/business/maritime",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/health-and-safety-on-ships",
+        "api_url": "https://www.gov.uk/api/content/health-and-safety-on-ships",
+        "base_path": "/health-and-safety-on-ships",
+        "content_id": "4f8eaa3e-2561-4284-b0e0-3a629510f3c8",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/health-safety",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/health-safety",
+              "base_path": "/browse/employing-people/health-safety",
+              "content_id": "1a1c2c64-0c37-4ff8-b48c-98c4e236e059",
+              "description": "Accidents, health and safety law and workplace conditions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:41Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Health and safety at work",
+              "web_url": "https://www.gov.uk/browse/employing-people/health-safety",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-02T11:34:56Z",
+        "schema_name": "guide",
+        "title": "Health and safety on ships",
+        "web_url": "https://www.gov.uk/health-and-safety-on-ships",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/emergency-and-lifesaving-equipment-on-ships",
+        "api_url": "https://www.gov.uk/api/content/emergency-and-lifesaving-equipment-on-ships",
+        "base_path": "/emergency-and-lifesaving-equipment-on-ships",
+        "content_id": "830a082d-3410-4140-945b-d9d0fef14de2",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/maritime",
+              "api_url": "https://www.gov.uk/api/content/browse/business/maritime",
+              "base_path": "/browse/business/maritime",
+              "content_id": "206cab77-67ee-43d4-bdba-9291ff374bba",
+              "description": "Includes health and safety onboard, crew, registering vessels",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2017-05-09T12:37:35Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Maritime vessels and work at sea",
+              "web_url": "https://www.gov.uk/browse/business/maritime",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-12-04T13:50:09Z",
+        "schema_name": "guide",
+        "title": "Emergency and life-saving equipment on ships",
+        "web_url": "https://www.gov.uk/emergency-and-lifesaving-equipment-on-ships",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/seafarer-working-and-living-rights",
+        "api_url": "https://www.gov.uk/api/content/seafarer-working-and-living-rights",
+        "base_path": "/seafarer-working-and-living-rights",
+        "content_id": "ccfacbfc-53e2-48c6-a7d0-1fc5cba1c0ff",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/maritime",
+              "api_url": "https://www.gov.uk/api/content/browse/business/maritime",
+              "base_path": "/browse/business/maritime",
+              "content_id": "206cab77-67ee-43d4-bdba-9291ff374bba",
+              "description": "Includes health and safety onboard, crew, registering vessels",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2017-05-09T12:37:35Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Maritime vessels and work at sea",
+              "web_url": "https://www.gov.uk/browse/business/maritime",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-09-09T13:30:45Z",
+        "schema_name": "guide",
+        "title": "Seafarer working and living rights",
+        "web_url": "https://www.gov.uk/seafarer-working-and-living-rights",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA78",
+        "api_path": "/api/content/government/organisations/maritime-and-coastguard-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/maritime-and-coastguard-agency",
+        "base_path": "/government/organisations/maritime-and-coastguard-agency",
+        "content_id": "23a24aa8-1711-42b6-bf6b-47af0f230295",
+        "details": {
+          "acronym": "MCA",
+          "brand": "department-for-transport",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/62e3849dd3bf7f75b10cf8bd/s960_coastguard-coordination-centre.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/62e3849ed3bf7f75bb0e4449/s300_coastguard-coordination-centre.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Maritime &amp;<br/>Coastguard <br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Maritime and Coastguard Agency",
+        "web_url": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/maritime",
+        "api_url": "https://www.gov.uk/api/content/browse/business/maritime",
+        "base_path": "/browse/business/maritime",
+        "content_id": "206cab77-67ee-43d4-bdba-9291ff374bba",
+        "description": "Includes health and safety onboard, crew, registering vessels",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-05-09T12:37:35Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Maritime vessels and work at sea",
+        "web_url": "https://www.gov.uk/browse/business/maritime",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2021-11-04T14:36:14Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "25862-1636036574.418-10.13.1.43-9401",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Register a UK 406 MHz beacon",
+  "updated_at": "2024-01-20T00:59:36Z",
+  "withdrawn_notice": {
+  }
+}

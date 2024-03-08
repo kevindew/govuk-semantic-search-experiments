@@ -1,0 +1,212 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/change-address-v5c",
+  "content_id": "872d95dd-b1db-4cdb-9db6-2259146d0f85",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "promotion": {
+      "category": "organ_donor",
+      "opt_in_url": "",
+      "opt_out_url": "",
+      "url": "https://www.organdonation.nhs.uk/register-your-decision/donate/?campaign=2442&utm_source=dvla_change_add_v5c&utm_medium=referral&utm_campaign=partner&utm_content=web_endoftransaction&utm_term=allaudiences"
+    }
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2020-06-15T06:00:02Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/change-address-v5c",
+        "api_url": "https://www.gov.uk/api/content/done/change-address-v5c",
+        "base_path": "/done/change-address-v5c",
+        "content_id": "872d95dd-b1db-4cdb-9db6-2259146d0f85",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-08-26T12:44:55Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Change your address on your vehicle log book (V5C)",
+        "web_url": "https://www.gov.uk/done/change-address-v5c",
+        "withdrawn": false
+      }
+    ],
+    "part_of_step_navs": [
+      {
+        "api_path": "/api/content/tell-dvla-changed-address",
+        "api_url": "https://www.gov.uk/api/content/tell-dvla-changed-address",
+        "base_path": "/tell-dvla-changed-address",
+        "content_id": "c1f13d41-ed7f-44a3-be11-fd95525ddf40",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "text": "You must update your provisional or full driving licence when you move.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/change-address-driving-licence",
+                        "text": "Change the address on your driving licence"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Update your driving licence"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must update a vehicle's log book if you're the registered keeper.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/change-address-v5c",
+                        "text": "Change the address on your vehicle's log book"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Update your vehicle's log book (V5C)"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "If you pay for your vehicle tax by Direct Debit, you need to tell DVLA when you change address.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/contact-the-dvla/y/vehicle-tax-and-sorn",
+                        "text": "Phone DVLA to tell them you've moved"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Update your Direct Debit"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "If you have a private registration number and it's not on a vehicle, you must update your V750 or V778 documents.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/personalised-vehicle-registration-numbers/change-your-name-and-address",
+                        "text": "Update your personalised registration documents"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Update your personalised number plate documents"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "If you have a trailer and want to continue taking it abroad, you must register it to your new address.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/register-trailer-to-take-abroad",
+                        "text": "Change the address on your trailer registration certificate"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Update your trailer registration certificate"
+              }
+            ],
+            "title": "Tell DVLA you've changed address: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/done/change-address-v5c",
+              "api_url": "https://www.gov.uk/api/content/done/change-address-v5c",
+              "base_path": "/done/change-address-v5c",
+              "content_id": "872d95dd-b1db-4cdb-9db6-2259146d0f85",
+              "document_type": "completed_transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2020-08-26T12:44:55Z",
+              "schema_name": "completed_transaction",
+              "title": "Give feedback on Change your address on your vehicle log book (V5C)",
+              "web_url": "https://www.gov.uk/done/change-address-v5c",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-06-19T11:09:53Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Tell DVLA you've changed address: step by step",
+        "web_url": "https://www.gov.uk/tell-dvla-changed-address",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-08-26T12:44:55Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629920.914-10.13.30.3-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Change your address on your vehicle log book (V5C)",
+  "updated_at": "2023-07-21T14:26:02Z",
+  "withdrawn_notice": {
+  }
+}

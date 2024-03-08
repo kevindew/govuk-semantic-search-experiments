@@ -1,0 +1,169 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/accept-refugee-integration-loan",
+  "content_id": "83285e81-d2b7-409e-9c1e-282e470c582d",
+  "description": "If you've been offered a refugee integration loan, accept the loan agreement online to start receiving payments.",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>If you’ve been offered an integration loan, use this service to accept the loan agreement.</p>\n\n<p>You can only use this service if you’ve received an email or letter telling you that your loan application has been successful.</p>\n\n<p>You’ll need your:</p>\n\n<ul>\n  <li>biometric residence permit (BRP)</li>\n  <li>loan reference number - you can find this on you loan offer letter or email</li>\n</ul>\n\n<p>After you accept the agreement, you’ll receive your loan payment.</p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.accept-refugee-integration-loan.service.gov.uk",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2021-09-07T08:00:03Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/accept-refugee-integration-loan",
+        "api_url": "https://www.gov.uk/api/content/accept-refugee-integration-loan",
+        "base_path": "/accept-refugee-integration-loan",
+        "content_id": "83285e81-d2b7-409e-9c1e-282e470c582d",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-09-07T08:31:29Z",
+        "schema_name": "transaction",
+        "title": "Accept a refugee integration loan",
+        "web_url": "https://www.gov.uk/accept-refugee-integration-loan",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/visas-immigration/asylum",
+        "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/asylum",
+        "base_path": "/browse/visas-immigration/asylum",
+        "content_id": "a8c22ca5-ac34-437b-9a5f-67203d8945f8",
+        "description": "Claiming asylum as a refugee, the asylum process and support",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:38Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Seek protection or asylum",
+        "web_url": "https://www.gov.uk/browse/visas-immigration/asylum",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "OT554",
+        "api_path": "/api/content/government/organisations/uk-visas-and-immigration",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/uk-visas-and-immigration",
+        "base_path": "/government/organisations/uk-visas-and-immigration",
+        "content_id": "04148522-b0c1-4137-b687-5f3c3bdd561a",
+        "details": {
+          "acronym": "UKVI",
+          "brand": "home-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "UK Visas and Immigration"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "UK Visas and Immigration",
+        "web_url": "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/visas-immigration/asylum",
+        "api_url": "https://www.gov.uk/api/content/browse/visas-immigration/asylum",
+        "base_path": "/browse/visas-immigration/asylum",
+        "content_id": "a8c22ca5-ac34-437b-9a5f-67203d8945f8",
+        "description": "Claiming asylum as a refugee, the asylum process and support",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/visas-immigration",
+              "api_url": "https://www.gov.uk/api/content/browse/visas-immigration",
+              "base_path": "/browse/visas-immigration",
+              "content_id": "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+              "description": "Apply to visit, work, study, settle or seek asylum in the UK",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-06-03T13:56:26Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Visas and immigration",
+              "web_url": "https://www.gov.uk/browse/visas-immigration",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:38Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Seek protection or asylum",
+        "web_url": "https://www.gov.uk/browse/visas-immigration/asylum",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2021-09-07T08:31:29Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "26611-1631003489.209-10.13.1.43-7961",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Accept a refugee integration loan",
+  "updated_at": "2024-01-22T13:06:50Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,851 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/exchange-foreign-driving-licence",
+  "content_id": "9fd997bc-7646-4d65-a273-11ccc9f87c91",
+  "description": "Find out how to exchange your non-British driving licence for a British licence",
+  "details": {
+    "body": "<p>Use this tool to find out how to exchange your non-British driving licence for a British licence.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There’s a different process if you want to <a rel=\"external\" href=\"http://www.nidirect.gov.uk/index/information-and-services/motoring/driver-licensing/driving-in-ni-on-a-foreign-licence/exchanging-your-foreign-driving-licence.htm\">get a Northern Ireland driving licence</a>.</p>\n</div>\n",
+    "external_related_links": [
+
+    ],
+    "nodes": [
+      {
+        "body": "<p>You’re normally a resident if you live in Great Britain for 185 days in each calendar year.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-2",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-1",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-1",
+        "title": "Are you a resident of Great Britain?"
+      },
+      {
+        "body": "<p>Your licence will say what type of vehicles you can drive.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Car or motorcycle",
+            "next_node": "question-4",
+            "slug": "car-or-motorcycle"
+          },
+          {
+            "label": "Lorry, bus or minibus",
+            "next_node": "question-3",
+            "slug": "lorry-bus-or-minibus"
+          }
+        ],
+        "slug": "question-2",
+        "title": "What kind of licence do you have?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "European Union or European Economic Area",
+            "next_node": "question-6",
+            "slug": "european-union-or-european-economic-area"
+          },
+          {
+            "label": "Switzerland",
+            "next_node": "outcome-19",
+            "slug": "switzerland"
+          },
+          {
+            "label": "Great Britain or Northern Ireland",
+            "next_node": "outcome-5",
+            "slug": "great-britain-or-northern-ireland"
+          },
+          {
+            "label": "Jersey, Guernsey or Isle of Man",
+            "next_node": "outcome-6",
+            "slug": "jersey-guernsey-or-isle-of-man"
+          },
+          {
+            "label": "Gibraltar",
+            "next_node": "outcome-7",
+            "slug": "gibraltar"
+          },
+          {
+            "label": "Other",
+            "next_node": "outcome-8",
+            "slug": "other"
+          }
+        ],
+        "slug": "question-3",
+        "title": "Where did you pass your test?"
+      },
+      {
+        "body": "<p>‘Designated countries or territories’ are: Andorra, Australia, Barbados, British Virgin Islands, Canada, Cayman Islands, Falkland Islands, Faroe Islands, Gibraltar, Hong Kong, Japan, Monaco, New Zealand, Republic of Korea, Republic of North Macedonia, Singapore, South Africa, Switzerland, Taiwan, Ukraine, United Arab Emirates and Zimbabwe.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "European Union or European Economic Area",
+            "next_node": "outcome-9",
+            "slug": "european-union-or-european-economic-area"
+          },
+          {
+            "label": "Great Britain or Northern Ireland",
+            "next_node": "outcome-10",
+            "slug": "great-britain-or-northern-ireland"
+          },
+          {
+            "label": "Jersey, Guernsey or Isle of Man",
+            "next_node": "outcome-11",
+            "slug": "jersey-guernsey-or-isle-of-man"
+          },
+          {
+            "label": "A 'designated country or territory' (countries or territories with exchange agreements with Great Britain)",
+            "next_node": "question-5",
+            "slug": "a-designated-country-or-territory-countries-or-territories-with-exchange-agreements-with-great-britain"
+          },
+          {
+            "label": "Other",
+            "next_node": "outcome-18",
+            "slug": "other"
+          }
+        ],
+        "slug": "question-4",
+        "title": "Where did you pass your test?"
+      },
+      {
+        "body": "<p>Designated countries or territories are countries or territories with exchange agreements with Great Britain.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Andorra",
+            "next_node": "outcome-12",
+            "slug": "andorra"
+          },
+          {
+            "label": "Australia",
+            "next_node": "outcome-20",
+            "slug": "australia"
+          },
+          {
+            "label": "Barbados",
+            "next_node": "outcome-12",
+            "slug": "barbados"
+          },
+          {
+            "label": "British Virgin Islands",
+            "next_node": "outcome-12",
+            "slug": "british-virgin-islands"
+          },
+          {
+            "label": "Canada",
+            "next_node": "outcome-13",
+            "slug": "canada"
+          },
+          {
+            "label": "Cayman Islands",
+            "next_node": "outcome-12",
+            "slug": "cayman-islands"
+          },
+          {
+            "label": "Falkland Islands",
+            "next_node": "outcome-12",
+            "slug": "falkland-islands"
+          },
+          {
+            "label": "Faroe Islands",
+            "next_node": "outcome-14",
+            "slug": "faroe-islands"
+          },
+          {
+            "label": "Gibraltar",
+            "next_node": "outcome-12",
+            "slug": "gibraltar"
+          },
+          {
+            "label": "Hong Kong",
+            "next_node": "outcome-12",
+            "slug": "hong-kong"
+          },
+          {
+            "label": "Japan",
+            "next_node": "outcome-15",
+            "slug": "japan"
+          },
+          {
+            "label": "Monaco",
+            "next_node": "outcome-12",
+            "slug": "monaco"
+          },
+          {
+            "label": "New Zealand",
+            "next_node": "outcome-13",
+            "slug": "new-zealand"
+          },
+          {
+            "label": "Republic of Korea",
+            "next_node": "outcome-16",
+            "slug": "republic-of-korea"
+          },
+          {
+            "label": "Republic of North Macedonia",
+            "next_node": "outcome-23",
+            "slug": "republic-of-north-macedonia"
+          },
+          {
+            "label": "Singapore",
+            "next_node": "outcome-12",
+            "slug": "singapore"
+          },
+          {
+            "label": "South Africa",
+            "next_node": "outcome-17",
+            "slug": "south-africa"
+          },
+          {
+            "label": "Switzerland",
+            "next_node": "outcome-12",
+            "slug": "switzerland"
+          },
+          {
+            "label": "Taiwan",
+            "next_node": "outcome-22",
+            "slug": "taiwan"
+          },
+          {
+            "label": "Ukraine",
+            "next_node": "question-7",
+            "slug": "ukraine"
+          },
+          {
+            "label": "United Arab Emirates",
+            "next_node": "outcome-12",
+            "slug": "united-arab-emirates"
+          },
+          {
+            "label": "Zimbabwe",
+            "next_node": "outcome-12",
+            "slug": "zimbabwe"
+          }
+        ],
+        "slug": "question-5",
+        "title": "Which designated country or territory was your licence issued in?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Under 45",
+            "next_node": "outcome-2",
+            "slug": "under-45"
+          },
+          {
+            "label": "45 to 65",
+            "next_node": "outcome-3",
+            "slug": "45-to-65"
+          },
+          {
+            "label": "66 or over",
+            "next_node": "outcome-4",
+            "slug": "66-or-over"
+          }
+        ],
+        "slug": "question-6",
+        "title": "How old are you?"
+      },
+      {
+        "body": "<p>The Ukraine visa scheme visas are:</p>\n\n<ul>\n  <li>the Ukraine Family Scheme visa</li>\n  <li>the Ukraine Sponsorship Scheme visa</li>\n  <li>the Ukraine Extension Scheme visa</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-24",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-21",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-7",
+        "title": "Do you have a Ukraine visa scheme visa? Or have you had one in the past?"
+      },
+      {
+        "body": "\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You may be able to drive in the UK for up to 12 months on your foreign licence.</p>\n</div>\n\n<p><a href=\"/driving-nongb-licence\">Check if you can drive in the UK on your foreign licence</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-1",
+        "title": "You cannot exchange your driving licence because you're not a resident of Great Britain."
+      },
+      {
+        "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You must <a href=\"/government/publications/application-for-a-driving-licence-counterpart-for-non-gb-licence-holders-form-d9\">register your details</a> with the Driver and Vehicle Licensing Agency (DVLA) within 12 months of becoming resident.</p>\n</div>\n\n<p>After this time you must exchange your licence - the fee is £43. You do not have to retake your test.</p>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D2</a> from DVLA.</p>\n</li>\n<li>\n<p>Send the forms and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-2",
+        "title": "You can drive in Great Britain on your licence until you’re 45, or for 5 years after you become resident in Great Britain, whichever is longer."
+      },
+      {
+        "body": "\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You must <a href=\"/government/publications/application-for-a-driving-licence-counterpart-for-non-gb-licence-holders-form-d9\">register your details</a> with the Driver and Vehicle Licensing Agency (DVLA) within 12 months of becoming resident.</p>\n</div>\n\n<p>After this time you must exchange your licence - the fee is £43. You do not have to retake your test.</p>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D2</a> from DVLA.</p>\n</li>\n<li>\n<p>Get your doctor to fill in a <a href=\"/government/publications/d4-medical-examination-report-vision-assessment--2\">D4 form</a>.</p>\n</li>\n<li>\n<p>Send the forms and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>An optician or optometrist must fill in the vision assessment part of the D4 form if it cannot be done by your doctor.</p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-3",
+        "title": "You can drive on your foreign licence until you're 66, or for 5 years after you become resident in Great Britain, whichever is shorter."
+      },
+      {
+        "body": "<p>You do not have to retake your test.</p>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D2</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Get your doctor to fill in a <a href=\"/government/publications/d4-medical-examination-report-vision-assessment--2\">D4 form</a>.</p>\n</li>\n<li>\n<p>Send the forms and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>An optician or optometrist must fill in the vision assessment part of the D4 form if it cannot be done by your doctor.</p>\n</div>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-4",
+        "title": "You must exchange your licence - the fee is £43."
+      },
+      {
+        "body": "<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D2</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Get your doctor to fill in a <a href=\"/government/publications/d4-medical-examination-report-vision-assessment--2\">D4 form</a> if you’re over 45.</p>\n</li>\n<li>\n<p>Send the forms and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>An optician or optometrist must fill in the vision assessment part of the D4 form if it cannot be done by your doctor.</p>\n</div>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-5",
+        "title": "You can exchange your licence if it was issued on or after 1 April 1986. There is no fee."
+      },
+      {
+        "body": "<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D2</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Get your doctor to fill in a <a href=\"/government/publications/d4-medical-examination-report-vision-assessment--2\">D4 form</a>.</p>\n</li>\n<li>\n<p>Send the forms, fee and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>An optician or optometrist must fill in the vision assessment part of the D4 form if it cannot be done by your doctor.</p>\n</div>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-6",
+        "title": "You can exchange your licence if it was issued on or after 1 April 1991. You must exchange it within 12 months of becoming resident in the UK. The fee is £43."
+      },
+      {
+        "body": "<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D2</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Get your doctor to fill in a <a href=\"/government/publications/d4-medical-examination-report-vision-assessment--2\">D4 form</a> if you’re over 45.</p>\n</li>\n<li>\n<p>Send the forms, fee and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>An optician or optometrist must fill in the vision assessment part of the D4 form if it cannot be done by your doctor.</p>\n</div>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-7",
+        "title": "You can exchange your licence up to 5 years after becoming resident in Great Britain, but you can only use it for 12 months. The fee is £43."
+      },
+      {
+        "body": "<p>You need to <a href=\"/become-lorry-bus-driver\">get a Great Britain issued licence</a> to drive a lorry, bus or minibus.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-8",
+        "title": "You cannot exchange your licence and you must stop driving large vehicles. You can drive cars and motorcycles for up to 12 months."
+      },
+      {
+        "body": "<p>You can drive in Great Britain until you’re 70. If you’re 67 or over when you become resident, you can drive for 3 years.</p>\n\n<p>After this time you must exchange your licence. You do not have to retake your test.</p>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D1</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Send the form, the £43 fee and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You can only drive in Great Britain with a non-EU licence for 12 months after you arrive.</p>\n</div>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-9",
+        "title": "You can drive in Great Britain on a full, valid driving licence from an EU country."
+      },
+      {
+        "body": "<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D1</a> from the Driver and Vehicle Licensing Agency.</p>\n</li>\n<li>\n<p>Send the form and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-10",
+        "title": "You can exchange your licence if it was issued on or after 1 January 1976. There is no fee."
+      },
+      {
+        "body": "<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D1</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Send the form, fee and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-11",
+        "title": "You can exchange your licence if it was issued on or after 1 April 1991. The fee is £43."
+      },
+      {
+        "body": "<p>After 12 months you must exchange your licence to keep driving. You can exchange it up to 5 years after becoming resident, if it has not expired.</p>\n\n<p>If your licence allows you to drive manual vehicles, you can usually exchange it for a UK licence that allows you to drive manual vehicles.</p>\n\n<h2 id=\"exchange-your-licence\">Exchange your licence</h2>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D1</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Send the form, £43 fee and any documents you need (including your driving licence and proof of passing your test in a manual vehicle if needed) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive in 3 to 4 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-12",
+        "title": "You can continue to drive in the UK without exchanging your licence for 12 months after becoming resident."
+      },
+      {
+        "body": "<p>After 12 months you must exchange your licence to keep driving. You can exchange it up to 5 years after becoming resident, if it has not expired.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You can only drive manual vehicles if you can prove you passed a manual vehicle test - otherwise, you must drive an automatic.</p>\n</div>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D1</a> from Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Send the form, £43 fee and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-13",
+        "title": "You can continue to drive in the UK without exchanging your licence for 12 months after becoming resident."
+      },
+      {
+        "body": "<p>After 12 months you must exchange your licence to keep driving. You can exchange it up to 5 years after becoming resident, if it has not expired.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You cannot exchange your motorcycle entitlement - you’ll need to take a <a href=\"/driving-theory-test\">theory test</a> and <a href=\"/motorcycle-practical-test\">motorcycle practical test</a> in the UK.</p>\n</div>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D1</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Send the form, £43 fee and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n<p>Find out about <a href=\"/ride-motorcycle-moped\">riding a motorcycle</a> in the UK.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-14",
+        "title": "You can continue to drive in the UK without exchanging your licence for 12 months after becoming resident."
+      },
+      {
+        "body": "<p>After 12 months you must exchange your licence to keep driving. You can exchange it up to 5 years after becoming resident, if it has not expired.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You need to provide an official translation of your licence - <a href=\"/government/publications/foreign-embassies-in-the-uk\">contact your embassy</a>.</p>\n</div>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D1</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Send the form, £43 fee and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-15",
+        "title": "You can continue to drive in the UK without exchanging your licence for 12 months after becoming resident."
+      },
+      {
+        "body": "<p>After 12 months you must exchange your licence to keep driving. You can exchange it up to 5 years after becoming resident, if it has not expired.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You cannot exchange your motorcycle entitlement - you’ll need to take a <a href=\"/driving-theory-test\">theory test</a> and <a href=\"/motorcycle-practical-test\">motorcycle practical test</a> in the UK.</p>\n</div>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D1</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Send the form, £43 fee and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You need to provide an official translation of your licence - <a href=\"/government/publications/foreign-embassies-in-the-uk\">contact your embassy</a>.</p>\n</div>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-16",
+        "title": "You can continue to drive in the UK without exchanging your licence for 12 months after becoming resident."
+      },
+      {
+        "body": "<p>After 12 months you must exchange your licence to keep driving. You can exchange it up to 5 years after becoming resident, if it has not expired.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You can no longer drive in the UK with an old South African book of life-style licence or letter of entitlement to one, and you cannot exchange these for a UK licence. You must have a new credit-card style licence or a letter of entitlement to one.</p>\n</div>\n\n<h2 id=\"swap-a-credit-card-style-licence-for-a-great-britain-issued-licence\">Swap a credit-card style licence for a Great Britain issued licence</h2>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D1</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Send the form, £43 fee and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-17",
+        "title": "You can continue to drive in the UK without exchanging your licence for 12 months after becoming resident."
+      },
+      {
+        "body": "<p>After 12 months you’ll need to take a <a href=\"/driving-theory-test\">theory test</a> and <a href=\"/practical-driving-test-for-cars\">practical test</a> to get a Great Britain issued driving licence.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-18",
+        "title": "You cannot exchange your licence but you can drive for up to 12 months on your foreign licence."
+      },
+      {
+        "body": "<p>The fee is £43.</p>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D2</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Get your doctor to fill in a <a href=\"/government/publications/d4-medical-examination-report-vision-assessment--2\">D4 form</a>.</p>\n</li>\n<li>\n<p>Send the forms, fee and any documents you need (including your driving licence) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>An optician or optometrist must fill in the vision assessment part of the D4 form if it cannot be done by your doctor.</p>\n</div>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-19",
+        "title": "You can exchange your licence up to 5 years after becoming resident in Great Britain, but you can only drive small vehicles for 12 months. "
+      },
+      {
+        "body": "<p>After 12 months you must exchange your licence to keep driving. You can exchange it up to 5 years after becoming resident, if it has not expired.</p>\n\n<p>If your licence allows you to drive manual vehicles, you can usually exchange it for a UK licence that allows you to drive manual vehicles.</p>\n\n<p>To get a UK licence to drive a manual vehicle, you may need to show proof of passing your driving test in a manual vehicle. You’ll need to do this if your driving licence was issued from one of the following territories:</p>\n\n<ul>\n  <li>\n    <p>Australian Capital Territory</p>\n  </li>\n  <li>\n    <p>New South Wales</p>\n  </li>\n  <li>\n    <p>Northern Territory</p>\n  </li>\n  <li>\n    <p>South Australia</p>\n  </li>\n  <li>\n    <p>Tasmania</p>\n  </li>\n  <li>\n    <p>Victoria</p>\n  </li>\n</ul>\n\n<p>If your driving test was taken in an automatic vehicle, you can only drive an automatic vehicle.</p>\n\n<h2 id=\"exchange-your-licence\">Exchange your licence</h2>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D1</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Send the form, £43 fee and any documents you need (including your driving licence and proof of passing your test in a manual vehicle if needed) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-20",
+        "title": "You can continue to drive in the UK without exchanging your licence for 12 months after becoming resident."
+      },
+      {
+        "body": "<p>After 12 months you must exchange your licence to keep driving. You can exchange it up to 5 years after becoming resident, if it has not expired.</p>\n\n<h2 id=\"what-you-can-exchange-your-licence-for\">What you can exchange your licence for</h2>\n\n<h3 id=\"if-you-passed-your-driving-test-before-28-december-2021\">If you passed your driving test before 28 December 2021</h3>\n\n<p>You can only exchange your driving licence for a UK licence that allows you to drive automatic vehicles.</p>\n\n<h3 id=\"if-you-passed-your-driving-test-on-or-after-28-december-2021\">If you passed your driving test on or after 28 December 2021</h3>\n\n<p>If your current licence allows you to drive manual vehicles, you can exchange it for a UK licence that allows you to drive manual vehicles.</p>\n\n<h3 id=\"if-you-have-a-motorcycle-licence\">If you have a motorcycle licence</h3>\n\n<p>You cannot exchange your motorcycle licence for a UK equivalent. You must <a href=\"https://www.gov.uk/apply-first-provisional-driving-licence?step-by-step-nav=e01e924b-9c7c-4c71-8241-66a575c2f61f\">apply for a provisional licence</a> and take a theory and practical test in the UK.</p>\n\n<h2 id=\"exchange-your-licence\">Exchange your licence</h2>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D1</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Send the form, £43 fee and your driving licence to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-21",
+        "title": "You can continue to drive in the UK without exchanging your licence for 12 months after becoming resident."
+      },
+      {
+        "body": "<p>After 12 months you must exchange your licence to keep driving. You can exchange it up to 5 years after becoming resident, if it has not expired.</p>\n\n<p>If your licence allows you to drive manual vehicles, you can usually exchange it for a UK licence that allows you to drive manual vehicles.</p>\n\n<h2 id=\"exchange-your-licence\">Exchange your licence</h2>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D1</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Get an official translation of your licence from a Taipei Representative Office in the UK. You can <a rel=\"external\" href=\"https://www.roc-taiwan.org/uk_en/contact_us.html\">contact the London office</a> or <a rel=\"external\" href=\"https://www.roc-taiwan.org/ukedi_en/contact_us.html\">contact the Edinburgh office</a></p>\n</li>\n<li>\n<p>Send the form, £43 fee and any documents you need (including your driving licence, the official translation, and proof of passing your test in a manual vehicle if needed) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive in 3 to 4 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-22",
+        "title": "You can continue to drive in the UK without exchanging your licence for 12 months after becoming resident."
+      },
+      {
+        "body": "<p>After 12 months, you must exchange your licence to keep driving a car. You can exchange it up to 5 years after becoming resident, if it has not expired.</p>\n\n<p>If your licence allows you to drive manual vehicles, you can usually exchange it for a UK licence that allows you to drive manual vehicles.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You cannot exchange your motorcycle licence. After 12 months you’ll need to take a <a href=\"/driving-theory-test\">theory test</a> and <a href=\"/motorcycle-test\">motorcycle practical test</a> to get a Great Britain issued motorcycle licence.</p>\n</div>\n\n<h2 id=\"exchange-a-licence\">Exchange a licence</h2>\n\n<p>You can only exchange a licence that allows you to drive a car or manual vehicles.</p>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D1</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n<li>\n<p>Send the form, £43 fee and any documents you need (including your driving licence and proof of passing your test in a manual vehicle if needed) to the address on the form.</p>\n</li>\n<li>\n<p>Your licence will usually arrive in 3 to 4 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-23",
+        "title": "You can continue to drive in the UK with your current licence for 12 months after becoming resident."
+      },
+      {
+        "body": "<p>After 3 years, you must exchange your licence to keep driving in Great Britain. </p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p><a rel=\"external\" href=\"https://www.nidirect.gov.uk/articles/advice-foreign-driving-licences-northern-ireland\">There are different rules in Northern Ireland</a>.</p>\n</div>\n\n<h2 id=\"exchanging-your-licence\">Exchanging your licence</h2>\n\n<p>You can exchange your licence for a UK licence up to 5 years after becoming resident, if it has not expired.</p>\n\n<h3 id=\"if-you-passed-your-driving-test-before-28-december-2021\">If you passed your driving test before 28 December 2021</h3>\n\n<p>You can only exchange your driving licence for a UK licence that allows you to drive automatic vehicles. </p>\n\n<h3 id=\"if-you-passed-your-driving-test-on-or-after-28-december-2021\">If you passed your driving test on or after 28 December 2021 </h3>\n\n<p>If your current licence allows you to drive manual vehicles, you can exchange it for a UK licence that allows you to drive manual vehicles.</p>\n\n<h3 id=\"if-you-have-a-motorcycle-licence\">If you have a motorcycle licence</h3>\n\n<p>You cannot exchange your motorcycle licence for a UK equivalent. You must <a href=\"/apply-first-provisional-driving-licence?step-by-step-nav=e01e924b-9c7c-4c71-8241-66a575c2f61f\">apply for a provisional licence</a> and take a theory and practical test in the UK.</p>\n\n<h2 id=\"exchange-your-licence\">Exchange your licence</h2>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/dvlaforms\">Order form D1</a> from the Driver and Vehicle Licensing Agency (DVLA).</p>\n</li>\n</ol>\n<ol class=\"steps\">\n<li>\n<p>Send the form, £43 fee and your driving licence to the address on the form.</p>\n</li>\n</ol>\n<ol class=\"steps\">\n<li>\n<p>Your licence will usually arrive within 3 weeks. It might take longer if you’ve told DVLA about a medical condition and your details need to be checked.</p>\n</li>\n</ol>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-24",
+        "title": "You can continue to drive in Great Britain without exchanging your licence for 3 years after becoming resident."
+      }
+    ],
+    "start_button_text": "Start now"
+  },
+  "document_type": "simple_smart_answer",
+  "first_published_at": "2014-02-03T14:03:17Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/exchange-foreign-driving-licence",
+        "api_url": "https://www.gov.uk/api/content/exchange-foreign-driving-licence",
+        "base_path": "/exchange-foreign-driving-licence",
+        "content_id": "9fd997bc-7646-4d65-a273-11ccc9f87c91",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-01-04T13:13:01Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Exchange a foreign driving licence",
+        "web_url": "https://www.gov.uk/exchange-foreign-driving-licence",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/driving-uk-and-abroad",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/driving-uk-and-abroad",
+        "base_path": "/browse/driving/driving-uk-and-abroad",
+        "content_id": "231ad2c1-c1cd-4e00-8479-5277cfe05027",
+        "description": "Drive abroad, drive in the UK with a foreign licence, bring a vehicle to the UK",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:39Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Driving in the UK and abroad",
+        "web_url": "https://www.gov.uk/browse/driving/driving-uk-and-abroad",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/driving-licences",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+        "base_path": "/browse/driving/driving-licences",
+        "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+        "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-26T14:10:42Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Driving licences",
+        "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA74",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-licensing-agency",
+        "content_id": "70580624-93b5-4aed-823b-76042486c769",
+        "details": {
+          "acronym": "DVLA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Licensing<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Licensing Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/driving-licences",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+        "base_path": "/browse/driving/driving-licences",
+        "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+        "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-26T14:10:42Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Driving licences",
+        "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/dvlaforms",
+        "api_url": "https://www.gov.uk/api/content/dvlaforms",
+        "base_path": "/dvlaforms",
+        "content_id": "421504cb-63c4-44fb-94ec-5d0129e1748c",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-09-06T15:24:19Z",
+        "schema_name": "transaction",
+        "title": "Download and order DVLA forms",
+        "web_url": "https://www.gov.uk/dvlaforms",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/driving-nongb-licence",
+        "api_url": "https://www.gov.uk/api/content/driving-nongb-licence",
+        "base_path": "/driving-nongb-licence",
+        "content_id": "cc723c0c-0cfd-4aee-a48d-3b70028e6565",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-09-20T08:25:54Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Driving in Great Britain on a non-GB licence",
+        "web_url": "https://www.gov.uk/driving-nongb-licence",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/d9-application-to-register-a-non-gb-driving-licence",
+        "api_url": "https://www.gov.uk/api/content/government/publications/d9-application-to-register-a-non-gb-driving-licence",
+        "base_path": "/government/publications/d9-application-to-register-a-non-gb-driving-licence",
+        "content_id": "e0a32530-ae35-4562-8863-151d7223b31e",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-20T13:27:16Z",
+        "schema_name": "publication",
+        "title": "Application to register a non-GB driving licence (form D9)",
+        "web_url": "https://www.gov.uk/government/publications/d9-application-to-register-a-non-gb-driving-licence",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/theory-test",
+        "api_url": "https://www.gov.uk/api/content/theory-test",
+        "base_path": "/theory-test",
+        "content_id": "b5d8c773-3a31-45f2-838d-255afef5511a",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-12-20T13:49:20Z",
+        "schema_name": "guide",
+        "title": "Theory test: cars",
+        "web_url": "https://www.gov.uk/theory-test",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-first-provisional-driving-licence",
+        "api_url": "https://www.gov.uk/api/content/apply-first-provisional-driving-licence",
+        "base_path": "/apply-first-provisional-driving-licence",
+        "content_id": "f725a60e-a666-4269-82b0-946ecfb84b7c",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-04T00:01:05Z",
+        "schema_name": "transaction",
+        "title": "Apply for your first provisional driving licence",
+        "web_url": "https://www.gov.uk/apply-first-provisional-driving-licence",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/foreign-driving-licences",
+        "api_url": "https://www.gov.uk/api/content/transport/foreign-driving-licences",
+        "base_path": "/transport/foreign-driving-licences",
+        "content_id": "610be2c0-f078-4e8c-85bd-327ff5b6d0c9",
+        "description": "How foreign drivers can get a British driving licence or register a non-British licence.",
+        "details": {
+          "internal_name": "Foreign driving licences",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/driving-licences",
+              "api_url": "https://www.gov.uk/api/content/transport/driving-licences",
+              "base_path": "/transport/driving-licences",
+              "content_id": "c71f6a1e-2bcd-407e-b0da-6728cb55e4db",
+              "description": "Apply, check, change or share details of your driving licence, replace or surrender your driving licence.",
+              "details": {
+                "internal_name": "Driving licences",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Driving licences",
+              "web_url": "https://www.gov.uk/transport/driving-licences",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:15Z",
+        "schema_name": "taxon",
+        "title": "Foreign driving licences",
+        "web_url": "https://www.gov.uk/transport/foreign-driving-licences",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-01-04T13:13:01Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1697182345.416-10.13.21.130-59534",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "simple_smart_answer",
+  "title": "Exchange a foreign driving licence",
+  "updated_at": "2024-02-06T13:29:04Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/report-a-disqualified-director",
+  "content_id": "f36a0996-57d4-47fc-85a6-1b463923d9b2",
+  "description": "Report a disqualified director for working illegally to The Insolvency Service - complain using the online form",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>You can report a director who has been disqualified and is:</p>\n\n<ul>\n  <li>working as a director of a company or a member of a limited liability partnership (<abbr title=\"limited liability partnership\">LLP</abbr>) - unless they have the court’s permission</li>\n  <li>getting involved in the promotion, formation or management of a company - unless they have the court’s permission</li>\n  <li>acting as an insolvency practitioner</li>\n  <li>breaching any other <a href=\"/government/publications/corporate-insolvency-effect-of-a-disqualification-order\">restrictions of a ban</a>\n</li>\n</ul>\n\n<p>You can also report a director if they’re subject to <a href=\"/bankruptcy/restrictions\">bankruptcy restrictions</a> or have a:</p>\n\n<ul>\n  <li>Debt Relief Order</li>\n  <li>Bankruptcy Restrictions Order (<abbr title=\"Bankruptcy Restrictions Order\">BRO</abbr>) or Undertaking (<abbr title=\"Bankruptcy Restrictions Undertaking\">BRU</abbr>)</li>\n  <li>Debt Relief Restrictions Order (<abbr title=\"Debt Relief Restrictions Order\">DRRO</abbr>) or Undertaking (<abbr title=\"Debt Relief Restrictions Undertaking\">DRRU</abbr>)</li>\n</ul>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "http://www.insolvencydirect.bis.gov.uk/contactus/hotlineform.htm",
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2014-05-09T16:46:05Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/report-a-disqualified-director",
+        "api_url": "https://www.gov.uk/api/content/report-a-disqualified-director",
+        "base_path": "/report-a-disqualified-director",
+        "content_id": "f36a0996-57d4-47fc-85a6-1b463923d9b2",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-05-15T16:07:10Z",
+        "schema_name": "transaction",
+        "title": "Report a disqualified director",
+        "web_url": "https://www.gov.uk/report-a-disqualified-director",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/funding-debt",
+        "api_url": "https://www.gov.uk/api/content/browse/business/funding-debt",
+        "base_path": "/browse/business/funding-debt",
+        "content_id": "8c5661a7-dc03-4d80-8f66-69798c2f4dde",
+        "description": "Includes bankruptcy, insolvency and recovering debt",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-18T16:02:29Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/business/funding-debt",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/complain-about-a-limited-company-or-disqualified-director",
+        "api_url": "https://www.gov.uk/api/content/needs/complain-about-a-limited-company-or-disqualified-director",
+        "base_path": "/needs/complain-about-a-limited-company-or-disqualified-director",
+        "content_id": "62144534-ac0b-499e-b23d-6c9a3aacffc7",
+        "details": {
+          "benefit": "they don't get away with fraud or harm the public interest ",
+          "goal": "complain about a limited company or disqualified director",
+          "justifications": [
+            "It's something that people can do or it's something people need to know before they can do something that's regulated by/related to government"
+          ],
+          "met_when": [
+            "can report a suspect company online, by phone, email, post",
+            "knows what kind of fraud or other activity should be reported"
+          ],
+          "role": "citizen"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a citizen, I need to complain about a limited company or disqualified director, so that they don't get away with fraud or harm the public interest (100930)",
+        "web_url": "https://www.gov.uk/needs/complain-about-a-limited-company-or-disqualified-director",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/company-director-disqualification",
+        "api_url": "https://www.gov.uk/api/content/company-director-disqualification",
+        "base_path": "/company-director-disqualification",
+        "content_id": "a83c652d-a5b4-4835-ba17-25f0abaf5160",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/limited-company",
+              "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+              "base_path": "/browse/business/limited-company",
+              "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+              "description": "Includes registering, setting up, company accounts and tax returns",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:30Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Running a limited company",
+              "web_url": "https://www.gov.uk/browse/business/limited-company",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-01-29T09:54:22Z",
+        "schema_name": "answer",
+        "title": "Company director disqualification",
+        "web_url": "https://www.gov.uk/company-director-disqualification",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/search-the-register-of-disqualified-company-directors",
+        "api_url": "https://www.gov.uk/api/content/search-the-register-of-disqualified-company-directors",
+        "base_path": "/search-the-register-of-disqualified-company-directors",
+        "content_id": "a0fbe158-404a-484d-a022-8f6f02bcc290",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/limited-company",
+              "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+              "base_path": "/browse/business/limited-company",
+              "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+              "description": "Includes registering, setting up, company accounts and tax returns",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:30Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Running a limited company",
+              "web_url": "https://www.gov.uk/browse/business/limited-company",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-11-14T18:37:12Z",
+        "schema_name": "answer",
+        "title": "Search for disqualified company directors",
+        "web_url": "https://www.gov.uk/search-the-register-of-disqualified-company-directors",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA26",
+        "api_path": "/api/content/government/organisations/companies-house",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/companies-house",
+        "base_path": "/government/organisations/companies-house",
+        "content_id": "c36bd301-d0c5-4492-86ad-ee7843b8383b",
+        "details": {
+          "acronym": "Companies House",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db3840f0b649cfaf7c43/s960_Companies_House_Building.GOV_lighter.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db38e5274a7908e35305/s300_Companies_House_Building.GOV_lighter.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Companies House"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Companies House",
+        "web_url": "https://www.gov.uk/government/organisations/companies-house",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "EA32",
+        "api_path": "/api/content/government/organisations/insolvency-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/insolvency-service",
+        "base_path": "/government/organisations/insolvency-service",
+        "content_id": "c8406408-8376-45e0-95b4-7e74cef2c260",
+        "details": {
+          "acronym": "",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "The Insolvency <br/>Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "The Insolvency Service",
+        "web_url": "https://www.gov.uk/government/organisations/insolvency-service",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/funding-debt",
+        "api_url": "https://www.gov.uk/api/content/browse/business/funding-debt",
+        "base_path": "/browse/business/funding-debt",
+        "content_id": "8c5661a7-dc03-4d80-8f66-69798c2f4dde",
+        "description": "Includes bankruptcy, insolvency and recovering debt",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-18T16:02:29Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/business/funding-debt",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/search-the-register-of-disqualified-company-directors",
+        "api_url": "https://www.gov.uk/api/content/search-the-register-of-disqualified-company-directors",
+        "base_path": "/search-the-register-of-disqualified-company-directors",
+        "content_id": "a0fbe158-404a-484d-a022-8f6f02bcc290",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-11-14T18:37:12Z",
+        "schema_name": "answer",
+        "title": "Search for disqualified company directors",
+        "web_url": "https://www.gov.uk/search-the-register-of-disqualified-company-directors",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/company-director-disqualification",
+        "api_url": "https://www.gov.uk/api/content/company-director-disqualification",
+        "base_path": "/company-director-disqualification",
+        "content_id": "a83c652d-a5b4-4835-ba17-25f0abaf5160",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-01-29T09:54:22Z",
+        "schema_name": "answer",
+        "title": "Company director disqualification",
+        "web_url": "https://www.gov.uk/company-director-disqualification",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/search-bankruptcy-insolvency-register",
+        "api_url": "https://www.gov.uk/api/content/search-bankruptcy-insolvency-register",
+        "base_path": "/search-bankruptcy-insolvency-register",
+        "content_id": "e7ddddd5-58b1-4f6c-b711-1d4c290239a0",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-19T13:54:06Z",
+        "schema_name": "answer",
+        "title": "Search the bankruptcy and insolvency register",
+        "web_url": "https://www.gov.uk/search-bankruptcy-insolvency-register",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/bankruptcy",
+        "base_path": "/bankruptcy",
+        "content_id": "64aadc14-9bca-40d9-abb6-4f21f9792a05",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-18T10:07:26Z",
+        "schema_name": "guide",
+        "title": "Applying to become bankrupt",
+        "web_url": "https://www.gov.uk/bankruptcy",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/get-information-about-a-company",
+        "api_url": "https://www.gov.uk/api/content/get-information-about-a-company",
+        "base_path": "/get-information-about-a-company",
+        "content_id": "9ca1a27b-af7b-44d2-b10d-0a6d0e3ff53d",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-24T08:36:53Z",
+        "schema_name": "transaction",
+        "title": "Get information about a company",
+        "web_url": "https://www.gov.uk/get-information-about-a-company",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/business-debt-and-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/business-debt-and-bankruptcy",
+        "base_path": "/business-and-industry/business-debt-and-bankruptcy",
+        "content_id": "a1119685-ffef-4417-a3e4-116014ad4523",
+        "details": {
+          "internal_name": "Business debt and bankruptcy",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/running-a-business",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+              "base_path": "/business-and-industry/running-a-business",
+              "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+              "details": {
+                "internal_name": "Running a business",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                    "base_path": "/business-and-industry",
+                    "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Business and industry",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Business and industry",
+                    "web_url": "https://www.gov.uk/business-and-industry",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Running a business",
+              "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:02Z",
+        "schema_name": "taxon",
+        "title": "Business debt and bankruptcy",
+        "web_url": "https://www.gov.uk/business-and-industry/business-debt-and-bankruptcy",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-05-15T16:07:10Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "23418-1508171203.873-86.152.137.243-7416",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Report a disqualified director",
+  "updated_at": "2024-02-01T09:55:34Z",
+  "withdrawn_notice": {
+  }
+}

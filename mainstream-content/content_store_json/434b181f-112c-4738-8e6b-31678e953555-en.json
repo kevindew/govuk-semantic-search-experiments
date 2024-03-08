@@ -1,0 +1,549 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/report-smoky-vehicle",
+  "content_id": "434b181f-112c-4738-8e6b-31678e953555",
+  "description": "Report a smoky lorry or bus to the Driver and Vehicle Standards Agency (DVSA)",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Report an excessively smoky lorry or bus exhaust to the Driver and Vehicle Standards Agency (<abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr>).</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p><a rel=\"external\" href=\"https://www.police.uk/pu/contact-us\">Contact your local police</a> to report other types of smoky vehicle.</p>\n</div>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://contact-dvsa.service.gov.uk/report-smoky-vehicle",
+    "variants": [
+
+    ],
+    "will_continue_on": "the report a smoky vehicle service"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2014-04-11T15:00:04Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/report-smoky-vehicle",
+        "api_url": "https://www.gov.uk/api/content/report-smoky-vehicle",
+        "base_path": "/report-smoky-vehicle",
+        "content_id": "434b181f-112c-4738-8e6b-31678e953555",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-18T10:08:47Z",
+        "schema_name": "transaction",
+        "title": "Report a smoky lorry or bus",
+        "web_url": "https://www.gov.uk/report-smoky-vehicle",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/driving-enforcing-the-law",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/driving-enforcing-the-law",
+        "base_path": "/browse/driving/driving-enforcing-the-law",
+        "content_id": "32cd2eb4-26bc-4b1e-863a-f30a1d5a18b5",
+        "description": "Legal obligations of drivers and riders, report a crime",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:38Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Driving and enforcing the law",
+        "web_url": "https://www.gov.uk/browse/driving/driving-enforcing-the-law",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/highway-code-road-safety",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/highway-code-road-safety",
+        "base_path": "/browse/driving/highway-code-road-safety",
+        "content_id": "eab15e3e-b9a5-48a9-82fe-6485d48a559d",
+        "description": "Rules for motorists, cyclists and pedestrians, road and boat safety",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:37Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "The Highway Code, road safety and vehicle rules",
+        "web_url": "https://www.gov.uk/browse/driving/highway-code-road-safety",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/emissions-testing",
+        "api_url": "https://www.gov.uk/api/content/emissions-testing",
+        "base_path": "/emissions-testing",
+        "content_id": "02e7dc80-0d7e-4b2b-8232-690cfed6abdf",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/manufacture-adapt-vehicle",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/manufacture-adapt-vehicle",
+              "base_path": "/browse/driving/manufacture-adapt-vehicle",
+              "content_id": "3eb6e3d4-9a22-4519-915f-b0b0dd55335a",
+              "description": "Get a vehicle approved, register a vehicle, manufacturing regulations",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manufacture or adapt a vehicle",
+              "web_url": "https://www.gov.uk/browse/driving/manufacture-adapt-vehicle",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/vehicle-tax-mot-insurance",
+              "base_path": "/browse/driving/vehicle-tax-mot-insurance",
+              "content_id": "c4cbf7d1-c44e-4f47-b2c8-380e0609f8b0",
+              "description": "Pay or cancel vehicle tax, register your vehicle off road, book or check an MOT, insurance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-19T13:20:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Vehicle tax, MOT and insurance",
+              "web_url": "https://www.gov.uk/browse/driving/vehicle-tax-mot-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-12-21T12:12:30Z",
+        "schema_name": "answer",
+        "title": "Emissions testing",
+        "web_url": "https://www.gov.uk/emissions-testing",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA570",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-standards-agency",
+        "content_id": "d39237a5-678b-4bb5-a372-eb2cb036933d",
+        "details": {
+          "acronym": "DVSA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Standards<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Standards Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/driving-enforcing-the-law",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/driving-enforcing-the-law",
+        "base_path": "/browse/driving/driving-enforcing-the-law",
+        "content_id": "32cd2eb4-26bc-4b1e-863a-f30a1d5a18b5",
+        "description": "Legal obligations of drivers and riders, report a crime",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:38Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Driving and enforcing the law",
+        "web_url": "https://www.gov.uk/browse/driving/driving-enforcing-the-law",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/emissions-testing",
+        "api_url": "https://www.gov.uk/api/content/emissions-testing",
+        "base_path": "/emissions-testing",
+        "content_id": "02e7dc80-0d7e-4b2b-8232-690cfed6abdf",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-12-21T12:12:30Z",
+        "schema_name": "answer",
+        "title": "Emissions testing",
+        "web_url": "https://www.gov.uk/emissions-testing",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/report-red-diesel-used-on-public-roads",
+        "api_url": "https://www.gov.uk/api/content/report-red-diesel-used-on-public-roads",
+        "base_path": "/report-red-diesel-used-on-public-roads",
+        "content_id": "132d5c59-1d0f-43f9-a512-8b5591bba615",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-24T13:58:24Z",
+        "schema_name": "answer",
+        "title": "Report red diesel used on public roads",
+        "web_url": "https://www.gov.uk/report-red-diesel-used-on-public-roads",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/report-unlicenced-taxi",
+        "api_url": "https://www.gov.uk/api/content/report-unlicenced-taxi",
+        "base_path": "/report-unlicenced-taxi",
+        "content_id": "730eb64d-871e-45f9-8916-b5cdb40b1b45",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-21T14:53:28Z",
+        "schema_name": "answer",
+        "title": "Report unlicensed taxis, minicabs or private hire vehicles",
+        "web_url": "https://www.gov.uk/report-unlicenced-taxi",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/organisations/traffic-commissioners/about/complaints-procedure",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/traffic-commissioners/about/complaints-procedure",
+        "base_path": "/government/organisations/traffic-commissioners/about/complaints-procedure",
+        "content_id": "012ab576-ee1e-4c7b-a9b3-25e246411907",
+        "document_type": "complaints_procedure",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-06-18T10:24:17Z",
+        "schema_name": "corporate_information_page",
+        "title": "Complaints procedure",
+        "web_url": "https://www.gov.uk/government/organisations/traffic-commissioners/about/complaints-procedure",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/legal-obligations-drivers-riders",
+        "api_url": "https://www.gov.uk/api/content/legal-obligations-drivers-riders",
+        "base_path": "/legal-obligations-drivers-riders",
+        "content_id": "2148f116-f909-4976-bb05-cb4899f3272a",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-08-27T16:32:37Z",
+        "schema_name": "answer",
+        "title": "Legal obligations of drivers and riders ",
+        "web_url": "https://www.gov.uk/legal-obligations-drivers-riders",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/road-transport-emissions",
+        "api_url": "https://www.gov.uk/api/content/transport/road-transport-emissions",
+        "base_path": "/transport/road-transport-emissions",
+        "content_id": "6c94d7f9-2270-41e2-b3a1-018cab93cfb7",
+        "description": "Vehicle emission testing, standards and data and how to report smoky lorries or buses.",
+        "details": {
+          "internal_name": "Road transport emissions",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/road-transport-and-the-environment",
+              "api_url": "https://www.gov.uk/api/content/transport/road-transport-and-the-environment",
+              "base_path": "/transport/road-transport-and-the-environment",
+              "content_id": "c23e2747-a59e-476e-be65-2add5c896f13",
+              "description": "Emissions testing, low emission and electric vehicles, chargepoints, low carbon and sustainable transport and renewable fuels.",
+              "details": {
+                "internal_name": "Road transport and the environment",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:13Z",
+              "schema_name": "taxon",
+              "title": "Road transport and the environment",
+              "web_url": "https://www.gov.uk/transport/road-transport-and-the-environment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-16T10:18:53Z",
+        "schema_name": "taxon",
+        "title": "Road transport emissions",
+        "web_url": "https://www.gov.uk/transport/road-transport-emissions",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/transport/road-safety-driving-rules-and-penalties",
+        "api_url": "https://www.gov.uk/api/content/transport/road-safety-driving-rules-and-penalties",
+        "base_path": "/transport/road-safety-driving-rules-and-penalties",
+        "content_id": "3b1f1d58-dcd5-4d7e-adb6-fcc4c56324d0",
+        "description": "Road safety law and advice, information about driving penalties and paying fines.",
+        "details": {
+          "internal_name": "Road safety, driving rules and penalties",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/driving-and-road-transport",
+              "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+              "base_path": "/transport/driving-and-road-transport",
+              "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+              "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+              "details": {
+                "internal_name": "Driving and road transport",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport",
+                    "api_url": "https://www.gov.uk/api/content/transport",
+                    "base_path": "/transport",
+                    "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                    "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                    "details": {
+                      "internal_name": "Transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-15T14:31:46Z",
+                    "schema_name": "taxon",
+                    "title": "Transport",
+                    "web_url": "https://www.gov.uk/transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:13Z",
+              "schema_name": "taxon",
+              "title": "Driving and road transport",
+              "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:14Z",
+        "schema_name": "taxon",
+        "title": "Road safety, driving rules and penalties",
+        "web_url": "https://www.gov.uk/transport/road-safety-driving-rules-and-penalties",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-11-18T10:08:47Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1682332720.517-10.13.21.75-7679",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Report a smoky lorry or bus",
+  "updated_at": "2024-03-08T09:58:26Z",
+  "withdrawn_notice": {
+  }
+}

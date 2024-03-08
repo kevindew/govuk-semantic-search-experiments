@@ -1,0 +1,541 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-marine-licence-register",
+  "content_id": "64591ba5-f069-45cf-9c63-19c0e7e395c9",
+  "description": "See details of applications for marine licences and the decisions made. ",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>View applications for marine licences and the decisions made. Search by area or licence type and download copies of applications.</p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://marinelicensing.marinemanagement.org.uk/mmo/fox/live/MMO_PUBLIC_REGISTER",
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2014-07-03T17:32:18Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-marine-licence-register",
+        "api_url": "https://www.gov.uk/api/content/check-marine-licence-register",
+        "base_path": "/check-marine-licence-register",
+        "content_id": "64591ba5-f069-45cf-9c63-19c0e7e395c9",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-28T10:30:17Z",
+        "schema_name": "transaction",
+        "title": "Check the public register of marine licence applications and decisions",
+        "web_url": "https://www.gov.uk/check-marine-licence-register",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/planning-and-development-marine-licences",
+        "api_url": "https://www.gov.uk/api/content/government/collections/planning-and-development-marine-licences",
+        "base_path": "/government/collections/planning-and-development-marine-licences",
+        "content_id": "44adc430-1ef7-4dde-a660-89de309ae0c3",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/check-marine-licence-register",
+              "api_url": "https://www.gov.uk/api/content/check-marine-licence-register",
+              "base_path": "/check-marine-licence-register",
+              "content_id": "64591ba5-f069-45cf-9c63-19c0e7e395c9",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-04-28T10:30:17Z",
+              "schema_name": "transaction",
+              "title": "Check the public register of marine licence applications and decisions",
+              "web_url": "https://www.gov.uk/check-marine-licence-register",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-09-22T08:33:15Z",
+        "schema_name": "document_collection",
+        "title": "Planning and development: Marine licences",
+        "web_url": "https://www.gov.uk/government/collections/planning-and-development-marine-licences",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/maritime",
+        "api_url": "https://www.gov.uk/api/content/browse/business/maritime",
+        "base_path": "/browse/business/maritime",
+        "content_id": "206cab77-67ee-43d4-bdba-9291ff374bba",
+        "description": "Includes health and safety onboard, crew, registering vessels",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-05-09T12:37:35Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Maritime vessels and work at sea",
+        "web_url": "https://www.gov.uk/browse/business/maritime",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/check-marine-licence-applications-and-decisions",
+        "api_url": "https://www.gov.uk/api/content/needs/check-marine-licence-applications-and-decisions",
+        "base_path": "/needs/check-marine-licence-applications-and-decisions",
+        "content_id": "e5688485-f353-4c8d-8f89-3445eb27c03b",
+        "details": {
+          "benefit": "I know what is happening and whether it's going to affect me",
+          "goal": "check marine licence applications and decisions",
+          "justifications": [
+            "It's something the government provides/does/pays for"
+          ],
+          "met_when": [
+            "has up-to-date information on coastal and marine projects and activities"
+          ],
+          "role": "citizen, business or organisation"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a citizen, business or organisation, I need to check marine licence applications and decisions, so that I know what is happening and whether it's going to affect me (100905)",
+        "web_url": "https://www.gov.uk/needs/check-marine-licence-applications-and-decisions",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/apply-marine-licence",
+        "api_url": "https://www.gov.uk/api/content/apply-marine-licence",
+        "base_path": "/apply-marine-licence",
+        "content_id": "0d046315-1b9e-4a85-bd7f-4246b295fba8",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/maritime",
+              "api_url": "https://www.gov.uk/api/content/browse/business/maritime",
+              "base_path": "/browse/business/maritime",
+              "content_id": "206cab77-67ee-43d4-bdba-9291ff374bba",
+              "description": "Includes health and safety onboard, crew, registering vessels",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2017-05-09T12:37:35Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Maritime vessels and work at sea",
+              "web_url": "https://www.gov.uk/browse/business/maritime",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2020-10-20T15:11:58Z",
+        "schema_name": "transaction",
+        "title": "Apply for a marine licence",
+        "web_url": "https://www.gov.uk/apply-marine-licence",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "PB57",
+        "api_path": "/api/content/government/organisations/marine-management-organisation",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/marine-management-organisation",
+        "base_path": "/government/organisations/marine-management-organisation",
+        "content_id": "8d56bb52-2f79-4b6d-9fc6-6d7dcc4f7586",
+        "details": {
+          "acronym": "MMO",
+          "brand": "department-for-environment-food-rural-affairs",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Marine <br/>Management <br/>Organisation"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Marine Management Organisation",
+        "web_url": "https://www.gov.uk/government/organisations/marine-management-organisation",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/maritime",
+        "api_url": "https://www.gov.uk/api/content/browse/business/maritime",
+        "base_path": "/browse/business/maritime",
+        "content_id": "206cab77-67ee-43d4-bdba-9291ff374bba",
+        "description": "Includes health and safety onboard, crew, registering vessels",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-05-09T12:37:35Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Maritime vessels and work at sea",
+        "web_url": "https://www.gov.uk/browse/business/maritime",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/guidance/make-a-marine-licence-application",
+        "api_url": "https://www.gov.uk/api/content/guidance/make-a-marine-licence-application",
+        "base_path": "/guidance/make-a-marine-licence-application",
+        "content_id": "602017d5-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-06T10:15:07Z",
+        "schema_name": "detailed_guide",
+        "title": "Make a marine licence application",
+        "web_url": "https://www.gov.uk/guidance/make-a-marine-licence-application",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-marine-licence",
+        "api_url": "https://www.gov.uk/api/content/apply-marine-licence",
+        "base_path": "/apply-marine-licence",
+        "content_id": "0d046315-1b9e-4a85-bd7f-4246b295fba8",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-10-20T15:11:58Z",
+        "schema_name": "transaction",
+        "title": "Apply for a marine licence",
+        "web_url": "https://www.gov.uk/apply-marine-licence",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/marine-licensing-impact-assessments",
+        "api_url": "https://www.gov.uk/api/content/guidance/marine-licensing-impact-assessments",
+        "base_path": "/guidance/marine-licensing-impact-assessments",
+        "content_id": "602018b7-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-05-04T14:48:28Z",
+        "schema_name": "detailed_guide",
+        "title": "Marine Licensing: impact assessments",
+        "web_url": "https://www.gov.uk/guidance/marine-licensing-impact-assessments",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/do-i-need-a-marine-licence",
+        "api_url": "https://www.gov.uk/api/content/guidance/do-i-need-a-marine-licence",
+        "base_path": "/guidance/do-i-need-a-marine-licence",
+        "content_id": "60201788-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-31T14:53:31Z",
+        "schema_name": "detailed_guide",
+        "title": "Do I need a marine licence?",
+        "web_url": "https://www.gov.uk/guidance/do-i-need-a-marine-licence",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/environment/marine-licences",
+        "api_url": "https://www.gov.uk/api/content/environment/marine-licences",
+        "base_path": "/environment/marine-licences",
+        "content_id": "e856b21f-4123-44b7-9ef8-7754d2981cd5",
+        "description": "",
+        "details": {
+          "internal_name": "Marine licences",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/environment/marine",
+              "api_url": "https://www.gov.uk/api/content/environment/marine",
+              "base_path": "/environment/marine",
+              "content_id": "42fdd045-cadf-474b-b8a6-ca20a77c43bb",
+              "description": "",
+              "details": {
+                "internal_name": "Marine",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/environment",
+                    "api_url": "https://www.gov.uk/api/content/environment",
+                    "base_path": "/environment",
+                    "content_id": "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Environment",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T13:39:00Z",
+                    "schema_name": "taxon",
+                    "title": "Environment",
+                    "web_url": "https://www.gov.uk/environment",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T11:58:23Z",
+              "schema_name": "taxon",
+              "title": "Marine",
+              "web_url": "https://www.gov.uk/environment/marine",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-16T09:56:20Z",
+        "schema_name": "taxon",
+        "title": "Marine licences",
+        "web_url": "https://www.gov.uk/environment/marine-licences",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/transport/vessel-registration",
+        "api_url": "https://www.gov.uk/api/content/transport/vessel-registration",
+        "base_path": "/transport/vessel-registration",
+        "content_id": "6fae7839-999f-4df4-bf13-7ccb75190806",
+        "description": "Register a pleasure boat, yacht, passenger, fishing or merchant vessel, log books and UK Ship Register.",
+        "details": {
+          "internal_name": "Vessel registration",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/vessel-registration-and-design",
+              "api_url": "https://www.gov.uk/api/content/transport/vessel-registration-and-design",
+              "base_path": "/transport/vessel-registration-and-design",
+              "content_id": "d7c7489a-07f4-4c3f-af97-acacff6619ef",
+              "description": "Registration and design of pleasure boats, yachts, passenger, fishing or merchant vessels, UK Ship Register and notices on ship equipment.",
+              "details": {
+                "internal_name": "Vessel registration and design",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/maritime-and-shipping",
+                    "api_url": "https://www.gov.uk/api/content/transport/maritime-and-shipping",
+                    "base_path": "/transport/maritime-and-shipping",
+                    "content_id": "4a9ab4d7-0d03-4c61-9e16-47787cbf53cd",
+                    "description": "Shipping, ports and harbours, security, safety at sea, crew training and certifications, sea passengers and vessel registration.",
+                    "details": {
+                      "internal_name": "Maritime and shipping",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:18Z",
+                    "schema_name": "taxon",
+                    "title": "Maritime and shipping",
+                    "web_url": "https://www.gov.uk/transport/maritime-and-shipping",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:18Z",
+              "schema_name": "taxon",
+              "title": "Vessel registration and design",
+              "web_url": "https://www.gov.uk/transport/vessel-registration-and-design",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:18Z",
+        "schema_name": "taxon",
+        "title": "Vessel registration",
+        "web_url": "https://www.gov.uk/transport/vessel-registration",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-04-28T10:30:17Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "3591-1504183245.009-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Check the public register of marine licence applications and decisions",
+  "updated_at": "2024-01-12T10:03:39Z",
+  "withdrawn_notice": {
+  }
+}

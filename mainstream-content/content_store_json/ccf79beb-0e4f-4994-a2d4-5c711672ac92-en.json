@@ -1,0 +1,483 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/find-driver-cpc-part-3a-test-provider",
+  "content_id": "ccf79beb-0e4f-4994-a2d4-5c711672ac92",
+  "description": "Find an approved test provider for Driver Certificate of Professional Competence (CPC) part 3a tests: heavy goods vehicle (HGV) and bus driving qualifications.",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>The <a href=\"/government/publications/become-a-qualified-hgv-or-bus-driver-driver-cpc-part-3a-and-part-3b-tests/driver-cpc-part-3a-test-off-road-exercises\">Driver Certificate of Professional Competence (CPC) part 3a test</a> is one of the tests you need to pass to become a heavy goods vehicle (HGV) or bus driver.</p>\n\n<p>Enter your postcode to find an approved test provider to take your Driver CPC part 3a test with.</p>\n\n<p>An approved test provider can charge up to £40 for the test. This does not include the cost of training or hiring a vehicle.</p>\n\n<p>If there are no test providers near you, you can <a href=\"/book-driving-test\">book a test</a> with the Driver and Vehicle Standards Agency (<abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr>). A test with <abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr> costs £40.</p>\n\n",
+    "place_type": "driver-cpc-part-3a-test"
+  },
+  "document_type": "place",
+  "first_published_at": "2021-11-25T14:45:01Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/find-driver-cpc-part-3a-test-provider",
+        "api_url": "https://www.gov.uk/api/content/find-driver-cpc-part-3a-test-provider",
+        "base_path": "/find-driver-cpc-part-3a-test-provider",
+        "content_id": "ccf79beb-0e4f-4994-a2d4-5c711672ac92",
+        "document_type": "place",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-11-25T14:38:26Z",
+        "schema_name": "place",
+        "title": "Find a Driver CPC part 3a (off-road exercises) test provider",
+        "web_url": "https://www.gov.uk/find-driver-cpc-part-3a-test-provider",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/drivers-lorries-buses",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/drivers-lorries-buses",
+        "base_path": "/browse/driving/drivers-lorries-buses",
+        "content_id": "13a30e05-d75e-45d8-95d9-0445042a4066",
+        "description": "Become a HGV or bus driver, find training, drivers' hours rules, specialist tests",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:15Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "HGV, bus and coach drivers",
+        "web_url": "https://www.gov.uk/browse/driving/drivers-lorries-buses",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/become-lorry-bus-driver",
+        "api_url": "https://www.gov.uk/api/content/become-lorry-bus-driver",
+        "base_path": "/become-lorry-bus-driver",
+        "content_id": "ade4791d-a7fa-451b-afd1-6d0ad00ee630",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/driving-licences",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+              "base_path": "/browse/driving/driving-licences",
+              "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+              "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-26T14:10:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving licences",
+              "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/learning-to-drive",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/learning-to-drive",
+              "base_path": "/browse/driving/learning-to-drive",
+              "content_id": "6af0f337-4da6-415c-a760-55b612d0e3e3",
+              "description": "Find driving lessons, book and manage theory and driving tests, tests for different vehicles",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving tests and learning to drive or ride",
+              "web_url": "https://www.gov.uk/browse/driving/learning-to-drive",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/drivers-lorries-buses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/drivers-lorries-buses",
+              "base_path": "/browse/driving/drivers-lorries-buses",
+              "content_id": "13a30e05-d75e-45d8-95d9-0445042a4066",
+              "description": "Become a HGV or bus driver, find training, drivers' hours rules, specialist tests",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:15Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "HGV, bus and coach drivers",
+              "web_url": "https://www.gov.uk/browse/driving/drivers-lorries-buses",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-09T09:21:27Z",
+        "schema_name": "guide",
+        "title": "Become a qualified heavy goods vehicle (HGV) or bus driver",
+        "web_url": "https://www.gov.uk/become-lorry-bus-driver",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/training-hgv",
+        "api_url": "https://www.gov.uk/api/content/training-hgv",
+        "base_path": "/training-hgv",
+        "content_id": "6794adde-9b69-4e8a-bba7-0a3a0faf5664",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/learning-to-drive",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/learning-to-drive",
+              "base_path": "/browse/driving/learning-to-drive",
+              "content_id": "6af0f337-4da6-415c-a760-55b612d0e3e3",
+              "description": "Find driving lessons, book and manage theory and driving tests, tests for different vehicles",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:14Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving tests and learning to drive or ride",
+              "web_url": "https://www.gov.uk/browse/driving/learning-to-drive",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/drivers-lorries-buses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/drivers-lorries-buses",
+              "base_path": "/browse/driving/drivers-lorries-buses",
+              "content_id": "13a30e05-d75e-45d8-95d9-0445042a4066",
+              "description": "Become a HGV or bus driver, find training, drivers' hours rules, specialist tests",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:15Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "HGV, bus and coach drivers",
+              "web_url": "https://www.gov.uk/browse/driving/drivers-lorries-buses",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2021-11-30T13:46:36Z",
+        "schema_name": "guide",
+        "title": "Find training to become a heavy goods vehicle (HGV) driver",
+        "web_url": "https://www.gov.uk/training-hgv",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA570",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-standards-agency",
+        "content_id": "d39237a5-678b-4bb5-a372-eb2cb036933d",
+        "details": {
+          "acronym": "DVSA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Standards<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Standards Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/drivers-lorries-buses",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/drivers-lorries-buses",
+        "base_path": "/browse/driving/drivers-lorries-buses",
+        "content_id": "13a30e05-d75e-45d8-95d9-0445042a4066",
+        "description": "Become a HGV or bus driver, find training, drivers' hours rules, specialist tests",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:15Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "HGV, bus and coach drivers",
+        "web_url": "https://www.gov.uk/browse/driving/drivers-lorries-buses",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/lorry-bus-coach-and-specialist-vehicle-driving-tests",
+        "api_url": "https://www.gov.uk/api/content/transport/lorry-bus-coach-and-specialist-vehicle-driving-tests",
+        "base_path": "/transport/lorry-bus-coach-and-specialist-vehicle-driving-tests",
+        "content_id": "576e8b97-1a70-40b1-994c-3062e23057e7",
+        "description": "Driving test information for lorries buses, coaches, tractors, minibuses, private hire vehicles or specialist vehicles.",
+        "details": {
+          "internal_name": "Lorry, bus, coach and specialist vehicle driving tests",
+          "notes_for_editors": "",
+          "url_override": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/driving-and-motorcycle-tests",
+              "api_url": "https://www.gov.uk/api/content/transport/driving-and-motorcycle-tests",
+              "base_path": "/transport/driving-and-motorcycle-tests",
+              "content_id": "9f5f3106-7145-4f30-a2d5-e3ac1b002289",
+              "description": "Tests and training for vehicles, including motorcycles, lorries, cars and buses.",
+              "details": {
+                "internal_name": "Driving and motorcycle tests",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/driving-and-road-transport",
+                    "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                    "base_path": "/transport/driving-and-road-transport",
+                    "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                    "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                    "details": {
+                      "internal_name": "Driving and road transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport",
+                          "api_url": "https://www.gov.uk/api/content/transport",
+                          "base_path": "/transport",
+                          "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                          "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                          "details": {
+                            "internal_name": "Transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-15T14:31:46Z",
+                          "schema_name": "taxon",
+                          "title": "Transport",
+                          "web_url": "https://www.gov.uk/transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Driving and road transport",
+                    "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:15Z",
+              "schema_name": "taxon",
+              "title": "Driving and motorcycle tests",
+              "web_url": "https://www.gov.uk/transport/driving-and-motorcycle-tests",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2021-09-17T14:44:05Z",
+        "schema_name": "taxon",
+        "title": "Lorry, bus, coach and specialist vehicle driving tests",
+        "web_url": "https://www.gov.uk/transport/lorry-bus-coach-and-specialist-vehicle-driving-tests",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2021-11-25T14:38:26Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "10976-1637851106.950-10.13.3.253-8074",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "place",
+  "title": "Find a Driver CPC part 3a (off-road exercises) test provider",
+  "updated_at": "2024-03-08T09:57:57Z",
+  "withdrawn_notice": {
+  }
+}

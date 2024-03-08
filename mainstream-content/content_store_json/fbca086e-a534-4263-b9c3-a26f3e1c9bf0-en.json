@@ -1,0 +1,388 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/get-money-from-court-funds-office",
+  "content_id": "fbca086e-a534-4263-b9c3-a26f3e1c9bf0",
+  "description": "Apply for a payment out of Court Funds Office paid in by a defendant to settle a court case",
+  "details": {
+    "body": "<p>You can ask for money owed to you that’s held in the Court Funds Office.</p>\n\n<p>It will be money a defendant <a href=\"/pay-court-funds-office\">paid in</a> either:</p>\n\n<ul>\n  <li>to use a defence that they made an offer to settle before the case started and you turned it down (sometimes called a ‘defence of tender before claim’)</li>\n  <li>when the court has ordered them to pay it in as part of a settlement that you’ve accepted</li>\n  <li>as part or all of a ‘part 36 offer’ to settle made before April 2007 but you’ve only now accepted it</li>\n</ul>\n\n<p>You can ask for the money to be paid into either:</p>\n\n<ul>\n  <li>your bank account</li>\n  <li>your solicitor’s bank account</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you have legal aid charges to pay, the money must be paid into your solicitor’s bank account.</p>\n</div>\n\n<h2 id=\"money-paid-in-as-part-of-a-defence-of-tender-before-claim-or-a-settlement-youve-accepted\">Money paid in as part of a defence of tender before claim or a settlement you’ve accepted</h2>\n\n<p>Apply to get money you’re owed by sending the Court Funds Office both:</p>\n\n<ul>\n  <li>a <a href=\"/government/publications/court-funds-ask-for-payment-for-a-part-36-offer\">request for payment (CFO 201)</a> signed by you or your solicitor - if you sign it, your signature must be witnessed</li>\n  <li>a <a href=\"/government/publications/court-funds-notice-of-consent-to-pay-out-of-money-in-court\">notice of consent (CFO 202)</a> signed by the defendant or their solicitor - if the defendant signs it, their signature must be witnessed</li>\n</ul>\n\n<p>Include a copy of a bank statement or letter from your bank dated within the last 3 months if you want the money paid into your bank account rather than your solicitor’s.</p>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nCourt Funds Office\n<br>Sunderland\n<br>SR43 3AB\n<br>\n</p></div></div>\n\n<p>Court Funds Office should pay the money within 5 days if they approve your request.</p>\n\n<h2 id=\"money-paid-in-as-part-of-a-part-36-offer-to-settle-before-april-2007\">Money paid in as part of a ‘part 36 offer’ to settle before April 2007</h2>\n\n<p>Apply to get money you’re owed by sending the Court Funds Office a <a href=\"/government/publications/court-funds-ask-for-payment-for-a-part-36-offer\">request for payment (CFO 201)</a> signed by you or your solicitor - if you sign it, your signature must be witnessed.</p>\n\n<p>Include a copy of a bank statement or letter from your bank dated within the last 3 months if you want the money paid into your bank account rather than your solicitor’s.</p>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nCourt Funds Office\n<br>Sunderland\n<br>SR43 3AB\n<br>\n</p></div></div>\n\n<p>Court Funds Office should pay the money within 5 days if they approve your request.</p>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2014-08-22T10:37:55Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/get-money-from-court-funds-office",
+        "api_url": "https://www.gov.uk/api/content/get-money-from-court-funds-office",
+        "base_path": "/get-money-from-court-funds-office",
+        "content_id": "fbca086e-a534-4263-b9c3-a26f3e1c9bf0",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-09-04T10:09:06Z",
+        "schema_name": "answer",
+        "title": "Get money that's been paid into the Court Funds Office",
+        "web_url": "https://www.gov.uk/get-money-from-court-funds-office",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+        "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+        "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-05T14:07:55Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/pay-court-funds-office",
+        "api_url": "https://www.gov.uk/api/content/pay-court-funds-office",
+        "base_path": "/pay-court-funds-office",
+        "content_id": "17ff95e3-3ceb-4773-b45a-3a20c89715e9",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+              "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+              "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+              "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-10-05T14:07:55Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Court claims, debt and bankruptcy",
+              "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-06-05T23:01:00Z",
+        "schema_name": "answer",
+        "title": "Pay money into the Court Funds Office",
+        "web_url": "https://www.gov.uk/pay-court-funds-office",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA73",
+        "api_path": "/api/content/government/organisations/hm-courts-and-tribunals-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-courts-and-tribunals-service",
+        "base_path": "/government/organisations/hm-courts-and-tribunals-service",
+        "content_id": "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+        "details": {
+          "acronym": "HMCTS",
+          "brand": "ministry-of-justice",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "HM Courts &amp; <br/>Tribunals Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Courts & Tribunals Service",
+        "web_url": "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D18",
+        "api_path": "/api/content/government/organisations/ministry-of-justice",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/ministry-of-justice",
+        "base_path": "/government/organisations/ministry-of-justice",
+        "content_id": "dcc907d6-433c-42df-9ffb-d9c68be5dc4d",
+        "details": {
+          "acronym": "MOJ",
+          "brand": "ministry-of-justice",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db21ed915d5a62fdc762/s960_ministry-of-justice.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db21e5274a7908e352d9/s300_ministry-of-justice.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Ministry<br/>of Justice"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Ministry of Justice",
+        "web_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+        "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+        "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-05T14:07:55Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/get-court-funds-money-when-you-turn-18",
+        "api_url": "https://www.gov.uk/api/content/get-court-funds-money-when-you-turn-18",
+        "base_path": "/get-court-funds-money-when-you-turn-18",
+        "content_id": "6c9d5627-cb61-4dfe-94f7-9cfaef0a28fd",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-11-24T16:57:09Z",
+        "schema_name": "answer",
+        "title": "Get your court funds money when you turn 18",
+        "web_url": "https://www.gov.uk/get-court-funds-money-when-you-turn-18",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/contact-court-funds-office",
+        "api_url": "https://www.gov.uk/api/content/contact-court-funds-office",
+        "base_path": "/contact-court-funds-office",
+        "content_id": "eb5c02d7-61a9-4190-a88a-ae9187f81c0b",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-03T15:10:56Z",
+        "schema_name": "answer",
+        "title": "Contact the Court Funds Office",
+        "web_url": "https://www.gov.uk/contact-court-funds-office",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/court-money-children",
+        "api_url": "https://www.gov.uk/api/content/court-money-children",
+        "base_path": "/court-money-children",
+        "content_id": "afafd878-b821-4cb4-8f1e-e9e5f3e4ff01",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-01-06T12:07:26Z",
+        "schema_name": "answer",
+        "title": "Litigation friends: manage a Court Funds Office account",
+        "web_url": "https://www.gov.uk/court-money-children",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-unclaimed-court-money",
+        "api_url": "https://www.gov.uk/api/content/find-unclaimed-court-money",
+        "base_path": "/find-unclaimed-court-money",
+        "content_id": "323ca888-7b4f-4862-8da1-b57ca6da69aa",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-05-05T16:43:42Z",
+        "schema_name": "answer",
+        "title": "Find and claim money in an unclaimed court account",
+        "web_url": "https://www.gov.uk/find-unclaimed-court-money",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/litigation-friend",
+        "api_url": "https://www.gov.uk/api/content/litigation-friend",
+        "base_path": "/litigation-friend",
+        "content_id": "7e2cee32-6686-44d8-8646-827b53c98884",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-24T16:57:05Z",
+        "schema_name": "guide",
+        "title": "Litigation friends",
+        "web_url": "https://www.gov.uk/litigation-friend",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/money/court-claims-debt-bankruptcy",
+        "base_path": "/money/court-claims-debt-bankruptcy",
+        "content_id": "7c4cf197-2dba-4a82-83e2-6c8bb332525c",
+        "details": {
+          "internal_name": "Court claims, debt and bankruptcy [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money",
+              "api_url": "https://www.gov.uk/api/content/money",
+              "base_path": "/money",
+              "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+              "description": "",
+              "details": {
+                "internal_name": "Money",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:35:25Z",
+              "schema_name": "taxon",
+              "title": "Money",
+              "web_url": "https://www.gov.uk/money",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:49Z",
+        "schema_name": "taxon",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/money/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-09-04T10:09:06Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "1872-1511776677.075-213.86.153.236-8572",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Get money that's been paid into the Court Funds Office",
+  "updated_at": "2024-03-06T13:12:51Z",
+  "withdrawn_notice": {
+  }
+}

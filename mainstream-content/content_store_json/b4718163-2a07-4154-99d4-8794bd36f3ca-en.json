@@ -1,0 +1,277 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/automatic-pension-credits-for-men",
+  "content_id": "b4718163-2a07-4154-99d4-8794bd36f3ca",
+  "description": "Additional years counting towards the State Pension for men aged between 60 and 64",
+  "details": {
+    "body": "<p>If you’re a man born before 6 October 1953, you might get credits towards your basic State Pension for tax years when you were aged 60 to 64.</p>\n\n<p>You’re eligible if you’re a man born before 6 October 1953 and one of the following applied during tax years when you were aged 60 to 64:</p>\n\n<ul>\n  <li>you weren’t working</li>\n  <li>you weren’t earning enough to pay or be treated as paying National Insurance contributions</li>\n</ul>\n\n<p>If this applies to you, you should add the years as shown in the table to your result from the <a href=\"/calculate-state-pension\">State Pension calculator.</a></p>\n\n<table>\n  <thead>\n    <tr>\n      <td></td>\n      <th scope=\"col\">Credits to add</th>\n      <th scope=\"col\">Add credits for tax years when you were aged</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">Born before 6 October 1950</th>\n      <td>5 years</td>\n      <td>60 to 64</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Born before 6 October 1951</th>\n      <td>4 years</td>\n      <td>61 to 64</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Born before 6 October 1952</th>\n      <td>3 years</td>\n      <td>62 to 64</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Born before 6 July 1953</th>\n      <td>2 years</td>\n      <td>63 to 64</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">Born before 6 October 1953</th>\n      <td>1 year</td>\n      <td>64</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>You should not count these credits for tax years when you were out of the UK for more than 6 months or self-employed and paying Class 2 National Insurance contributions.</p>\n\n<p>The lower age limit is gradually increasing in line with women’s State Pension age.</p>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-10-17T10:35:18Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/automatic-pension-credits-for-men",
+        "api_url": "https://www.gov.uk/api/content/automatic-pension-credits-for-men",
+        "base_path": "/automatic-pension-credits-for-men",
+        "content_id": "b4718163-2a07-4154-99d4-8794bd36f3ca",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-08-24T14:59:54Z",
+        "schema_name": "answer",
+        "title": "Automatic pension credits for men born before 6 October 1953",
+        "web_url": "https://www.gov.uk/automatic-pension-credits-for-men",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/claim-pension-credit",
+        "api_url": "https://www.gov.uk/api/content/needs/claim-pension-credit",
+        "base_path": "/needs/claim-pension-credit",
+        "content_id": "d6d944b8-4aaa-42d7-8cd0-b8b148b29913",
+        "details": {
+          "benefit": "I can raise my income to the minimum level",
+          "goal": "claim pension credit",
+          "justifications": [
+            "It's something only government does",
+            "The government is legally obliged to provide it",
+            "There is clear demand for it from users",
+            "It's something the government provides/does/pays for"
+          ],
+          "met_when": [
+            "understands what pension credit is",
+            "knows the eligibility for pension credit",
+            "knows how to calculate their pension credit",
+            "knows how to claim pension credit",
+            "knows when pension credits are automatically applied",
+            "knows how to appeal to the Social Security and Child Support Tribunal",
+            "knows the penalties for fraud and keeping overpayments"
+          ],
+          "role": "person who has reached Pension Credit qualifying age"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a person who has reached Pension Credit qualifying age, I need to claim pension credit, so that I can raise my income to the minimum level (100265)",
+        "web_url": "https://www.gov.uk/needs/claim-pension-credit",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/state-pension",
+        "api_url": "https://www.gov.uk/api/content/state-pension",
+        "base_path": "/state-pension",
+        "content_id": "fb626a9c-02bf-4f30-a4d9-0db6807605f1",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/working/state-pension",
+              "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+              "base_path": "/browse/working/state-pension",
+              "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+              "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:19Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "State Pension",
+              "web_url": "https://www.gov.uk/browse/working/state-pension",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-17T18:23:25Z",
+        "schema_name": "guide",
+        "title": "The basic State Pension",
+        "web_url": "https://www.gov.uk/state-pension",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D10",
+        "api_path": "/api/content/government/organisations/department-for-work-pensions",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-work-pensions",
+        "base_path": "/government/organisations/department-for-work-pensions",
+        "content_id": "b548a09f-8b35-4104-89f4-f1a40bf3136d",
+        "details": {
+          "acronym": "DWP",
+          "brand": "department-for-work-pensions",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab1e5274a7908e35204/s960_dwp-caxton-house-logo-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab040f0b649cfaf7b4b/s300_dwp-caxton-house-logo-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Work &amp; <br/>Pensions"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Work and Pensions",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/state-pension",
+        "api_url": "https://www.gov.uk/api/content/state-pension",
+        "base_path": "/state-pension",
+        "content_id": "fb626a9c-02bf-4f30-a4d9-0db6807605f1",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-17T18:23:25Z",
+        "schema_name": "guide",
+        "title": "The basic State Pension",
+        "web_url": "https://www.gov.uk/state-pension",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/state-pension-age",
+        "api_url": "https://www.gov.uk/api/content/state-pension-age",
+        "base_path": "/state-pension-age",
+        "content_id": "5491c439-1c83-4044-80d3-32cc3613b739",
+        "document_type": "smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-06-16T08:18:55Z",
+        "schema_name": "smart_answer",
+        "title": "Check your State Pension age",
+        "web_url": "https://www.gov.uk/state-pension-age",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pension-credit",
+        "api_url": "https://www.gov.uk/api/content/pension-credit",
+        "base_path": "/pension-credit",
+        "content_id": "36110496-f717-4ac9-9698-60601ab77454",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-12T15:06:07Z",
+        "schema_name": "guide",
+        "title": "Pension Credit",
+        "web_url": "https://www.gov.uk/pension-credit",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pension-credit-calculator",
+        "api_url": "https://www.gov.uk/api/content/pension-credit-calculator",
+        "base_path": "/pension-credit-calculator",
+        "content_id": "71f3a75b-5f0f-403e-bcc3-cf62df89afb2",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-09-05T10:35:25Z",
+        "schema_name": "answer",
+        "title": "Pension Credit calculator",
+        "web_url": "https://www.gov.uk/pension-credit-calculator",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/national-insurance-credits",
+        "api_url": "https://www.gov.uk/api/content/national-insurance-credits",
+        "base_path": "/national-insurance-credits",
+        "content_id": "84b8f145-e877-41d7-bd51-305b0aeabd00",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-18T23:28:36Z",
+        "schema_name": "guide",
+        "title": "National Insurance credits",
+        "web_url": "https://www.gov.uk/national-insurance-credits",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-08-24T14:59:54Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "31099-1598523025.349-10.13.3.253-8050",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Automatic pension credits for men born before 6 October 1953",
+  "updated_at": "2024-03-06T08:34:50Z",
+  "withdrawn_notice": {
+  }
+}

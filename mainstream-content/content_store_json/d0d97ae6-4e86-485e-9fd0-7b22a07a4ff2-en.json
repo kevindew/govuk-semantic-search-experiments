@@ -1,0 +1,391 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/consumer-advice",
+  "content_id": "d0d97ae6-4e86-485e-9fd0-7b22a07a4ff2",
+  "description": "Get advice on consumer issues, your energy supply and postal service - numbers, enquiry forms, how to complain.",
+  "details": {
+    "body": "<p>Get advice on consumer issues, your energy supply and postal service.</p>\n\n<h2 id=\"england-and-wales\">England and Wales</h2>\n<p>Contact the <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/\">Citizens Advice</a> consumer helpline.</p>\n\n<div class=\"contact\">\n<p>Citizens Advice<br>\nTelephone: 0808 223 1133<br>\nWelsh language: 0808 223 1144<br>\nMonday to Friday, 9am to 5pm</p>\n</div>\n\n<h2 id=\"scotland\">Scotland</h2>\n<p>Contact <a rel=\"external\" href=\"https://www.advice.scot/\">Consumer Advice Scotland</a> for advice on consumer issues.</p>\n\n<div class=\"contact\">\n<p>Consumer Advice Scotland<br>\nTelephone: 0808 164 6000<br>\nMonday to Friday, 9am to 5pm</p>\n</div>\n\n<p>Contact <a rel=\"external\" href=\"http://www.energyadvice.scot/\">Energy Advice Scotland</a> for advice on your energy supply.</p>\n\n<div class=\"contact\">\n<p>Energy Advice Scotland<br>\nTelephone: 0808 196 8660<br>\nMonday to Friday, 9am to 5pm</p>\n</div>\n\n<p>Contact <a rel=\"external\" href=\"https://postaladvice.scot/\">Postal Advice Scotland</a> for advice on your postal service.</p>\n\n<div class=\"contact\">\n<p>Postal Advice Scotland<br>\nTelephone: 0808 196 8660<br>\nMonday to Friday, 9am to 5pm</p>\n</div>\n\n<h2 id=\"northern-ireland\">Northern Ireland</h2>\n\n<p>Contact <a rel=\"external\" href=\"https://www.nidirect.gov.uk/contacts/contacts-az/consumerline\">Consumerline</a> (run by Trading Standards) for advice on consumer issues and your energy supply.</p>\n\n<div class=\"contact\">\n<p>Consumerline<br>\nTelephone: 0300 123 6262<br>\nMonday to Thursday, 9am to 5pm<br>\nFriday, 9am to 4pm</p>\n</div>\n\n<p>Contact the Citizens Advice consumer helpline for advice on your postal service.</p>\n\n<div class=\"contact\">\n<p>Citizens Advice<br>\nTelephone: 0808 223 1133<br>\nMonday to Friday, 9am to 5pm</p>\n</div>\n\n<p><a href=\"/call-charges\">Find out about call charges</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Find further advice on <a href=\"/consumer-protection-rights\">your consumer rights</a> as well as how to make a complaint.</p>\n</div>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-10-15T14:48:22Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/consumer-advice",
+        "api_url": "https://www.gov.uk/api/content/consumer-advice",
+        "base_path": "/consumer-advice",
+        "content_id": "d0d97ae6-4e86-485e-9fd0-7b22a07a4ff2",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-05-22T15:48:19Z",
+        "schema_name": "answer",
+        "title": "Consumer advice",
+        "web_url": "https://www.gov.uk/consumer-advice",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/justice/your-rights-legal-support",
+        "api_url": "https://www.gov.uk/api/content/browse/justice/your-rights-legal-support",
+        "base_path": "/browse/justice/your-rights-legal-support",
+        "content_id": "d91316d1-6f52-4350-be20-b2d98ba34b6c",
+        "description": "Includes legal aid, consumer advice, discrimination, work and residential property disputes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:47Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Your rights and legal support",
+        "web_url": "https://www.gov.uk/browse/justice/your-rights-legal-support",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/consumer-protection-rights",
+        "api_url": "https://www.gov.uk/api/content/consumer-protection-rights",
+        "base_path": "/consumer-protection-rights",
+        "content_id": "c9bcd962-c689-4193-b75a-ae01f6b62ad8",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/justice/your-rights-legal-support",
+              "api_url": "https://www.gov.uk/api/content/browse/justice/your-rights-legal-support",
+              "base_path": "/browse/justice/your-rights-legal-support",
+              "content_id": "d91316d1-6f52-4350-be20-b2d98ba34b6c",
+              "description": "Includes legal aid, consumer advice, discrimination, work and residential property disputes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/justice",
+                    "api_url": "https://www.gov.uk/api/content/browse/justice",
+                    "base_path": "/browse/justice",
+                    "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+                    "description": "Legal processes, courts and the police",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2022-04-06T18:09:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Crime, justice and the law",
+                    "web_url": "https://www.gov.uk/browse/justice",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Your rights and legal support",
+              "web_url": "https://www.gov.uk/browse/justice/your-rights-legal-support",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-02T17:04:04Z",
+        "schema_name": "answer",
+        "title": "Consumer rights",
+        "web_url": "https://www.gov.uk/consumer-protection-rights",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1382",
+        "api_path": "/api/content/government/organisations/department-for-business-and-trade",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-business-and-trade",
+        "base_path": "/government/organisations/department-for-business-and-trade",
+        "content_id": "aa750cdf-7925-429d-a2b3-0d9fa47d2c48",
+        "details": {
+          "acronym": "DBT",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/64539946faf4aa0012e132d1/s960_DBT_Plaque-2.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/64539946c33b46000cf5e655/s300_DBT_Plaque-2.jpg"
+          },
+          "logo": {
+            "crest": "dbt",
+            "formatted_title": "Department for<br/>Business &amp; Trade"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Business and Trade",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D1198",
+        "api_path": "/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "base_path": "/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "content_id": "2bde479a-97f2-42b5-986a-287a623c2a1c",
+        "details": {
+          "acronym": "BEIS",
+          "brand": "department-for-business-innovation-skills",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a62fdc6b1/s960_beis-sign-1vs.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a5f965fd5/s300_beis-sign-1vs.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for<br/>Business, Energy<br/>&amp; Industrial Strategy"
+          },
+          "organisation_govuk_status": {
+            "status": "split",
+            "updated_at": null,
+            "url": ""
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Business, Energy & Industrial Strategy",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/justice/your-rights-legal-support",
+        "api_url": "https://www.gov.uk/api/content/browse/justice/your-rights-legal-support",
+        "base_path": "/browse/justice/your-rights-legal-support",
+        "content_id": "d91316d1-6f52-4350-be20-b2d98ba34b6c",
+        "description": "Includes legal aid, consumer advice, discrimination, work and residential property disputes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/justice",
+              "api_url": "https://www.gov.uk/api/content/browse/justice",
+              "base_path": "/browse/justice",
+              "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+              "description": "Legal processes, courts and the police",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2022-04-06T18:09:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Crime, justice and the law",
+              "web_url": "https://www.gov.uk/browse/justice",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:47Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Your rights and legal support",
+        "web_url": "https://www.gov.uk/browse/justice/your-rights-legal-support",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/complain-financial-service",
+        "api_url": "https://www.gov.uk/api/content/complain-financial-service",
+        "base_path": "/complain-financial-service",
+        "content_id": "e57ff815-9092-46f6-8937-4059f862dd17",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-18T15:21:03Z",
+        "schema_name": "answer",
+        "title": "Complain about a financial service or product",
+        "web_url": "https://www.gov.uk/complain-financial-service",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/civil-legal-advice",
+        "api_url": "https://www.gov.uk/api/content/civil-legal-advice",
+        "base_path": "/civil-legal-advice",
+        "content_id": "9f16b522-0321-4e6c-9185-e233306ed328",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-19T14:40:36Z",
+        "schema_name": "answer",
+        "title": "Civil Legal Advice (CLA)",
+        "web_url": "https://www.gov.uk/civil-legal-advice",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-legal-advice",
+        "api_url": "https://www.gov.uk/api/content/find-legal-advice",
+        "base_path": "/find-legal-advice",
+        "content_id": "1c98083e-0a26-48aa-9d25-af62f82a199d",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-22T13:23:47Z",
+        "schema_name": "guide",
+        "title": "Find legal advice and information",
+        "web_url": "https://www.gov.uk/find-legal-advice",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/complain-company",
+        "api_url": "https://www.gov.uk/api/content/complain-company",
+        "base_path": "/complain-company",
+        "content_id": "6fe67c09-c8b0-45df-913c-76e91fb54330",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-08-20T15:27:22Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Complain about a limited company",
+        "web_url": "https://www.gov.uk/complain-company",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/complain-about-legal-adviser",
+        "api_url": "https://www.gov.uk/api/content/complain-about-legal-adviser",
+        "base_path": "/complain-about-legal-adviser",
+        "content_id": "22859bf4-727a-4711-8115-1bf868584709",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-13T15:07:30Z",
+        "schema_name": "answer",
+        "title": "Complain about a legal adviser",
+        "web_url": "https://www.gov.uk/complain-about-legal-adviser",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/crime-justice-and-law/rights",
+        "api_url": "https://www.gov.uk/api/content/crime-justice-and-law/rights",
+        "base_path": "/crime-justice-and-law/rights",
+        "content_id": "ed952e5a-2ea7-44c0-aed9-c97ffe58993b",
+        "details": {
+          "internal_name": "Your rights and the law [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/crime-justice-and-law",
+              "api_url": "https://www.gov.uk/api/content/crime-justice-and-law",
+              "base_path": "/crime-justice-and-law",
+              "content_id": "ba951b09-5146-43be-87af-44075eac3ae9",
+              "description": "",
+              "details": {
+                "internal_name": "Crime, justice and law",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:34:51Z",
+              "schema_name": "taxon",
+              "title": "Crime, justice and law",
+              "web_url": "https://www.gov.uk/crime-justice-and-law",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:15:51Z",
+        "schema_name": "taxon",
+        "title": "Your rights and the law",
+        "web_url": "https://www.gov.uk/crime-justice-and-law/rights",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-05-22T15:48:19Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "6550-1618385592.310-10.13.2.197-8854",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Consumer advice",
+  "updated_at": "2024-03-01T13:24:50Z",
+  "withdrawn_notice": {
+  }
+}

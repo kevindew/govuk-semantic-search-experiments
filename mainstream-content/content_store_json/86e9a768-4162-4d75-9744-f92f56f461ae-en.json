@@ -1,0 +1,496 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/find-an-insolvency-practitioner",
+  "content_id": "86e9a768-4162-4d75-9744-f92f56f461ae",
+  "description": "Find a licensed insolvency practitioner in your area.",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Find a licensed insolvency practitioner in your area. Search by name, town or county.</p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "http://www.insolvencydirect.bis.gov.uk/fip1/",
+    "will_continue_on": "the Insolvency Service website"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2012-10-15T15:18:28Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/find-an-insolvency-practitioner",
+        "api_url": "https://www.gov.uk/api/content/find-an-insolvency-practitioner",
+        "base_path": "/find-an-insolvency-practitioner",
+        "content_id": "86e9a768-4162-4d75-9744-f92f56f461ae",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-10-02T15:13:25Z",
+        "schema_name": "transaction",
+        "title": "Find an insolvency practitioner",
+        "web_url": "https://www.gov.uk/find-an-insolvency-practitioner",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/funding-debt",
+        "api_url": "https://www.gov.uk/api/content/browse/business/funding-debt",
+        "base_path": "/browse/business/funding-debt",
+        "content_id": "8c5661a7-dc03-4d80-8f66-69798c2f4dde",
+        "description": "Includes bankruptcy, insolvency and recovering debt",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-18T16:02:29Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/business/funding-debt",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+        "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+        "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-05T14:07:55Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/apply-to-be-made-bankrupt",
+        "api_url": "https://www.gov.uk/api/content/needs/apply-to-be-made-bankrupt",
+        "base_path": "/needs/apply-to-be-made-bankrupt",
+        "content_id": "9744f3df-8cd7-4695-90fc-669f552341a7",
+        "details": {
+          "benefit": "I deal with my debt in a structured way",
+          "goal": "apply to be made bankrupt ",
+          "justifications": [
+            "It's something only government does",
+            "The government is legally obliged to provide it",
+            "It's inherent to a person's or an organisation's rights and obligations",
+            "It's something that people can do or it's something people need to know before they can do something that's regulated by/related to government",
+            "There is clear demand for it from users",
+            "It's something the government provides/does/pays for"
+          ],
+          "met_when": [
+            "knows how to apply for bankruptcy and how much it costs",
+            "knows how to stop their personal details from being shared if they're at risk of violence",
+            "knows what happens to their assets, home and income when they're bankrupt",
+            "knows how and when they can cancel their bankruptcy",
+            "knows what happens when bankruptcy ends"
+          ],
+          "role": "a person who wants to become bankrupt  "
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a a person who wants to become bankrupt, I need to apply to be made bankrupt, so that I deal with my debt in a structured way (101459)",
+        "web_url": "https://www.gov.uk/needs/apply-to-be-made-bankrupt",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/insolvency-and-your-vat",
+        "api_url": "https://www.gov.uk/api/content/insolvency-and-your-vat",
+        "base_path": "/insolvency-and-your-vat",
+        "content_id": "9666a998-bded-4e58-876c-ce8f392fb68e",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/vat",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/vat",
+              "base_path": "/browse/tax/vat",
+              "content_id": "895d337a-fa68-4c83-ab79-1c08016afe87",
+              "description": "Includes online returns, rates, charging and record keeping",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-03-08T14:50:05Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "VAT",
+              "web_url": "https://www.gov.uk/browse/tax/vat",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-09-24T14:59:20Z",
+        "schema_name": "answer",
+        "title": "Insolvency and your VAT",
+        "web_url": "https://www.gov.uk/insolvency-and-your-vat",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA32",
+        "api_path": "/api/content/government/organisations/insolvency-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/insolvency-service",
+        "base_path": "/government/organisations/insolvency-service",
+        "content_id": "c8406408-8376-45e0-95b4-7e74cef2c260",
+        "details": {
+          "acronym": "",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "The Insolvency <br/>Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "The Insolvency Service",
+        "web_url": "https://www.gov.uk/government/organisations/insolvency-service",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+        "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+        "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-05T14:07:55Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/contact-official-receiver",
+        "api_url": "https://www.gov.uk/api/content/contact-official-receiver",
+        "base_path": "/contact-official-receiver",
+        "content_id": "3df36f15-f10f-4f89-9bff-7a12a7ae89a7",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-30T13:57:49Z",
+        "schema_name": "answer",
+        "title": "Contact an official receiver",
+        "web_url": "https://www.gov.uk/contact-official-receiver",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/search-bankruptcy-insolvency-register",
+        "api_url": "https://www.gov.uk/api/content/search-bankruptcy-insolvency-register",
+        "base_path": "/search-bankruptcy-insolvency-register",
+        "content_id": "e7ddddd5-58b1-4f6c-b711-1d4c290239a0",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-19T13:54:06Z",
+        "schema_name": "answer",
+        "title": "Search the bankruptcy and insolvency register",
+        "web_url": "https://www.gov.uk/search-bankruptcy-insolvency-register",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/liquidate-your-company",
+        "api_url": "https://www.gov.uk/api/content/liquidate-your-company",
+        "base_path": "/liquidate-your-company",
+        "content_id": "a0c72b4b-b179-4031-95ac-506c53c53ffb",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-04T15:55:34Z",
+        "schema_name": "guide",
+        "title": "Liquidate your limited company",
+        "web_url": "https://www.gov.uk/liquidate-your-company",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/insolvency-and-your-vat",
+        "api_url": "https://www.gov.uk/api/content/insolvency-and-your-vat",
+        "base_path": "/insolvency-and-your-vat",
+        "content_id": "9666a998-bded-4e58-876c-ce8f392fb68e",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-09-24T14:59:20Z",
+        "schema_name": "answer",
+        "title": "Insolvency and your VAT",
+        "web_url": "https://www.gov.uk/insolvency-and-your-vat",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/bankruptcy",
+        "base_path": "/bankruptcy",
+        "content_id": "64aadc14-9bca-40d9-abb6-4f21f9792a05",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-18T10:07:26Z",
+        "schema_name": "guide",
+        "title": "Applying to become bankrupt",
+        "web_url": "https://www.gov.uk/bankruptcy",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/business-debt-and-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/business-debt-and-bankruptcy",
+        "base_path": "/business-and-industry/business-debt-and-bankruptcy",
+        "content_id": "a1119685-ffef-4417-a3e4-116014ad4523",
+        "details": {
+          "internal_name": "Business debt and bankruptcy",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/running-a-business",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+              "base_path": "/business-and-industry/running-a-business",
+              "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+              "details": {
+                "internal_name": "Running a business",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                    "base_path": "/business-and-industry",
+                    "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Business and industry",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Business and industry",
+                    "web_url": "https://www.gov.uk/business-and-industry",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Running a business",
+              "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:02Z",
+        "schema_name": "taxon",
+        "title": "Business debt and bankruptcy",
+        "web_url": "https://www.gov.uk/business-and-industry/business-debt-and-bankruptcy",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/money/court-claims-debt-bankruptcy",
+        "base_path": "/money/court-claims-debt-bankruptcy",
+        "content_id": "7c4cf197-2dba-4a82-83e2-6c8bb332525c",
+        "details": {
+          "internal_name": "Court claims, debt and bankruptcy [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money",
+              "api_url": "https://www.gov.uk/api/content/money",
+              "base_path": "/money",
+              "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+              "description": "",
+              "details": {
+                "internal_name": "Money",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:35:25Z",
+              "schema_name": "taxon",
+              "title": "Money",
+              "web_url": "https://www.gov.uk/money",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:49Z",
+        "schema_name": "taxon",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/money/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-10-02T15:13:25Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15543-1504183242.955-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Find an insolvency practitioner",
+  "updated_at": "2024-02-06T14:11:49Z",
+  "withdrawn_notice": {
+  }
+}

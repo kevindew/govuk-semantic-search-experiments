@@ -1,0 +1,295 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/make-lpa",
+  "content_id": "046ae9de-5e69-45a8-8402-939b53a16f80",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2013-08-30T15:34:25Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/make-lpa",
+        "api_url": "https://www.gov.uk/api/content/done/make-lpa",
+        "base_path": "/done/make-lpa",
+        "content_id": "046ae9de-5e69-45a8-8402-939b53a16f80",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-08-10T10:02:36Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Make a lasting power of attorney",
+        "web_url": "https://www.gov.uk/done/make-lpa",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/appoint-someone-to-act-on-my-behalf",
+        "api_url": "https://www.gov.uk/api/content/needs/appoint-someone-to-act-on-my-behalf",
+        "base_path": "/needs/appoint-someone-to-act-on-my-behalf",
+        "content_id": "fa769a9b-4be4-41f8-b47b-6373228e5113",
+        "details": {
+          "benefit": "I can be confident that my financial affairs will be managed by someone I trust",
+          "goal": "appoint someone to act on my behalf",
+          "justifications": [
+            "It's something only government does",
+            "It's inherent to a person's or an organisation's rights and obligations",
+            "There is clear demand for it from users"
+          ],
+          "met_when": [
+            "knows who they can choose to be their attorney",
+            "can access the different ways to make a lasting power of attorney",
+            "can register the lasting power of attorney with the Office of the Public Guardian",
+            "can certify the lasting power of attorney",
+            "knows how much the fees are"
+          ],
+          "role": "user who wants to plan for a future lack of mental capacity"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a user who wants to plan for a future lack of mental capacity, I need to appoint someone to act on my behalf, so that I can be confident that my financial affairs will be managed by someone I trust (100688)",
+        "web_url": "https://www.gov.uk/needs/appoint-someone-to-act-on-my-behalf",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/power-of-attorney",
+        "api_url": "https://www.gov.uk/api/content/power-of-attorney",
+        "base_path": "/power-of-attorney",
+        "content_id": "a7012f53-8697-4358-8331-02d55b54a163",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/lasting-power-attorney",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/lasting-power-attorney",
+              "base_path": "/browse/births-deaths-marriages/lasting-power-attorney",
+              "content_id": "affe9184-22a0-4e27-9254-2e43f6b2c870",
+              "description": "Includes dealing with benefits, taxes and leaving care",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-08-24T13:15:26Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Lasting power of attorney, being in care and managing finances",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/lasting-power-attorney",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-15T08:40:32Z",
+        "schema_name": "guide",
+        "title": "Make, register or end a lasting power of attorney",
+        "web_url": "https://www.gov.uk/power-of-attorney",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/become-deputy",
+        "api_url": "https://www.gov.uk/api/content/become-deputy",
+        "base_path": "/become-deputy",
+        "content_id": "a918d7e7-129b-45f6-9887-831a92833936",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/lasting-power-attorney",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/lasting-power-attorney",
+              "base_path": "/browse/births-deaths-marriages/lasting-power-attorney",
+              "content_id": "affe9184-22a0-4e27-9254-2e43f6b2c870",
+              "description": "Includes dealing with benefits, taxes and leaving care",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-08-24T13:15:26Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Lasting power of attorney, being in care and managing finances",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/lasting-power-attorney",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-15T10:58:04Z",
+        "schema_name": "guide",
+        "title": "Deputies: make decisions for someone who lacks capacity",
+        "web_url": "https://www.gov.uk/become-deputy",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-someones-attorney-deputy-or-guardian",
+        "api_url": "https://www.gov.uk/api/content/find-someones-attorney-deputy-or-guardian",
+        "base_path": "/find-someones-attorney-deputy-or-guardian",
+        "content_id": "136bfef2-354c-474b-bf97-a6d39ec4248b",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/lasting-power-attorney",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/lasting-power-attorney",
+              "base_path": "/browse/births-deaths-marriages/lasting-power-attorney",
+              "content_id": "affe9184-22a0-4e27-9254-2e43f6b2c870",
+              "description": "Includes dealing with benefits, taxes and leaving care",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-08-24T13:15:26Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Lasting power of attorney, being in care and managing finances",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/lasting-power-attorney",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-12-11T17:47:20Z",
+        "schema_name": "answer",
+        "title": "Find out if someone has an attorney, deputy or guardian acting for them",
+        "web_url": "https://www.gov.uk/find-someones-attorney-deputy-or-guardian",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA72",
+        "api_path": "/api/content/government/organisations/office-of-the-public-guardian",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/office-of-the-public-guardian",
+        "base_path": "/government/organisations/office-of-the-public-guardian",
+        "content_id": "8d40ed48-ef2a-42af-a02b-bd4cc84cabc1",
+        "details": {
+          "acronym": "OPG",
+          "brand": "ministry-of-justice",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Office of the <br/>Public Guardian"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Office of the Public Guardian",
+        "web_url": "https://www.gov.uk/government/organisations/office-of-the-public-guardian",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-08-10T10:02:36Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629924.592-10.13.32.223-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Make a lasting power of attorney",
+  "updated_at": "2023-10-09T11:00:29Z",
+  "withdrawn_notice": {
+  }
+}

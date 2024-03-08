@@ -1,0 +1,189 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/learning-activities-for-your-child",
+  "content_id": "3a0d57b4-3b30-4a12-bbad-ce52a64ad616",
+  "description": "Find activities and support from your local authority to help your child with communication, language and literacy skills.",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Find activities and support for children to help improve their communication, language and literacy skills.</p>\n",
+    "lgil_code": 8,
+    "lgsl_code": 1788,
+    "more_information": "\n",
+    "need_to_know": "<ul>\n  <li>Available in England only</li>\n</ul>\n",
+    "service_tiers": [
+      "county",
+      "unitary"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2019-06-26T09:00:09Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/learning-activities-for-your-child",
+        "api_url": "https://www.gov.uk/api/content/learning-activities-for-your-child",
+        "base_path": "/learning-activities-for-your-child",
+        "content_id": "3a0d57b4-3b30-4a12-bbad-ce52a64ad616",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-06-25T10:01:32Z",
+        "schema_name": "local_transaction",
+        "title": "Find learning activities for your child",
+        "web_url": "https://www.gov.uk/learning-activities-for-your-child",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/childcare-parenting/schools-education",
+        "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/schools-education",
+        "base_path": "/browse/childcare-parenting/schools-education",
+        "content_id": "6e3014fa-5bd1-48b9-9aab-f7b1241afdb6",
+        "description": "Sending a child to school, financial support, dealing with the school",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:34Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Schools and education",
+        "web_url": "https://www.gov.uk/browse/childcare-parenting/schools-education",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/education/school-life",
+        "api_url": "https://www.gov.uk/api/content/browse/education/school-life",
+        "base_path": "/browse/education/school-life",
+        "content_id": "99e2b248-baa4-4bf2-8a96-646fedd4d308",
+        "description": "Help with school costs, the curriculum and school attendance",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:50Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Schools and curriculum",
+        "web_url": "https://www.gov.uk/browse/education/school-life",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D6",
+        "api_path": "/api/content/government/organisations/department-for-education",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-education",
+        "base_path": "/government/organisations/department-for-education",
+        "content_id": "ebd15ade-73b2-4eaf-b1c3-43034a42eb37",
+        "details": {
+          "acronym": "DfE",
+          "brand": "department-for-education",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db2e40f0b649cceb18c3/s960__K1E8325edit.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db2ee5274a7908e352f2/s300__K1E8325edit.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department <br/>for Education"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Education",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-education",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/childcare-parenting/schools-education",
+        "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/schools-education",
+        "base_path": "/browse/childcare-parenting/schools-education",
+        "content_id": "6e3014fa-5bd1-48b9-9aab-f7b1241afdb6",
+        "description": "Sending a child to school, financial support, dealing with the school",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/childcare-parenting",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+              "base_path": "/browse/childcare-parenting",
+              "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+              "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-07-15T11:40:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Childcare and parenting",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:34Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Schools and education",
+        "web_url": "https://www.gov.uk/browse/childcare-parenting/schools-education",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2019-06-25T10:01:32Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "867-1561456892.226-10.3.3.1-6618",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Find learning activities for your child",
+  "updated_at": "2023-11-17T15:01:38Z",
+  "withdrawn_notice": {
+  }
+}

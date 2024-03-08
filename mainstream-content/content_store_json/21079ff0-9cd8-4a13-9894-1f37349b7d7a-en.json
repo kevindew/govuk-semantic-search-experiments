@@ -1,0 +1,804 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/payslips",
+  "content_id": "21079ff0-9cd8-4a13-9894-1f37349b7d7a",
+  "description": "Wage slips must show any deductions and explain them - not everyone has the right to a payslip",
+  "details": {
+    "body": "<p>Your employer must provide you with a payslip.</p>\n\n<p>They do not have to do this if you’re:</p>\n\n<ul>\n  <li>not an <a href=\"/employment-status/employee\">employee</a> or <a href=\"/employment-status/worker\">‘worker’</a>, for example <a href=\"/employment-status/selfemployed-contractor\">a contractor or freelancer</a>\n</li>\n  <li>in the police service</li>\n  <li>a merchant seaman</li>\n  <li>a master or crew member working in share fishing (paid by a share in the profits or gross earnings of a fishing vessel)</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Your payslips can be used as proof of your earnings, tax paid and any pension contributions.</p>\n</div>\n\n<p>Employers can choose whether they provide printed or electronic (online) payslips.</p>\n\n<p>Payslips must be provided on or before payday.</p>\n\n<h2 id=\"what-should-be-on-your-payslip\">What should be on your payslip</h2>\n\n<p>Your payslip must show:</p>\n\n<ul>\n  <li>your earnings before and after any deductions</li>\n  <li>the amount of any deductions that may change each time you’re paid, for example tax and National Insurance</li>\n  <li>the number of hours you worked, if your pay varies depending on time worked</li>\n</ul>\n\n<p>Employers must also explain any deductions fixed in amount, for example repayment of a season ticket loan. They can choose to do this either on a payslip, or in a separate written statement.</p>\n\n<p>This separate statement must be sent out before the first payslip. Employers must update this every year.</p>\n\n<p>Read more about <a href=\"/understanding-your-pay/deductions-from-your-pay\">deductions that can be taken from your pay</a>.</p>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2011-07-27T11:22:42Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/payslips",
+        "api_url": "https://www.gov.uk/api/content/payslips",
+        "base_path": "/payslips",
+        "content_id": "21079ff0-9cd8-4a13-9894-1f37349b7d7a",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-21T14:23:10Z",
+        "schema_name": "answer",
+        "title": "Payslips: employee rights",
+        "web_url": "https://www.gov.uk/payslips",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/income-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+        "base_path": "/browse/tax/income-tax",
+        "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+        "description": "Includes rates and allowances, tax codes and refunds",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:16Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Income Tax",
+        "web_url": "https://www.gov.uk/browse/tax/income-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/working/tax-minimum-wage",
+        "api_url": "https://www.gov.uk/api/content/browse/working/tax-minimum-wage",
+        "base_path": "/browse/working/tax-minimum-wage",
+        "content_id": "a3e4b233-e2f3-4709-b531-8da7f21a3f6d",
+        "description": "Includes National Minimum Wage rates, keeping pay records and pay rights",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:39Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Your pay, tax and the National Minimum Wage",
+        "web_url": "https://www.gov.uk/browse/working/tax-minimum-wage",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/employing-staff",
+        "api_url": "https://www.gov.uk/api/content/employing-staff",
+        "base_path": "/employing-staff",
+        "content_id": "ae650383-db6c-4e0d-89a1-ce7669f1a130",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/setting-up",
+              "api_url": "https://www.gov.uk/api/content/browse/business/setting-up",
+              "base_path": "/browse/business/setting-up",
+              "content_id": "4c82bdf6-be57-467f-975d-36910fba2fa7",
+              "description": "Includes self-employment and starting a business",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:20Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Setting up",
+              "web_url": "https://www.gov.uk/browse/business/setting-up",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/employing-people/recruiting-hiring",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/recruiting-hiring",
+              "base_path": "/browse/employing-people/recruiting-hiring",
+              "content_id": "18316184-f6ff-4581-a487-83935a490074",
+              "description": "Advertise a job, Disclosure and Barring (DBS) checks, right to work checks, discrimination law and apprenticeships",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-08-03T13:11:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Recruiting and hiring",
+              "web_url": "https://www.gov.uk/browse/employing-people/recruiting-hiring",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-06T14:29:15Z",
+        "schema_name": "answer",
+        "title": "Employing staff for the first time",
+        "web_url": "https://www.gov.uk/employing-staff",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/national-minimum-wage-rates",
+        "api_url": "https://www.gov.uk/api/content/national-minimum-wage-rates",
+        "base_path": "/national-minimum-wage-rates",
+        "content_id": "37c3fad5-c0bf-46f7-92a8-ca8642128253",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/working/tax-minimum-wage",
+              "api_url": "https://www.gov.uk/api/content/browse/working/tax-minimum-wage",
+              "base_path": "/browse/working/tax-minimum-wage",
+              "content_id": "a3e4b233-e2f3-4709-b531-8da7f21a3f6d",
+              "description": "Includes National Minimum Wage rates, keeping pay records and pay rights",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Your pay, tax and the National Minimum Wage",
+              "web_url": "https://www.gov.uk/browse/working/tax-minimum-wage",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-08-27T14:42:19Z",
+        "schema_name": "answer",
+        "title": "National Minimum Wage and National Living Wage rates",
+        "web_url": "https://www.gov.uk/national-minimum-wage-rates",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employment-status",
+        "api_url": "https://www.gov.uk/api/content/employment-status",
+        "base_path": "/employment-status",
+        "content_id": "a42b5782-4b48-4d9e-838c-98fd1e679c2b",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/contracts",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/contracts",
+              "base_path": "/browse/employing-people/contracts",
+              "content_id": "dbad809a-29b0-4be7-b3d9-9b0b302c4f44",
+              "description": "Includes types of worker, employee rights, overtime and changes to contracts",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:38Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Contracts of employment and working hours",
+              "web_url": "https://www.gov.uk/browse/employing-people/contracts",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/contract-working-hours",
+              "api_url": "https://www.gov.uk/api/content/browse/working/contract-working-hours",
+              "base_path": "/browse/working/contract-working-hours",
+              "content_id": "6b2f82a9-17c6-4a26-9c8a-9b4b10234891",
+              "description": "Includes employment status, workers' rights and changes to contracts",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Your contract and working hours",
+              "web_url": "https://www.gov.uk/browse/working/contract-working-hours",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-12T10:00:03Z",
+        "schema_name": "guide",
+        "title": "Employment status",
+        "web_url": "https://www.gov.uk/employment-status",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/national-insurance",
+        "api_url": "https://www.gov.uk/api/content/national-insurance",
+        "base_path": "/national-insurance",
+        "content_id": "c995522c-4020-4d54-ae5d-271d4b3a8777",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+              "base_path": "/browse/tax/national-insurance",
+              "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+              "description": "Voluntary contributions and credits, numbers, rates and classes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/tax-minimum-wage",
+              "api_url": "https://www.gov.uk/api/content/browse/working/tax-minimum-wage",
+              "base_path": "/browse/working/tax-minimum-wage",
+              "content_id": "a3e4b233-e2f3-4709-b531-8da7f21a3f6d",
+              "description": "Includes National Minimum Wage rates, keeping pay records and pay rights",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Your pay, tax and the National Minimum Wage",
+              "web_url": "https://www.gov.uk/browse/working/tax-minimum-wage",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-15T17:11:10Z",
+        "schema_name": "guide",
+        "title": "National Insurance: introduction",
+        "web_url": "https://www.gov.uk/national-insurance",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D10",
+        "api_path": "/api/content/government/organisations/department-for-work-pensions",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-work-pensions",
+        "base_path": "/government/organisations/department-for-work-pensions",
+        "content_id": "b548a09f-8b35-4104-89f4-f1a40bf3136d",
+        "details": {
+          "acronym": "DWP",
+          "brand": "department-for-work-pensions",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab1e5274a7908e35204/s960_dwp-caxton-house-logo-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab040f0b649cfaf7b4b/s300_dwp-caxton-house-logo-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Work &amp; <br/>Pensions"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Work and Pensions",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D3",
+        "api_path": "/api/content/government/organisations/department-for-business-innovation-skills",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-business-innovation-skills",
+        "base_path": "/government/organisations/department-for-business-innovation-skills",
+        "content_id": "569a9ee5-c195-4b7f-b9dc-edc17a09113f",
+        "details": {
+          "acronym": "BIS",
+          "brand": "department-for-business-innovation-skills",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db04ed915d5a5f966059/s960_department-for-business-innovation-skills.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db04e5274a7908e352aa/s300_department-for-business-innovation-skills.jpg"
+          },
+          "logo": {
+            "crest": "bis",
+            "formatted_title": "Department <br/>for Business<br/>Innovation &amp; Skills"
+          },
+          "organisation_govuk_status": {
+            "status": "replaced",
+            "updated_at": "2016-07-15T00:00:00.000+01:00",
+            "url": "http://www.bis.gov.uk/"
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Business, Innovation & Skills",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/income-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+        "base_path": "/browse/tax/income-tax",
+        "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+        "description": "Includes rates and allowances, tax codes and refunds",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:16Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Income Tax",
+        "web_url": "https://www.gov.uk/browse/tax/income-tax",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/understanding-your-pay",
+        "api_url": "https://www.gov.uk/api/content/understanding-your-pay",
+        "base_path": "/understanding-your-pay",
+        "content_id": "6ad60ce6-4eec-42dd-a8e1-2e0ba7cbc998",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-03-11T17:17:13Z",
+        "schema_name": "guide",
+        "title": "Understanding your pay",
+        "web_url": "https://www.gov.uk/understanding-your-pay",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employment-status",
+        "api_url": "https://www.gov.uk/api/content/employment-status",
+        "base_path": "/employment-status",
+        "content_id": "a42b5782-4b48-4d9e-838c-98fd1e679c2b",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-12T10:00:03Z",
+        "schema_name": "guide",
+        "title": "Employment status",
+        "web_url": "https://www.gov.uk/employment-status",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/running-payroll",
+        "api_url": "https://www.gov.uk/api/content/running-payroll",
+        "base_path": "/running-payroll",
+        "content_id": "88309f75-af24-42e9-b30d-e36157cf918b",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-29T13:39:14Z",
+        "schema_name": "guide",
+        "title": "Running payroll",
+        "web_url": "https://www.gov.uk/running-payroll",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/payslip-policy-a-guide-to-the-2019-legislation",
+        "api_url": "https://www.gov.uk/api/content/government/publications/payslip-policy-a-guide-to-the-2019-legislation",
+        "base_path": "/government/publications/payslip-policy-a-guide-to-the-2019-legislation",
+        "content_id": "151f295c-2daa-4429-884e-debde86bc968",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-12-13T14:53:00Z",
+        "schema_name": "publication",
+        "title": "Payslip policy: a guide to the 2019 legislation",
+        "web_url": "https://www.gov.uk/government/publications/payslip-policy-a-guide-to-the-2019-legislation",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/national-minimum-wage-rates",
+        "api_url": "https://www.gov.uk/api/content/national-minimum-wage-rates",
+        "base_path": "/national-minimum-wage-rates",
+        "content_id": "37c3fad5-c0bf-46f7-92a8-ca8642128253",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-08-27T14:42:19Z",
+        "schema_name": "answer",
+        "title": "National Minimum Wage and National Living Wage rates",
+        "web_url": "https://www.gov.uk/national-minimum-wage-rates",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/employment/tax-minimum-wage",
+        "api_url": "https://www.gov.uk/api/content/employment/tax-minimum-wage",
+        "base_path": "/employment/tax-minimum-wage",
+        "content_id": "ee1214e7-d14d-4975-9e08-b304642ab112",
+        "description": "Includes National Minimum Wage rates, keeping pay records and pay rights",
+        "details": {
+          "internal_name": "Your pay, tax and the National Minimum Wage [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/employment/working",
+              "api_url": "https://www.gov.uk/api/content/employment/working",
+              "base_path": "/employment/working",
+              "content_id": "092348a4-b896-4f8f-a0dc-e6d4605a4904",
+              "description": "Includes holidays and finding a job",
+              "details": {
+                "internal_name": "Working, jobs and pensions [M] (merged, level 2, work theme)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/work",
+                    "api_url": "https://www.gov.uk/api/content/work",
+                    "base_path": "/work",
+                    "content_id": "d0f1e5a3-c8f4-4780-8678-994f19104b21",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Work",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:33:40Z",
+                    "schema_name": "taxon",
+                    "title": "Work",
+                    "web_url": "https://www.gov.uk/work",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T11:08:23Z",
+              "schema_name": "taxon",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/employment/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T11:08:23Z",
+        "schema_name": "taxon",
+        "title": "Your pay, tax and the National Minimum Wage",
+        "web_url": "https://www.gov.uk/employment/tax-minimum-wage",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/income-tax",
+        "api_url": "https://www.gov.uk/api/content/money/income-tax",
+        "base_path": "/money/income-tax",
+        "content_id": "104ee859-8278-406b-80cb-5727373e0198",
+        "details": {
+          "internal_name": "Income Tax [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:55Z",
+        "schema_name": "taxon",
+        "title": "Income Tax",
+        "web_url": "https://www.gov.uk/money/income-tax",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-10-21T14:23:10Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21024-1554505272.186-10.3.3.1-403",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Payslips: employee rights",
+  "updated_at": "2024-03-06T08:30:17Z",
+  "withdrawn_notice": {
+  }
+}

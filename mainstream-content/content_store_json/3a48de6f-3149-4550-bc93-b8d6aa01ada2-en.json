@@ -1,0 +1,582 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/check-eu-healthcare-rights",
+  "content_id": "3a48de6f-3149-4550-bc93-b8d6aa01ada2",
+  "description": "Check what is happening to healthcare for UK nationals visiting, living in or moving to the EU\r\n",
+  "details": {
+    "body": "<p>If you’re visiting, living in or moving to an <a href=\"/eu-eea\">EU or EEA country</a>, you can use this tool to find out how to register for and access healthcare.</p>\n",
+    "external_related_links": [
+
+    ],
+    "nodes": [
+      {
+        "body": "<p>As well as the 27 EU member states, this guidance also covers Iceland, Liechtenstein, Norway and Switzerland.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "I’m visiting an EU country, Iceland, Liechtenstein, Norway or Switzerland",
+            "next_node": "outcome-1",
+            "slug": "i-m-visiting-an-eu-country-iceland-liechtenstein-norway-or-switzerland"
+          },
+          {
+            "label": "I live, work or study in or am moving to an EU country, Iceland, Liechtenstein, Norway or Switzerland",
+            "next_node": "question-2",
+            "slug": "i-live-work-or-study-in-or-am-moving-to-an-eu-country-iceland-liechtenstein-norway-or-switzerland"
+          }
+        ],
+        "slug": "question-1",
+        "title": "Are you visiting or living in an EU country?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Austria",
+            "next_node": "outcome-2",
+            "slug": "austria"
+          },
+          {
+            "label": "Belgium",
+            "next_node": "outcome-3",
+            "slug": "belgium"
+          },
+          {
+            "label": "Bulgaria",
+            "next_node": "outcome-4",
+            "slug": "bulgaria"
+          },
+          {
+            "label": "Croatia",
+            "next_node": "outcome-5",
+            "slug": "croatia"
+          },
+          {
+            "label": "Cyprus",
+            "next_node": "outcome-6",
+            "slug": "cyprus"
+          },
+          {
+            "label": "Czech Republic",
+            "next_node": "outcome-7",
+            "slug": "czech-republic"
+          },
+          {
+            "label": "Denmark",
+            "next_node": "outcome-8",
+            "slug": "denmark"
+          },
+          {
+            "label": "Estonia",
+            "next_node": "outcome-9",
+            "slug": "estonia"
+          },
+          {
+            "label": "Finland",
+            "next_node": "outcome-10",
+            "slug": "finland"
+          },
+          {
+            "label": "France",
+            "next_node": "outcome-11",
+            "slug": "france"
+          },
+          {
+            "label": "Germany",
+            "next_node": "outcome-12",
+            "slug": "germany"
+          },
+          {
+            "label": "Greece",
+            "next_node": "outcome-13",
+            "slug": "greece"
+          },
+          {
+            "label": "Hungary",
+            "next_node": "outcome-14",
+            "slug": "hungary"
+          },
+          {
+            "label": "Iceland",
+            "next_node": "outcome-15",
+            "slug": "iceland"
+          },
+          {
+            "label": "Ireland",
+            "next_node": "outcome-16",
+            "slug": "ireland"
+          },
+          {
+            "label": "Italy",
+            "next_node": "outcome-17",
+            "slug": "italy"
+          },
+          {
+            "label": "Latvia",
+            "next_node": "outcome-18",
+            "slug": "latvia"
+          },
+          {
+            "label": "Liechtenstein",
+            "next_node": "outcome-19",
+            "slug": "liechtenstein"
+          },
+          {
+            "label": "Lithuania",
+            "next_node": "outcome-20",
+            "slug": "lithuania"
+          },
+          {
+            "label": "Luxembourg",
+            "next_node": "outcome-21",
+            "slug": "luxembourg"
+          },
+          {
+            "label": "Malta",
+            "next_node": "outcome-22",
+            "slug": "malta"
+          },
+          {
+            "label": "Netherlands",
+            "next_node": "outcome-23",
+            "slug": "netherlands"
+          },
+          {
+            "label": "Norway",
+            "next_node": "outcome-24",
+            "slug": "norway"
+          },
+          {
+            "label": "Poland",
+            "next_node": "outcome-25",
+            "slug": "poland"
+          },
+          {
+            "label": "Portugal",
+            "next_node": "outcome-26",
+            "slug": "portugal"
+          },
+          {
+            "label": "Romania",
+            "next_node": "outcome-27",
+            "slug": "romania"
+          },
+          {
+            "label": "Slovakia",
+            "next_node": "outcome-28",
+            "slug": "slovakia"
+          },
+          {
+            "label": "Slovenia",
+            "next_node": "outcome-29",
+            "slug": "slovenia"
+          },
+          {
+            "label": "Spain",
+            "next_node": "outcome-30",
+            "slug": "spain"
+          },
+          {
+            "label": "Sweden",
+            "next_node": "outcome-31",
+            "slug": "sweden"
+          },
+          {
+            "label": "Switzerland",
+            "next_node": "outcome-32",
+            "slug": "switzerland"
+          }
+        ],
+        "slug": "question-2",
+        "title": "Which country are you living, working or studying in, or moving to?"
+      },
+      {
+        "body": "<p>Your European Health Insurance Card (<abbr title=\"European Health Insurance Card\">EHIC</abbr>) or Global Health Insurance Card (<abbr title=\"UK Global Health Insurance Card\">GHIC</abbr>) will be valid if you’re travelling to an EU country.</p>\n\n<p><a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">Find out more about <abbr title=\"UK Global Health Insurance Card\">GHIC</abbr></a>.</p>\n\n<h2 id=\"visiting-switzerland\">Visiting Switzerland</h2>\n\n<p>There are different rules for using your <abbr title=\"UK Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> card in Switzerland.</p>\n\n<p>To use your <abbr title=\"UK Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> in Switzerland, you must be one of the following:</p>\n\n<ul>\n  <li>a British national</li>\n  <li>a Swiss national</li>\n  <li>an EU citizen</li>\n  <li>a refugee</li>\n  <li>a stateless person</li>\n  <li>the dependant or survivor of someone with one of these nationalities or statuses</li>\n</ul>\n\n<p>You may need to show evidence of your nationality if you access healthcare using your <abbr title=\"UK Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr>.</p>\n\n<h2 id=\"visiting-norway-iceland-or-liechtenstein\">Visiting Norway, Iceland or Liechtenstein</h2>\n\n<p>Get appropriate travel insurance with healthcare cover before you travel. Make sure it covers any pre-existing conditions that were previously covered by your European Health Insurance Card (<abbr title=\"European Health Insurance Card\">EHIC</abbr>).</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You can use a UK passport to get medically necessary healthcare in Norway (for example emergency treatment, or to treat a pre-existing condition).</p>\n</div>\n\n<p>You can read advice on <a href=\"/guidance/foreign-travel-insurance\">buying travel insurance with the right cover</a>.</p>\n\n<h2 id=\"uk-issued-ehics\">UK-issued EHICs</h2>\n\n<p>Some people can apply for a UK <abbr title=\"European Health Insurance Card\">EHIC</abbr> that they can use in EU countries, Norway, Iceland, Liechtenstein and Switzerland. People who can apply for the card include:</p>\n\n<ul>\n  <li>UK students who started studying in the EU before 1 January 2021</li>\n  <li>some British State Pensioners who were living in the EU before 1 January 2021, and their families</li>\n  <li>EU nationals who were living in the UK before 1 January 2021, and their families</li>\n</ul>\n\n<p><a rel=\"external\" href=\"https://services.nhsbsa.nhs.uk/cra/start\">Find out more about the new UK <abbr title=\"European Health Insurance Card\">EHIC</abbr></a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-1",
+        "title": "Visiting the EU"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-austria\">read a guide to healthcare for UK nationals in Austria</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Austria.</p>\n\n<h2 id=\"living-and-working-in-austria\">Living and working in Austria</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-austria#healthcare-if-you-live-and-work-in-austria\">Read the section of the healthcare guide about living and working in Austria</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-austria\">UK State Pension holders: using an S1 in Austria</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Austria.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-austria#s1\">Read the section of the healthcare guide about getting an S1 and using it in Austria</a>.</p>\n\n<h2 id=\"working-in-austria-temporarily-posted-workers\">Working in Austria temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-austria#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-austria\">Studying in Austria</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-austria#studying-in-austria\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-2",
+        "title": "Healthcare if you live, work or study in Austria       "
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-belgium\">read a guide to healthcare for UK nationals in Belgium</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Belgium.</p>\n\n<h2 id=\"living-and-working-in-belgium\">Living and working in Belgium</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-belgium#healthcare-if-you-live-and-work-in-belgium\">Read the section of the healthcare guide about living and working in Belgium</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-belgium\">UK State Pension holders: using an S1 in Belgium</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Belgium.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-belgium#s1\">Read the section of the healthcare guide about getting an S1 and using it in Belgium</a>.</p>\n\n<h2 id=\"working-in-belgium-temporarily-posted-workers\">Working in Belgium temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-belgium#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-belgium\">Studying in Belgium</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-belgium#studying-in-belgium\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-3",
+        "title": "Healthcare if you live, work or study in Belgium"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-bulgaria\">read a guide to healthcare for UK nationals in Bulgaria</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Bulgaria.</p>\n\n<h2 id=\"living-and-working-in-bulgaria\">Living and working in Bulgaria</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-bulgaria#healthcare-if-you-live-and-work-in-bulgaria\">Read the section of the healthcare guide about living and working in Bulgaria</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-bulgaria\">UK State Pension holders: using an S1 in Bulgaria</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Bulgaria.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-bulgaria#s1\">Read the section of the healthcare guide about getting an S1 and using it in Bulgaria</a>.</p>\n\n<h2 id=\"working-in-bulgaria-temporarily-posted-workers\">Working in Bulgaria temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-bulgaria#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-bulgaria\">Studying in Bulgaria</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-bulgaria#studying-in-bulgaria\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-4",
+        "title": "Healthcare if you live, work or study in Bulgaria"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-croatia\">read a guide to healthcare for UK nationals in Croatia</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Croatia.</p>\n\n<h2 id=\"living-and-working-in-croatia\">Living and working in Croatia</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-croatia#healthcare-if-you-live-and-work-in-croatia\">Read the section of the healthcare guide about living and working in Croatia</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-croatia\">UK State Pension holders: using an S1 in Croatia</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Croatia.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-croatia#s1\">Read the section of the healthcare guide about getting an S1 and using it in Croatia</a>.</p>\n\n<h2 id=\"working-in-croatia-temporarily-posted-workers\">Working in Croatia temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-croatia#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-croatia\">Studying in Croatia</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-croatia#studying-in-croatia\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-5",
+        "title": "Healthcare if you live, work or study in Croatia"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-cyprus\">read a guide to healthcare for UK nationals in Cyprus</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Cyprus.</p>\n\n<h2 id=\"living-and-working-in-cyprus\">Living and working in Cyprus</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-cyprus#healthcare-if-you-live-and-work-in-cyprus\">Read the section of the healthcare guide about living and working in Cyprus</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-cyprus\">UK State Pension holders: using an S1 in Cyprus</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Cyprus.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-cyprus#s1\">Read the section of the healthcare guide about getting an S1 and using it in Cyprus</a>.</p>\n\n<h2 id=\"working-in-cyprus-temporarily-posted-workers\">Working in Cyprus temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-cyprus#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-cyprus\">Studying in Cyprus</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-cyprus#studying-in-cyprus\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-6",
+        "title": "Healthcare if you live, work or study in Cyprus "
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-the-czech-republic\">read a guide to healthcare for UK nationals in the Czech Republic</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in the Czech Republic.</p>\n\n<h2 id=\"living-and-working-in-the-czech-republic\">Living and working in the Czech Republic</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-the-czech-republic#healthcare-if-you-live-and-work-in-the-czech-republic\">Read the section of the healthcare guide about living and working in the Czech Republic</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-the-czech-republic\">UK State Pension holders: using an S1 in the Czech Republic</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in the Czech Republic.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-the-czech-republic#s1\">Read the section of the healthcare guide about getting an S1 and using it in the Czech Republic</a>.</p>\n\n<h2 id=\"working-in-the-czech-republic-temporarily-posted-workers\">Working in the Czech Republic temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-the-czech-republic#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-the-czech-republic\">Studying in the Czech Republic</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-the-czech-republic#studying-in-the-czech-republic\">Read the section of the healthcare guide for students</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-7",
+        "title": "Healthcare if you live, work or study in the Czech Republic"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-denmark\">read a guide to healthcare for UK nationals in Denmark</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Denmark.</p>\n\n<h2 id=\"living-and-working-in-denmark\">Living and working in Denmark</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-denmark#healthcare-if-you-live-and-work-in-denmark\">Read the section of the healthcare guide about living and working in Denmark</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-denmark\">UK State Pension holders: using an S1 in Denmark</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Denmark.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-denmark#s1\">Read the section of the healthcare guide about getting an S1 and using it in Denmark</a>.</p>\n\n<h2 id=\"working-in-denmark-temporarily-posted-workers\">Working in Denmark temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-denmark#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-denmark\">Studying in Denmark</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-denmark#studying-in-denmark\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-8",
+        "title": "Healthcare if you live, work or study in Denmark"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-estonia\">read a guide to healthcare for UK nationals in Estonia</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Estonia.</p>\n\n<h2 id=\"living-and-working-in-estonia\">Living and working in Estonia</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-estonia#healthcare-if-you-live-and-work-in-estonia\">Read the section of the healthcare guide about living and working in Estonia</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-estonia\">UK State Pension holders: using an S1 in Estonia</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Estonia.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-estonia#s1\">Read the section of the healthcare guide about getting an S1 and using it in Estonia</a>.</p>\n\n<h2 id=\"working-in-estonia-temporarily-posted-workers\">Working in Estonia temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-estonia#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-estonia\">Studying in Estonia</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-estonia#studying-in-estonia\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-9",
+        "title": "Healthcare if you live, work or study in Estonia"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-finland\">read a guide to healthcare for UK nationals in Finland</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Finland.</p>\n\n<h2 id=\"living-and-working-in-finland\">Living and working in Finland</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-finland#healthcare-if-you-live-and-work-in-finland\">Read the section of the healthcare guide about living and working in Finland</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-finland\">UK State Pension holders: using an S1 in Finland</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Finland.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-finland#s1\">Read the section of the healthcare guide about getting an S1 and using it in Finland</a>.</p>\n\n<h2 id=\"working-in-finland-temporarily-posted-workers\">Working in Finland temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-finland#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-finland\">Studying in Finland</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-finland#studying-in-finland\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-10",
+        "title": "Healthcare if you live, work or study in Finland"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-france-including-martinique-and-guadaloupe\">read a guide to healthcare for UK nationals in France</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in France.</p>\n\n<h2 id=\"living-and-working-in-france\">Living and working in France</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-france-including-martinique-and-guadaloupe#healthcare-if-you-live-and-work-in-france\">Read the section of the healthcare guide about living and working in France</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-france\">UK State Pension holders: using an S1 in France</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in France.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-france-including-martinique-and-guadaloupe#s1\">Read the section of the healthcare guide about getting an S1 and using it in France</a>.</p>\n\n<h2 id=\"working-in-france-temporarily-posted-workers\">Working in France temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-france-including-martinique-and-guadaloupe#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-france\">Studying in France</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-france-including-martinique-and-guadaloupe#studying-in-france\">Read the section of the healthcare guide for students</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-11",
+        "title": "Healthcare if you live, work or study in France"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-germany\">read a guide to healthcare for UK nationals in Germany</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Germany.</p>\n\n<h2 id=\"living-and-working-in-germany\">Living and working in Germany</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-germany#healthcare-if-you-live-and-work-in-germany\">Read the section of the healthcare guide about living and working in Germany</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-germany\">UK State Pension holders: using an S1 in Germany</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Germany.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-germany#s1\">Read the section of the healthcare guide about getting an S1 and using it in Germany</a>.</p>\n\n<h2 id=\"working-in-germany-temporarily-posted-workers\">Working in Germany temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-germany#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-germany\">Studying in Germany</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-germany#studying-in-germany\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-12",
+        "title": "Healthcare if you live, work or study in Germany "
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-greece\">read a guide to healthcare for UK nationals in Greece</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Greece.</p>\n\n<h2 id=\"living-and-working-in-greece\">Living and working in Greece</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-greece#healthcare-if-you-live-and-work-in-greece\">Read the section of the healthcare guide about living and working in Greece</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-greece\">UK State Pension holders: using an S1 in Greece</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Greece.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-greece#s1\">Read the section of the healthcare guide about getting an S1 and using it in Greece</a>.</p>\n\n<h2 id=\"working-in-greece-temporarily-posted-workers\">Working in Greece temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-greece#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-greece\">Studying in Greece</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-greece#studying-in-greece\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-13",
+        "title": "Healthcare if you live, work or study in Greece"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-hungary\">read a guide to healthcare for UK nationals in Hungary</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Hungary.</p>\n\n<h2 id=\"living-and-working-in-hungary\">Living and working in Hungary</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-hungary#healthcare-if-you-live-and-work-in-hungary\">Read the section of the healthcare guide about living and working in Hungary</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-hungary\">UK State Pension holders: using an S1 in Hungary</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Hungary.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-hungary#s1\">Read the section of the healthcare guide about getting an S1 and using it in Hungary</a>.</p>\n\n<h2 id=\"working-in-hungary-temporarily-posted-workers\">Working in Hungary temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-hungary#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-hungary\">Studying in Hungary</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-hungary#studying-in-hungary\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-14",
+        "title": "Healthcare if you live, work or study in Hungary"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare. This may include paying for private health insurance.</p>\n\n<p>If you moved to Iceland before the end of 2020, your access to healthcare will stay the same for as long as you live there.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-iceland\">read a guide to healthcare for UK nationals in Iceland</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Iceland.</p>\n\n<h2 id=\"living-and-working-in-iceland\">Living and working in Iceland</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-iceland#healthcare-if-you-live-and-work-in-iceland\">Read the section of the healthcare guide about living and working in Iceland</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-iceland\">UK State Pension holders: using an S1 in Iceland</h2>\n\n<p>If you were living in Iceland before the end of 2020 and have a registered S1 form, your access to healthcare will stay the same from 1 January 2021.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-iceland#s1\">Read the section of the healthcare guide about getting an S1 and using it in Iceland</a>.</p>\n\n<h2 id=\"working-in-iceland-temporarily-posted-workers\">Working in Iceland temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-iceland#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-iceland\">Studying in Iceland</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-iceland#studying-in-iceland\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-15",
+        "title": "Healthcare if you live, work or study in Iceland"
+      },
+      {
+        "body": "<p>If you’re a UK national living in Ireland, you’re entitled to state healthcare in Ireland on the same basis as an Irish citizen.</p>\n\n<p>For more information, <a href=\"/guidance/healthcare-in-ireland\">read a guide to healthcare for UK nationals in Ireland</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Ireland.</p>\n\n<h2 id=\"ways-to-get-healthcare-in-ireland\">Ways to get healthcare in Ireland</h2>\n\n<p><a href=\"/guidance/healthcare-in-ireland#ways-to-get-healthcare-in-ireland\">Read the section of the healthcare guide about ways to get healthcare in Ireland</a>.</p>\n\n<h2 id=\"frontier-workers-living-in-the-uk-or-ireland\">Frontier workers living in the UK or Ireland</h2>\n\n<p><a href=\"/guidance/healthcare-in-ireland#frontier-workers\">Read the section of the healthcare guide about frontier workers in Ireland</a>.</p>\n\n<h2 id=\"uk-state-pension-holder-in-ireland\">UK State Pension holder in Ireland</h2>\n\n<p><a href=\"/guidance/healthcare-in-ireland#uk-funded\">Read the section of the healthcare guide about UK-funded healthcare in Ireland</a>.</p>\n\n<h2 id=\"working-in-ireland-temporarily-posted-workers\">Working in Ireland temporarily (‘posted workers’)</h2>\n\n<p><a href=\"/guidance/healthcare-in-ireland#posted-workers\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-ireland\">Studying in Ireland</h2>\n\n<p><a href=\"/guidance/healthcare-in-ireland#if-youre-studying-in-ireland\">Read the section of the healthcare guide for students</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-16",
+        "title": "Healthcare if you live, work or study in Ireland"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-italy\">read a guide to healthcare for UK nationals in Italy</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Italy.</p>\n\n<h2 id=\"living-and-working-in-italy\">Living and working in Italy</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-italy#healthcare-if-you-live-and-work-in-italy\">Read the section of the healthcare guide about living and working in Italy</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-italy\">UK State Pension holders: using an S1 in Italy</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Italy.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-italy#s1\">Read the section of the healthcare guide about getting an S1 and using it in Italy</a>.</p>\n\n<h2 id=\"working-in-italy-temporarily-posted-workers\">Working in Italy temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-italy#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-italy\">Studying in Italy</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-italy#studying-in-italy\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-17",
+        "title": "Healthcare if you live, work or study in Italy"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-latvia\">read a guide to healthcare for UK nationals in Latvia</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Latvia.</p>\n\n<h2 id=\"living-and-working-in-latvia\">Living and working in Latvia</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-latvia#healthcare-if-you-live-and-work-in-latvia\">Read the section of the healthcare guide about living and working in Latvia</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-latvia\">UK State Pension holders: using an S1 in Latvia</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Latvia.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-latvia#s1\">Read the section of the healthcare guide about getting an S1 and using it in Latvia</a>.</p>\n\n<h2 id=\"working-in-latvia-temporarily-posted-workers\">Working in Latvia temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-latvia#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-latvia\">Studying in Latvia</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-latvia#studying-in-latvia\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-18",
+        "title": "Healthcare if you live, work or study in Latvia "
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare. This may include paying for private health insurance.</p>\n\n<p>If you moved to Liechtenstein before the end of 2020, your access to healthcare will stay the same for as long as you live there.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-liechtenstein\">read a guide to healthcare for UK nationals in Liechtenstein</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Liechtenstein.</p>\n\n<h2 id=\"living-and-working-in-liechtenstein\">Living and working in Liechtenstein</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-liechtenstein#healthcare-if-you-live-and-work-in-liechtenstein\">Read the section of the healthcare guide about living and working in Liechtenstein</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-liechtenstein\">UK State Pension holders: using an S1 in Liechtenstein</h2>\n\n<p>If you were living in Liechtenstein before the end of 2020 and have a registered S1 form, your access to healthcare will stay the same from 1 January 2021.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-liechtenstein#s1\">Read the section of the healthcare guide about getting an S1 and using it in Liechtenstein</a>.</p>\n\n<h2 id=\"working-in-liechtenstein-temporarily-posted-workers\">Working in Liechtenstein temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-liechtenstein#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-liechtenstein\">Studying in Liechtenstein</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-liechtenstein#studying-in-liechtenstein\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-19",
+        "title": "Healthcare if you live, work or study in Liechtenstein"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-lithuania\">read a guide to healthcare for UK nationals in Lithuania</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Lithuania.</p>\n\n<h2 id=\"living-and-working-in-lithuania\">Living and working in Lithuania</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-lithuania#healthcare-if-you-live-and-work-in-lithuania\">Read the section of the healthcare guide about living and working in Lithuania</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-lithuania\">UK State Pension holders: using an S1 in Lithuania</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Lithuania.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-lithuania#s1\">Read the section of the healthcare guide about getting an S1 and using it in Lithuania</a>.</p>\n\n<h2 id=\"working-in-lithuania-temporarily-posted-workers\">Working in Lithuania temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-lithuania#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-lithuania\">Studying in Lithuania</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-lithuania#studying-in-lithuania\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-20",
+        "title": "Healthcare if you live, work or study in Lithuania"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-luxembourg\">read a guide to healthcare for UK nationals in Luxembourg</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Luxembourg.</p>\n\n<h2 id=\"living-and-working-in-luxembourg\">Living and working in Luxembourg</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-luxembourg#healthcare-if-you-live-and-work-in-luxembourg\">Read the section of the healthcare guide about living and working in Luxembourg</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-luxembourg\">UK State Pension holders: using an S1 in Luxembourg</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Luxembourg.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-luxembourg#s1\">Read the section of the healthcare guide about getting an S1 and using it in Luxembourg</a>.</p>\n\n<h2 id=\"working-in-luxembourg-temporarily-posted-workers\">Working in Luxembourg temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-luxembourg#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-luxembourg\">Studying in Luxembourg</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-luxembourg#studying-in-luxembourg\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-21",
+        "title": "Healthcare if you live, work or study in Luxembourg "
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-malta\">read a guide to healthcare for UK nationals in Malta</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Malta.</p>\n\n<h2 id=\"living-and-working-in-malta\">Living and working in Malta</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-malta#healthcare-if-you-live-and-work-in-malta\">Read the section of the healthcare guide about living and working in Malta</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-malta\">UK State Pension holders: using an S1 in Malta</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Malta.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-malta#s1\">Read the section of the healthcare guide about getting an S1 and using it in Malta</a>.</p>\n\n<h2 id=\"working-in-malta-temporarily-posted-workers\">Working in Malta temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-malta#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-malta\">Studying in Malta</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-malta#studying-in-malta\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-22",
+        "title": "Healthcare if you live, work or study in Malta"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-the-netherlands\">read a guide to healthcare for UK nationals in the Netherlands</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in the Netherlands.</p>\n\n<h2 id=\"living-and-working-in-the-netherlands\">Living and working in the Netherlands</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-the-netherlands#healthcare-if-you-live-and-work-in-the-netherlands\">Read the section of the healthcare guide about living and working in the Netherlands</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-the-netherlands\">UK State Pension holders: using an S1 in the Netherlands</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in the Netherlands.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-the-netherlands#s1\">Read the section of the healthcare guide about getting an S1 and using it in the Netherlands</a>.</p>\n\n<h2 id=\"working-in-the-netherlands-temporarily-posted-workers\">Working in the Netherlands temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-the-netherlands#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-the-netherlands\">Studying in the Netherlands</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-the-netherlands#studying-in-the-netherlands\">Read the section of the healthcare guide for students</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-23",
+        "title": "Healthcare if you live, work or study in the Netherlands"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare. This may include paying for private health insurance.</p>\n\n<p>If you moved to Norway before the end of 2020, your access to healthcare will stay the same for as long as you live there.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-norway\">read a guide to healthcare for UK nationals in Norway</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Norway.</p>\n\n<h2 id=\"living-and-working-in-norway\">Living and working in Norway</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-norway#healthcare-if-you-live-and-work-in-norway\">Read the section of the healthcare guide about living and working in Norway</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-norway\">UK State Pension holders: using an S1 in Norway</h2>\n\n<p>If you were living in Norway before the end of 2020 and have a registered S1 form, your access to healthcare will stay the same from 1 January 2021.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-norway#s1\">Read the section of the healthcare guide about getting an S1 and using it in Norway</a>.</p>\n\n<h2 id=\"working-in-norway-temporarily-posted-workers\">Working in Norway temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-norway#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-norway\">Studying in Norway</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-norway#studying-in-norway\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-24",
+        "title": "Healthcare if you live, work or study in Norway"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-poland\">read a guide to healthcare for UK nationals in Poland</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Poland.</p>\n\n<h2 id=\"living-and-working-in-poland\">Living and working in Poland</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-poland#healthcare-if-you-live-and-work-in-poland\">Read the section of the healthcare guide about living and working in Poland</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-poland\">UK State Pension holders: using an S1 in Poland</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Poland.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-poland#s1\">Read the section of the healthcare guide about getting an S1 and using it in Poland</a>.</p>\n\n<h2 id=\"working-in-poland-temporarily-posted-workers\">Working in Poland temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-poland#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-poland\">Studying in Poland</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-poland#studying-in-poland\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-25",
+        "title": "Healthcare if you live, work or study in Poland"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-portugal-including-madeira\">read a guide to healthcare for UK nationals in Portugal</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Portugal.</p>\n\n<h2 id=\"living-and-working-in-portugal\">Living and working in Portugal</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-portugal-including-madeira#healthcare-if-you-live-and-work-in-portugal\">Read the section of the healthcare guide about living and working in Portugal</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-portugal\">UK State Pension holders: using an S1 in Portugal</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Portugal.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-portugal-including-madeira#s1\">Read the section of the healthcare guide about getting an S1 and using it in Portugal</a>.</p>\n\n<h2 id=\"working-in-portugal-temporarily-posted-workers\">Working in Portugal temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-portugal-including-madeira#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-portugal\">Studying in Portugal</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-portugal-including-madeira#studying-in-portugal\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-26",
+        "title": "Healthcare if you live, work or study in Portugal "
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-romania\">read a guide to healthcare for UK nationals in Romania</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Romania.</p>\n\n<h2 id=\"living-and-working-in-romania\">Living and working in Romania</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-romania#healthcare-if-you-live-and-work-in-romania\">Read the section of the healthcare guide about living and working in Romania</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-romania\">UK State Pension holders: using an S1 in Romania</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Romania.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-romania#s1\">Read the section of the healthcare guide about getting an S1 and using it in Romania</a>.</p>\n\n<h2 id=\"working-in-romania-temporarily-posted-workers\">Working in Romania temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-romania#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-romania\">Studying in Romania</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-romania#studying-in-romania\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-27",
+        "title": "Healthcare if you live, work or study in Romania"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-slovakia\">read a guide to healthcare for UK nationals in Slovakia</a>.</p>\n\n<p>The rest of the links on this page lead to sections of this guide.</p>\n\n<h2 id=\"living-and-working-in-slovakia\">Living and working in Slovakia</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-slovakia#healthcare-if-you-live-and-work-in-slovakia\">Read the section of the healthcare guide about living and working in Slovakia</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-slovakia\">UK State Pension holders: using an S1 in Slovakia</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Slovakia.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-slovakia#s1\">Read the section of the healthcare guide about getting an S1 and using it in Slovakia</a>.</p>\n\n<h2 id=\"working-in-slovakia-temporarily-posted-workers\">Working in Slovakia temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-slovakia#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-slovakia\">Studying in Slovakia</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-slovakia#studying-in-slovakia\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-28",
+        "title": "Healthcare if you live, work or study in Slovakia        "
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-slovenia\">read a guide to healthcare for UK nationals in Slovenia</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Slovenia.</p>\n\n<h2 id=\"living-and-working-in-slovenia\">Living and working in Slovenia</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-slovenia#healthcare-if-you-live-and-work-in-slovenia\">Read the section of the healthcare guide about living and working in Slovenia</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-slovenia\">UK State Pension holders: using an S1 in Slovenia</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Slovenia.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-slovenia#s1\">Read the section of the healthcare guide about getting an S1 and using it in Slovenia</a>.</p>\n\n<h2 id=\"working-in-slovenia-temporarily-posted-workers\">Working in Slovenia temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-slovenia#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-slovenia\">Studying in Slovenia</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-slovenia#studying-in-slovenia\">Read the section of the healthcare guide for students</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-29",
+        "title": "Healthcare if you live, work or study in Slovenia"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-spain-including-the-balearic-and-canary-islands\">read a guide to healthcare for UK nationals in Spain</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Spain.</p>\n\n<h2 id=\"living-and-working-in-spain\">Living and working in Spain</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-spain-including-the-balearic-and-canary-islands#healthcare-if-you-live-and-work-in-spain\">Read the section of the healthcare guide about living and working in Spain</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-spain\">UK State Pension holders: using an S1 in Spain</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Spain.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-spain-including-the-balearic-and-canary-islands#s1\">Read the section of the healthcare guide about getting an S1 and using it in Spain</a>.</p>\n\n<h2 id=\"working-in-spain-temporarily-posted-workers\">Working in Spain temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-spain-including-the-balearic-and-canary-islands#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-spain\">Studying in Spain</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-spain-including-the-balearic-and-canary-islands#studying-in-spain\">Read the section of the healthcare guide for students</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-30",
+        "title": "Healthcare if you live, work or study in Spain "
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-sweden\">read a guide to healthcare for UK nationals in Sweden</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Sweden.</p>\n\n<h2 id=\"living-and-working-in-sweden\">Living and working in Sweden</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-sweden#healthcare-if-you-live-and-work-in-sweden\">Read the section of the healthcare guide about living and working in Sweden</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-sweden\">UK State Pension holders: using an S1 in Sweden</h2>\n\n<p>If you have a UK State Pension you may be able use an S1 form to get UK-funded state healthcare in Sweden.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-sweden#s1\">Read the section of the healthcare guide about getting an S1 and using it in Sweden</a>.</p>\n\n<h2 id=\"working-in-sweden-temporarily-posted-workers\">Working in Sweden temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-sweden#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-sweden\">Studying in Sweden</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-sweden#studying-in-sweden\">Read the section of the healthcare guide for students</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-31",
+        "title": "Healthcare if you live, work or study in Sweden"
+      },
+      {
+        "body": "<p>You will have to meet local immigration and residency rules before you can register for state healthcare. This may include paying for private health insurance.</p>\n\n<p>If you moved to Switzerland before the end of 2020, your access to healthcare will stay the same for as long as you live there.</p>\n\n<p>For more information, <a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-switzerland\">read a guide to healthcare for UK nationals in Switzerland</a>.</p>\n\n<p>The rest of the links on this page lead to sections of that guide about healthcare in Switzerland.</p>\n\n<h2 id=\"living-and-working-in-switzerland\">Living and working in Switzerland</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-switzerland#healthcare-if-you-live-and-work-in-switzerland\">Read the section of the healthcare guide about living and working in Switzerland</a>.</p>\n\n<h2 id=\"uk-state-pension-holders-using-an-s1-in-switzerland\">UK State Pension holders: using an S1 in Switzerland</h2>\n\n<p>If you were living in Switzerland before the end of 2020 and have a registered S1 form, your access to healthcare will stay the same from 1 January 2021.</p>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-switzerland#s1\">Read the section of the healthcare guide about getting an S1 and using it in Switzerland</a>.</p>\n\n<h2 id=\"working-in-switzerland-temporarily-posted-workers\">Working in Switzerland temporarily (‘posted workers’)</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-switzerland#posted-worker\">Read the section of the healthcare guide about posted workers</a>.</p>\n\n<h2 id=\"studying-in-switzerland\">Studying in Switzerland</h2>\n\n<p><a rel=\"external\" href=\"https://gov.uk/guidance/healthcare-in-switzerland#studying-in-switzerland\">Read the section of the healthcare guide for students</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-32",
+        "title": "Healthcare if you live, work or study in Switzerland "
+      }
+    ],
+    "start_button_text": "Start now"
+  },
+  "document_type": "simple_smart_answer",
+  "first_published_at": "2020-02-14T13:55:56Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/check-eu-healthcare-rights",
+        "api_url": "https://www.gov.uk/api/content/check-eu-healthcare-rights",
+        "base_path": "/check-eu-healthcare-rights",
+        "content_id": "3a48de6f-3149-4550-bc93-b8d6aa01ada2",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-01-26T18:15:49Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Check your access to healthcare in the EU and EEA",
+        "web_url": "https://www.gov.uk/check-eu-healthcare-rights",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D12",
+        "api_path": "/api/content/government/organisations/department-of-health-and-social-care",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-of-health-and-social-care",
+        "base_path": "/government/organisations/department-of-health-and-social-care",
+        "content_id": "7cd6bf12-bbe9-4118-8523-f927b0442156",
+        "details": {
+          "acronym": "DHSC",
+          "brand": "department-of-health",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/62750817e90e070dbf5acad5/s300_DHSC_plaque.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>of Health &amp;<br/>Social Care"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department of Health and Social Care",
+        "web_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2021-01-26T18:15:49Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "12413-1635524304.249-10.13.3.253-83803",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "simple_smart_answer",
+  "title": "Check your access to healthcare in the EU and EEA",
+  "updated_at": "2023-12-21T10:08:45Z",
+  "withdrawn_notice": {
+  }
+}

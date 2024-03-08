@@ -1,0 +1,520 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/apply-allotment",
+  "content_id": "a36c2119-f2f3-4587-8dc7-74a97715e692",
+  "description": "Rent an allotment through your council to grow your own fruit and vegetables - you can be allocated a plot or added to a waiting list",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Contact your local council to apply for an allotment near you. They will either allocate you a plot or, in many cases, add your name to a waiting list.</p>\n",
+    "lgil_code": 0,
+    "lgsl_code": 510,
+    "more_information": "\n",
+    "need_to_know": "<ul>\n  <li>Available in England and Wales only</li>\n</ul>\n",
+    "service_tiers": [
+      "district",
+      "unitary"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2012-01-18T11:47:14Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/apply-allotment",
+        "api_url": "https://www.gov.uk/api/content/apply-allotment",
+        "base_path": "/apply-allotment",
+        "content_id": "a36c2119-f2f3-4587-8dc7-74a97715e692",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:17Z",
+        "schema_name": "local_transaction",
+        "title": "Apply for an allotment",
+        "web_url": "https://www.gov.uk/apply-allotment",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/garden-waste-disposal",
+        "api_url": "https://www.gov.uk/api/content/garden-waste-disposal",
+        "base_path": "/garden-waste-disposal",
+        "content_id": "e6c46eba-881c-4f3f-ac7f-38767c1f6798",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/environment-countryside/recycling-waste-management",
+              "api_url": "https://www.gov.uk/api/content/browse/environment-countryside/recycling-waste-management",
+              "base_path": "/browse/environment-countryside/recycling-waste-management",
+              "content_id": "e1f95744-84d0-4b0e-9440-276362406572",
+              "description": "Your responsibilities, hazardous waste and report an environmental incident",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/environment-countryside",
+                    "api_url": "https://www.gov.uk/api/content/browse/environment-countryside",
+                    "base_path": "/browse/environment-countryside",
+                    "content_id": "26b81913-d58a-47be-80b7-1e947212779a",
+                    "description": "Includes flooding, recycling, farming and wildlife",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-08-02T10:48:20Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Environment and countryside",
+                    "web_url": "https://www.gov.uk/browse/environment-countryside",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-22T09:27:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Waste management",
+              "web_url": "https://www.gov.uk/browse/environment-countryside/recycling-waste-management",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/local-councils",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+              "base_path": "/browse/housing-local-services/local-councils",
+              "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+              "description": "Find and access local services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Local councils and services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/recycling-rubbish",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/recycling-rubbish",
+              "base_path": "/browse/housing-local-services/recycling-rubbish",
+              "content_id": "f4267150-2591-4c47-856a-25795c71f303",
+              "description": "Includes collecting large waste items, garden waste and reporting problems",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Recycling and rubbish",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/recycling-rubbish",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:21Z",
+        "schema_name": "local_transaction",
+        "title": "Dispose of garden waste",
+        "web_url": "https://www.gov.uk/garden-waste-disposal",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/garden-bonfires-rules",
+        "api_url": "https://www.gov.uk/api/content/garden-bonfires-rules",
+        "base_path": "/garden-bonfires-rules",
+        "content_id": "b6bae35c-a005-46b8-bba0-0f83dea765f7",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/recycling-rubbish",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/recycling-rubbish",
+              "base_path": "/browse/housing-local-services/recycling-rubbish",
+              "content_id": "f4267150-2591-4c47-856a-25795c71f303",
+              "description": "Includes collecting large waste items, garden waste and reporting problems",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Recycling and rubbish",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/recycling-rubbish",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/safety-environment",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/safety-environment",
+              "base_path": "/browse/housing-local-services/safety-environment",
+              "content_id": "a5f60151-afe7-45ea-8239-a440814b1193",
+              "description": "Includes smoke control areas, road safety and crime prevention",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Safety and the environment in your community",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/safety-environment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2018-07-12T14:20:10Z",
+        "schema_name": "answer",
+        "title": "Garden bonfires: the rules",
+        "web_url": "https://www.gov.uk/garden-bonfires-rules",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1342",
+        "api_path": "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "base_path": "/government/organisations/department-for-levelling-up-housing-and-communities",
+        "content_id": "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+        "details": {
+          "acronym": "DLUHC",
+          "brand": "department-for-levelling-up-housing-and-communities",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for Levelling Up,<br/>Housing &amp; Communities"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Levelling Up, Housing and Communities ",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/housing-local-services",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+              "base_path": "/browse/housing-local-services",
+              "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+              "description": "Owning or renting and council services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Housing and local services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/garden-bonfires-rules",
+        "api_url": "https://www.gov.uk/api/content/garden-bonfires-rules",
+        "base_path": "/garden-bonfires-rules",
+        "content_id": "b6bae35c-a005-46b8-bba0-0f83dea765f7",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-07-12T14:20:10Z",
+        "schema_name": "answer",
+        "title": "Garden bonfires: the rules",
+        "web_url": "https://www.gov.uk/garden-bonfires-rules",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/garden-waste-disposal",
+        "api_url": "https://www.gov.uk/api/content/garden-waste-disposal",
+        "base_path": "/garden-waste-disposal",
+        "content_id": "e6c46eba-881c-4f3f-ac7f-38767c1f6798",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:21Z",
+        "schema_name": "local_transaction",
+        "title": "Dispose of garden waste",
+        "web_url": "https://www.gov.uk/garden-waste-disposal",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-for-council-housing",
+        "api_url": "https://www.gov.uk/api/content/apply-for-council-housing",
+        "base_path": "/apply-for-council-housing",
+        "content_id": "dc7e2510-798a-4b3b-a575-3242cf8a1303",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-10-02T12:53:39Z",
+        "schema_name": "local_transaction",
+        "title": "Apply for council housing",
+        "web_url": "https://www.gov.uk/apply-for-council-housing",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/rent-council-garage",
+        "api_url": "https://www.gov.uk/api/content/rent-council-garage",
+        "base_path": "/rent-council-garage",
+        "content_id": "cd640fc0-e63e-488c-bf5a-e509073f0765",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:20Z",
+        "schema_name": "local_transaction",
+        "title": "Rent a council garage",
+        "web_url": "https://www.gov.uk/rent-council-garage",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-government-property",
+        "api_url": "https://www.gov.uk/api/content/find-government-property",
+        "base_path": "/find-government-property",
+        "content_id": "ab5b2112-94db-44ab-aa5f-ec152e0f5488",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-07-31T10:56:12Z",
+        "schema_name": "transaction",
+        "title": "Find government property and land to rent or buy",
+        "web_url": "https://www.gov.uk/find-government-property",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/regional-and-local-government/local-councils",
+        "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-councils",
+        "base_path": "/regional-and-local-government/local-councils",
+        "content_id": "15191831-40b4-4f6e-ade3-e82d7c775afd",
+        "details": {
+          "internal_name": "Local councils and services [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/regional-and-local-government",
+              "api_url": "https://www.gov.uk/api/content/regional-and-local-government",
+              "base_path": "/regional-and-local-government",
+              "content_id": "503c5bc7-809a-47b9-83e2-bd0c212dbabb",
+              "description": "",
+              "details": {
+                "internal_name": "Regional and local government",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:30:05Z",
+              "schema_name": "taxon",
+              "title": "Regional and local government",
+              "web_url": "https://www.gov.uk/regional-and-local-government",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:09:40Z",
+        "schema_name": "taxon",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/regional-and-local-government/local-councils",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-05-02T16:27:17Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15546-1504182734.115-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Apply for an allotment",
+  "updated_at": "2024-03-01T16:02:01Z",
+  "withdrawn_notice": {
+  }
+}

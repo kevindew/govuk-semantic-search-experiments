@@ -1,0 +1,113 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/pay-dvla-fine",
+  "content_id": "faaf7863-1e9a-4394-a23d-9a964c3cce76",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "promotion": {
+      "category": "organ_donor",
+      "opt_in_url": "",
+      "opt_out_url": "",
+      "url": "https://www.organdonation.nhs.uk/register-your-decision/donate/?campaign=2740&utm_source=dvla_pay_fine&utm_medium=referral&utm_campaign=partner&utm_content=web_endoftransaction&utm_term=allaudiences"
+    }
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2016-05-24T12:46:37Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/pay-dvla-fine",
+        "api_url": "https://www.gov.uk/api/content/done/pay-dvla-fine",
+        "base_path": "/done/pay-dvla-fine",
+        "content_id": "faaf7863-1e9a-4394-a23d-9a964c3cce76",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-08-26T13:17:47Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Pay a DVLA fine",
+        "web_url": "https://www.gov.uk/done/pay-dvla-fine",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA74",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-licensing-agency",
+        "content_id": "70580624-93b5-4aed-823b-76042486c769",
+        "details": {
+          "acronym": "DVLA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Licensing<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Licensing Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-08-26T13:17:47Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629921.351-10.13.30.3-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Pay a DVLA fine",
+  "updated_at": "2024-02-06T13:29:40Z",
+  "withdrawn_notice": {
+  }
+}

@@ -1,0 +1,1267 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/tax-relief-selling-home",
+  "content_id": "b92f788f-3e9f-4c4d-b03b-1a696fef9fb2",
+  "description": "Work out Private Residence Relief when you sell your home, whether you need to pay Capital Gains Tax (CGT) and what proportion of your gain you pay tax on ",
+  "details": {
+    "body": "<p>Use this tool to find out:</p>\n\n<ul>\n  <li>if you need to pay tax when you sell (or ‘<a href=\"/capital-gains-tax\">dispose of</a>’) your home</li>\n  <li>how to work out how much <a href=\"/tax-sell-home\">Private Residence Relief</a> you get</li>\n</ul>\n\n<h2 id=\"what-counts-as-your-home\">What counts as your home</h2>\n<p>You must have lived in your home as your only or main residence at some point while you owned it.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you’re married or in a civil partnership only one home per couple counts as your main residence at any one time.</p>\n</div>\n\n<h2 id=\"when-you-dont-get-relief\">When you don’t get relief</h2>\n<p>You don’t get tax relief if you bought it just to make a gain.</p>\n\n<h2 id=\"if-you-or-your-home-are-overseas\">If you or your home are overseas</h2>\n<p>You may get relief if the property is in the UK, but <a href=\"/tax-live-abroad-sell-uk-home\">you’re not a UK resident</a>.</p>\n\n<p>From 6 April 2015, you must spend at least 90 days in an overseas property to qualify for relief for that tax year.</p>\n\n",
+    "external_related_links": [
+
+    ],
+    "nodes": [
+      {
+        "body": "<p>Answer ‘yes’ if you owned more than one home at any point while you owned the home you’re selling.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-5",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-2",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-1",
+        "title": "Do you own more than one home? "
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-16",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-3",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-2",
+        "title": "Are the grounds of your home bigger than 5,000 square metres, including the buildings?"
+      },
+      {
+        "body": "<p>Don’t include:</p>\n\n<ul>\n  <li>the first 12 months you owned your home if it was being built, renovated or you couldn’t sell your previous home</li>\n  <li>the last 9 months before selling your home (36 months if you’re disabled, in long-term residential care or you sold the property before 6 April 2014)</li>\n</ul>\n\n<p>Also don’t include time you lived away from home for:</p>\n\n<ul>\n  <li>any reason for periods adding up to 3 years</li>\n  <li>work in the UK for up to 4 years</li>\n  <li>work outside the UK for any period</li>\n</ul>\n\n<p>You normally need to live in your home again afterwards, unless your job means you can’t go back.</p>\n\n<h2 id=\"if-youre-not-uk-resident-for-tax\">If you’re not UK resident for tax</h2>\n\n<p>From 6 April 2015, if you spend fewer than 90 days in your home in a tax year, you count as having lived away for that year.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes, I've lived away ",
+            "next_node": "question-19",
+            "slug": "yes-i-ve-lived-away"
+          },
+          {
+            "label": "No, I've not lived away",
+            "next_node": "question-4",
+            "slug": "no-i-ve-not-lived-away"
+          }
+        ],
+        "slug": "question-3",
+        "title": "Have you lived away from your home?"
+      },
+      {
+        "body": "<p>Don’t count using a spare room occasionally as an office or having a single lodger.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-14",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-1",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-4",
+        "title": "Have you let out any part of your home or used any part exclusively for business?"
+      },
+      {
+        "body": "<p>You can read the rules about <a href=\"/tax-sell-home/nominating-a-home\">nominating your home</a>.</p>\n\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-6",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-7",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-5",
+        "title": "Has the property you're selling been nominated as your main home for the entire time you've owned it?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-8",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-10",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-6",
+        "title": "Are the grounds of the home you're selling bigger than 5,000 square metres, including the buildings?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-9",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-11",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-7",
+        "title": "Are the grounds of the home you're selling bigger than 5,000 square metres including the buildings?"
+      },
+      {
+        "body": "<p>Don’t count using a spare room occasionally as an office or having a single lodger.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-12",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-13",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-8",
+        "title": "Have you let out any part of your home or used any part exclusively for business? "
+      },
+      {
+        "body": "<p>Don’t count using a spare room occasionally as an office or having a single lodger.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-4",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-5",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-9",
+        "title": "Have you let out any part of the home you’re selling or used any part of it exclusively for business?"
+      },
+      {
+        "body": "<p>Don’t count using a spare room occasionally as an office or having a single lodger.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-14",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-15",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-10",
+        "title": "Have you let out any part of the home you’re selling or used any part of it exclusively for business?"
+      },
+      {
+        "body": "<p>Don’t count using a spare room occasionally as an office or having a single lodger.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-6",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-7",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-11",
+        "title": "Have you let out any part of the home you’re selling or used any part of it exclusively for business?"
+      },
+      {
+        "body": "<p>Don’t include:</p>\n\n<ul>\n  <li>the first 12 months you owned your home if it was being built, renovated or you couldn’t sell your previous home</li>\n  <li>the last 9 months before selling your home</li>\n</ul>\n\n<p>Also don’t include time you lived away from home for:</p>\n\n<ul>\n  <li>any reason for periods adding up to 3 years</li>\n  <li>work in the UK for up to 4 years</li>\n  <li>work outside the UK for any period</li>\n</ul>\n\n<p>You normally need to live in your home again afterwards, unless your job means you can’t go back.</p>\n\n<h2 id=\"if-youre-not-uk-resident-for-tax\">If you’re not UK resident for tax</h2>\n<p>From 6 April 2015, if you spend fewer than 90 days in your home in a tax year, you count as having lived away for that year.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes, I've lived away",
+            "next_node": "outcome-15",
+            "slug": "yes-i-ve-lived-away"
+          },
+          {
+            "label": "No, I've not lived away",
+            "next_node": "outcome-2",
+            "slug": "no-i-ve-not-lived-away"
+          }
+        ],
+        "slug": "question-12",
+        "title": "Have you lived away from your home?"
+      },
+      {
+        "body": "<p>Don’t include:</p>\n\n<ul>\n  <li>the first 12 months you owned your home if it was being built, renovated or you couldn’t sell your previous home</li>\n  <li>the last 9 months before selling your home</li>\n</ul>\n\n<p>Also don’t include time you lived away from home for:</p>\n\n<ul>\n  <li>any reason for periods adding up to 3 years</li>\n  <li>work in the UK for up to 4 years</li>\n  <li>work outside the UK for any period</li>\n</ul>\n\n<p>You normally need to live in your home again afterwards, unless your job means you can’t go back.</p>\n\n<h2 id=\"if-youre-not-uk-resident-for-tax\">If you’re not UK resident for tax</h2>\n<p>From 6 April 2015, if you spend fewer than 90 days in your home in a tax year, you count as having lived away for that year.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes,  I've lived away",
+            "next_node": "outcome-16",
+            "slug": "yes-i-ve-lived-away"
+          },
+          {
+            "label": "No, I've not lived away",
+            "next_node": "outcome-3",
+            "slug": "no-i-ve-not-lived-away"
+          }
+        ],
+        "slug": "question-13",
+        "title": "Have you lived away from your home?"
+      },
+      {
+        "body": "<p>Don’t include:</p>\n\n<ul>\n  <li>the first 12 months you owned your home if it was being built, renovated or you couldn’t sell your previous home</li>\n  <li>the last 9 months before selling your home</li>\n</ul>\n\n<p>Also don’t include time you lived away from home for:</p>\n\n<ul>\n  <li>any reason for periods adding up to 3 years</li>\n  <li>work in the UK for up to 4 years</li>\n  <li>work outside the UK for any period</li>\n</ul>\n\n<p>You normally need to live in your home again afterwards, unless your job means you can’t go back.</p>\n\n<h2 id=\"if-youre-not-uk-resident-for-tax\">If you’re not UK resident for tax</h2>\n<p>From 6 April 2015, if you spend fewer than 90 days in your home in a tax year, you count as having lived away for that year.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes, I've lived away",
+            "next_node": "outcome-17",
+            "slug": "yes-i-ve-lived-away"
+          },
+          {
+            "label": "No, I've not lived away",
+            "next_node": "outcome-18",
+            "slug": "no-i-ve-not-lived-away"
+          }
+        ],
+        "slug": "question-14",
+        "title": "Have you lived away from your nominated home?"
+      },
+      {
+        "body": "<p>Don’t include:</p>\n\n<ul>\n  <li>the first 12 months you owned your home if it was being built, renovated or you couldn’t sell your previous home</li>\n  <li>the last 9 months before selling your home</li>\n</ul>\n\n<p>Also don’t include time you lived away from home for:</p>\n\n<ul>\n  <li>any reason for periods adding up to 3 years</li>\n  <li>work in the UK for up to 4 years</li>\n  <li>work outside the UK for any period</li>\n</ul>\n\n<p>You normally need to live in your home again afterwards, unless your job means you can’t go back.</p>\n\n<h2 id=\"if-youre-not-uk-resident-for-tax\">If you’re not UK resident for tax</h2>\n<p>From 6 April 2015, if you spend fewer than 90 days in your home in a tax year, you count as having lived away for that year.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes, I've lived away",
+            "next_node": "outcome-19",
+            "slug": "yes-i-ve-lived-away"
+          },
+          {
+            "label": "No, I've not lived away",
+            "next_node": "outcome-20",
+            "slug": "no-i-ve-not-lived-away"
+          }
+        ],
+        "slug": "question-15",
+        "title": "Have you lived away from your nominated home?"
+      },
+      {
+        "body": "<p>Don’t include:</p>\n\n<ul>\n  <li>the first 12 months you owned your home if it was being built, renovated or you couldn’t sell your previous home</li>\n  <li>the last 9 months before selling your home (36 months if you’re disabled, in long-term residential care or you sold the property before 6 April 2014)</li>\n</ul>\n\n<p>Also don’t include time you lived away from home for:</p>\n\n<ul>\n  <li>any reason for periods adding up to 3 years</li>\n  <li>work in the UK for up to 4 years</li>\n  <li>work outside the UK for any period</li>\n</ul>\n\n<p>You normally need to live in your home again afterwards, unless your job means you can’t go back.</p>\n\n<h2 id=\"if-youre-not-uk-resident-for-tax\">If you’re not UK resident for tax</h2>\n<p>From 6 April 2015, if you spend fewer than 90 days in your home in a tax year, you count as having lived away for that year.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes, I've lived away",
+            "next_node": "question-17",
+            "slug": "yes-i-ve-lived-away"
+          },
+          {
+            "label": "No, I've not lived away",
+            "next_node": "question-18",
+            "slug": "no-i-ve-not-lived-away"
+          }
+        ],
+        "slug": "question-16",
+        "title": "Have you lived away from your home?"
+      },
+      {
+        "body": "<p>Don’t count using a spare room occasionally as an office or having a single lodger.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-8",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-9",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-17",
+        "title": "Have you let out any part of your home or used any part exclusively for business? "
+      },
+      {
+        "body": "<p>Don’t count using a spare room as an office or having a single lodger.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-10",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-11",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-18",
+        "title": "Have you let out any part of your home or used any part exclusively for business? "
+      },
+      {
+        "body": "<p>Don’t count using a spare room occasionally as an office or having a single lodger.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-12",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-13",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-19",
+        "title": "Have you let out any part of your home or used any part exclusively for business?"
+      },
+      {
+        "body": "<p>You don’t need to pay any tax on the gain you make when you sell your home.</p>\n\n<p>You don’t need to contact HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) or fill in the Capital Gains Tax part of your tax return unless:</p>\n\n<ul>\n  <li>you’ve made a gain on <a href=\"/capital-gains-tax/what-you-pay-it-on\">another asset</a>\n</li>\n  <li><a href=\"/capital-gains-tax-for-non-residents-uk-residential-property\">you’re not UK resident</a></li>\n</ul>\n\n<p>Keep a copy of this page for your records.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you’re not sure about any of the answers you’ve given, call the <a href=\"/government/organisations/hm-revenue-customs/contact/capital-gains-tax-enquiries-for-individuals-employees-and-self-employed\">Capital Gains Tax helpline</a>.</p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-1",
+        "title": "You’re entitled to full Private Residence Relief"
+      },
+      {
+        "body": "<p>You need to work out what proportion of <a href=\"/tax-sell-home/work-out-your-gain\">your gain</a> you get relief on.</p>\n\n<p>Your calculation will be complex because there are several things that affect your relief. Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<h2 id=\"what-affects-your-relief\">What affects your relief</h2>\n<p>The relief you get when you sell your property is affected by:</p>\n\n<ul>\n  <li>what you used it for</li>\n  <li>its size</li>\n</ul>\n\n<h3 id=\"what-you-used-it-for\">What you used it for</h3>\n<p>If you never lived in the part of your home you let out or used only for business you don’t get any relief on that part.</p>\n\n<p>If at any time you did, you’ll get relief for:</p>\n\n<ul>\n  <li>the last 9 months you owned the property</li>\n  <li>any time you didn’t let it out or use it for business</li>\n</ul>\n\n<p>You may get <a href=\"/tax-sell-home/let-out-part-of-home\">Letting Relief</a> if you let out part of your home.</p>\n\n<h3 id=\"the-size-of-your-property\">The size of your property</h3>\n<p>Because your grounds are bigger than 5,000 square metres you may not get relief for the whole area. Page 5 of the HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) <a href=\"/government/publications/private-residence-relief-hs283-self-assessment-helpsheet\">Private Residence Relief guide</a> explains the rules.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-2",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>Because your grounds are bigger than 5,000 square metres you may not get relief for the whole area. Page 5 of the HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) <a href=\"/government/publications/private-residence-relief-hs283-self-assessment-helpsheet\">Private Residence Relief guide</a> explains the rules.</p>\n\n<p>Before you work out the relief you get you must <a href=\"/tax-sell-home/work-out-your-gain\">work out your gain</a>.</p>\n\n<p>Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-3",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>You need to work out what proportion of <a href=\"/tax-sell-home/work-out-your-gain\">your gain</a> you get relief on.</p>\n\n<p>Your calculation will be complex because there are several things that affect your relief. Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<h2 id=\"what-affects-your-relief\">What affects your relief</h2>\n<p>The relief you get when you sell your property is affected by:</p>\n\n<ul>\n  <li>when you lived there</li>\n  <li>what you used it for</li>\n  <li>its size</li>\n</ul>\n\n<h3 id=\"when-you-lived-there\">When you lived there</h3>\n<p>In most cases, you only get relief for one home for any period. You must work out when you lived in your property as your main home.</p>\n\n<p>If you’re married or in a civil partnership only one home per couple counts as your main home at any one time.</p>\n\n<p>If you’ve <a href=\"/tax-sell-home/nominating-a-home\">nominated a home</a> you can’t get relief for another property for the time your home is nominated, apart from for <a href=\"/tax-sell-home/absence-from-home\">certain periods</a> that always qualify for relief.</p>\n\n<h3 id=\"what-you-used-it-for\">What you used it for</h3>\n<p>If you never lived in the part of your home you let out or used only for business you don’t get any relief on that part.</p>\n\n<p>If at any time you did, you’ll get relief for:</p>\n\n<ul>\n  <li>the last 9 months you owned the property</li>\n  <li>any time you didn’t let it out or use it for business</li>\n</ul>\n\n<p>You may get <a href=\"/tax-sell-home/let-out-part-of-home\">Letting Relief</a> if you let out part of your home.</p>\n\n<h3 id=\"the-size-of-your-property\">The size of your property</h3>\n<p>Because the grounds of the home you’re selling are bigger than 5,000 square metres you may not get relief for the whole area. Page 5 of the HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) <a href=\"/government/publications/private-residence-relief-hs283-self-assessment-helpsheet\">Private Residence Relief guide</a> explains the rules.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-4",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>You need to work out what proportion of <a href=\"/tax-sell-home/work-out-your-gain\">your gain</a> you get relief on.</p>\n\n<p>Your calculation will be complex because there are several things that affect your relief. Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<h2 id=\"what-affects-your-relief\">What affects your relief</h2>\n<p>The relief you get when you sell your property is affected by:</p>\n\n<ul>\n  <li>when you lived there</li>\n  <li>its size</li>\n</ul>\n\n<h3 id=\"when-you-lived-there\">When you lived there</h3>\n<p>In most cases, you only get relief for one home for any period. You must work out when you lived in your property as your main home.</p>\n\n<p>If you’re married or in a civil partnership only one home per couple counts as your main home at any one time.</p>\n\n<p>If you’ve <a href=\"/tax-sell-home/nominating-a-home\">nominated a home</a> you can’t get relief for another property for the time your home is nominated, apart from for <a href=\"/tax-sell-home/absence-from-home\">certain periods</a> that always qualify for relief.</p>\n\n<p>You always get relief for the last 9 months you own a property.</p>\n\n<h3 id=\"the-size-of-your-property\">The size of your property</h3>\n<p>Because the grounds of the home you’re selling are bigger than 5,000 square metres you may not get relief for the whole area. Page 5 of the HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) <a href=\"/government/publications/private-residence-relief-hs283-self-assessment-helpsheet\">Private Residence Relief guide</a> explains the rules.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-5",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>You need to work out what proportion of <a href=\"/tax-sell-home/work-out-your-gain\">your gain</a> you get relief on.</p>\n\n<p>Your calculation will be complex because there are several things that affect your relief. Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<h2 id=\"what-affects-your-relief\">What affects your relief</h2>\n<p>The relief you get when you sell your property is affected by:</p>\n\n<ul>\n  <li>when you lived there</li>\n  <li>what you used it for</li>\n</ul>\n\n<h3 id=\"when-you-lived-there\">When you lived there</h3>\n<p>In most cases, you only get relief for one home for any period. You must work out when you lived in your property as your main home.</p>\n\n<p>If you’re married or in a civil partnership only one home per couple counts as your main home at any one time.</p>\n\n<p>If you’ve <a href=\"/tax-sell-home/nominating-a-home\">nominated a home</a> you can’t get relief for another property for the time your home is nominated, apart from for <a href=\"/tax-sell-home/absence-from-home\">certain periods</a> that always qualify for relief.</p>\n\n<h3 id=\"what-you-used-it-for\">What you used it for</h3>\n<p>If you never lived in the part of your home you let out or used only for business you don’t get any relief on that part.</p>\n\n<p>If at any time you did, you’ll get relief for:</p>\n\n<ul>\n  <li>the last 9 months you owned the property</li>\n  <li>any time you didn’t let it out or use it for business</li>\n</ul>\n\n<p>You may get <a href=\"/tax-sell-home/let-out-part-of-home\">Letting Relief</a> if you let out part of your home.</p>\n\n<div class=\"example\">\n<p><strong>Example</strong>\nYou sell your home and make a gain of £100,000.</p>\n\n<p>You owned the property for 20 years but you lived in another home for 5 (25% of the time). The time you lived away wasn’t during the last 9 months or another period that qualified for relief. This means the amount you get relief on is reduced by 25% (25% of £100,000, which is £25,000). You get relief on £75,000.</p>\n\n<p>The home you’re selling has 10 rooms. You used one room (10% of your home) exclusively for business for 2 years (10% of the period you owned it). The time you used it for business wasn’t during the last 9 months you owned the property. This means the amount you get relief on (£75,000) is reduced by a further 1% (10% of 10%). You get relief on 99% of £75,000, which is £74,250.</p>\n</div>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-6",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>In most cases, you only get relief for one home for any period. You must work out when you lived in your property as your main home.</p>\n\n<p>If you’re married or in a civil partnership only one home per couple counts as your main home at any one time.</p>\n\n<p>If you’ve <a href=\"/tax-sell-home/nominating-a-home\">nominated a home</a> you can’t get relief for another property for the time your home is nominated, apart from for <a href=\"/tax-sell-home/absence-from-home\">certain periods</a> that always qualify for relief. You always get relief for the last 9 months you own a property.</p>\n\n<p>Before you work out your relief you must <a href=\"/tax-sell-home/work-out-your-gain\">work out your gain</a>.</p>\n\n<p>Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<div class=\"example\">\n<p><strong>Example</strong>\nYou sell your home and make a gain of £100,000.</p>\n\n<p>You owned the property for 20 years but you lived in another home for 5 (25% of the time). The time you lived away wasn’t during the last 9 months or another period that qualified for relief. This means the amount you get relief on is reduced by 25% (25% of £100,000, which is £25,000).</p>\n\n<p>You get relief on £75,000.</p>\n</div>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-7",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>You need to work out what proportion of <a href=\"/tax-sell-home/work-out-your-gain\">your gain</a> you get relief on.</p>\n\n<p>Your calculation will be complex because there are several things that affect your relief. Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<h2 id=\"what-affects-your-relief\">What affects your relief</h2>\n<p>The relief you get when you sell your property is affected by:</p>\n\n<ul>\n  <li>the time you lived away</li>\n  <li>what you used it for</li>\n  <li>its size</li>\n</ul>\n\n<h3 id=\"the-time-you-lived-away\">The time you lived away</h3>\n<p>You don’t get relief for the time you lived away from your home, apart from for <a href=\"/tax-sell-home/absence-from-home\">certain periods</a>.</p>\n\n<h3 id=\"what-you-used-it-for\">What you used it for</h3>\n<p>If you never lived in the part of your home you let out or used only for business you don’t get any relief on that part.</p>\n\n<p>If at any time you did, you get relief for the time you didn’t let it out or use it for business. You’ll also get relief for the last 9 months you owned the property. This is extended to 36 months if:</p>\n\n<ul>\n  <li>you’re disabled</li>\n  <li>you’re in long-term residential care</li>\n  <li>you sold it before 6 April 2014</li>\n</ul>\n\n<p>You may get <a href=\"/tax-sell-home/let-out-part-of-home\">Letting Relief</a> if you let out part of your home.</p>\n\n<h3 id=\"the-size-of-your-property\">The size of your property</h3>\n<p>Because the grounds of the home you’re selling are bigger than 5,000 square metres you may not get relief for the whole area. Page 5 of the HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) <a href=\"/government/publications/private-residence-relief-hs283-self-assessment-helpsheet\">Private Residence Relief guide</a> explains the rules.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-8",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>You need to work out what proportion of <a href=\"/tax-sell-home/work-out-your-gain\">your gain</a> you get relief on.</p>\n\n<p>Your calculation will be complex because there are several things that affect your relief. Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<h2 id=\"what-affects-your-relief\">What affects your relief</h2>\n<p>The relief you get when you sell your property is affected by:</p>\n\n<ul>\n  <li>the time you lived away</li>\n  <li>its size</li>\n</ul>\n\n<h3 id=\"the-time-you-lived-away\">The time you lived away</h3>\n<p>You don’t get relief for the time you lived away from your home, apart from for <a href=\"/tax-sell-home/absence-from-home\">certain periods</a>.</p>\n\n<p>You always get relief for absences in the last 9 months. If you’re disabled, in long-term residential care or you sold the property before 6 April 2014 you always get relief for the last 36 months.</p>\n\n<h3 id=\"the-size-of-your-property\">The size of your property</h3>\n<p>Because your grounds are bigger than 5,000 square metres you may not get relief for the whole area. Page 5 of the HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) <a href=\"/government/publications/private-residence-relief-hs283-self-assessment-helpsheet\">Private Residence Relief guide</a> explains the rules.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-9",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>You need to work out what proportion of <a href=\"/tax-sell-home/work-out-your-gain\">your gain</a> you get relief on.</p>\n\n<p>Your calculation will be complex because there are several things that affect your relief. Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<h2 id=\"what-affects-your-relief\">What affects your relief</h2>\n<p>The relief you get when you sell your property is affected by:</p>\n\n<ul>\n  <li>what you used it for</li>\n  <li>its size</li>\n</ul>\n\n<h3 id=\"what-you-used-it-for\">What you used it for</h3>\n<p>If you never lived in the part of your home you let out or used only for business you don’t get any relief on that part.</p>\n\n<p>If at any time you did, you get relief for the time you didn’t let it out or use it for business. You’ll also get relief for the last 9 months you owned the property. This is extended to 36 months if:</p>\n\n<ul>\n  <li>you’re disabled</li>\n  <li>you’re in long-term residential care</li>\n  <li>you sold it before 6 April 2014</li>\n</ul>\n\n<p>You may get <a href=\"/tax-sell-home/let-out-part-of-home\">Letting Relief</a> if you let out part of your home.</p>\n\n<h3 id=\"the-size-of-your-property\">The size of your property</h3>\n<p>Because your grounds are bigger than 5,000 square metres you may not get relief for the whole area. Page 5 of the HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) <a href=\"/government/publications/private-residence-relief-hs283-self-assessment-helpsheet\">Private Residence Relief guide</a> explains the rules.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-10",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>Because your grounds are bigger than 5,000 square metres you may not get relief for the whole area. Page 5 of the HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) <a href=\"/government/publications/private-residence-relief-hs283-self-assessment-helpsheet\">Private Residence Relief guide</a> explains the rules.</p>\n\n<p>Before you work out your relief you must <a href=\"/tax-sell-home/work-out-your-gain\">work out your gain</a>.</p>\n\n<p>Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-11",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>You need to work out what proportion of <a href=\"/tax-sell-home/work-out-your-gain\">your gain</a> you get relief on.</p>\n\n<p>Your calculation will be complex because there are several things that affect your relief. Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<h2 id=\"what-affects-your-relief\">What affects your relief</h2>\n<p>The relief you get when you sell your property is affected by:</p>\n\n<ul>\n  <li>the time you lived away</li>\n  <li>what you used it for</li>\n</ul>\n\n<h3 id=\"the-time-you-lived-away\">The time you lived away</h3>\n<p>You don’t get relief for the time you lived away from your home, apart from for <a href=\"/tax-sell-home/absence-from-home\">certain periods</a>.</p>\n\n<h3 id=\"what-you-used-it-for\">What you used it for</h3>\n<p>If you never lived in the part of your home you let out or used only for business you don’t get any relief on that part.</p>\n\n<p>If at any time you did, you get relief for the time you didn’t let it out or use it for business. You’ll also get relief for the last 9 months you owned the property. This is extended to 36 months if:</p>\n\n<ul>\n  <li>you’re disabled</li>\n  <li>you’re in long-term residential care</li>\n  <li>you sold it before 6 April 2014</li>\n</ul>\n\n<p>You may get <a href=\"/tax-sell-home/let-out-part-of-home\">Letting Relief</a> if you let out part of your home.</p>\n\n<div class=\"example\">\n<p><strong>Example</strong>\nYou sell your home and make a gain of £100,000.</p>\n\n<p>You owned your home for 20 years and you lived away for 5 (25% of the time). The time you lived away wasn’t during the last 9 months or another period that qualified for relief. This means the amount you get relief on is reduced by 25% (25% of £100,000, which is £25,000).</p>\n\n<p>The home you’re selling has 10 rooms. You used one room (10% of your home) exclusively for business for 2 years (10% of the period you owned it). The time you used it for business wasn’t during the last 9 months you owned the property. This means the amount you get relief on (£75,000) is reduced by a further 1% (10% of 10%).</p>\n\n<p>You get relief on 99% of £75,000, which is £74,250.</p>\n</div>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-12",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>You don’t get relief for the time you lived away from your home, apart from for <a href=\"/tax-sell-home/absence-from-home\">certain periods</a>. You always get relief for absences in the last 9 months.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you’re disabled, in long-term residential care or you sold the property before 6 April 2014 you always get relief for the last 36 months.</p>\n</div>\n\n<p>Before you work out your relief you must <a href=\"/tax-sell-home/work-out-your-gain\">work out your gain</a>.</p>\n\n<p>Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<div class=\"example\">\n<p><strong>Example</strong>\nYou sell your home and make a gain of £100,000.</p>\n\n<p>You owned your home for 20 years and lived away for 5 (25% of the time). The time you lived away wasn’t during the last 9 months or another period that qualified for relief. This means the amount you get relief on is reduced by 25% (25% of £100,000, which is £25,000).</p>\n\n<p>You get relief on £75,000.</p>\n</div>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-13",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>If you never lived in the part of your home you let out or used only for business you don’t get any relief on that part.</p>\n\n<p>If at any time you did, you get relief for the time you didn’t let it out or use it for business. You’ll also get relief for the last 9 months you owned the property. This is extended to 36 months if:</p>\n\n<ul>\n  <li>you’re disabled</li>\n  <li>you’re in long-term residential care</li>\n  <li>you sold it before 6 April 2014</li>\n</ul>\n\n<p>You may get <a href=\"/tax-sell-home/let-out-part-of-home\">Letting Relief</a> if you let out part of your home.</p>\n\n<p>Before you work out the relief you get you must <a href=\"/tax-sell-home/work-out-your-gain\">work out your gain</a>.</p>\n\n<p>Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<div class=\"example\">\n<p><strong>Example</strong>\nYou sell your home and make a gain of £100,000. You owned your home for 10 years.</p>\n\n<p>You used one room in your 10-room home (10% of your home) exclusively for business for one year (10% of the period you owned it). The time you used it for business wasn’t during the last 9 months you owned the property. This means the amount of relief you get is reduced by 1% (10% of 10%).</p>\n\n<p>You get relief on £99,000.</p>\n</div>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-14",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>You need to work out what proportion of <a href=\"/tax-sell-home/work-out-your-gain\">your gain</a> you get relief on.</p>\n\n<p>Your calculation will be complex because there are several things that affect your relief. Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<h2 id=\"what-affects-your-relief\">What affects your relief</h2>\n<p>The relief you get when you sell your property is affected by:</p>\n\n<ul>\n  <li>the time you lived away</li>\n  <li>what you used it for</li>\n  <li>its size</li>\n</ul>\n\n<h3 id=\"the-time-you-lived-away\">The time you lived away</h3>\n<p>You don’t get relief for the time you lived away from your home, apart from for <a href=\"/tax-sell-home/absence-from-home\">certain periods</a>. You always get relief for absences in the last 9 months.</p>\n\n<h3 id=\"what-you-used-it-for\">What you used it for</h3>\n<p>If you never lived in the part of your home you let out or used only for business you don’t get any relief on that part.</p>\n\n<p>If at any time you did, you’ll get relief for:</p>\n\n<ul>\n  <li>the last 9 months you owned the property</li>\n  <li>any time you didn’t let it out or use it for business</li>\n</ul>\n\n<p>You may get <a href=\"/tax-sell-home/let-out-part-of-home\">Letting Relief</a> if you let out part of your home.</p>\n\n<h3 id=\"the-size-of-your-property\">The size of your property</h3>\n<p>Because the grounds of the home you’re selling are bigger than 5,000 square metres you may not get relief for the whole area. Page 5 of the HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) <a href=\"/government/publications/private-residence-relief-hs283-self-assessment-helpsheet\">Private Residence Relief guide</a> explains the rules.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-15",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>You need to work out what proportion of <a href=\"/tax-sell-home/work-out-your-gain\">your gain</a> you get relief on.</p>\n\n<p>Your calculation will be complex because there are several things that affect your relief. Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<h2 id=\"what-affects-your-relief\">What affects your relief</h2>\n<p>The relief you get when you sell your property is affected by:</p>\n\n<ul>\n  <li>the time you lived away</li>\n  <li>its size</li>\n</ul>\n\n<h3 id=\"the-time-you-lived-away\">The time you lived away</h3>\n<p>You don’t get relief for the time you lived away from your home, apart from for <a href=\"/tax-sell-home/absence-from-home\">certain periods</a>. You always get relief for absences in the last 9 months.</p>\n\n<h3 id=\"the-size-of-your-property\">The size of your property</h3>\n<p>Because your grounds are bigger than 5,000 square metres you may not get relief for the whole area. Page 5 of the HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) <a href=\"/government/publications/private-residence-relief-hs283-self-assessment-helpsheet\">Private Residence Relief guide</a> explains the rules.</p>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-16",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>You need to work out what proportion of <a href=\"/tax-sell-home/work-out-your-gain\">your gain</a> you get relief on.</p>\n\n<p>Your calculation will be complex because there are several things that affect your relief. Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<h2 id=\"what-affects-your-relief\">What affects your relief</h2>\n<p>The relief you get when you sell your property is affected by:</p>\n\n<ul>\n  <li>the time you lived away</li>\n  <li>what you used it for</li>\n</ul>\n\n<h3 id=\"the-time-you-lived-away\">The time you lived away</h3>\n<p>You don’t get relief for the time you lived away from your home, apart from for <a href=\"/tax-sell-home/absence-from-home\">certain periods</a>.</p>\n\n<h3 id=\"what-you-used-it-for\">What you used it for</h3>\n<p>If you never lived in the part of your home you let out or used only for business you don’t get any relief on that part.</p>\n\n<p>If at any time you did, you’ll get relief for:</p>\n\n<ul>\n  <li>the last 9 months you owned the property</li>\n  <li>any time you didn’t let it out or use it for business</li>\n</ul>\n\n<p>You may get <a href=\"/tax-sell-home/let-out-part-of-home\">Letting Relief</a> if you let out part of your home.</p>\n\n<div class=\"example\">\n<p><strong>Example</strong>\nYou sell your home and make a gain of £100,000. You owned your home for 10 years.</p>\n\n<p>You used one room in your 10-room home (10% of your home) exclusively for business for one year (10% of the period you owned it). The time you used it for business wasn’t during the last 9 months you owned the property. This means the amount of relief you get is reduced by 1% (10% of 10%). You get relief on £99,000.</p>\n\n<p>You didn’t live in your home for 5 of the 10 years (50% of the time you owned the property). The time you lived away wasn’t during the last 9 months or another period that qualified for relief. This means the amount of gain you get relief on (£99,000) is reduced by 50%.</p>\n\n<p>The total amount you get relief on is £49,500.</p>\n</div>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-17",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>If you never lived in the part of your home you let out or used only for business you don’t get any relief on that part.</p>\n\n<p>If at any time you did, you’ll get relief for:</p>\n\n<ul>\n  <li>the last 9 months you owned the property</li>\n  <li>any time you didn’t let it out or use it for business</li>\n</ul>\n\n<p>You may get <a href=\"/tax-sell-home/let-out-part-of-home\">Letting Relief</a> if you let out part of your home.</p>\n\n<p>Before you work out the relief you get you must <a href=\"/tax-sell-home/work-out-your-gain\">work out your gain</a>.</p>\n\n<p>Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<div class=\"example\">\n<p><strong>Example</strong>\nYou sell your home and make a gain of £100,000. You lived in your home for 10 years.</p>\n\n<p>You used one room in your 10-room home (10% of your home) exclusively for business for one year (10% of the period you owned it). The time you used it for business wasn’t during the last 9 months you owned the property. This means the amount of relief you get is reduced by 1% (10% of 10%).</p>\n\n<p>You get relief on £99,000.</p>\n</div>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-18",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>You don’t get relief for the time you lived away from your home, apart from for <a href=\"/tax-sell-home/absence-from-home\">certain periods</a>. You always get relief for absences in the last 9 months.</p>\n\n<p>Before you work out the relief you get you must <a href=\"/tax-sell-home/work-out-your-gain\">work out your gain</a>.</p>\n\n<p>Find out how to get <a href=\"/tax-help\">help with working out your tax</a>.</p>\n\n<div class=\"example\">\n<p><strong>Example</strong>\nYou sell your home and make a gain of £100,000. You owned your home for 10 years.</p>\n\n<p>You didn’t live in your home for 5 of the 10 years (50% of the time you owned the property). The time you lived away wasn’t during the last 9 months or another period that qualified for relief. This means the amount of gain you get relief on (£100,000) is reduced by 50%.</p>\n\n<p>The total amount you get relief on is £50,000.</p>\n</div>\n\n<h2 id=\"what-to-do-next\">What to do next</h2>\n<p>There are other rules that may affect the amount of Capital Gains Tax you pay. Work out <a href=\"/capital-gains-tax/work-out-need-to-pay\">if you need to pay</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-19",
+        "title": "You're entitled to some Private Residence Relief"
+      },
+      {
+        "body": "<p>You don’t need to pay any tax on the gain you make when you sell your nominated home.</p>\n\n<p>You don’t need to contact HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) or fill in the Capital Gains Tax part of your tax return, unless:</p>\n\n<ul>\n  <li>you’ve made a gain on <a href=\"/capital-gains-tax/what-you-pay-it-on\">another asset</a>\n</li>\n  <li><a href=\"/capital-gains-tax-for-non-residents-uk-residential-property\">you’re not UK resident</a></li>\n</ul>\n\n<p>Keep a copy of this page for your records.</p>\n\n<p>You need to <a href=\"/capital-gains-tax/report-and-pay-capital-gains-tax\">pay Capital Gains Tax</a> if you sell a home you didn’t nominate.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you’re not sure about any of the answers you’ve given, call the <a href=\"/government/organisations/hm-revenue-customs/contact/capital-gains-tax-enquiries-for-individuals-employees-and-self-employed\">Capital Gains Tax helpline</a>.</p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-20",
+        "title": "You’re entitled to full Private Residence Relief when you sell your nominated home"
+      }
+    ],
+    "start_button_text": "Start now"
+  },
+  "document_type": "simple_smart_answer",
+  "first_published_at": "2014-10-13T12:00:28Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/tax-relief-selling-home",
+        "api_url": "https://www.gov.uk/api/content/tax-relief-selling-home",
+        "base_path": "/tax-relief-selling-home",
+        "content_id": "b92f788f-3e9f-4c4d-b03b-1a696fef9fb2",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-17T07:45:09Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Work out tax relief when you sell your home",
+        "web_url": "https://www.gov.uk/tax-relief-selling-home",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/capital-gains-tax-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/capital-gains-tax-detailed-information",
+        "base_path": "/government/collections/capital-gains-tax-detailed-information",
+        "content_id": "74611130-fdf3-428a-8e2d-07c7042b4b19",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/tax-relief-selling-home",
+              "api_url": "https://www.gov.uk/api/content/tax-relief-selling-home",
+              "base_path": "/tax-relief-selling-home",
+              "content_id": "b92f788f-3e9f-4c4d-b03b-1a696fef9fb2",
+              "document_type": "simple_smart_answer",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-11-17T07:45:09Z",
+              "schema_name": "simple_smart_answer",
+              "title": "Work out tax relief when you sell your home",
+              "web_url": "https://www.gov.uk/tax-relief-selling-home",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-05T00:00:00Z",
+        "schema_name": "document_collection",
+        "title": "Capital Gains Tax: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/capital-gains-tax-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/capital-gains",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/capital-gains",
+        "base_path": "/browse/tax/capital-gains",
+        "content_id": "d6007553-8ed9-46bd-a5a6-de12f5e64491",
+        "description": "Tax when you sell property, shares, personal possessions and business assets",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:57Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Capital Gains Tax",
+        "web_url": "https://www.gov.uk/browse/tax/capital-gains",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/buy-sell-your-home",
+        "api_url": "https://www.gov.uk/api/content/buy-sell-your-home",
+        "base_path": "/buy-sell-your-home",
+        "content_id": "9a6202a7-f9c0-4332-af72-7bf07b9adbe4",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/buying-owning-property",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/buying-owning-property",
+              "base_path": "/browse/housing-local-services/buying-owning-property",
+              "content_id": "a5bc96b7-10c3-4014-8fff-4571b5b5586b",
+              "description": "Includes buying and selling your home, home ownership schemes, mortgages and compensation",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Buying and owning a property",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/buying-owning-property",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-03T13:31:13Z",
+        "schema_name": "guide",
+        "title": "Buying or selling your home",
+        "web_url": "https://www.gov.uk/buy-sell-your-home",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/tax-sell-home",
+        "api_url": "https://www.gov.uk/api/content/tax-sell-home",
+        "base_path": "/tax-sell-home",
+        "content_id": "5681a3a6-4136-4efc-90ff-5aedce2726be",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/capital-gains",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/capital-gains",
+              "base_path": "/browse/tax/capital-gains",
+              "content_id": "d6007553-8ed9-46bd-a5a6-de12f5e64491",
+              "description": "Tax when you sell property, shares, personal possessions and business assets",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:57Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Capital Gains Tax",
+              "web_url": "https://www.gov.uk/browse/tax/capital-gains",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-12T12:08:15Z",
+        "schema_name": "guide",
+        "title": "Tax when you sell your home",
+        "web_url": "https://www.gov.uk/tax-sell-home",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/capital-gains-tax",
+        "api_url": "https://www.gov.uk/api/content/capital-gains-tax",
+        "base_path": "/capital-gains-tax",
+        "content_id": "6bf258e7-2b8e-40e9-9ad7-a0eb66ac8fa2",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/capital-gains",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/capital-gains",
+              "base_path": "/browse/tax/capital-gains",
+              "content_id": "d6007553-8ed9-46bd-a5a6-de12f5e64491",
+              "description": "Tax when you sell property, shares, personal possessions and business assets",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:57Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Capital Gains Tax",
+              "web_url": "https://www.gov.uk/browse/tax/capital-gains",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-08T08:21:32Z",
+        "schema_name": "guide",
+        "title": "Capital Gains Tax: what you pay it on, rates and allowances",
+        "web_url": "https://www.gov.uk/capital-gains-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/tax-help",
+        "api_url": "https://www.gov.uk/api/content/tax-help",
+        "base_path": "/tax-help",
+        "content_id": "91fef6f6-3a59-42ab-a14d-42c4e5eee1a1",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/income-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+              "base_path": "/browse/tax/income-tax",
+              "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+              "description": "Includes rates and allowances, tax codes and refunds",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Income Tax",
+              "web_url": "https://www.gov.uk/browse/tax/income-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/self-assessment",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+              "base_path": "/browse/tax/self-assessment",
+              "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+              "description": "Includes filing, deadlines, pay and tax records",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Self Assessment",
+              "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/dealing-with-hmrc",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/dealing-with-hmrc",
+              "base_path": "/browse/tax/dealing-with-hmrc",
+              "content_id": "8b432175-2324-4c96-b6c6-9708cdab4fa1",
+              "description": "Reporting changes, agents, appeals, checks, complaints and help with tax",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:28Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Dealing with HMRC",
+              "web_url": "https://www.gov.uk/browse/tax/dealing-with-hmrc",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-10T12:04:44Z",
+        "schema_name": "answer",
+        "title": "Get help with tax",
+        "web_url": "https://www.gov.uk/tax-help",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/capital-gains",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/capital-gains",
+        "base_path": "/browse/tax/capital-gains",
+        "content_id": "d6007553-8ed9-46bd-a5a6-de12f5e64491",
+        "description": "Tax when you sell property, shares, personal possessions and business assets",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:57Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Capital Gains Tax",
+        "web_url": "https://www.gov.uk/browse/tax/capital-gains",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/tax-sell-property",
+        "api_url": "https://www.gov.uk/api/content/tax-sell-property",
+        "base_path": "/tax-sell-property",
+        "content_id": "228d15d6-ce1b-49b0-8f8a-ff8d4c59e7f5",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-08T08:22:11Z",
+        "schema_name": "guide",
+        "title": "Tax when you sell property",
+        "web_url": "https://www.gov.uk/tax-sell-property",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/private-residence-relief-hs283-self-assessment-helpsheet",
+        "api_url": "https://www.gov.uk/api/content/government/publications/private-residence-relief-hs283-self-assessment-helpsheet",
+        "base_path": "/government/publications/private-residence-relief-hs283-self-assessment-helpsheet",
+        "content_id": "5f67d334-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-06T10:41:40Z",
+        "schema_name": "publication",
+        "title": "Private Residence Relief (Self Assessment helpsheet HS283)",
+        "web_url": "https://www.gov.uk/government/publications/private-residence-relief-hs283-self-assessment-helpsheet",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/buy-sell-your-home",
+        "api_url": "https://www.gov.uk/api/content/buy-sell-your-home",
+        "base_path": "/buy-sell-your-home",
+        "content_id": "9a6202a7-f9c0-4332-af72-7bf07b9adbe4",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-03T13:31:13Z",
+        "schema_name": "guide",
+        "title": "Buying or selling your home",
+        "web_url": "https://www.gov.uk/buy-sell-your-home",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/tax-help",
+        "api_url": "https://www.gov.uk/api/content/tax-help",
+        "base_path": "/tax-help",
+        "content_id": "91fef6f6-3a59-42ab-a14d-42c4e5eee1a1",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-10T12:04:44Z",
+        "schema_name": "answer",
+        "title": "Get help with tax",
+        "web_url": "https://www.gov.uk/tax-help",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/capital-gains-tax-for-non-residents-uk-residential-property",
+        "api_url": "https://www.gov.uk/api/content/guidance/capital-gains-tax-for-non-residents-uk-residential-property",
+        "base_path": "/guidance/capital-gains-tax-for-non-residents-uk-residential-property",
+        "content_id": "deab5270-9105-48ec-afa3-897af11fffe6",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-04-11T10:45:28Z",
+        "schema_name": "detailed_guide",
+        "title": "Tell HMRC about Capital Gains Tax on UK property or land if you’re not a UK resident",
+        "web_url": "https://www.gov.uk/guidance/capital-gains-tax-for-non-residents-uk-residential-property",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/personal-tax-capital-gains-tax-property",
+        "api_url": "https://www.gov.uk/api/content/money/personal-tax-capital-gains-tax-property",
+        "base_path": "/money/personal-tax-capital-gains-tax-property",
+        "content_id": "b25ec9c2-90e3-4826-90d3-283e4e2ac7eb",
+        "details": {
+          "internal_name": "Property [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/capital-gains-tax",
+              "api_url": "https://www.gov.uk/api/content/money/capital-gains-tax",
+              "base_path": "/money/capital-gains-tax",
+              "content_id": "3bc4ec93-fd86-4c66-98d0-7623cbbaa6be",
+              "details": {
+                "internal_name": "Capital Gains Tax [T] (level 3 merged)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money/personal-tax",
+                    "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+                    "base_path": "/money/personal-tax",
+                    "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+                    "details": {
+                      "internal_name": "Personal tax [T]",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/money",
+                          "api_url": "https://www.gov.uk/api/content/money",
+                          "base_path": "/money",
+                          "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Money",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T20:35:25Z",
+                          "schema_name": "taxon",
+                          "title": "Money",
+                          "web_url": "https://www.gov.uk/money",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-05T16:19:54Z",
+                    "schema_name": "taxon",
+                    "title": "Personal tax",
+                    "web_url": "https://www.gov.uk/money/personal-tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Capital Gains Tax",
+              "web_url": "https://www.gov.uk/money/capital-gains-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:55Z",
+        "schema_name": "taxon",
+        "title": "Property",
+        "web_url": "https://www.gov.uk/money/personal-tax-capital-gains-tax-property",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/capital-gains-tax",
+        "api_url": "https://www.gov.uk/api/content/money/capital-gains-tax",
+        "base_path": "/money/capital-gains-tax",
+        "content_id": "3bc4ec93-fd86-4c66-98d0-7623cbbaa6be",
+        "details": {
+          "internal_name": "Capital Gains Tax [T] (level 3 merged)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:54Z",
+        "schema_name": "taxon",
+        "title": "Capital Gains Tax",
+        "web_url": "https://www.gov.uk/money/capital-gains-tax",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-11-17T07:45:09Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "18062-1584478505.395-10.3.3.1-77674",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "simple_smart_answer",
+  "title": "Work out tax relief when you sell your home",
+  "updated_at": "2024-02-27T16:26:27Z",
+  "withdrawn_notice": {
+  }
+}

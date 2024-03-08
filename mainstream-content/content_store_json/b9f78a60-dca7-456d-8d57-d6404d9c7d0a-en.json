@@ -1,0 +1,624 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/operator-compliance-risk-score",
+  "content_id": "b9f78a60-dca7-456d-8d57-d6404d9c7d0a",
+  "description": "OCRS is used to calculate the risk of commercial vehicle operators not following the rules on roadworthiness and traffic - how the system works, what your score means and how it can change",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "hide_chapter_navigation": false,
+    "parts": [
+      {
+        "body": "<p>If you’re a vehicle operator, your drivers might be stopped at the roadside by the police or the Driver and Vehicle Standards Agency (<abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr>) for <a href=\"/roadside-vehicle-checks-for-commercial-drivers\">vehicle inspections</a>.</p>\n\n<p><abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr> use the Operator Compliance Risk Score (<abbr title=\"Operator Compliance Risk Score\">OCRS</abbr>) system to decide which vehicles should be inspected.</p>\n\n<p><abbr title=\"Operator Compliance Risk Score\">OCRS</abbr> is used to calculate the risk of an operator not following the rules on roadworthiness (the condition of its vehicles) and traffic, for example drivers’ hours or weighing checks.</p>\n\n<p>It’s more likely that your vehicles will be inspected if your <abbr title=\"Operator Compliance Risk Score\">OCRS</abbr> is high.</p>\n\n",
+        "slug": "overview",
+        "title": "Overview"
+      },
+      {
+        "body": "<p>The Operator Compliance Risk Score (<abbr title=\"Operator Compliance Risk Score\">OCRS</abbr>) system is based on data collected by the Driver and Vehicle Standards Agency (<abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr>) over a 3-year rolling period.</p>\n\n<p>Data is taken from:</p>\n\n<ul>\n  <li>MOTs</li>\n  <li>roadside inspections</li>\n  <li>desk-based (‘remote’) assessments</li>\n  <li>site visits from <abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr>\n</li>\n</ul>\n\n<p>You’ll get 3 scores in your report:</p>\n\n<ul>\n  <li>roadworthiness</li>\n  <li>traffic</li>\n  <li>a combined score</li>\n</ul>\n\n<table>\n  <thead>\n    <tr>\n      <th scope=\"col\">Category</th>\n      <th scope=\"col\">What the score is based on</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Roadworthiness</td>\n      <td>Vehicle tests (first test and MOTs), roadside inspections, site visits and desk-based assessments</td>\n    </tr>\n    <tr>\n      <td>Traffic</td>\n      <td>Roadside inspections and prosecutions (for example, for drivers’ hours and tachograph offences, weighing checks), site visits and desk-based assessments</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>You’ll get points for breaking the rules or not meeting requirements in the areas you’re scored on. The number of points is determined by how serious the offence is.</p>\n\n<h2 id=\"band-ratings\">Band ratings</h2>\n<p>You’ll be given one of the following band ratings for each category, based on your score:</p>\n\n<ul>\n  <li>red – highest risk</li>\n  <li>amber – medium risk</li>\n  <li>green – low risk</li>\n</ul>\n\n<p>If you meet vehicle and road safety standards and continuously monitor your standards, you can <a href=\"/guidance/dvsa-earned-recognition-join-the-scheme\">apply to be a <abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr> recognised operator</a>. If you join this scheme, you’ll receive a blue band for all the categories in your report.</p>\n\n<p>You might have no score if <abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr> does not have any data for you from the past 3 years.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You can <a href=\"/manage-commercial-vehicle-compliance-online\">check your OCRS score</a>, view test histories and roadside check reports online.</p>\n</div>\n\n<h2 id=\"data-protection\">Data protection</h2>\n\n<p>Scores are not given to a driver during roadside inspections unless they can prove that they are either:</p>\n\n<ul>\n  <li>the sole owner of the vehicle</li>\n  <li>the operator of the vehicle</li>\n  <li>named on the vehicle operator licence</li>\n</ul>\n\n<h2 id=\"when-you-will-not-have-an-ocrs\">When you will not have an <abbr title=\"Operator Compliance Risk Score\">OCRS</abbr>\n</h2>\n\n<p>You will not have an <abbr title=\"Operator Compliance Risk Score\">OCRS</abbr> if you either:</p>\n\n<ul>\n  <li>have a new licence or have not had any communication with <abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr> in the last 3 years</li>\n  <li>only operate vehicles exempt from operator licensing</li>\n</ul>\n\n<h2 id=\"if-youre-a-vehicle-operator-from-northern-ireland\">If you’re a vehicle operator from Northern Ireland</h2>\n\n<p>You will have a reduced report.</p>\n\n<p>Your report will be based on data that <abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr> examiners have collected at the roadside within England, Wales and Scotland. It will not include data that the Driver and Vehicle Agency (DVA) has collected.</p>\n\n",
+        "slug": "how-youre-scored",
+        "title": "How you’ll be scored "
+      },
+      {
+        "body": "<p>Because your Operator Compliance Risk Score (<abbr title=\"Operator Compliance Risk Score\">OCRS</abbr>) is calculated over a 3-year rolling period, it can change after inspections, tests or prosecutions against you.</p>\n\n<p><abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr> calls these ‘events’. Your score could change if you:</p>\n\n<ul>\n  <li>commit a new offence</li>\n  <li>have a defect recorded against you at inspection</li>\n  <li>receive an ‘unsatisfactory’ result from a desk-based or fleet assessment</li>\n</ul>\n\n<p>If you pass an inspection without any issues, this will be recorded as a ‘clear event’ and can have a positive impact on your score.</p>\n\n<p>If you’re prosecuted by <abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr> you’ll get points from the date of prosecution, not the date of the offence. If you are not prosecuted, you’ll get points from the date of the offence.</p>\n\n<p>The <abbr title=\"Operator Compliance Risk Score\">OCRS</abbr> process runs every morning. This means new events and vehicles are included in your report daily.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>The lower your OCRS is, the better.</p>\n</div>\n\n<h2 id=\"old-encounters\">Old encounters</h2>\n\n<p>Your score also changes as old encounters that previously counted towards your score no longer count once they’re not in the <abbr title=\"Operator Compliance Risk Score\">OCRS</abbr> calculation period.</p>\n\n<p>If you had clear encounters included in your score and these are now outside the calculation period, this might mean your score goes up. But if you had negative encounters included and these no longer count, your score might go down.</p>\n\n<h2 id=\"year-weightings\">Year weightings</h2>\n\n<p>The impact of an offence or defect decreases over the 3-year time period.</p>\n\n<p>For the first 12 months after the offence or defect, its score stays the same. After 12 months it falls by a quarter and then it’s halved in the final 12 months.</p>\n\n<h2 id=\"other-changes\">Other changes</h2>\n\n<p>There are different factors that affect your <abbr title=\"Operator Compliance Risk Score\">OCRS</abbr>. These include:</p>\n\n<ul>\n  <li>points for offences and defects</li>\n  <li>points for prosecutions</li>\n  <li>time weightings</li>\n  <li>band thresholds (these determine whether you’re in the red, amber, green or blue band)</li>\n</ul>\n\n<p><abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr> sets these and can change them at any time.</p>\n\n",
+        "slug": "how-your-score-can-change",
+        "title": "How your score can change"
+      },
+      {
+        "body": "<p>If you think your score is incorrect you should:</p>\n\n<ul>\n  <li>\n<a href=\"/manage-vehicle-operator-licence\">check that your vehicle registration is listed on your operator licence</a> and remove any incorrect vehicles listed</li>\n  <li>\n<a href=\"/dvsa-online-report-services\">run your service history reports</a> so that you can see your most recent events</li>\n</ul>\n\n<h2 id=\"how-to-appeal-or-complain\">How to appeal or complain</h2>\n\n<p>If you think <abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr> has made a mistake you can appeal their decision or make a complaint.</p>\n\n<ul>\n  <li><a href=\"/government/publications/hgv-and-trailer-annual-test-appeal-form-vtg17\">appeal an HGV or trailer MOT decision</a></li>\n  <li><a href=\"/government/publications/psv-annual-test-appeal-form-vtp17\">appeal a public service vehicle (PSV) MOT decision</a></li>\n  <li><a href=\"/roadside-vehicle-checks-for-commercial-drivers/roadside-prohibitions\">complain about a roadside prohibition</a></li>\n  <li><a href=\"/government/publications/guide-to-graduated-fixed-penalties-financial-deposits/dvsa-roadside-checks-fines-and-financial-deposits\">complain about a fine</a></li>\n</ul>\n\n<p>When you send your appeal or complaint, you need to include:</p>\n\n<ul>\n  <li>your operator licence number</li>\n  <li>a copy of the <abbr title=\"Operator Compliance Risk Score\">OCRS</abbr> report with the mistake</li>\n  <li>any supporting documents (for example, sales receipts)</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>DVSA can only speak to a person named on the vehicle operator licensing system for your company (for example, a transport manager or director).</p>\n</div>\n\n<h2 id=\"what-happens-next\">What happens next</h2>\n\n<p>If your appeal is successful <abbr title=\"Driver and Vehicle Standards Agency\">DVSA</abbr> will remove the event from your <abbr title=\"Operator Compliance Risk Score\">OCRS</abbr> and re-run your score.</p>\n\n<p>Changes to your score will not show until there is an update.</p>\n\n<p>If you still think there is a mistake after your appeal or complaint has been resolved, you can email <a href=\"mailto:operator.reports@dvsa.gov.uk\">operator.reports@dvsa.gov.uk</a>.</p>\n\n",
+        "slug": "appeal-or-complain",
+        "title": "What to do if you think your score is incorrect"
+      }
+    ]
+  },
+  "document_type": "guide",
+  "first_published_at": "2012-12-07T11:52:49Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/operator-compliance-risk-score",
+        "api_url": "https://www.gov.uk/api/content/operator-compliance-risk-score",
+        "base_path": "/operator-compliance-risk-score",
+        "content_id": "b9f78a60-dca7-456d-8d57-d6404d9c7d0a",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-12-06T12:50:39Z",
+        "schema_name": "guide",
+        "title": "Operator Compliance Risk Score (OCRS)",
+        "web_url": "https://www.gov.uk/operator-compliance-risk-score",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/businesses",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+        "base_path": "/browse/driving/businesses",
+        "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+        "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-22T16:19:11Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Transport and driving businesses",
+        "web_url": "https://www.gov.uk/browse/driving/businesses",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/being-a-goods-vehicle-operator",
+        "api_url": "https://www.gov.uk/api/content/being-a-goods-vehicle-operator",
+        "base_path": "/being-a-goods-vehicle-operator",
+        "content_id": "8b27d85a-e16b-4269-8ca6-56b22a180f4e",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/businesses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+              "base_path": "/browse/driving/businesses",
+              "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+              "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-02-22T16:19:11Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Transport and driving businesses",
+              "web_url": "https://www.gov.uk/browse/driving/businesses",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-10T08:50:11Z",
+        "schema_name": "guide",
+        "title": "Being a goods vehicle operator",
+        "web_url": "https://www.gov.uk/being-a-goods-vehicle-operator",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/drivers-hours",
+        "api_url": "https://www.gov.uk/api/content/drivers-hours",
+        "base_path": "/drivers-hours",
+        "content_id": "59716363-5b9a-4f9f-849e-1934283a1d13",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/businesses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+              "base_path": "/browse/driving/businesses",
+              "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+              "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-02-22T16:19:11Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Transport and driving businesses",
+              "web_url": "https://www.gov.uk/browse/driving/businesses",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/driving-uk-and-abroad",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-uk-and-abroad",
+              "base_path": "/browse/driving/driving-uk-and-abroad",
+              "content_id": "231ad2c1-c1cd-4e00-8479-5277cfe05027",
+              "description": "Drive abroad, drive in the UK with a foreign licence, bring a vehicle to the UK",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving in the UK and abroad",
+              "web_url": "https://www.gov.uk/browse/driving/driving-uk-and-abroad",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/drivers-lorries-buses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/drivers-lorries-buses",
+              "base_path": "/browse/driving/drivers-lorries-buses",
+              "content_id": "13a30e05-d75e-45d8-95d9-0445042a4066",
+              "description": "Become a HGV or bus driver, find training, drivers' hours rules, specialist tests",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:15Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "HGV, bus and coach drivers",
+              "web_url": "https://www.gov.uk/browse/driving/drivers-lorries-buses",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-19T17:30:32Z",
+        "schema_name": "guide",
+        "title": "Drivers' hours",
+        "web_url": "https://www.gov.uk/drivers-hours",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/view-vehicle-operator-safety-risk-reports",
+        "api_url": "https://www.gov.uk/api/content/view-vehicle-operator-safety-risk-reports",
+        "base_path": "/view-vehicle-operator-safety-risk-reports",
+        "content_id": "6b755429-595e-46d6-bcb2-9da517f2eef6",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/businesses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+              "base_path": "/browse/driving/businesses",
+              "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+              "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-02-22T16:19:11Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Transport and driving businesses",
+              "web_url": "https://www.gov.uk/browse/driving/businesses",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2018-10-03T11:02:38Z",
+        "schema_name": "transaction",
+        "title": "View your vehicle operator safety and risk reports",
+        "web_url": "https://www.gov.uk/view-vehicle-operator-safety-risk-reports",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/roadside-vehicle-checks-for-commercial-drivers",
+        "api_url": "https://www.gov.uk/api/content/roadside-vehicle-checks-for-commercial-drivers",
+        "base_path": "/roadside-vehicle-checks-for-commercial-drivers",
+        "content_id": "ff099696-03fc-435a-a71b-8f11ea8be82b",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/drivers-lorries-buses",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/drivers-lorries-buses",
+              "base_path": "/browse/driving/drivers-lorries-buses",
+              "content_id": "13a30e05-d75e-45d8-95d9-0445042a4066",
+              "description": "Become a HGV or bus driver, find training, drivers' hours rules, specialist tests",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:15Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "HGV, bus and coach drivers",
+              "web_url": "https://www.gov.uk/browse/driving/drivers-lorries-buses",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-08-17T12:11:39Z",
+        "schema_name": "guide",
+        "title": "Roadside vehicle checks for commercial drivers",
+        "web_url": "https://www.gov.uk/roadside-vehicle-checks-for-commercial-drivers",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/use-the-operator-compliance-risk-score-ocrs-system",
+        "api_url": "https://www.gov.uk/api/content/guidance/use-the-operator-compliance-risk-score-ocrs-system",
+        "base_path": "/guidance/use-the-operator-compliance-risk-score-ocrs-system",
+        "content_id": "5f5f30fb-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-09-01T13:12:36Z",
+        "schema_name": "detailed_guide",
+        "title": "Use the Operator Compliance Risk Score (OCRS) system",
+        "web_url": "https://www.gov.uk/guidance/use-the-operator-compliance-risk-score-ocrs-system",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA570",
+        "api_path": "/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-standards-agency",
+        "base_path": "/government/organisations/driver-and-vehicle-standards-agency",
+        "content_id": "d39237a5-678b-4bb5-a372-eb2cb036933d",
+        "details": {
+          "acronym": "DVSA",
+          "brand": "department-for-transport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Driver &amp; Vehicle<br/>Standards<br/>Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Driver and Vehicle Standards Agency",
+        "web_url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/businesses",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+        "base_path": "/browse/driving/businesses",
+        "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+        "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-22T16:19:11Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Transport and driving businesses",
+        "web_url": "https://www.gov.uk/browse/driving/businesses",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/being-a-goods-vehicle-operator",
+        "api_url": "https://www.gov.uk/api/content/being-a-goods-vehicle-operator",
+        "base_path": "/being-a-goods-vehicle-operator",
+        "content_id": "8b27d85a-e16b-4269-8ca6-56b22a180f4e",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-10T08:50:11Z",
+        "schema_name": "guide",
+        "title": "Being a goods vehicle operator",
+        "web_url": "https://www.gov.uk/being-a-goods-vehicle-operator",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/use-the-operator-compliance-risk-score-ocrs-system",
+        "api_url": "https://www.gov.uk/api/content/guidance/use-the-operator-compliance-risk-score-ocrs-system",
+        "base_path": "/guidance/use-the-operator-compliance-risk-score-ocrs-system",
+        "content_id": "5f5f30fb-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-09-01T13:12:36Z",
+        "schema_name": "detailed_guide",
+        "title": "Use the Operator Compliance Risk Score (OCRS) system",
+        "web_url": "https://www.gov.uk/guidance/use-the-operator-compliance-risk-score-ocrs-system",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/manage-vehicle-operator-licence",
+        "api_url": "https://www.gov.uk/api/content/manage-vehicle-operator-licence",
+        "base_path": "/manage-vehicle-operator-licence",
+        "content_id": "a1645dc5-cbd1-442f-8f4b-fdb1d08bdf54",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-09-21T15:54:09Z",
+        "schema_name": "transaction",
+        "title": "Manage your vehicle operator licence",
+        "web_url": "https://www.gov.uk/manage-vehicle-operator-licence",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-vehicle-operator-licence",
+        "api_url": "https://www.gov.uk/api/content/apply-vehicle-operator-licence",
+        "base_path": "/apply-vehicle-operator-licence",
+        "content_id": "16fdc172-6c8c-495e-970d-9819532bc5f7",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-09-21T15:54:20Z",
+        "schema_name": "transaction",
+        "title": "Apply for a vehicle operator licence",
+        "web_url": "https://www.gov.uk/apply-vehicle-operator-licence",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/transport-businesses-and-vehicle-operator-licences",
+        "api_url": "https://www.gov.uk/api/content/transport/transport-businesses-and-vehicle-operator-licences",
+        "base_path": "/transport/transport-businesses-and-vehicle-operator-licences",
+        "content_id": "693b7a9e-688f-4278-9375-9841f4187b23",
+        "description": "Operator licensing for PSVs, HGVs and private hire vehicles, tachograph, speed limiter and driver CPC training centres.",
+        "details": {
+          "internal_name": "Transport businesses and vehicle operator licences",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/driving-and-road-transport",
+              "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+              "base_path": "/transport/driving-and-road-transport",
+              "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+              "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+              "details": {
+                "internal_name": "Driving and road transport",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport",
+                    "api_url": "https://www.gov.uk/api/content/transport",
+                    "base_path": "/transport",
+                    "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                    "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                    "details": {
+                      "internal_name": "Transport",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-15T14:31:46Z",
+                    "schema_name": "taxon",
+                    "title": "Transport",
+                    "web_url": "https://www.gov.uk/transport",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:13Z",
+              "schema_name": "taxon",
+              "title": "Driving and road transport",
+              "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:13Z",
+        "schema_name": "taxon",
+        "title": "Transport businesses and vehicle operator licences",
+        "web_url": "https://www.gov.uk/transport/transport-businesses-and-vehicle-operator-licences",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-12-06T12:50:39Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1679920121.972-10.13.21.95-16846",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "guide",
+  "title": "Operator Compliance Risk Score (OCRS)",
+  "updated_at": "2024-03-08T09:59:10Z",
+  "withdrawn_notice": {
+  }
+}

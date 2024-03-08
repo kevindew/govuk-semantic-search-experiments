@@ -1,0 +1,314 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/file-your-company-annual-accounts",
+  "content_id": "59d272b2-eb94-4af8-9034-1e1ba9b37ff5",
+  "description": "How to file your company annual accounts with Companies House",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Use this service to file your company’s annual accounts with Companies House.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Limited liability partnerships cannot use this service - <a href=\"/government/organisations/companies-house/about/access-and-opening\">send your annual accounts directly to Companies House</a>.</p>\n</div>\n\n<p>If you have a private limited company that <a href=\"/audit-exemptions-for-private-limited-companies\">does not need an auditor</a>, you could file your company accounts <a href=\"/file-your-company-accounts-and-tax-return\">through the same service as your company tax return</a>.</p>\n",
+    "more_information": "<p>You must get your accounts approved by your company directors before you file them.</p>\n\n<p>Read guidance on <a href=\"/prepare-file-annual-accounts-for-limited-company/prepare-annual-accounts\">what your annual accounts should include</a>.</p>\n\n<p>You’ll need a Companies House password and authentication code to use this service - you’ll be able to register for these if you do not have them.</p>\n\n<p>Find out if you can <a href=\"/company-filing-software/filing-annual-accounts-returns-and-tax-accounts\">use your accounting software</a> to file other types of accounts to Companies House.</p>\n\n<p><a href=\"/contact-companies-house\">Contact Companies House</a> to get help filing your company’s accounts online.</p>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://beta.companieshouse.gov.uk/accounts/corporation-tax",
+    "variants": [
+
+    ],
+    "will_continue_on": "the Companies House service"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2017-02-06T17:46:54Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/file-your-company-annual-accounts",
+        "api_url": "https://www.gov.uk/api/content/file-your-company-annual-accounts",
+        "base_path": "/file-your-company-annual-accounts",
+        "content_id": "59d272b2-eb94-4af8-9034-1e1ba9b37ff5",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-04-03T09:37:53Z",
+        "schema_name": "transaction",
+        "title": "File your company's annual accounts with Companies House",
+        "web_url": "https://www.gov.uk/file-your-company-annual-accounts",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/limited-company",
+        "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+        "base_path": "/browse/business/limited-company",
+        "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+        "description": "Includes registering, setting up, company accounts and tax returns",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-18T16:02:30Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Running a limited company",
+        "web_url": "https://www.gov.uk/browse/business/limited-company",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA26",
+        "api_path": "/api/content/government/organisations/companies-house",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/companies-house",
+        "base_path": "/government/organisations/companies-house",
+        "content_id": "c36bd301-d0c5-4492-86ad-ee7843b8383b",
+        "details": {
+          "acronym": "Companies House",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db3840f0b649cfaf7c43/s960_Companies_House_Building.GOV_lighter.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db38e5274a7908e35305/s300_Companies_House_Building.GOV_lighter.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Companies House"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Companies House",
+        "web_url": "https://www.gov.uk/government/organisations/companies-house",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/limited-company",
+        "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+        "base_path": "/browse/business/limited-company",
+        "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+        "description": "Includes registering, setting up, company accounts and tax returns",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-11-18T16:02:30Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Running a limited company",
+        "web_url": "https://www.gov.uk/browse/business/limited-company",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/get-information-about-a-company",
+        "api_url": "https://www.gov.uk/api/content/get-information-about-a-company",
+        "base_path": "/get-information-about-a-company",
+        "content_id": "9ca1a27b-af7b-44d2-b10d-0a6d0e3ff53d",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-24T08:36:53Z",
+        "schema_name": "transaction",
+        "title": "Get information about a company",
+        "web_url": "https://www.gov.uk/get-information-about-a-company",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/file-your-confirmation-statement-with-companies-house",
+        "api_url": "https://www.gov.uk/api/content/file-your-confirmation-statement-with-companies-house",
+        "base_path": "/file-your-confirmation-statement-with-companies-house",
+        "content_id": "2bedc7e2-3142-491a-9cb4-36c7eb235af5",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-12-18T16:56:42Z",
+        "schema_name": "transaction",
+        "title": "File your confirmation statement (annual return) with Companies House",
+        "web_url": "https://www.gov.uk/file-your-confirmation-statement-with-companies-house",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/file-changes-to-a-company-with-companies-house",
+        "api_url": "https://www.gov.uk/api/content/file-changes-to-a-company-with-companies-house",
+        "base_path": "/file-changes-to-a-company-with-companies-house",
+        "content_id": "5b103d54-38c9-4afd-a571-8d7f89e5919b",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-04T15:23:10Z",
+        "schema_name": "transaction",
+        "title": "Tell Companies House about changes to your limited company",
+        "web_url": "https://www.gov.uk/file-changes-to-a-company-with-companies-house",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/organisations/companies-house/about/access-and-opening",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/companies-house/about/access-and-opening",
+        "base_path": "/government/organisations/companies-house/about/access-and-opening",
+        "content_id": "602aeccf-7631-11e4-a3cb-005056011aef",
+        "document_type": "access_and_opening",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-03-01T09:42:44Z",
+        "schema_name": "corporate_information_page",
+        "title": "Office access and opening times",
+        "web_url": "https://www.gov.uk/government/organisations/companies-house/about/access-and-opening",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/prepare-file-annual-accounts-for-limited-company",
+        "api_url": "https://www.gov.uk/api/content/prepare-file-annual-accounts-for-limited-company",
+        "base_path": "/prepare-file-annual-accounts-for-limited-company",
+        "content_id": "5cb58486-0b00-4da8-8076-382e474b4f03",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-24T17:30:19Z",
+        "schema_name": "guide",
+        "title": "Accounts and tax returns for private limited companies",
+        "web_url": "https://www.gov.uk/prepare-file-annual-accounts-for-limited-company",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/running-a-business",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+        "base_path": "/business-and-industry/running-a-business",
+        "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+        "details": {
+          "internal_name": "Running a business",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry",
+              "base_path": "/business-and-industry",
+              "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+              "description": "",
+              "details": {
+                "internal_name": "Business and industry",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Business and industry",
+              "web_url": "https://www.gov.uk/business-and-industry",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:02Z",
+        "schema_name": "taxon",
+        "title": "Running a business",
+        "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2018-04-03T09:37:53Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1709140589.537-10.13.22.231-3143",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "File your company's annual accounts with Companies House",
+  "updated_at": "2024-03-04T01:01:23Z",
+  "withdrawn_notice": {
+  }
+}

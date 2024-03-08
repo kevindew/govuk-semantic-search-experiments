@@ -1,0 +1,764 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/advertise-job",
+  "content_id": "6ed386d1-37bc-4c4e-80b2-92fe96af73f5",
+  "description": "Employers can use the 'Find a job’ service to advertise jobs online",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Advertise and manage your vacancies on the ‘Find a job’ service.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This page is also available in Welsh (<a href=\"/hysbysebu-swydd\">Cymraeg</a>).</p>\n</div>\n\n<p>This service is only available for England, Scotland and Wales. There is a different service to <a rel=\"external\" href=\"https://www.jobapplyni.com/\">advertise vacancies in Northern Ireland</a></p>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://findajob.dwp.gov.uk/employer",
+    "variants": [
+
+    ],
+    "will_continue_on": "Find a job"
+  },
+  "document_type": "transaction",
+  "first_published_at": "2012-11-18T14:23:27Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/advertise-job",
+        "api_url": "https://www.gov.uk/api/content/advertise-job",
+        "base_path": "/advertise-job",
+        "content_id": "6ed386d1-37bc-4c4e-80b2-92fe96af73f5",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-26T11:28:41Z",
+        "schema_name": "transaction",
+        "title": "Advertise a job",
+        "web_url": "https://www.gov.uk/advertise-job",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/employing-people/recruiting-hiring",
+        "api_url": "https://www.gov.uk/api/content/browse/employing-people/recruiting-hiring",
+        "base_path": "/browse/employing-people/recruiting-hiring",
+        "content_id": "18316184-f6ff-4581-a487-83935a490074",
+        "description": "Advertise a job, Disclosure and Barring (DBS) checks, right to work checks, discrimination law and apprenticeships",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-08-03T13:11:33Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Recruiting and hiring",
+        "web_url": "https://www.gov.uk/browse/employing-people/recruiting-hiring",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/employing-staff",
+        "api_url": "https://www.gov.uk/api/content/employing-staff",
+        "base_path": "/employing-staff",
+        "content_id": "ae650383-db6c-4e0d-89a1-ce7669f1a130",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/setting-up",
+              "api_url": "https://www.gov.uk/api/content/browse/business/setting-up",
+              "base_path": "/browse/business/setting-up",
+              "content_id": "4c82bdf6-be57-467f-975d-36910fba2fa7",
+              "description": "Includes self-employment and starting a business",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:20Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Setting up",
+              "web_url": "https://www.gov.uk/browse/business/setting-up",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/employing-people/recruiting-hiring",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/recruiting-hiring",
+              "base_path": "/browse/employing-people/recruiting-hiring",
+              "content_id": "18316184-f6ff-4581-a487-83935a490074",
+              "description": "Advertise a job, Disclosure and Barring (DBS) checks, right to work checks, discrimination law and apprenticeships",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-08-03T13:11:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Recruiting and hiring",
+              "web_url": "https://www.gov.uk/browse/employing-people/recruiting-hiring",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-06T14:29:15Z",
+        "schema_name": "answer",
+        "title": "Employing staff for the first time",
+        "web_url": "https://www.gov.uk/employing-staff",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/jobcentre-plus-help-for-recruiters",
+        "api_url": "https://www.gov.uk/api/content/jobcentre-plus-help-for-recruiters",
+        "base_path": "/jobcentre-plus-help-for-recruiters",
+        "content_id": "9302ca4f-38d4-475a-af52-2f7ae9da810e",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/recruiting-hiring",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/recruiting-hiring",
+              "base_path": "/browse/employing-people/recruiting-hiring",
+              "content_id": "18316184-f6ff-4581-a487-83935a490074",
+              "description": "Advertise a job, Disclosure and Barring (DBS) checks, right to work checks, discrimination law and apprenticeships",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-08-03T13:11:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Recruiting and hiring",
+              "web_url": "https://www.gov.uk/browse/employing-people/recruiting-hiring",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-10T15:17:10Z",
+        "schema_name": "guide",
+        "title": "Jobcentre Plus help for recruiters",
+        "web_url": "https://www.gov.uk/jobcentre-plus-help-for-recruiters",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D10",
+        "api_path": "/api/content/government/organisations/department-for-work-pensions",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-work-pensions",
+        "base_path": "/government/organisations/department-for-work-pensions",
+        "content_id": "b548a09f-8b35-4104-89f4-f1a40bf3136d",
+        "details": {
+          "acronym": "DWP",
+          "brand": "department-for-work-pensions",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab1e5274a7908e35204/s960_dwp-caxton-house-logo-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab040f0b649cfaf7b4b/s300_dwp-caxton-house-logo-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Work &amp; <br/>Pensions"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Work and Pensions",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/employing-people/recruiting-hiring",
+        "api_url": "https://www.gov.uk/api/content/browse/employing-people/recruiting-hiring",
+        "base_path": "/browse/employing-people/recruiting-hiring",
+        "content_id": "18316184-f6ff-4581-a487-83935a490074",
+        "description": "Advertise a job, Disclosure and Barring (DBS) checks, right to work checks, discrimination law and apprenticeships",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/employing-people",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+              "base_path": "/browse/employing-people",
+              "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+              "description": "Includes pay, contracts, hiring and redundancies",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-07-09T12:54:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Employing people",
+              "web_url": "https://www.gov.uk/browse/employing-people",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-08-03T13:11:33Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Recruiting and hiring",
+        "web_url": "https://www.gov.uk/browse/employing-people/recruiting-hiring",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/jobcentre-plus-help-for-recruiters",
+        "api_url": "https://www.gov.uk/api/content/jobcentre-plus-help-for-recruiters",
+        "base_path": "/jobcentre-plus-help-for-recruiters",
+        "content_id": "9302ca4f-38d4-475a-af52-2f7ae9da810e",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-10T15:17:10Z",
+        "schema_name": "guide",
+        "title": "Jobcentre Plus help for recruiters",
+        "web_url": "https://www.gov.uk/jobcentre-plus-help-for-recruiters",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-a-job",
+        "api_url": "https://www.gov.uk/api/content/find-a-job",
+        "base_path": "/find-a-job",
+        "content_id": "a01fcb59-5dc8-4bf5-b06d-dd567a6d2f5f",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-26T11:26:56Z",
+        "schema_name": "transaction",
+        "title": "Find a job",
+        "web_url": "https://www.gov.uk/find-a-job",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employing-staff",
+        "api_url": "https://www.gov.uk/api/content/employing-staff",
+        "base_path": "/employing-staff",
+        "content_id": "ae650383-db6c-4e0d-89a1-ce7669f1a130",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-06T14:29:15Z",
+        "schema_name": "answer",
+        "title": "Employing staff for the first time",
+        "web_url": "https://www.gov.uk/employing-staff",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/contact-jobcentre-plus",
+        "api_url": "https://www.gov.uk/api/content/contact-jobcentre-plus",
+        "base_path": "/contact-jobcentre-plus",
+        "content_id": "7f6e97b2-fc2e-4e21-b854-88fcb84d866d",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-30T17:07:02Z",
+        "schema_name": "guide",
+        "title": "Contact Jobcentre Plus",
+        "web_url": "https://www.gov.uk/contact-jobcentre-plus",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employ-someone",
+        "api_url": "https://www.gov.uk/api/content/employ-someone",
+        "base_path": "/employ-someone",
+        "content_id": "47bcdf4c-9df9-48ff-b1ad-2381ca819464",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/get-ready-to-employ-someone",
+                        "text": "Prepare your business to take on employees"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check your business is ready to employ staff"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You need to advertise the role and interview candidates. You can use a recruitment agency to do this or do it yourself.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "http://www.acas.org.uk/index.aspx?articleid=4217",
+                        "text": "Find out about recruiting someone yourself on Acas"
+                      },
+                      {
+                        "href": "/using-a-recruitment-agency-to-find-staff",
+                        "text": "Find out about using a recruitment agency"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "As an employer you must make sure you recruit employees fairly.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/employer-preventing-discrimination/recruitment",
+                        "text": "Avoid discrimination during recruitment"
+                      },
+                      {
+                        "href": "/reasonable-adjustments-for-disabled-workers",
+                        "text": "Make your application process accessible for employees with disabilities or health conditions"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Recruit someone"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/check-job-applicant-right-to-work",
+                        "text": "Find out how to check an applicant's right to work"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Check they have the right to work in the UK"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You may need to check someone's criminal record, for example, if they'll be working in healthcare or with children.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/dbs-check-applicant-criminal-record",
+                        "text": "Find out if you need a DBS check"
+                      },
+                      {
+                        "href": "/dbs-check-applicant-criminal-record/how-to-apply-for-a-check",
+                        "text": "How to do a DBS check"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Find out if they need a DBS check"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Check if you need to put your employee into a workplace pension scheme:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "https://www.thepensionsregulator.gov.uk/en/employers/new-employers",
+                        "text": "if it's the first time you're employing someone"
+                      },
+                      {
+                        "href": "https://www.thepensionsregulator.gov.uk/en/employers/new-employers/im-an-employer-who-has-to-provide-a-pension/declare-your-compliance/ongoing-duties-for-employers",
+                        "text": "if you already employ people"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "title": "Check if they need to be put into a workplace pension"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "When someone accepts a job offer they have a contract with you as their employer.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/national-minimum-wage-rates",
+                        "text": "Check what the National Minimum Wage is for different ages"
+                      },
+                      {
+                        "href": "/minimum-wage-different-types-work",
+                        "text": "Check what the National Minimum Wage is for different types of work"
+                      },
+                      {
+                        "href": "/employment-contracts-and-conditions/contract-terms",
+                        "text": "Check what to include in a contract"
+                      },
+                      {
+                        "href": "/employment-contracts-and-conditions/written-statement-of-employment-particulars",
+                        "text": "Agree a written statement of employment particulars"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Agree a contract and salary"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must tell HMRC about your new employee on or before their first pay day.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/new-employee",
+                        "text": "Tell HMRC about a new employee"
+                      },
+                      {
+                        "href": "/new-employee/employee-information",
+                        "text": "Get their personal details and P45 to work out their tax code"
+                      },
+                      {
+                        "href": "/new-employee/late-p45",
+                        "text": "If you don’t have their P45, use HMRC’s ‘starter checklist’"
+                      },
+                      {
+                        "href": "/running-payroll",
+                        "text": "Check what to do when you start paying your employee"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Tell HMRC about your new employee"
+              }
+            ],
+            "title": "Employ someone: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-08-16T12:40:21Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Employ someone: step by step",
+        "web_url": "https://www.gov.uk/employ-someone",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/recruiting-hiring",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/recruiting-hiring",
+        "base_path": "/business-and-industry/recruiting-hiring",
+        "content_id": "c195d3e6-5924-4def-b1c2-24a685a0b210",
+        "details": {
+          "internal_name": "Recruiting and hiring",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/employing-people",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/employing-people",
+              "base_path": "/business-and-industry/employing-people",
+              "content_id": "35f5b496-add7-4263-8084-8510461881fe",
+              "details": {
+                "internal_name": "Employing people",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry/running-a-business",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+                    "base_path": "/business-and-industry/running-a-business",
+                    "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+                    "details": {
+                      "internal_name": "Running a business",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/business-and-industry",
+                          "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                          "base_path": "/business-and-industry",
+                          "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Business and industry",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-03T15:41:02Z",
+                          "schema_name": "taxon",
+                          "title": "Business and industry",
+                          "web_url": "https://www.gov.uk/business-and-industry",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Running a business",
+                    "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Employing people",
+              "web_url": "https://www.gov.uk/business-and-industry/employing-people",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:03Z",
+        "schema_name": "taxon",
+        "title": "Recruiting and hiring",
+        "web_url": "https://www.gov.uk/business-and-industry/recruiting-hiring",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employment/recruiting-hiring",
+        "api_url": "https://www.gov.uk/api/content/employment/recruiting-hiring",
+        "base_path": "/employment/recruiting-hiring",
+        "content_id": "55e8ea89-9ba8-4439-a703-7d26723a4ec0",
+        "details": {
+          "internal_name": "Recruiting and hiring (level 3, work theme, content from mainstream browse)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/employment/working",
+              "api_url": "https://www.gov.uk/api/content/employment/working",
+              "base_path": "/employment/working",
+              "content_id": "092348a4-b896-4f8f-a0dc-e6d4605a4904",
+              "description": "Includes holidays and finding a job",
+              "details": {
+                "internal_name": "Working, jobs and pensions [M] (merged, level 2, work theme)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/work",
+                    "api_url": "https://www.gov.uk/api/content/work",
+                    "base_path": "/work",
+                    "content_id": "d0f1e5a3-c8f4-4780-8678-994f19104b21",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Work",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:33:40Z",
+                    "schema_name": "taxon",
+                    "title": "Work",
+                    "web_url": "https://www.gov.uk/work",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T11:08:23Z",
+              "schema_name": "taxon",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/employment/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T11:08:23Z",
+        "schema_name": "taxon",
+        "title": "Recruiting and hiring",
+        "web_url": "https://www.gov.uk/employment/recruiting-hiring",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-11-26T11:28:41Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1690470207.228-10.13.22.91-7698",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Advertise a job",
+  "updated_at": "2024-03-06T08:33:33Z",
+  "withdrawn_notice": {
+  }
+}

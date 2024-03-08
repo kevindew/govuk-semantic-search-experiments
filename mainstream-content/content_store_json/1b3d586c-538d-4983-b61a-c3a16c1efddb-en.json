@@ -1,0 +1,509 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/self-assessment-ready-reckoner",
+  "content_id": "1b3d586c-538d-4983-b61a-c3a16c1efddb",
+  "description": "Find out how much you need to put aside for your Self Assessment tax bill if you're self-employed by using HM Revenue and Customs' (HMRC's) self-employed ready reckoner.  ",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Use the self-employed ready reckoner to budget for your <a href=\"/self-assessment-tax-returns\">Self Assessment</a> tax bill for the 2023 to 2024 tax year.</p>\n\n<p>Enter your estimated weekly or monthly profit to get an idea of how much <a href=\"/income-tax\">Income Tax</a>, Class 2 and Class 4 <a href=\"/national-insurance-classes\">National Insurance</a> you’ll pay.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/cyfrifydd-parod-hunanasesiad\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://tax.service.gov.uk/guidance/self-employed-ready-reckoner",
+    "variants": [
+
+    ],
+    "what_you_need_to_know": "<p>This tool assumes you have no other <a href=\"/income-tax\">taxable income</a> and receive the standard <a href=\"/income-tax-rates\">Personal Allowance</a>. It does not include payments you must make for previous tax bills - known as <a href=\"/understand-self-assessment-bill/payments-on-account\">payments on account</a>.</p>\n",
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2015-06-03T09:34:21Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/self-assessment-ready-reckoner",
+        "api_url": "https://www.gov.uk/api/content/self-assessment-ready-reckoner",
+        "base_path": "/self-assessment-ready-reckoner",
+        "content_id": "1b3d586c-538d-4983-b61a-c3a16c1efddb",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-22T09:00:01Z",
+        "schema_name": "transaction",
+        "title": "Budget for your Self Assessment tax bill if you're self-employed",
+        "web_url": "https://www.gov.uk/self-assessment-ready-reckoner",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+        "base_path": "/browse/tax/self-assessment",
+        "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+        "description": "Includes filing, deadlines, pay and tax records",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Self Assessment",
+        "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/pay-self-assessment-tax-bill",
+        "api_url": "https://www.gov.uk/api/content/pay-self-assessment-tax-bill",
+        "base_path": "/pay-self-assessment-tax-bill",
+        "content_id": "999dd0f5-41d3-4a63-8bb9-f00a68c129a8",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/capital-gains",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/capital-gains",
+              "base_path": "/browse/tax/capital-gains",
+              "content_id": "d6007553-8ed9-46bd-a5a6-de12f5e64491",
+              "description": "Tax when you sell property, shares, personal possessions and business assets",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:57Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Capital Gains Tax",
+              "web_url": "https://www.gov.uk/browse/tax/capital-gains",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/self-assessment",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+              "base_path": "/browse/tax/self-assessment",
+              "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+              "description": "Includes filing, deadlines, pay and tax records",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Self Assessment",
+              "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-30T10:52:29Z",
+        "schema_name": "guide",
+        "title": "Pay your Self Assessment tax bill",
+        "web_url": "https://www.gov.uk/pay-self-assessment-tax-bill",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/self-assessment-tax-returns",
+        "api_url": "https://www.gov.uk/api/content/self-assessment-tax-returns",
+        "base_path": "/self-assessment-tax-returns",
+        "content_id": "f29ca4a8-8ed9-4b0f-bb6a-11e373095dee",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/income-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+              "base_path": "/browse/tax/income-tax",
+              "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+              "description": "Includes rates and allowances, tax codes and refunds",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Income Tax",
+              "web_url": "https://www.gov.uk/browse/tax/income-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/self-assessment",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+              "base_path": "/browse/tax/self-assessment",
+              "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+              "description": "Includes filing, deadlines, pay and tax records",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Self Assessment",
+              "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-17T10:55:14Z",
+        "schema_name": "guide",
+        "title": "Self Assessment tax returns",
+        "web_url": "https://www.gov.uk/self-assessment-tax-returns",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+        "base_path": "/browse/tax/self-assessment",
+        "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+        "description": "Includes filing, deadlines, pay and tax records",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Self Assessment",
+        "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/log-in-file-self-assessment-tax-return",
+        "api_url": "https://www.gov.uk/api/content/log-in-file-self-assessment-tax-return",
+        "base_path": "/log-in-file-self-assessment-tax-return",
+        "content_id": "6a2bf66e-2313-4204-afd5-9940de5e1d66",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-15T16:17:28Z",
+        "schema_name": "answer",
+        "title": "File your Self Assessment tax return online",
+        "web_url": "https://www.gov.uk/log-in-file-self-assessment-tax-return",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/estimate-income-tax",
+        "api_url": "https://www.gov.uk/api/content/estimate-income-tax",
+        "base_path": "/estimate-income-tax",
+        "content_id": "3eb1ae4f-3c40-4824-b57b-b7715b8a4bbf",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-04-06T14:00:44Z",
+        "schema_name": "transaction",
+        "title": "Estimate your Income Tax for the current year",
+        "web_url": "https://www.gov.uk/estimate-income-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/self-employed-records",
+        "api_url": "https://www.gov.uk/api/content/self-employed-records",
+        "base_path": "/self-employed-records",
+        "content_id": "3dde7d00-fa43-4052-b300-8f5c79cd4dfe",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-23T17:05:02Z",
+        "schema_name": "guide",
+        "title": "Business records if you're self-employed",
+        "web_url": "https://www.gov.uk/self-employed-records",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/expenses-if-youre-self-employed",
+        "api_url": "https://www.gov.uk/api/content/expenses-if-youre-self-employed",
+        "base_path": "/expenses-if-youre-self-employed",
+        "content_id": "a59c5e1a-e5ad-447e-9a08-43280d60315f",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-21T14:58:22Z",
+        "schema_name": "guide",
+        "title": "Expenses if you're self-employed",
+        "web_url": "https://www.gov.uk/expenses-if-youre-self-employed",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pay-self-assessment-tax-bill",
+        "api_url": "https://www.gov.uk/api/content/pay-self-assessment-tax-bill",
+        "base_path": "/pay-self-assessment-tax-bill",
+        "content_id": "999dd0f5-41d3-4a63-8bb9-f00a68c129a8",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-30T10:52:29Z",
+        "schema_name": "guide",
+        "title": "Pay your Self Assessment tax bill",
+        "web_url": "https://www.gov.uk/pay-self-assessment-tax-bill",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/money/self-assessment",
+        "base_path": "/money/self-assessment",
+        "content_id": "edb9b4a6-b804-4348-beee-81827c86bf0b",
+        "details": {
+          "internal_name": "Self Assessment [T] (level 2)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:55Z",
+        "schema_name": "taxon",
+        "title": "Self Assessment",
+        "web_url": "https://www.gov.uk/money/self-assessment",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-06-22T09:00:01Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1686585880.707-10.13.22.231-8413",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Budget for your Self Assessment tax bill if you're self-employed",
+  "updated_at": "2024-02-12T14:14:53Z",
+  "withdrawn_notice": {
+  }
+}

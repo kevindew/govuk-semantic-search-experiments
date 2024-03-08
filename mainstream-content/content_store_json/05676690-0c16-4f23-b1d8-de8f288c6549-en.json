@@ -1,0 +1,637 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/charge-reclaim-record-vat",
+  "content_id": "05676690-0c16-4f23-b1d8-de8f288c6549",
+  "description": "How to charge VAT, calculate VAT, VAT rates, reclaim VAT on business expenses, keep digital records.",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "hide_chapter_navigation": false,
+    "parts": [
+      {
+        "body": "\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>All VAT-registered businesses should now be signed up for Making Tax Digital for VAT. You no longer need to sign up yourself.</p>\n</div>\n\n<p>As a <abbr title=\"Value Added Tax\">VAT</abbr>-registered business, you must charge <abbr title=\"Value Added Tax\">VAT</abbr> on the goods and services you sell <a href=\"/charge-reclaim-record-vat/when-not-to-charge-vat\">unless they are exempt</a>.</p>\n\n<p>You must <a href=\"/register-for-vat/how-register-for-vat\">register for <abbr title=\"Value Added Tax\">VAT</abbr></a> to start charging <abbr title=\"Value Added Tax\">VAT</abbr>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This guide is also available <a href=\"/codi-adennill-cofnodi-taw\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<h2 id=\"how-to-charge-vat\">How to charge <abbr title=\"Value Added Tax\">VAT</abbr>\n</h2>\n\n<p>When you sell goods or services, you must do the following:</p>\n\n<ul>\n  <li>work out the <abbr title=\"Value Added Tax\">VAT</abbr>-inclusive price using the correct <abbr title=\"Value Added Tax\">VAT</abbr> rate</li>\n  <li>show the <abbr title=\"Value Added Tax\">VAT</abbr> information on your invoice - invoices must include your <abbr title=\"Value Added Tax\">VAT</abbr> number and display the <abbr title=\"Value Added Tax\">VAT</abbr> separately</li>\n  <li>show the transaction in your <abbr title=\"Value Added Tax\">VAT</abbr> account - a summary of your <abbr title=\"Value Added Tax\">VAT</abbr>\n</li>\n  <li>record the amount on your <abbr title=\"Value Added Tax\">VAT</abbr> return</li>\n</ul>\n\n<h2 id=\"vat-rates\">\n<abbr title=\"Value Added Tax\">VAT</abbr> rates</h2>\n\n<p>There are 3 rates of <abbr title=\"Value Added Tax\">VAT</abbr> (standard, reduced and zero-rated). <abbr title=\"Value Added Tax\">VAT</abbr> rates can change. You must apply any changes to the rates immediately, from the date they change.</p>\n\n<p>Check the <a href=\"/vat-rates\">current <abbr title=\"Value Added Tax\">VAT</abbr> rates</a>.</p>\n\n<h3 id=\"when-to-charge-standard-rate\">When to charge standard rate</h3>\n\n<p>You usually charge standard rate of <abbr title=\"Value Added Tax\">VAT</abbr> (currently 20%) on most goods and services. Use standard rate unless the goods or services you sell are classed as reduced or zero-rated.</p>\n\n<h3 id=\"when-to-charge-reduced-rate\">When to charge reduced rate</h3>\n\n<p>You charge reduced rate (currently 5%) instead of standard rate on certain goods or services, or if the circumstances of the sale meets certain rules. For example, reduced rate applies to:</p>\n\n<ul>\n  <li>child car seats</li>\n  <li>domestic fuel or power</li>\n  <li>mobility aids if they’re for someone over 60 and installed in their home</li>\n</ul>\n\n<p>Find a list of <a href=\"/guidance/rates-of-vat-on-different-goods-and-services\">reduced rate goods or services</a>.</p>\n\n<h3 id=\"when-to-charge-zero-rate\">When to charge zero rate</h3>\n\n<p>You charge zero rate on goods and services if you export them, depending on where in the UK you are supplying them from and where they’re going to.</p>\n\n<p>Zero rate means you must still account for and charge <abbr title=\"Value Added Tax\">VAT</abbr> (for example, you must include it on your invoices) but the rate you use is 0%.</p>\n\n<p>Charge zero rate on goods you export from:</p>\n\n<ul>\n  <li>Great Britain (England, Wales and Scotland) to somewhere outside the UK</li>\n  <li>Northern Ireland to somewhere outside the UK and EU</li>\n  <li>goods you supply from Northern Ireland to a <abbr title=\"Value Added Tax\">VAT</abbr> registered EU business - you can <a rel=\"external\" href=\"https://ec.europa.eu/taxation_customs/vies/#/vat-validation\">check if the <abbr title=\"Value Added Tax\">VAT</abbr> number is valid</a>\n</li>\n</ul>\n\n<h2 id=\"how-to-calculate-prices-with-and-without-vat\">How to calculate prices with and without <abbr title=\"Value Added Tax\">VAT</abbr>\n</h2>\n\n<p>You need to work out the total price including <abbr title=\"Value Added Tax\">VAT</abbr> (the ‘<abbr title=\"Value Added Tax\">VAT</abbr>-inclusive price’) when you sell goods or services.</p>\n\n<p>You might also need to work out how much <abbr title=\"Value Added Tax\">VAT</abbr> you’ve paid on goods you bought, for example if reclaiming <abbr title=\"Value Added Tax\">VAT</abbr>. You do this by working out what the price of the goods would be without <abbr title=\"Value Added Tax\">VAT</abbr> (the <abbr title=\"Value Added Tax\">VAT</abbr>-exclusive price).</p>\n\n<h2 id=\"vat-inclusive-prices\">\n<abbr title=\"Value Added Tax\">VAT</abbr>-inclusive prices</h2>\n\n<p>To work out a price that includes the standard rate of <abbr title=\"Value Added Tax\">VAT</abbr> (currently 20%), multiply the price excluding <abbr title=\"Value Added Tax\">VAT</abbr> by 1.2.</p>\n\n<h3 id=\"example\">Example</h3>\n<div class=\"example\">\n<p>You’re selling a chair for £60 and need to add 20% VAT to get the price including VAT.</p>\n\n<p>60 x 1.2 = 72</p>\n\n<p>The price including VAT is £72.</p>\n</div>\n\n<p>To work out a price that includes the reduced rate of <abbr title=\"Value Added Tax\">VAT</abbr> (currently 5%), multiply the price excluding <abbr title=\"Value Added Tax\">VAT</abbr> by 1.05.</p>\n\n<h3 id=\"example-1\">Example</h3>\n<div class=\"example\">\n<p>You’re selling a child’s car seat for £200 and need to add 5% VAT to get the price including VAT.</p>\n\n<p>200 x 1.05 = 210</p>\n\n<p>The price including VAT is £210.</p>\n</div>\n\n<h2 id=\"vat-exclusive-prices\">\n<abbr title=\"Value Added Tax\">VAT</abbr>-exclusive prices</h2>\n\n<p>To work out a price that excludes the standard rate of <abbr title=\"Value Added Tax\">VAT</abbr> (currently 20%) divide the price including <abbr title=\"Value Added Tax\">VAT</abbr> by 1.2.</p>\n\n<h3 id=\"example-2\">Example</h3>\n<div class=\"example\">\n<p>You bought a table and the total price including 20% VAT was £180.</p>\n\n<p>180 ÷ 1.20 = 150</p>\n\n<p>The price excluding VAT is £150. The amount you can claim back is the difference between the two numbers - £30.</p>\n</div>\n\n<p>To work out a price that excludes the reduced rate of <abbr title=\"Value Added Tax\">VAT</abbr> (5%) divide the price including <abbr title=\"Value Added Tax\">VAT</abbr> by 1.05.</p>\n\n<h3 id=\"example-3\">Example</h3>\n<div class=\"example\">\n<p>You bought a stairlift and the total price including 5% VAT was £483.</p>\n\n<p>483 ÷ 1.05 = 460</p>\n\n<p>The price excluding VAT is £460. The amount you can claim back is the difference between the two numbers - £23.</p>\n</div>\n\n",
+        "slug": "charging-vat",
+        "title": "Charging VAT"
+      },
+      {
+        "body": "<p>You cannot charge VAT on exempt goods or services.</p>\n\n<p>If you buy or sell an exempt item you should still record the transaction in your general business accounts.</p>\n\n<p>VAT exempt goods and services include:</p>\n\n<ul>\n  <li>financial services, investments and insurance</li>\n  <li>garages, parking spaces and houseboat moorings</li>\n  <li>property, land and buildings</li>\n  <li>education and training</li>\n  <li>healthcare and medical treatment</li>\n  <li>funeral plans, burial or cremation services</li>\n  <li>charity events</li>\n  <li>antiques</li>\n  <li>gambling or lottery tickets</li>\n  <li>sports activities</li>\n</ul>\n\n<p><a href=\"/guidance/rates-of-vat-on-different-goods-and-services\">Read the full list of VAT exempt goods</a>.</p>\n\n<h2 id=\"goods-and-services-that-are-out-of-scope\">Goods and services that are ‘out of scope’</h2>\n\n<p>Some goods and services are outside the VAT tax system (‘out of scope’) so you cannot charge or reclaim the VAT on them. For example:</p>\n\n<ul>\n  <li>goods or services you buy and use outside of the UK</li>\n  <li>statutory fees, like the <a rel=\"external\" href=\"http://www.tfl.gov.uk/modes/driving/congestion-charge\">London congestion charge</a>\n</li>\n  <li>goods you sell as part of a hobby, like stamps from a collection</li>\n  <li>donations to a charity, if given without getting anything in return</li>\n</ul>\n\n<h2 id=\"charging-vat-to-charities\">Charging VAT to charities</h2>\n\n<p>VAT-registered businesses can sell certain goods and services to charities at the zero or reduced rate of VAT.</p>\n\n<p><a href=\"/vat-charities/what-qualifies-for-relief\">Find out what qualifies for the reduced rate</a>.</p>\n\n<p>If you’re a VAT-registered business, it’s your responsibility to check the charity is eligible, and to apply the correct rate.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Community amateur sports clubs do not qualify for VAT reliefs for charities.</p>\n</div>\n\n<h3 id=\"check-the-charity-is-eligible\">Check the charity is eligible</h3>\n\n<p>Ask the charity to provide you with evidence that they’re a charity. This can be either:</p>\n\n<ul>\n  <li>their Charity Commission registration number</li>\n  <li>a letter of recognition from HM Revenue and Customs (HMRC) if they’re not registered with the Charity Commission (for example if they’re a charity in Scotland or Northern Ireland)</li>\n</ul>\n\n<h3 id=\"get-a-written-declaration\">Get a written declaration</h3>\n\n<p>You also need to ask the charity to give you a written declaration or certificate confirming it meets the conditions for the particular VAT relief.</p>\n\n<p>Charities must follow a <a href=\"/vat-charities/how-to-claim-relief\">particular format for the declaration or certificate</a>. The declaration must be separate from the order form or invoice.</p>\n\n<p>You must keep any declarations or certificates for at least 4 years.</p>\n",
+        "slug": "when-not-to-charge-vat",
+        "title": "When not to charge VAT"
+      },
+      {
+        "body": "<p>There are different rules for charging VAT on discounts, gifts and free services.</p>\n\n<h2 id=\"charging-vat-on-discounts\">Charging VAT on discounts</h2>\n\n<p>For basic discounts (for example, a 20% off discount), charge VAT on the discounted price.</p>\n\n<h3 id=\"multi-buy-offers\">Multi-buy offers</h3>\n\n<p>Multi-buy offers are where the customer gets a discount for buying more items, for example 3 items for £20.</p>\n\n<p>For multi-buy offers where all the items have the same VAT rate (usually standard rate), charge VAT on the combined price.</p>\n\n<p>If the items in the offer have different rates of VAT, you need to use a method called ‘apportionment’.</p>\n\n<p>Read section 8 of the guidance to VAT rules and procedures to <a href=\"/guidance/vat-guide-notice-700\">find out how ‘apportionment’ works</a>.</p>\n\n<h3 id=\"link-save-offers\">Link-save offers</h3>\n\n<p>Link-save offers are where the customer gets a discounted (or free) second item with their purchase, for example ‘buy one, get one free’.</p>\n\n<p>Use ‘apportionment’ to work out the VAT, unless the free or discounted item:</p>\n\n<ul>\n  <li>has a resale value of less than £1</li>\n  <li>has a sale value of less than £5</li>\n  <li>costs you less than 20% of the total of the other items in the offer</li>\n  <li>is not sold at a separate price from the main product</li>\n</ul>\n\n<p>If any of the above apply, charge VAT on the combined value of items.</p>\n\n<h2 id=\"charging-vat-on-coupons-or-vouchers\">Charging VAT on coupons or vouchers</h2>\n\n<p>Do not charge VAT on either of the following:</p>\n\n<ul>\n  <li>a money-off coupon or voucher you give away free with another item at the time of purchase</li>\n  <li>‘face value’ vouchers that can be used for more than one type of good or service (if sold at or below their monetary value)</li>\n</ul>\n\n<p>Charge VAT when a customer uses a ‘face value’ voucher to buy something from you. If you sold the voucher at a discount, charge VAT at the discounted value.</p>\n\n<h2 id=\"vat-on-gifts\">VAT on gifts</h2>\n<p>You do not owe VAT if either of the following apply:</p>\n\n<ul>\n  <li>you’re giving away your own goods and services</li>\n  <li>the total value of gifts given to the same person in a 12-month period is less than £50</li>\n</ul>\n\n<h2 id=\"vat-on-free-goods-and-services\">VAT on free goods and services</h2>\n\n<p>You usually do not owe VAT on goods and services you give away for free.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th scope=\"col\">Item or service</th>\n      <th scope=\"col\">Condition to meet to be exempt from paying VAT</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Free samples</td>\n      <td>Used for marketing purposes and provided in a quantity that lets potential customers test the product</td>\n    </tr>\n    <tr>\n      <td>Free loans of business assets</td>\n      <td>The cost of hiring the asset is included in something else you sell to the customer</td>\n    </tr>\n    <tr>\n      <td>Free services</td>\n      <td>You do not get any payment or goods or services in return</td>\n    </tr>\n  </tbody>\n</table>\n",
+        "slug": "vat-on-discounts-and-gifts",
+        "title": "VAT on discounts and gifts"
+      },
+      {
+        "body": "<p>You can reclaim <abbr title=\"Value Added Tax\">VAT</abbr> on items you buy for use in your business if you’re <abbr title=\"Value Added Tax\">VAT</abbr> registered. Do this in your <a href=\"/submit-vat-return\"><abbr title=\"Value Added Tax\">VAT</abbr> return</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There are different rules if your organisation is VAT-exempt (for example, an educational academy or an eligible charity). Read guidance on <a href=\"/guidance/claim-a-vat-refund-as-an-organisation-not-registered-for-vat\">reclaiming VAT as an organisation not registered for VAT (VAT126)</a>.</p>\n</div>\n\n<p>If any items are also for personal use, you can only claim the business proportion of the <abbr title=\"Value Added Tax\">VAT</abbr>.</p>\n\n<p><strong>Examples</strong></p>\n<div class=\"example\">\n<p>Half of your mobile phone calls are personal. You can reclaim 50% of the VAT on the purchase price and the service plan.</p>\n\n<p>You work from home and your office takes up 20% of the floor space in your house. You can reclaim 20% of the VAT on your utility bills.</p>\n</div>\n\n<p>You must <a href=\"/charge-reclaim-record-vat/keeping-vat-records\">keep records</a> to support your claim and show how you arrived at the business proportion for a purchase. You must also have valid <abbr title=\"Value Added Tax\">VAT</abbr> invoices.</p>\n\n<p>If you reclaim <abbr title=\"Value Added Tax\">VAT</abbr> on goods or services which you’ve not paid for, you must repay <abbr title=\"HM Revenue and Customs\">HMRC</abbr>. This is called ‘clawback’. <a href=\"/guidance/relief-from-vat-on-bad-debts-notice-70018\">Read the guidance on clawback to find out when and how to repay <abbr title=\"Value Added Tax\">VAT</abbr> you previously reclaimed</a>.</p>\n\n<h2 id=\"if-you-sell-both-taxable-and-exempt-goods\">If you sell both taxable and exempt goods</h2>\n\n<p>If you sell goods or services that are a mixture of taxable and exempt from <abbr title=\"Value Added Tax\">VAT</abbr>, your business is considered ‘partly exempt’. <a href=\"https://www.gov.uk/guidance/partial-exemption-vat-notice-706\">Find out about partial exemption and how to calculate what you can reclaim</a>.</p>\n\n<h2 id=\"purchases-before-registration\">Purchases before registration</h2>\n\n<p>You can reclaim <abbr title=\"Value Added Tax\">VAT</abbr> paid on goods or services bought before you registered for <abbr title=\"Value Added Tax\">VAT</abbr> if you bought them within:</p>\n\n<ul>\n  <li>4 years for goods you still have or goods that were used to make other goods you still have</li>\n  <li>6 months for services</li>\n</ul>\n\n<p>You can only reclaim <abbr title=\"Value Added Tax\">VAT</abbr> on purchases for the business now registered for <abbr title=\"Value Added Tax\">VAT</abbr>. They must relate to your ‘business purpose’. This means they must relate to <abbr title=\"Value Added Tax\">VAT</abbr> taxable goods or services that you supply.</p>\n\n<h2 id=\"if-you-use-the-vat-flat-rate-scheme\">If you use the <abbr title=\"Value Added Tax\">VAT</abbr> Flat Rate Scheme</h2>\n\n<p>You cannot reclaim the <abbr title=\"Value Added Tax\">VAT</abbr> on your purchases - except for certain capital assets over £2,000.</p>\n\n<p><a href=\"/government/publications/vat-notice-733-flat-rate-scheme-for-small-businesses/vat-notice-733-flat-rate-scheme-for-small-businesses\">Read section 15 of the guidance on the Flat Rate Scheme for small businesses to find out when you can reclaim <abbr title=\"Value Added Tax\">VAT</abbr></a>.</p>\n\n<h2 id=\"vehicles\">Vehicles</h2>\n\n<p>You might be able to reclaim all the <abbr title=\"Value Added Tax\">VAT</abbr> on a new car or commercial vehicle if you use it only for business. You must be able to show that it is not used on a personal basis, for example it’s specified in your employee’s contract.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>‘Personal use’ includes travelling between home and work, unless it’s a temporary place of work.</p>\n</div>\n\n<p>You might also be able to claim all the <abbr title=\"Value Added Tax\">VAT</abbr> on a new car if it’s mainly used:</p>\n\n<ul>\n  <li>as a taxi</li>\n  <li>for driving instruction</li>\n  <li>for self-drive hire</li>\n</ul>\n\n<p>If you buy a used car for business use, the sales invoice must show the <abbr title=\"Value Added Tax\">VAT</abbr>.</p>\n\n<p>If you hire a car to replace a company car that’s off the road, you can usually claim 50% of the <abbr title=\"Value Added Tax\">VAT</abbr> on the hire charge.</p>\n\n<p>If you hire a car for business use only, you can reclaim all the <abbr title=\"Value Added Tax\">VAT</abbr> if you hire it for no more than 10 days.</p>\n\n<h3 id=\"fuel-costs\">Fuel costs</h3>\n\n<p>There are different ways of reclaiming <abbr title=\"Value Added Tax\">VAT</abbr> on fuel, if you do not pay a fixed rate under the <a href=\"/vat-flat-rate-scheme\">Flat Rate Scheme</a>.</p>\n\n<p>You can reclaim all the <abbr title=\"Value Added Tax\">VAT</abbr> on fuel if your vehicle is used only for business.</p>\n\n<p>If you use the vehicle for both business and personal purposes, you can either:</p>\n\n<ul>\n  <li>reclaim all the <abbr title=\"Value Added Tax\">VAT</abbr> and pay the right <a href=\"/fuel-scale-charge\">fuel scale charge for your vehicle</a>\n</li>\n  <li>only reclaim the <abbr title=\"Value Added Tax\">VAT</abbr> on fuel you use for business trips - you’ll have to keep detailed mileage records</li>\n</ul>\n\n<p>You might choose not to reclaim any <abbr title=\"Value Added Tax\">VAT</abbr>, for example if your business mileage is so low that the fuel scale charge would be higher than the <abbr title=\"Value Added Tax\">VAT</abbr> you can reclaim.</p>\n\n<p>If you choose not to reclaim <abbr title=\"Value Added Tax\">VAT</abbr> on fuel for one vehicle you cannot reclaim <abbr title=\"Value Added Tax\">VAT</abbr> on any fuel for vehicles used by your business.</p>\n\n<h3 id=\"additional-vehicle-costs\">Additional vehicle costs</h3>\n\n<p>You can usually reclaim the <abbr title=\"Value Added Tax\">VAT</abbr> for:</p>\n\n<ul>\n  <li>all business-related running and maintenance costs, like repairs or off-street parking</li>\n  <li>any accessories you’ve fitted for business use</li>\n</ul>\n\n<p>You can do this even if you cannot reclaim <abbr title=\"Value Added Tax\">VAT</abbr> on the vehicle itself.</p>\n\n<h2 id=\"travel-expenses\">Travel expenses</h2>\n\n<p>You can reclaim <abbr title=\"Value Added Tax\">VAT</abbr> on employee travel expenses for business trips. Travel expenses can include transport, meals and accommodation that you pay for. <a href=\"/employment-status/employee\">Find out who counts as an employee</a>.</p>\n\n<p>You can reclaim <abbr title=\"Value Added Tax\">VAT</abbr> on other kinds of expenses (not just those related to travel) for self-employed people who are treated as employees.</p>\n\n<p>You cannot reclaim <abbr title=\"Value Added Tax\">VAT</abbr> if you pay your employees a flat rate for expenses.</p>\n\n<h2 id=\"business-assets-of-50000-and-more\">Business assets of £50,000 and more</h2>\n\n<p>There are special rules for reclaiming <abbr title=\"Value Added Tax\">VAT</abbr> in the <a href=\"/vat-capital-goods-scheme-and-capital-assets\">Capital Goods Scheme</a>, which means you must spread the initial <abbr title=\"Value Added Tax\">VAT</abbr> claimed over a number of years.</p>\n\n<h2 id=\"what-you-cannot-reclaim\">What you cannot reclaim</h2>\n\n<p>You cannot reclaim <abbr title=\"Value Added Tax\">VAT</abbr> for:</p>\n\n<ul>\n  <li>anything that’s only for personal use</li>\n  <li>goods and services your business uses to make <a href=\"/charge-reclaim-record-vat/when-not-to-charge-vat\"><abbr title=\"Value Added Tax\">VAT</abbr>-exempt supplies</a>\n</li>\n  <li>the cost of entertaining or providing hospitality to people you do business with (for example theatre or sports tickets)</li>\n  <li>goods sold to you under one of the <a href=\"/vat-margin-schemes\"><abbr title=\"Value Added Tax\">VAT</abbr> second-hand margin schemes</a>\n</li>\n  <li>business assets that are transferred to you as a ‘<a href=\"/government/publications/vat-notice-7009-transfer-of-business-as-a-going-concern/vat-notice-7009-transfer-of-business-as-a-going-concern\">going concern’</a>\n</li>\n</ul>\n\n",
+        "slug": "reclaim-vat-business-expenses",
+        "title": "Reclaim VAT on business expenses"
+      },
+      {
+        "body": "<p>HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) may check your records to make sure you’re paying the right amount of tax.</p>\n\n<h2 id=\"records-you-must-keep\">Records you must keep</h2>\n<p>You must keep a record of the following:</p>\n\n<ul>\n  <li>everything you buy and sell (including zero-rated, reduced and <abbr title=\"Value Added Tax\">VAT</abbr> exempt items)</li>\n  <li>copies of all invoices you issue</li>\n  <li>all invoices you receive (original or electronic copies)</li>\n  <li>self-billing agreements (where the customer prepares the invoice)</li>\n  <li>the name, address and <abbr title=\"Value Added Tax\">VAT</abbr> number of any self-billing suppliers</li>\n  <li>debit or credit notes</li>\n  <li>any goods you give away or take from stock for your <a href=\"/guidance/vat-private-use-and-self-supply-of-goods-and-services\">private use</a>\n</li>\n</ul>\n\n<p>Keep general business records such as bank statements, cash books, cheque stubs, paying-in slips and till rolls.</p>\n\n<p>Find out what <a href=\"/guidance/vat-exports-dispatches-and-supplying-goods-abroad\">records you must keep when you export goods</a>.</p>\n\n<h2 id=\"records-you-must-keep-digitally\">Records you must keep digitally</h2>\n\n<p>​​You must keep some <abbr title=\"Value Added Tax\">VAT</abbr> records digitally (also known as an ‘electronic account’) - unless you’re exempt from following ‘Making Tax Digital for <abbr title=\"Value Added Tax\">VAT</abbr>’ rules.</p>\n\n<p>Keep digital records of the following:</p>\n\n<ul>\n  <li>the <abbr title=\"Value Added Tax\">VAT</abbr> on goods and services you supply (supplies made)</li>\n  <li>the <abbr title=\"Value Added Tax\">VAT</abbr> on goods and services you receive (supplies received)</li>\n  <li>the ‘time of supply’ and ‘value of supply’ (value excluding <abbr title=\"Value Added Tax\">VAT</abbr>) for everything you buy and sell</li>\n  <li>any adjustments you make to a return</li>\n  <li>reverse charge transactions - where you record the <abbr title=\"Value Added Tax\">VAT</abbr> on both the sale price and the purchase price of goods and services you buy</li>\n  <li>any <abbr title=\"Value Added Tax\">VAT</abbr> accounting schemes you use</li>\n  <li>your total daily gross takings if you use a <a href=\"https://www.gov.uk/vat-retail-schemes\">retail scheme</a>\n</li>\n  <li>items you can reclaim <abbr title=\"Value Added Tax\">VAT</abbr> on if you use the <a href=\"https://www.gov.uk/vat-flat-rate-scheme\">Flat Rate Scheme</a>\n</li>\n  <li>your total sales, and the <abbr title=\"Value Added Tax\">VAT</abbr> on those sales, if you trade in gold and use the Gold Accounting Scheme</li>\n</ul>\n\n<p>Keep digital copies of documents that cover multiple transactions made on behalf of your business by:</p>\n\n<ul>\n  <li>volunteers for charity fundraising</li>\n  <li>a third party business</li>\n  <li>employees for expenses in petty cash</li>\n</ul>\n\n<h2 id=\"how-to-keep-digital-records\">How to keep digital records</h2>\n\n<p>Use a <a href=\"/guidance/find-software-thats-compatible-with-making-tax-digital-for-vat\">compatible software package</a> or other software (like spreadsheets) that connect to HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) systems.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you have recently registered for VAT, you should wait for HMRC to confirm your registration before downloading compatible software. Keep paper version of the records while you wait.</p>\n</div>\n\n<h3 id=\"linking-your-records-digitally\">Linking your records digitally</h3>\n\n<p>If you use more than one software package or product to keep records and submit returns, you need to link them. This must be a digital link. You cannot manually transfer this data, or ‘copy and paste’, between software.</p>\n\n<p>Some ways you can link your software include:</p>\n\n<ul>\n  <li>using formulas to link cells in spreadsheets</li>\n  <li>emailing records</li>\n  <li>putting records on a portable device to give to your agent</li>\n  <li>importing and exporting XML and CSV files</li>\n  <li>downloading and uploading files</li>\n</ul>\n\n<h2 id=\"when-youre-exempt-from-keeping-digital-records\">When you’re exempt from keeping digital records</h2>\n\n<p>You must follow the rules for ‘Making Tax Digital for <abbr title=\"Value Added Tax\">VAT</abbr>’ by keeping some records digitally, unless:</p>\n\n<ul>\n  <li>your business uses the <abbr title=\"Value Added Tax\">VAT</abbr> GIANT service, for example if you’re a government department or an NHS Trust</li>\n  <li>you’re <a href=\"/guidance/apply-for-an-exemption-from-making-tax-digital-for-vat\">eligible for an exemption</a>\n</li>\n</ul>\n\n<h2 id=\"how-long-you-must-keep-records\">How long you must keep records</h2>\n\n<p>Begin keeping records when you register for <abbr title=\"Value Added Tax\">VAT</abbr>. You must keep <abbr title=\"Value Added Tax\">VAT</abbr> records for at least 6 years (or 10 years if you are using the <a href=\"/guidance/check-how-to-report-and-pay-vat-on-distance-sales-of-goods-from-northern-ireland-to-the-eu\"><abbr title=\"Value Added Tax\">VAT</abbr> One Stop Shop (<abbr title=\"One Stop Shop\">OSS</abbr>) scheme</a> or used the <a href=\"/guidance/register-and-use-the-vat-mini-one-stop-shop\"><abbr title=\"Value Added Tax\">VAT</abbr> Mini One Stop Shop (<abbr title=\"Mini One Stop Shop\">MOSS</abbr>) scheme</a>).</p>\n\n<h2 id=\"vat-invoices\">\n<abbr title=\"Value Added Tax\">VAT</abbr> invoices</h2>\n\n<p>Only <abbr title=\"Value Added Tax\">VAT</abbr>-registered businesses can issue <abbr title=\"Value Added Tax\">VAT</abbr> invoices. If you’re <abbr title=\"Value Added Tax\">VAT</abbr>-registered, you must:</p>\n\n<ul>\n  <li>issue valid invoices</li>\n  <li>keep copies of all the sales invoices you issue even if you cancel them or produce one by mistake</li>\n  <li>keep all purchase invoices for items you buy</li>\n</ul>\n\n<p><a href=\"/guidance/record-keeping-for-vat-notice-70021\">Find out what to include in a valid <abbr title=\"Value Added Tax\">VAT</abbr> invoice</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You cannot reclaim VAT using an invalid invoice, a pro-forma invoice, a statement or a delivery note.</p>\n</div>\n\n<h3 id=\"if-a-supplier-issues-you-an-incorrect-invoice\">If a supplier issues you an incorrect invoice</h3>\n\n<p>If a supplier issues you an invoice where the amount to pay is wrong, you need to ask the supplier to correct it and issue a new invoice.</p>\n\n<p>If you pay less than the amount due on an invoice, you can only reclaim the <abbr title=\"Value Added Tax\">VAT</abbr> on the amount paid - not what is on the invoice.</p>\n\n<p>You cannot claim more <abbr title=\"Value Added Tax\">VAT</abbr> than is shown on a valid <abbr title=\"Value Added Tax\">VAT</abbr> invoice.</p>\n\n<h2 id=\"vat-account\">\n<abbr title=\"Value Added Tax\">VAT</abbr> account</h2>\n\n<p>You must keep a record of the <abbr title=\"Value Added Tax\">VAT</abbr> you charge on sales and the <abbr title=\"Value Added Tax\">VAT</abbr> you pay on your purchases. This is called a ‘<abbr title=\"Value Added Tax\">VAT</abbr> account’.</p>\n\n<p>You use the figures in your <abbr title=\"Value Added Tax\">VAT</abbr> account to complete your <abbr title=\"Value Added Tax\">VAT</abbr> return.</p>\n\n<p>There are not any rules on what a <abbr title=\"Value Added Tax\">VAT</abbr> account should look like, but it must show:</p>\n\n<ul>\n  <li>your total <abbr title=\"Value Added Tax\">VAT</abbr> sales</li>\n  <li>your total <abbr title=\"Value Added Tax\">VAT</abbr> purchases</li>\n  <li>the <abbr title=\"Value Added Tax\">VAT</abbr> you owe HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>)</li>\n  <li>the <abbr title=\"Value Added Tax\">VAT</abbr> you can reclaim from <abbr title=\"HM Revenue and Customs\">HMRC</abbr>\n</li>\n  <li>if your business uses the <a href=\"/vat-flat-rate-scheme\"><abbr title=\"Value Added Tax\">VAT</abbr> Flat Rate Scheme</a>, the flat rate percentage and turnover it applies to</li>\n</ul>\n\n<p>If you are a Northern Ireland business registered for <abbr title=\"Value Added Tax\">VAT</abbr>, you must also show the <abbr title=\"Value Added Tax\">VAT</abbr> on any EU purchases or sales.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you’ve <a href=\"/submit-vat-return\">made an error on your VAT return</a>, the VAT account must show when you discovered the error and how you corrected it.</p>\n</div>\n\n<h2 id=\"returns-and-exchanges\">Returns and exchanges</h2>\n\n<p>When you return goods to a supplier or a customer returns goods to you, settle the balance of payment by issuing either a:</p>\n\n<ul>\n  <li>replacement invoice</li>\n  <li>credit or debit note</li>\n</ul>\n\n<p>Record these in your accounts and keep any original notes.</p>\n\n<p>If you exchange the goods for goods of the same value you do not need to issue a new <abbr title=\"Value Added Tax\">VAT</abbr> invoice.</p>\n\n<p>Your credit or debit note must include the:</p>\n\n<ul>\n  <li>same information as the <abbr title=\"Value Added Tax\">VAT</abbr> invoice</li>\n  <li>reason why it was issued</li>\n  <li>total amount credited, excluding <abbr title=\"Value Added Tax\">VAT</abbr>\n</li>\n  <li>number and date of the original <abbr title=\"Value Added Tax\">VAT</abbr> invoice</li>\n</ul>\n\n<h2 id=\"bad-debts\">Bad debts</h2>\n\n<p>If a customer does not pay what they owe for goods or services, you can write off the invoice as a ‘bad debt’. You may be able to claim relief from <abbr title=\"Value Added Tax\">VAT</abbr> for bad debts. Do this in your <a href=\"/submit-vat-return/what-to-include-vat-return\"><abbr title=\"Value Added Tax\">VAT</abbr> Return</a>.</p>\n\n<p>If you write off an invoice as a bad debt, you must keep a separate ‘<abbr title=\"Value Added Tax\">VAT</abbr> bad debt account’. The debt must be older than 6 months when you make your claim.</p>\n\n<p>You must claim a refund from <abbr title=\"HM Revenue and Customs\">HMRC</abbr> within 4 years and 6 months of the date the payment was due or the date of supply (whichever was later).</p>\n\n<p>For each bad debt you must show:</p>\n\n<ul>\n  <li>total amount of <abbr title=\"Value Added Tax\">VAT</abbr> involved</li>\n  <li>amount written off and any payments you’ve received</li>\n  <li>the <abbr title=\"Value Added Tax\">VAT</abbr> you’re claiming on the debt</li>\n  <li>the <abbr title=\"Value Added Tax\">VAT</abbr> period(s) you paid the <abbr title=\"Value Added Tax\">VAT</abbr> and are claiming the relief</li>\n  <li>invoice details like the date and the customer’s name</li>\n</ul>\n\n<p>You must keep this information for 4 years after the claim is made, or 10 years if you used the <abbr title=\"Value Added Tax\">VAT</abbr> <abbr title=\"Mini One Stop Shop\">MOSS</abbr>.</p>\n\n<h2 id=\"time-of-supply-or-tax-point\">Time of supply or tax point</h2>\n\n<p>You need to know a transaction’s time of supply (or ‘tax point’). This is the date the transaction takes place for tax purposes.</p>\n\n<p>The tax point tells you which <abbr title=\"Value Added Tax\">VAT</abbr> period the transaction belongs to, and which return to put it on.</p>\n\n<p>The tax point can vary, but it’s usually the following:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th scope=\"col\">Situation</th>\n      <th scope=\"col\">Tax point</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>No invoice needed</td>\n      <td>Date of supply</td>\n    </tr>\n    <tr>\n      <td>\n<abbr title=\"Value Added Tax\">VAT</abbr> invoice issued</td>\n      <td>Date of invoice</td>\n    </tr>\n    <tr>\n      <td>\n<abbr title=\"Value Added Tax\">VAT</abbr> invoice issued 15 days or more after the date of supply</td>\n      <td>Date the supply took place</td>\n    </tr>\n    <tr>\n      <td>Payment or invoice issued in advance of supply</td>\n      <td>Date of payment or invoice (whichever is earlier)</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>The date of supply is:</p>\n\n<ul>\n  <li>for goods - the date they’re sent, collected or made available (for example, when they’re installed in the customer’s house)</li>\n  <li>for services - the date the work is finished</li>\n</ul>\n\n<h3 id=\"exceptions-to-the-tax-point-rule\">Exceptions to the tax point rule</h3>\n\n<p>If you use the <a href=\"/how-vat-works/vat-schemes\"><abbr title=\"Value Added Tax\">VAT</abbr> Cash Accounting Scheme</a>, the tax point is always the date the payment is received.</p>\n\n<p>Read the guidance on how to <a href=\"https://www.gov.uk/guidance/vat-guide-notice-700\">work out the tax point in other situations</a>. For example, there are different tax point rules for:</p>\n\n<ul>\n  <li>certain trades - like barristers, building and construction</li>\n  <li>where the supply is not a ‘sale’ – for example business items taken for personal use</li>\n</ul>\n\n<p>Sometimes, one sale can give rise to 2 or more tax points - for example, where the customer pays a deposit in advance, and then a final payment.</p>\n\n",
+        "slug": "keeping-vat-records",
+        "title": "Keeping VAT records"
+      }
+    ]
+  },
+  "document_type": "guide",
+  "first_published_at": "2022-05-16T12:35:58Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/charge-reclaim-record-vat",
+        "api_url": "https://www.gov.uk/api/content/charge-reclaim-record-vat",
+        "base_path": "/charge-reclaim-record-vat",
+        "content_id": "05676690-0c16-4f23-b1d8-de8f288c6549",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-10-17T09:10:44Z",
+        "schema_name": "guide",
+        "title": "Charge, reclaim and record VAT",
+        "web_url": "https://www.gov.uk/charge-reclaim-record-vat",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/vat-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/vat-detailed-information",
+        "base_path": "/government/collections/vat-detailed-information",
+        "content_id": "571aac49-e956-4f2d-9c01-44184522fb18",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/charge-reclaim-record-vat",
+              "api_url": "https://www.gov.uk/api/content/charge-reclaim-record-vat",
+              "base_path": "/charge-reclaim-record-vat",
+              "content_id": "05676690-0c16-4f23-b1d8-de8f288c6549",
+              "document_type": "guide",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2022-10-17T09:10:44Z",
+              "schema_name": "guide",
+              "title": "Charge, reclaim and record VAT",
+              "web_url": "https://www.gov.uk/charge-reclaim-record-vat",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-12T12:18:19Z",
+        "schema_name": "document_collection",
+        "title": "VAT: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/vat-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/business-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/business/business-tax",
+        "base_path": "/browse/business/business-tax",
+        "content_id": "b7d6588c-a056-47fc-9528-0b9ff42c3866",
+        "description": "Includes Corporation Tax, Capital Gains Tax, Construction Industry Scheme (CIS) and VAT",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:20Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business tax",
+        "web_url": "https://www.gov.uk/browse/business/business-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/tax/vat",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/vat",
+        "base_path": "/browse/tax/vat",
+        "content_id": "895d337a-fa68-4c83-ab79-1c08016afe87",
+        "description": "Includes online returns, rates, charging and record keeping",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-03-08T14:50:05Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "VAT",
+        "web_url": "https://www.gov.uk/browse/tax/vat",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/how-vat-works",
+        "api_url": "https://www.gov.uk/api/content/how-vat-works",
+        "base_path": "/how-vat-works",
+        "content_id": "ada92929-b6f8-4079-ad8a-e0163b41a55e",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/business-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/business/business-tax",
+              "base_path": "/browse/business/business-tax",
+              "content_id": "b7d6588c-a056-47fc-9528-0b9ff42c3866",
+              "description": "Includes Corporation Tax, Capital Gains Tax, Construction Industry Scheme (CIS) and VAT",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:20Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/browse/business/business-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/vat",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/vat",
+              "base_path": "/browse/tax/vat",
+              "content_id": "895d337a-fa68-4c83-ab79-1c08016afe87",
+              "description": "Includes online returns, rates, charging and record keeping",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-03-08T14:50:05Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "VAT",
+              "web_url": "https://www.gov.uk/browse/tax/vat",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-10-17T09:11:16Z",
+        "schema_name": "guide",
+        "title": "How VAT works",
+        "web_url": "https://www.gov.uk/how-vat-works",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/register-for-vat",
+        "api_url": "https://www.gov.uk/api/content/register-for-vat",
+        "base_path": "/register-for-vat",
+        "content_id": "708aacf7-6863-4ac3-8c7d-764934789761",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/business-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/business/business-tax",
+              "base_path": "/browse/business/business-tax",
+              "content_id": "b7d6588c-a056-47fc-9528-0b9ff42c3866",
+              "description": "Includes Corporation Tax, Capital Gains Tax, Construction Industry Scheme (CIS) and VAT",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:20Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/browse/business/business-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/vat",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/vat",
+              "base_path": "/browse/tax/vat",
+              "content_id": "895d337a-fa68-4c83-ab79-1c08016afe87",
+              "description": "Includes online returns, rates, charging and record keeping",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-03-08T14:50:05Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "VAT",
+              "web_url": "https://www.gov.uk/browse/tax/vat",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-05-17T15:54:46Z",
+        "schema_name": "guide",
+        "title": "Register for VAT",
+        "web_url": "https://www.gov.uk/register-for-vat",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/submit-vat-return",
+        "api_url": "https://www.gov.uk/api/content/submit-vat-return",
+        "base_path": "/submit-vat-return",
+        "content_id": "467edca6-c89b-4d08-921c-315ac9816516",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/business-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/business/business-tax",
+              "base_path": "/browse/business/business-tax",
+              "content_id": "b7d6588c-a056-47fc-9528-0b9ff42c3866",
+              "description": "Includes Corporation Tax, Capital Gains Tax, Construction Industry Scheme (CIS) and VAT",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:20Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/browse/business/business-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/vat",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/vat",
+              "base_path": "/browse/tax/vat",
+              "content_id": "895d337a-fa68-4c83-ab79-1c08016afe87",
+              "description": "Includes online returns, rates, charging and record keeping",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-03-08T14:50:05Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "VAT",
+              "web_url": "https://www.gov.uk/browse/tax/vat",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-05-19T09:21:28Z",
+        "schema_name": "guide",
+        "title": "Send a VAT Return",
+        "web_url": "https://www.gov.uk/submit-vat-return",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/vat-repayments",
+        "api_url": "https://www.gov.uk/api/content/vat-repayments",
+        "base_path": "/vat-repayments",
+        "content_id": "cd103650-96cf-485a-8398-fb6f0a9de3bf",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/vat",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/vat",
+              "base_path": "/browse/tax/vat",
+              "content_id": "895d337a-fa68-4c83-ab79-1c08016afe87",
+              "description": "Includes online returns, rates, charging and record keeping",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-03-08T14:50:05Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "VAT",
+              "web_url": "https://www.gov.uk/browse/tax/vat",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-12T14:57:36Z",
+        "schema_name": "answer",
+        "title": "VAT repayments",
+        "web_url": "https://www.gov.uk/vat-repayments",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/business-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/business/business-tax",
+        "base_path": "/browse/business/business-tax",
+        "content_id": "b7d6588c-a056-47fc-9528-0b9ff42c3866",
+        "description": "Includes Corporation Tax, Capital Gains Tax, Construction Industry Scheme (CIS) and VAT",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:20Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business tax",
+        "web_url": "https://www.gov.uk/browse/business/business-tax",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/vat",
+        "api_url": "https://www.gov.uk/api/content/money/vat",
+        "base_path": "/money/vat",
+        "content_id": "e04c9a5c-88e8-46e5-91d9-add405e098fb",
+        "details": {
+          "internal_name": "VAT [T] (level 3, money)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/business-tax",
+              "api_url": "https://www.gov.uk/api/content/money/business-tax",
+              "base_path": "/money/business-tax",
+              "content_id": "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+              "details": {
+                "internal_name": "Business tax [T] (level 2, money)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:49Z",
+              "schema_name": "taxon",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/money/business-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:52Z",
+        "schema_name": "taxon",
+        "title": "VAT",
+        "web_url": "https://www.gov.uk/money/vat",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2022-10-17T09:10:44Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685115463.786-10.13.21.32-36353",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "guide",
+  "title": "Charge, reclaim and record VAT",
+  "updated_at": "2024-02-12T14:01:17Z",
+  "withdrawn_notice": {
+  }
+}

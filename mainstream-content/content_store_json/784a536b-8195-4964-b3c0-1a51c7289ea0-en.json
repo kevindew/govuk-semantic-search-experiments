@@ -1,0 +1,639 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/charity-recognition-hmrc",
+  "content_id": "784a536b-8195-4964-b3c0-1a51c7289ea0",
+  "description": "Charities can register online with HMRC and claim tax relief or get tax back on Gift Aid donations and bank interest, charitable purposes, registration ",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>You can register your charity’s details with HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) to get tax back on things like Gift Aid donations.</p>\n\n<p>You can also continue with a <a rel=\"external\" href=\"https://www.tax.service.gov.uk/register-charity-hmrc/task-list\">previously saved application</a>.</p>\n\n<p>Use <a href=\"/government/publications/charities-change-of-details-form-chv1\">form ChV1</a> if you’re already registered but want to change your details.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This guide is also available <a href=\"/cydnabyddiaeth-elusen-cthem\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<h2 id=\"before-you-start\">Before you start</h2>\n\n<p><a href=\"/setting-up-charity/register-your-charity\">Check if you need to register with the Charity Commission</a> before registering with <abbr title=\"HM Revenue and Customs\">HMRC</abbr>.</p>\n\n<h2 id=\"register-with-hmrc\">Register with <abbr title=\"HM Revenue and Customs\">HMRC</abbr>\n</h2>\n\n<p>You’ll need your charity’s:</p>\n\n<ul>\n  <li>bank account details and financial accounts</li>\n  <li>\n<a href=\"/who-can-run-charity-finances\">officials’ details</a>, including dates of birth and National Insurance numbers</li>\n  <li>\n<a href=\"/setting-up-charity/register-your-charity\">registration number</a> if you’ve registered your charity with a regulator</li>\n  <li>\n<a href=\"/setting-up-charity/charitable-purposes\">charitable objectives</a> (sometimes called purposes)</li>\n  <li>\n<a href=\"/setting-up-charity/governing-document\">governing document</a> (sometimes called a rulebook) - this explains how your charity is run</li>\n  <li>Government Gateway user ID and password - you can create an account when you register your charity’s details</li>\n</ul>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.tax.service.gov.uk/register-charity-hmrc/check-eligibility/register-the-charity",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2015-02-11T14:18:12Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/charity-recognition-hmrc",
+        "api_url": "https://www.gov.uk/api/content/charity-recognition-hmrc",
+        "base_path": "/charity-recognition-hmrc",
+        "content_id": "784a536b-8195-4964-b3c0-1a51c7289ea0",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-05-14T15:03:09Z",
+        "schema_name": "transaction",
+        "title": "Get recognition from HMRC for your charity",
+        "web_url": "https://www.gov.uk/charity-recognition-hmrc",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/apply-to-hmrc-for-recognition-as-a-charity-for-tax-purposes",
+        "api_url": "https://www.gov.uk/api/content/needs/apply-to-hmrc-for-recognition-as-a-charity-for-tax-purposes",
+        "base_path": "/needs/apply-to-hmrc-for-recognition-as-a-charity-for-tax-purposes",
+        "content_id": "25c12194-b874-4911-961f-bed11d072c0e",
+        "details": {
+          "benefit": "I can get the tax reliefs available to charities",
+          "goal": "apply to HMRC for recognition as a charity for tax purposes",
+          "justifications": [
+            "It's something only government does",
+            "It's something that people can do or it's something people need to know before they can do something that's regulated by/related to government",
+            "There is clear demand for it from users"
+          ],
+          "met_when": [
+            "fills in form ChA1 and submits it to HMRC",
+            "understands who can act as an authorised official "
+          ],
+          "role": "charitable organisation"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a charitable organisation, I need to apply to HMRC for recognition as a charity for tax purposes, so that I can get the tax reliefs available to charities (100455)",
+        "web_url": "https://www.gov.uk/needs/apply-to-hmrc-for-recognition-as-a-charity-for-tax-purposes",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/charities-and-tax",
+        "api_url": "https://www.gov.uk/api/content/charities-and-tax",
+        "base_path": "/charities-and-tax",
+        "content_id": "8b94940b-8c6a-46f4-a50c-2108414974c9",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/business-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/business/business-tax",
+              "base_path": "/browse/business/business-tax",
+              "content_id": "b7d6588c-a056-47fc-9528-0b9ff42c3866",
+              "description": "Includes Corporation Tax, Capital Gains Tax, Construction Industry Scheme (CIS) and VAT",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:20Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/browse/business/business-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/citizenship/charities-honours",
+              "api_url": "https://www.gov.uk/api/content/browse/citizenship/charities-honours",
+              "base_path": "/browse/citizenship/charities-honours",
+              "content_id": "7ef2c175-8a4b-4eb9-969b-304c6b9a1452",
+              "description": "Nominating someone for an honour, setting up a charity, community participation",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/citizenship",
+                    "api_url": "https://www.gov.uk/api/content/browse/citizenship",
+                    "base_path": "/browse/citizenship",
+                    "content_id": "764a2ce0-eae5-414a-a4a9-2217507165fb",
+                    "description": "Voting, community participation, life in the UK, international projects",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:44Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Citizenship and living in the UK",
+                    "web_url": "https://www.gov.uk/browse/citizenship",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:46Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Charities, volunteering and honours",
+              "web_url": "https://www.gov.uk/browse/citizenship/charities-honours",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-08T14:59:54Z",
+        "schema_name": "guide",
+        "title": "Charities and tax",
+        "web_url": "https://www.gov.uk/charities-and-tax",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "related_to_step_navs": [
+      {
+        "api_path": "/api/content/set-up-a-charity",
+        "api_url": "https://www.gov.uk/api/content/set-up-a-charity",
+        "base_path": "/set-up-a-charity",
+        "content_id": "3dd66b86-ce29-4f31-bfa2-a5a18b877f11",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/check-if-a-new-charity-is-the-best-option",
+                        "text": "Check the alternatives to setting up a charity"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check if setting up a charity is right for you"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/government/publications/what-makes-a-charity-cc4",
+                        "text": "Check if your organisation can be a charity"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Check you're eligible"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Trustees are responsible for the operation of your charity. They must show they understand their legal requirements. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/trustee-board-people-and-skills",
+                        "text": "Check who's eligible to be a trustee and what skills they need to have"
+                      },
+                      {
+                        "href": "/government/publications/finding-new-trustees-cc30",
+                        "text": "Find and appoint trustees"
+                      },
+                      {
+                        "href": "/government/publications/the-essential-trustee-what-you-need-to-know-cc3",
+                        "text": "Read about your trustees' legal responsibilities"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Find trustees"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/charity-types-how-to-choose-a-structure",
+                        "text": "Choose the right charity structure"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Find out how to choose a charity structure"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "There are rules on what words you can use in your name.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/setting-up-charity/name-your-charity",
+                        "text": "Check what you can call your charity"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You cannot register a name that's the same as or similar to another charity.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/find-charity-information",
+                        "text": "Check the names of registered charities"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Choose a name for your charity"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Your ‘purposes’ describe what your charity is set up to achieve.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/how-to-write-charitable-purposes",
+                        "text": "Find out how to write your charity's purposes"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Decide and write your charity's purposes"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "The governing document is a set of rules that explains how your charity is run. It needs to include your charity's structure, name and purposes. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/how-to-write-your-charitys-governing-document",
+                        "text": "Find out how to write your governing document"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Create a governing document"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Your organisation must be able to show that it benefits the public. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/guidance/public-benefit-rules-for-charities",
+                        "text": "Check how your organisation must benefit the public"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Make sure you meet the 'public benefit requirement'"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must apply to register your charity with the Charity Commission if either:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "text": "its income will be at least £5,000 per year"
+                      },
+                      {
+                        "text": "it’s a charitable incorporated organisation (CIO)"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/setting-up-charity/register-your-charity",
+                        "text": "Register with the Charity Commission"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You can register your charity’s details with HM Revenue and Customs (HMRC) to get tax back on things like Gift Aid donations.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/charity-recognition-hmrc",
+                        "text": "Register with HMRC"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Register your charity"
+              }
+            ],
+            "title": "Set up a charity: step by step "
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_related_to_step_nav": [
+            {
+              "api_path": "/api/content/charity-recognition-hmrc",
+              "api_url": "https://www.gov.uk/api/content/charity-recognition-hmrc",
+              "base_path": "/charity-recognition-hmrc",
+              "content_id": "784a536b-8195-4964-b3c0-1a51c7289ea0",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-05-14T15:03:09Z",
+              "schema_name": "transaction",
+              "title": "Get recognition from HMRC for your charity",
+              "web_url": "https://www.gov.uk/charity-recognition-hmrc",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2021-06-08T15:34:19Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Set up a charity: step by step ",
+        "web_url": "https://www.gov.uk/set-up-a-charity",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/setting-up-charity",
+        "api_url": "https://www.gov.uk/api/content/setting-up-charity",
+        "base_path": "/setting-up-charity",
+        "content_id": "62fe8d9c-c8c8-4f5e-a5a9-8d5ec5bddcc4",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-18T09:57:23Z",
+        "schema_name": "guide",
+        "title": "Set up a charity",
+        "web_url": "https://www.gov.uk/setting-up-charity",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/charities-and-tax",
+        "api_url": "https://www.gov.uk/api/content/charities-and-tax",
+        "base_path": "/charities-and-tax",
+        "content_id": "8b94940b-8c6a-46f4-a50c-2108414974c9",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-08T14:59:54Z",
+        "schema_name": "guide",
+        "title": "Charities and tax",
+        "web_url": "https://www.gov.uk/charities-and-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/claim-gift-aid",
+        "api_url": "https://www.gov.uk/api/content/claim-gift-aid",
+        "base_path": "/claim-gift-aid",
+        "content_id": "d3ed367a-220a-450e-8fac-434c2a95e34b",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-08T14:58:22Z",
+        "schema_name": "guide",
+        "title": "Claiming Gift Aid as a charity or CASC",
+        "web_url": "https://www.gov.uk/claim-gift-aid",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/claim-gift-aid-online",
+        "api_url": "https://www.gov.uk/api/content/claim-gift-aid-online",
+        "base_path": "/claim-gift-aid-online",
+        "content_id": "1981ff32-1317-4a57-b18e-15135d9b2a79",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-25T16:24:55Z",
+        "schema_name": "transaction",
+        "title": "Claim Gift Aid online",
+        "web_url": "https://www.gov.uk/claim-gift-aid-online",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-charity-information",
+        "api_url": "https://www.gov.uk/api/content/find-charity-information",
+        "base_path": "/find-charity-information",
+        "content_id": "30abeb6a-a5e9-4203-9e4c-b6bce7781d71",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-09-02T16:00:02Z",
+        "schema_name": "transaction",
+        "title": "Search the charity register",
+        "web_url": "https://www.gov.uk/find-charity-information",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/running-charity-money-accounts",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/running-charity-money-accounts",
+        "base_path": "/business-and-industry/running-charity-money-accounts",
+        "content_id": "2fed9b31-6440-451f-a54b-222f06b4e64e",
+        "details": {
+          "internal_name": "Charity money, tax and accounts",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/charities-and-social-enterprises",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/charities-and-social-enterprises",
+              "base_path": "/business-and-industry/charities-and-social-enterprises",
+              "content_id": "80cb30f4-0361-49ea-ad84-bc10910318bf",
+              "details": {
+                "internal_name": "Charities and social enterprises",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                    "base_path": "/business-and-industry",
+                    "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Business and industry",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Business and industry",
+                    "web_url": "https://www.gov.uk/business-and-industry",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:05Z",
+              "schema_name": "taxon",
+              "title": "Charities and social enterprises",
+              "web_url": "https://www.gov.uk/business-and-industry/charities-and-social-enterprises",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:05Z",
+        "schema_name": "taxon",
+        "title": "Charity money, tax and accounts",
+        "web_url": "https://www.gov.uk/business-and-industry/running-charity-money-accounts",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-05-14T15:03:09Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "18469-1615214369.042-10.13.3.253-8913",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Get recognition from HMRC for your charity",
+  "updated_at": "2024-02-06T14:04:11Z",
+  "withdrawn_notice": {
+  }
+}

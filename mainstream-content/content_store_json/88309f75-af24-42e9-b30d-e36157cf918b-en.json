@@ -1,0 +1,989 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/running-payroll",
+  "content_id": "88309f75-af24-42e9-b30d-e36157cf918b",
+  "description": "Regular payroll tasks - record employee pay, calculate deductions, give payslips, report to and pay HMRC, view the balance of what you owe HMRC.",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "hide_chapter_navigation": false,
+    "parts": [
+      {
+        "body": "<p>As an <a href=\"/paye-for-employers/\">employer operating <abbr title=\"Pay As You Earn\">PAYE</abbr></a> as part of your payroll, you need to complete certain tasks during each tax month. Tax months run from the 6th of one month to the 5th of the next.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You must <a href=\"/running-payroll/reporting-to-hmrc-eps\">send an Employer Payment Summary (EPS)</a> to HM Revenue and Customs (HMRC) if you’ve not paid any employees in a tax month.</p>\n</div>\n\n<h2 id=\"on-or-before-your-employees-payday\">On or before your employees’ payday</h2>\n\n<p>Every time you pay your employees, use your payroll software to:</p>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/running-payroll/payments\">Record their pay</a> - include their salary or wages and any other pay.</p>\n</li>\n<li>\n<p><a href=\"/running-payroll/deductions\">Calculate deductions</a> from their pay, like tax and National Insurance.</p>\n</li>\n<li>\n<p>Calculate the employer’s National Insurance contribution that you’ll need to pay on their earnings above £242 a week.</p>\n</li>\n<li>\n<p><a href=\"/running-payroll/payslips\">Produce payslips</a> for each employee (you can use different software if yours does not have this feature).</p>\n</li>\n<li>\n<p><a href=\"/running-payroll/reporting-to-hmrc\">Report their pay and deductions</a> to HMRC in a Full Payment Submission (FPS).</p>\n</li>\n</ol>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you’re already operating an employer PAYE scheme and an employee does not meet <a href=\"/paye-for-employers\">the conditions for PAYE</a>, you’ll still need to record and report their pay.</p>\n</div>\n\n<h2 id=\"in-the-next-tax-month-starting-on-the-6th\">In the next tax month (starting on the 6th)</h2>\n\n<p>You can view what you owe from your <abbr title=\"Full Payment Submission\">FPS</abbr> online from the 10th.</p>\n\n<ol class=\"steps\">\n<li>\n<p><a href=\"/running-payroll/reporting-to-hmrc-eps\">Send an Employer Payment Summary (EPS)</a> by the 19th to claim any reduction on what you’ll owe HMRC (for example statutory pay).</p>\n</li>\n<li>\n<p>View the balance of what you owe in <a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=%2Fbusiness-account%2Fepaye%2F&amp;origin=PAYE-frontend&amp;utm_source=gov&amp;utm_medium=running_payroll&amp;utm_campaign=gov_PAYE\">your HMRC online account</a>, within 2 days (or by the 14th if you sent the EPS before the 11th).</p>\n</li>\n<li>\n<p><a href=\"/running-payroll/paying-hmrc\">Pay HMRC</a> by the 22nd (or the 19th if paying by post) - you may have to pay a penalty if you do not.</p>\n</li>\n</ol>\n<p>If you usually pay less than £1,500 per month, you may be able to pay quarterly instead of monthly. <a href=\"/government/organisations/hm-revenue-customs/contact/employer-paye-payment\">Contact the payment helpline</a> to find out.</p>\n\n<h2 id=\"late-reporting\">Late reporting</h2>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will send you a <a href=\"/what-to-do-if-you-get-an-online-penalty-warning-message\">late filing notice</a> if you’ve paid any employees and do not send an <abbr title=\"Full Payment Submission\">FPS</abbr> or send one late. They can also charge you a penalty, unless you have a valid reason for <a href=\"/running-payroll/fps-after-payday\">reporting late</a>.</p>\n\n<p>Late, missing or incorrect payroll reports can also affect your employees’ income-related benefits, such as Universal Credit.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>HMRC will close your PAYE scheme if you’re a new employer and you do not send a report to or pay HMRC in 120 days.</p>\n</div>\n\n",
+        "slug": "overview",
+        "title": "Overview"
+      },
+      {
+        "body": "<p>Record your employees’ salary or wages in your payroll software. Include everyone you pay, even if they get less than £123 a week.</p>\n\n<h2 id=\"recording-other-types-of-pay\">Recording other types of pay</h2>\n\n<h3 id=\"statutory-pay\">Statutory pay</h3>\n\n<p>You may have to pay your employee:</p>\n\n<ul>\n  <li>\n<a href=\"/employers-sick-pay\">Statutory Sick Pay</a> (<abbr title=\"Statutory Sick Pay\">SSP</abbr>)</li>\n  <li>statutory pay for parents</li>\n</ul>\n\n<p>Statutory pay for parents includes:</p>\n\n<ul>\n  <li><a href=\"/employers-maternity-pay-leave\">maternity pay</a></li>\n  <li><a href=\"/employers-paternity-pay-leave\">paternity pay</a></li>\n  <li><a href=\"/employers-adoption-pay-leave\">adoption pay</a></li>\n  <li><a href=\"/employers-parental-bereavement-pay-leave\">parental bereavement pay</a></li>\n  <li><a href=\"/shared-parental-leave-and-pay-employer-guide\">shared parental pay</a></li>\n</ul>\n\n<p>You must record these in your software - they’re taxed like normal pay.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You can <a href=\"/recover-statutory-payments\">reclaim statutory pay for parents</a>.</p>\n</div>\n\n<h3 id=\"expenses-and-benefits\">Expenses and benefits</h3>\n\n<p>Expenses or benefits like uniforms or company cars are reported separately at the <a href=\"/payroll-annual-reporting/report-expenses-and-benefits\">end of the tax year</a>. Check the rules to find out what counts as <a href=\"/expenses-and-benefits-a-to-z\">expenses and benefits</a>, and what you should record in your software as normal pay.</p>\n\n<h3 id=\"tips-and-other-pay\">Tips and other pay</h3>\n\n<p>Treat tips to your staff as normal pay if they’re paid into your till - this includes tips added to your customers’ card or cheque payments. The rules are different if tips are <a href=\"/tips-at-work/tips-and-tax\">given straight to your employees</a> by customers or <a href=\"/employee-gets-tips-gratuities-or-service-charges-through-a-tronc\">paid into a tronc</a>.</p>\n\n<p>Other payments you may give your employee that you should record as normal pay include:</p>\n\n<ul>\n  <li>bonuses</li>\n  <li>commission</li>\n  <li>holiday pay (unless you <a href=\"/paying-an-employee-in-advance-for-holidays-or-from-holiday-pay-scheme\">pay it in advance or use a holiday pay scheme</a>)</li>\n  <li>payments for time your employee has spent travelling</li>\n  <li>\n<a href=\"/expenses-and-benefits-business-travel-mileage/passenger-payments\">passenger payments</a>, except the first 5 pence per mile</li>\n  <li>medical suspension payments, given to an employee you’ve suspended for health reasons</li>\n  <li>maternity suspension payments, given to an employee you’ve suspended for her, or her baby’s, health</li>\n  <li>guarantee payments, paid to an employee for a day they do not work (and not paid holiday)</li>\n  <li>office holders’ payments (honoraria), given to employees for providing a service, for example being your company’s sports-club secretary</li>\n  <li>payments that can be <a rel=\"external\" href=\"http://www.hmrc.gov.uk/manuals/eimanual/eim00540.htm\">converted into cash</a>, for example cheques, Savings Certificates or Premium Bonds</li>\n  <li>inducement payments (‘golden hello’ payments)</li>\n  <li>cash prizes for competitions you run</li>\n</ul>\n\n<p>You must follow different rules for:</p>\n\n<ul>\n  <li>\n<a href=\"/guidance/non-cash-pay-shares-commodities-you-provide-to-your-employees\">non-cash payments</a> (like shares or commodities)</li>\n  <li><a href=\"/guidance/paying-employees-cash-in-hand-or-guaranteed-take-home-pay\">cash in hand or guarantee payments</a></li>\n  <li><a href=\"/guidance/employee-incentive-awards\">employee incentive awards</a></li>\n</ul>\n\n",
+        "slug": "payments",
+        "title": "Employees' pay"
+      },
+      {
+        "body": "<p>Your payroll software will calculate how much <a href=\"/income-tax-rates\">income tax</a> and <a href=\"/national-insurance-rates-letters\">National Insurance</a> to deduct from your employees’ pay. These deductions are worked out using each employee’s <a href=\"/employee-tax-codes\">tax code</a> and National Insurance <a href=\"/national-insurance-rates-letters/category-letters\">category letter</a>.</p>\n\n<p>You may also need to deduct student loan repayments, pension contributions, Payroll Giving donations and child maintenance payments.</p>\n\n<h2 id=\"student-and-postgraduate-loan-repayments\">Student and Postgraduate loan repayments</h2>\n\n<p>Use your payroll software to record if your employee needs to make <a href=\"/new-employee/student-loans\">student loan repayments</a> - both in your software and on <a href=\"/running-payroll/payslips\">employee payslips</a>.</p>\n\n<p>You’ll need to calculate and deduct <a href=\"/repaying-your-student-loan/what-you-pay\">how much they need to repay</a> based on which plan they’re on. They repay:</p>\n\n<ul>\n  <li>9% of their income above £22,015 a year for Plan 1</li>\n  <li>9% of their income above £27,295 a year for Plan 2</li>\n  <li>9% of their income above £27,660 a year for Plan 4</li>\n  <li>6% of their income above £21,000 a year for Postgraduate loans</li>\n</ul>\n\n<h2 id=\"pensions\">Pensions</h2>\n\n<p>Make pension deductions after you take off National Insurance. You normally make pension deductions before you take off tax - check with your workplace pension provider.</p>\n\n<p>You’ll also need to pay any employer contributions into your employee’s pension.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>A new law means all employers will have to provide and pay into a workplace pension scheme for their employees - this is called ‘<a href=\"/workplace-pensions-employers\">automatic enrolment</a>’.</p>\n</div>\n\n<h2 id=\"payroll-giving\">Payroll Giving</h2>\n\n<p>Your employees can donate to charity directly from their pay before tax is deducted using Payroll Giving.</p>\n\n<p><a href=\"/government/publications/payroll-giving-approved-agencies\">Register with a Payroll Giving agency</a> to set up a scheme. They’ll let you know how to make deductions.</p>\n\n<p>As well as the usual <a href=\"/paye-for-employers/keeping-records\">payroll records</a>, you must also keep the agency contract, employee authorisation forms and details of payments to the agency.</p>\n\n<h2 id=\"child-maintenance\">Child maintenance</h2>\n\n<p>You may need to <a href=\"/child-maintenance-for-employers\">deduct child maintenance</a> directly from a paying parent’s earnings or pension.</p>\n\n",
+        "slug": "deductions",
+        "title": "Deductions"
+      },
+      {
+        "body": "<p>You must give <a href=\"/employment-status/employee\">your employees</a> and <a href=\"/employment-status/worker\">your ‘workers’</a> a payslip on or before their payday.</p>\n\n<h2 id=\"what-to-include\">What to include</h2>\n\n<p>Payslips must show:</p>\n\n<ul>\n  <li>\n<a href=\"/running-payroll/payments\">pay before any deductions</a> (‘gross’ wages)</li>\n  <li>\n<a href=\"/running-payroll/deductions\">deductions to pay</a> like tax and National Insurance</li>\n  <li>pay after deductions (‘net’ wages)</li>\n  <li>the number of hours worked, if the pay varies depending on time worked</li>\n</ul>\n\n<p>Payslips can also include information like your employee’s National Insurance number and tax code, their rate of pay, and the total amount of pay and deductions so far in the tax year.</p>\n\n<h2 id=\"producing-payslips\">Producing payslips</h2>\n\n<p>You may be able to produce payslips using your payroll software, if it has this feature. You can use <a href=\"/payroll-software\">different software</a> if it does not.</p>\n\n<p>You can either print payslips to give to your employees, or you can send them electronically.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Employees have certain <a href=\"/payslips\">rights relating to payslips</a> and what they must include.</p>\n</div>\n\n",
+        "slug": "payslips",
+        "title": "Payslips"
+      },
+      {
+        "body": "<p>Use your payroll software to send a Full Payment Submission (<abbr title=\"Full Payment Submission\">FPS</abbr>) to tell HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) about <a href=\"/running-payroll/payments\">payments to your employees</a> and what <a href=\"/running-payroll/deductions\">deductions to their pay</a> you’ve made.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Include everyone you pay, even if they get less than £123 a week.</p>\n</div>\n\n<h2 id=\"when-to-send-your-fps\">When to send your <abbr title=\"Full Payment Submission\">FPS</abbr>\n</h2>\n\n<p>Send the <abbr title=\"Full Payment Submission\">FPS</abbr> on or before your employees’ payday, even if you pay <abbr title=\"HM Revenue and Customs\">HMRC</abbr> quarterly instead of monthly.</p>\n\n<p>You must enter the usual date that you pay your employees, even if you pay them earlier or later. For example, if you pay your employees early because your usual payday falls on a Bank Holiday, you should still enter your regular payday.</p>\n\n<h3 id=\"early-reporting\">Early reporting</h3>\n\n<p>You can send an <abbr title=\"Full Payment Submission\">FPS</abbr> before your regular payday, for example if your payroll staff are going on holiday.</p>\n\n<p>Do not report too early - you’ll need to <a href=\"/payroll-errors/correcting-your-fps-or-eps\">send a corrected <abbr title=\"Full Payment Submission\">FPS</abbr></a> to update <abbr title=\"HM Revenue and Customs\">HMRC</abbr> if information changes, for example an employee leaves or changes tax code.</p>\n\n<p>You cannot send reports for the new tax year before March.</p>\n\n<h3 id=\"late-reporting\">Late reporting</h3>\n\n<p>There are some expectations when you can <a href=\"/running-payroll/fps-after-payday\">send an <abbr title=\"Full Payment Submission\">FPS</abbr> after payday</a>.</p>\n\n<h2 id=\"completing-and-sending-an-fps\">Completing and sending an <abbr title=\"Full Payment Submission\">FPS</abbr>\n</h2>\n\n<p>You’ll need to enter your <abbr title=\"Pay As You Earn\">PAYE</abbr> reference and Accounts Office reference in your software. <abbr title=\"HM Revenue and Customs\">HMRC</abbr> will have sent this to you after you registered as an employer.</p>\n\n<p>To complete and send the <abbr title=\"Full Payment Submission\">FPS</abbr>, follow your payroll software’s instructions.</p>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> has guidance on <a href=\"/guidance/what-payroll-information-to-report-to-hmrc\">what to put in each field on an <abbr title=\"Full Payment Submission\">FPS</abbr></a>, including:</p>\n\n<ul>\n  <li>employer information</li>\n  <li>employee information - only include employees you’ve paid</li>\n  <li>pay and deductions</li>\n  <li>National Insurance information</li>\n</ul>\n\n<p>You can split your <abbr title=\"Full Payment Submission\">FPS</abbr> into batches if it’s easier for you, for example one for employees and one for directors.</p>\n\n<p>There are special rules for calculating deductions if your employee has <a href=\"/what-to-do-if-your-employee-has-more-than-1-job\">more than one job with you</a>.</p>\n\n<h2 id=\"after-youve-sent-your-fps\">After you’ve sent your <abbr title=\"Full Payment Submission\">FPS</abbr>\n</h2>\n\n<p>In the next tax month (which starts on the 6th), you can:</p>\n\n<ul>\n  <li>view how much tax and National Insurance you owe in <a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=/business-account/epaye/&amp;origin=PAYE-frontend\">your <abbr title=\"HM Revenue and Customs\">HMRC</abbr> online account</a> from the 10th</li>\n  <li>\n<a href=\"/running-payroll/reporting-to-hmrc-eps\">claim any reduction on what you’ll owe <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> (for example statutory pay) by sending an Employer Payment Summary (<abbr title=\"Employer Payment Summary\">EPS</abbr>) by the 19th</li>\n  <li>\n<a href=\"/running-payroll/paying-hmrc\">pay <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> the balance by the 22nd (or the 19th if paying by post)</li>\n</ul>\n\n<p>If you need to make an extra payment to your employee, you can <a href=\"/running-payroll/fps-after-payday\">send an <abbr title=\"Full Payment Submission\">FPS</abbr> after payday</a>, in addition to the one you’ve already sent. The extra <abbr title=\"Full Payment Submission\">FPS</abbr> needs to be sent before your next regular report (if your software has this feature).</p>\n\n<h3 id=\"if-you-made-a-mistake-in-your-fps\">If you made a mistake in your <abbr title=\"Full Payment Submission\">FPS</abbr>\n</h3>\n\n<p>If you find any errors in your <abbr title=\"Full Payment Submission\">FPS</abbr>, <a href=\"/payroll-errors/correcting-your-fps-or-eps\">send a corrected <abbr title=\"Full Payment Submission\">FPS</abbr></a> as soon as possible.</p>\n\n<h2 id=\"reporting-extra-information\">Reporting extra information</h2>\n\n<p>You need to report more information on an <abbr title=\"Full Payment Submission\">FPS</abbr> if:</p>\n\n<ul>\n  <li>it includes a <a href=\"/new-employee/registering\">new employee</a>\n</li>\n  <li>an <a href=\"/employee-leaving\">employee leaves</a>\n</li>\n  <li>it’s the <a href=\"/payroll-annual-reporting/send-your-final-payroll-report\">last report of tax year</a>\n</li>\n  <li>you start paying someone a workplace pension</li>\n</ul>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> has guidance on <a href=\"/guidance/what-payroll-information-to-report-to-hmrc\">what to put in each field on an <abbr title=\"Full Payment Submission\">FPS</abbr></a>.</p>\n\n<p>You may also need to report extra information about certain <a href=\"/running-payroll/reporting-employee-changes\">employee changes</a>, for example they take a leave of absence or become a director.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There are special rules if <a href=\"/how-an-employer-operates-a-national-insurance-only-scheme\">you’re only reporting National Insurance</a>, for example you’re an overseas employer that does not need to pay UK tax.</p>\n</div>\n\n",
+        "slug": "reporting-to-hmrc",
+        "title": "Reporting to HMRC: FPS"
+      },
+      {
+        "body": "<p>Use your payroll software to send an Employer Payment Summary (<abbr title=\"Employer Payment Summary\">EPS</abbr>) as well as a <a href=\"/running-payroll/reporting-to-hmrc\">Full Payment Submission (<abbr title=\"Full Payment Submission\">FPS</abbr>)</a> if you:</p>\n\n<ul>\n  <li>\n<a href=\"/recover-statutory-payments/\">reclaim statutory maternity, paternity, adoption, parental bereavement or shared parental payments</a> - even if you got an <a href=\"/recover-statutory-payments/if-you-cant-afford-to-make-payments\">advance payment from HM Revenue and Customs</a> (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) to cover them</li>\n  <li>\n<a href=\"/claim-employment-allowance\">claim the Employment Allowance</a> - do this once each tax year</li>\n  <li>can <a href=\"/government/publications/construction-industry-scheme-repayment-claims-for-limited-company-subcontractors\">reclaim Construction Industry Scheme (<abbr title=\"Construction Industry Scheme\">CIS</abbr>) deductions</a> as a limited company</li>\n  <li>pay the <a href=\"/guidance/pay-apprenticeship-levy\">Apprenticeship Levy</a> if you, or employers you’re connected to, have an annual pay bill of more than £3 million</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Send an EPS instead of an FPS if you’ve not paid any employees in a tax month.</p>\n</div>\n\n<h2 id=\"eps-deadlines\">\n<abbr title=\"Employer Payment Summary\">EPS</abbr> deadlines</h2>\n\n<p>Send an <abbr title=\"Employer Payment Summary\">EPS</abbr> by the 19th of the following tax month for <abbr title=\"HM Revenue and Customs\">HMRC</abbr> to apply any reduction (for example statutory pay) on what you’ll owe from your <abbr title=\"Full Payment Submission\">FPS</abbr>.</p>\n\n<p>The tax month starts on the 6th.</p>\n\n<h2 id=\"sending-an-eps\">Sending an <abbr title=\"Employer Payment Summary\">EPS</abbr>\n</h2>\n\n<p>To complete and send the <abbr title=\"Employer Payment Summary\">EPS</abbr>, follow your payroll software’s instructions. <abbr title=\"HM Revenue and Customs\">HMRC</abbr> has guidance on <a href=\"/guidance/what-payroll-information-to-report-to-hmrc#eps-what-to-report\">what to put in each field on an <abbr title=\"Employer Payment Summary\">EPS</abbr></a>.</p>\n\n<p>Use <abbr title=\"HM Revenue and Customs\">HMRC</abbr>’s <a href=\"/basic-paye-tools\">Basic <abbr title=\"Pay As You Earn\">PAYE</abbr> Tools</a> if your software cannot send <abbr title=\"Employer Payment Summary\">EPS</abbr> reports.</p>\n\n<h2 id=\"after-youve-sent-your-eps\">After you’ve sent your <abbr title=\"Employer Payment Summary\">EPS</abbr>\n</h2>\n\n<p>Once you’ve sent your <abbr title=\"Employer Payment Summary\">EPS</abbr>, you can:</p>\n\n<ul>\n  <li>view what you’ve claimed and the balance of what you owe on <a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=/business-account/epaye/&amp;origin=PAYE-frontend\">your <abbr title=\"HM Revenue and Customs\">HMRC</abbr> online account</a> within 2 days (or by the 14th if you sent the <abbr title=\"Employer Payment Summary\">EPS</abbr> before the 11th)</li>\n  <li>\n<a href=\"/running-payroll/paying-hmrc\">pay <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> by the 22nd (or the 19th if paying by post)</li>\n</ul>\n\n<h3 id=\"if-you-made-a-mistake-in-your-eps\">If you made a mistake in your <abbr title=\"Employer Payment Summary\">EPS</abbr>\n</h3>\n\n<p>If you find any errors in your <abbr title=\"Employer Payment Summary\">EPS</abbr>, <a href=\"/payroll-errors/correcting-your-fps-or-eps\">send a corrected <abbr title=\"Employer Payment Summary\">EPS</abbr></a> as soon as possible.</p>\n\n<h2 id=\"if-you-do-not-pay-any-employees-in-a-tax-month\">If you do not pay any employees in a tax month</h2>\n\n<p>Do not send an <abbr title=\"Full Payment Submission\">FPS</abbr>. Send an <abbr title=\"Employer Payment Summary\">EPS</abbr> by the 19th after the tax month you did not pay any employees. The tax month starts on the 6th.</p>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> has guidance on <a href=\"/guidance/what-payroll-information-to-report-to-hmrc#you-did-not-pay-any-employees-in-a-period\">what to put in your <abbr title=\"Employer Payment Summary\">EPS</abbr> if you’ve not paid anyone</a>.</p>\n\n<p>If you do not send an <abbr title=\"Employer Payment Summary\">EPS</abbr>, <abbr title=\"HM Revenue and Customs\">HMRC</abbr> may:</p>\n\n<ul>\n  <li>send you a notice through <a href=\"/paye-online\"><abbr title=\"Pay As You Earn\">PAYE</abbr> Online</a>\n</li>\n  <li>estimate how much you should pay</li>\n  <li><a href=\"/guidance/what-happens-if-you-dont-report-payroll-information-on-time\">charge you a penalty</a></li>\n</ul>\n\n<h3 id=\"if-you-do-not-pay-anyone-for-a-longer-period\">If you do not pay anyone for a longer period</h3>\n\n<p>You can tell <abbr title=\"HM Revenue and Customs\">HMRC</abbr> up to a year in advance that you’ll not pay any employees. To do this, enter dates in the ‘Period of inactivity’ fields in your <abbr title=\"Employer Payment Summary\">EPS</abbr>.</p>\n\n",
+        "slug": "reporting-to-hmrc-eps",
+        "title": "Reporting to HMRC: EPS"
+      },
+      {
+        "body": "<p>Every month you have to pay HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>):</p>\n\n<ul>\n  <li>the tax and National Insurance (and <a href=\"/running-payroll/deductions\">any other deductions</a>) you owe as reported on your <a href=\"/running-payroll/reporting-to-hmrc\">Full Payment Submission</a> (<abbr title=\"Full Payment Submission\">FPS</abbr>) in the previous tax month</li>\n  <li>minus the reductions on any <a href=\"/running-payroll/reporting-to-hmrc-eps\">Employer Payment Summary</a> (<abbr title=\"Employer Payment Summary\">EPS</abbr>) you sent before the 19th in the current tax month</li>\n</ul>\n\n<p>Pay what you owe by the 22nd of the month (or the 19th if paying by post) - you may have to pay a penalty if you do not.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you usually pay less than £1,500 per month, you may be able to pay quarterly instead of monthly. Contact the <a href=\"/government/organisations/hm-revenue-customs/contact/employer-paye-payment\">payment helpline</a> to find out.</p>\n</div>\n\n<h2 id=\"viewing-what-you-owe\">Viewing what you owe</h2>\n\n<p>View <a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=%2Fbusiness-account%2Fepaye%2F&amp;origin=PAYE-frontend&amp;utm_source=gov&amp;utm_medium=pay_hmrc&amp;utm_campaign=gov_PAYE\">your <abbr title=\"HM Revenue and Customs\">HMRC</abbr> online account</a> to see the reports you’ve sent and to find out what you owe.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There are things you can check <a href=\"/payroll-errors\">if your PAYE bill is not what you expected</a>.</p>\n</div>\n\n<h2 id=\"how-to-pay\">How to pay</h2>\n\n<p>You can <a href=\"/pay-paye-tax\">pay your <abbr title=\"Pay As You Earn\">PAYE</abbr> bill</a> in a number of different ways.</p>\n\n<h3 id=\"interest-and-penalties\">Interest and penalties</h3>\n\n<p><abbr title=\"HM Revenue and Customs\">HMRC</abbr> will usually tell you if they think you’ve paid late - either in a letter or a notice through <a href=\"/paye-online\"><abbr title=\"Pay As You Earn\">PAYE</abbr> Online</a>. You’ll be <a href=\"/interest-on-late-payment-of-paye-and-cis-employer-guide\">charged interest daily at the standard rate</a>.</p>\n\n<p>You may be <a href=\"/what-happens-if-you-dont-pay-paye-and-national-insurance-on-time\">charged a penalty</a> if you do not pay on time or in full.</p>\n\n",
+        "slug": "paying-hmrc",
+        "title": "Paying HMRC"
+      },
+      {
+        "body": "<p>If you send a late <a href=\"/running-payroll/reporting-to-hmrc\">Full Payment Submission</a> (<abbr title=\"Full Payment Submission\">FPS</abbr>) without a valid reason, you may get:</p>\n\n<ul>\n  <li>an <a href=\"/guidance/what-to-do-if-you-get-an-online-penalty-warning-message\">online penalty warning message</a> for the first late <abbr title=\"Full Payment Submission\">FPS</abbr> you send each month</li>\n  <li><a href=\"/guidance/what-happens-if-you-dont-report-payroll-information-on-time\">charged a penalty</a></li>\n</ul>\n\n<h2 id=\"when-you-can-send-a-late-fps-report\">When you can send a late <abbr title=\"Full Payment Submission\">FPS</abbr> report</h2>\n\n<p>In certain situations you can send a Full Payment Submission (<abbr title=\"Full Payment Submission\">FPS</abbr>) after you pay your employee.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th scope=\"col\">Situation</th>\n      <th scope=\"col\">When to report</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Your employee does not give you a P45 and is either paid less than £123 a week or has worked with you for less than a week</td>\n      <td>Within 7 days of paying your employee</td>\n    </tr>\n    <tr>\n      <td>Your employees’ payday is on a non-banking day, for example weekend or bank holiday</td>\n      <td>On the next banking day - but enter the regular payment date in the ‘payment date’ field and select ‘Late reporting reason’ code G</td>\n    </tr>\n    <tr>\n      <td>You make an ad hoc payment outside of your regular payroll, for example you’re told after you’ve sent your <abbr title=\"Full Payment Submission\">FPS</abbr> about a new starter or a missed overtime payment. (Payments made regularly outside your normal payroll run are not ad hoc)</td>\n      <td>In your next regular <abbr title=\"Full Payment Submission\">FPS</abbr> or an additional <abbr title=\"Full Payment Submission\">FPS</abbr>\n</td>\n    </tr>\n    <tr>\n      <td>You pay your employee an expense or benefit where you must pay National Insurance, but not Income Tax, through payroll. <a href=\"/expenses-and-benefits-a-to-z\">This depends on the benefit</a>.</td>\n      <td>Within 14 days of the end of the tax month</td>\n    </tr>\n    <tr>\n      <td>You cannot calculate or report your employee’s pay in advance because it’s based on their work on the day, for example harvest workers paid based on how much they pick</td>\n      <td>Within 7 days of paying your employee</td>\n    </tr>\n    <tr>\n      <td>You make certain <a href=\"http://www.gov.uk/non-cash-pay-shares-commodities-you-provide-to-your-employees\">non-cash payments</a> to your employee</td>\n      <td>As soon as possible within 14 days of the end of the tax month, or when you deduct tax and National Insurance (if earlier). For complex situations (for example when exercising share options) <a href=\"/government/organisations/hm-revenue-customs/contact/shares-and-assets-valuation-enquiries\">contact <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a>\n</td>\n    </tr>\n    <tr>\n      <td>You’ve not received your employer PAYE reference yet</td>\n      <td>As soon as possible after you receive your employer PAYE reference - select ‘Late reporting reason’ code G</td>\n    </tr>\n    <tr>\n      <td>You are paying foreign tax on your employee’s behalf and it is taking longer than usual to calculate the PAYE and National Insurance contributions on that tax</td>\n      <td>As soon as possible and within 1 month of paying your employee - select ‘Late reporting reason’ code G</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Put the <a href=\"/what-payroll-information-to-report-to-hmrc\">reason for reporting after payday</a> on your <abbr title=\"Full Payment Submission\">FPS</abbr> for each late submission. If you do not, or if <abbr title=\"HM Revenue and Customs\">HMRC</abbr> disagrees with the reason or you do not send an <abbr title=\"Full Payment Submission\">FPS</abbr>, they may send you an online penalty warning message and a penalty.</p>\n\n<h2 id=\"viewing-late-fps-reports-in-your-hmrc-online-account\">Viewing late <abbr title=\"Full Payment Submission\">FPS</abbr> reports in your <abbr title=\"HM Revenue and Customs\">HMRC</abbr> online account</h2>\n\n<p>If you send an <abbr title=\"Full Payment Submission\">FPS</abbr> in the same tax month as you paid your employees, you can view the report in <a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=/business-account/epaye/&amp;origin=PAYE-frontend\">your <abbr title=\"HM Revenue and Customs\">HMRC</abbr> online account</a> from the 10th of the next tax month.</p>\n\n<p>This is different if you send an <abbr title=\"Full Payment Submission\">FPS</abbr> in the tax month after payday.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th scope=\"col\">Late <abbr title=\"Full Payment Submission\">FPS</abbr> sent (in tax month after payday)</th>\n      <th scope=\"col\">\n<abbr title=\"HM Revenue and Customs\">HMRC</abbr> online account updated</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Between 6th and 11th</td>\n      <td>By the 14th</td>\n    </tr>\n    <tr>\n      <td>Between 12th and 19th</td>\n      <td>Within 2 days</td>\n    </tr>\n    <tr>\n      <td>On or after the 20th - and you did not send a <abbr title=\"Full Payment Submission\">FPS</abbr> the previous tax month</td>\n      <td>Within 2 days</td>\n    </tr>\n    <tr>\n      <td>On or after the 20th - and you sent a <abbr title=\"Full Payment Submission\">FPS</abbr> the previous tax month</td>\n      <td>By the 10th of the next tax month</td>\n    </tr>\n  </tbody>\n</table>\n\n",
+        "slug": "fps-after-payday",
+        "title": "Sending an FPS after payday"
+      },
+      {
+        "body": "<p>You need to report more information on a Full Payment Submission (<abbr title=\"Full Payment Submission\">FPS</abbr>) if:</p>\n\n<ul>\n  <li>it includes a <a href=\"/new-employee/registering\">new employee</a>\n</li>\n  <li>an <a href=\"/employee-leaving\">employee leaves</a>\n</li>\n  <li>you <a href=\"/what-payroll-information-to-report-to-hmrc\">start paying someone a workplace pension</a>\n</li>\n  <li>it’s the <a href=\"/payroll-annual-reporting/send-your-final-payroll-report\">last report of the tax year</a>\n</li>\n  <li>an employee changes their address</li>\n</ul>\n\n<p>You may also need to tell HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) if an employee:</p>\n\n<ul>\n  <li><a href=\"/employee-directors\">becomes a director</a></li>\n  <li><a href=\"/employee-reaches-state-pension-age\">reaches State Pension age</a></li>\n  <li>goes to <a href=\"/paying-employees-working-abroad\">work abroad</a>\n</li>\n  <li>goes on <a href=\"/giving-staff-time-off-jury-service/paying-staff-on-jury-service\">jury service</a>\n</li>\n  <li><a href=\"/what-to-do-when-an-employee-dies/paying-employee-died\">has died</a></li>\n  <li>joins or leaves a <a href=\"/payroll-pension-scheme\">contracted-out company pension</a>\n</li>\n  <li><a href=\"/child-employment\">turns 16</a></li>\n  <li>is <a href=\"/employee-reservist\">called up as a reservist</a>\n</li>\n  <li><a href=\"/employee-changes-gender\">changes gender</a></li>\n</ul>\n\n<h2 id=\"employee-takes-a-leave-of-absence\">Employee takes a leave of absence</h2>\n\n<p>Once your employee has started their leave of absence, put ‘Yes’ in the ‘Irregular payment pattern indicator’ in all <abbr title=\"Full Payment Submission\">FPS</abbr> reports you send to <abbr title=\"HM Revenue and Customs\">HMRC</abbr> until the employee returns.</p>\n\n",
+        "slug": "reporting-employee-changes",
+        "title": "Reporting employee changes"
+      },
+      {
+        "body": "<p>You can move your payday to a different day or change how often you pay your employees.</p>\n\n<h2 id=\"moving-your-payday\">Moving your payday</h2>\n\n<p>If the new payday is in the same tax month or week, treat the first new payment as an extra payment for that period.</p>\n\n<p>You do not need to do anything special when recording pay if the new payday is in a different tax month or week.</p>\n\n<p>HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) has guidance on how to <a href=\"/aligning-payroll-to-the-correct-tax-period\">calculate National Insurance for your employees after changing paydays</a>.</p>\n\n<h2 id=\"changing-how-often-you-pay-your-employees\">Changing how often you pay your employees</h2>\n\n<p>You must <a href=\"/contact/hm-revenue-customs/employer-enquiries\">contact the employer helpline</a> if you pay employees less often so <abbr title=\"HM Revenue and Customs\">HMRC</abbr> do not send you a non-filing notice through <a href=\"/paye-online\"><abbr title=\"Pay As You Earn\">PAYE</abbr> Online</a>.</p>\n\n<p>Most payroll software can automatically manage any changes to how often you pay your employees (for example from monthly to weekly) and work out deductions correctly.</p>\n\n<h3 id=\"using-basic-paye-tools\">Using Basic <abbr title=\"Pay As You Earn\">PAYE</abbr> Tools</h3>\n\n<p>There are some limitations on when you can make these changes if you use HM Revenue and Customs’ (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) Basic <abbr title=\"Pay As You Earn\">PAYE</abbr> Tools.</p>\n\n<h3 id=\"paying-your-employees-more-often\">Paying your employees more often</h3>\n\n<p>If you’ve not already paid your employees, use the new earnings period (in the ‘Pay frequency’ field) in your Full Payment Submission (<abbr title=\"Full Payment Submission\">FPS</abbr>) when you next pay them.</p>\n\n<p>If you’ve paid your employees, you can use the new earnings period from the next tax month.</p>\n\n<h3 id=\"paying-your-employees-less-often\">Paying your employees less often</h3>\n\n<p>If a payment from your old pay period also takes place in your new pay period, calculate and deduct National Insurance on both. Do not deduct more National Insurance than would’ve been due on the combined total of both payments.</p>\n\n<p>If an employee also joins your contracted-out pension scheme during this period, deduct National Insurance at the contracted-out rate on the total of both payments.</p>\n\n<p>Deduct tax based on the new earnings period the next time you pay your employees.</p>\n\n<h2 id=\"annual-payroll-scheme-for-paye\">Annual payroll scheme for <abbr title=\"Pay As You Earn\">PAYE</abbr>\n</h2>\n\n<p>If you pay your employees only once a year, and all in the same tax month, you can register with <abbr title=\"HM Revenue and Customs\">HMRC</abbr> as an ‘annual scheme’.</p>\n\n<p>This means you send reports and make payments to <abbr title=\"HM Revenue and Customs\">HMRC</abbr> annually. If you pay your employees on different days in the same tax month, you need to send an <abbr title=\"Full Payment Submission\">FPS</abbr> on or before each payday. You do not need to send an Employer Payment Summary (<abbr title=\"Employer Payment Summary\">EPS</abbr>) for the months when you do not pay your employees.</p>\n\n<p>To register, <a href=\"/government/organisations/hm-revenue-customs/contact/employer-enquiries\">contact the employer helpline</a> and tell them which month you pay your employees. You’ll need your 13-character Accounts Office reference number - this is on the letter <abbr title=\"HM Revenue and Customs\">HMRC</abbr> sent you when you registered as an employer.</p>\n\n<h3 id=\"changing-when-you-pay-your-employees\">Changing when you pay your employees</h3>\n\n<p>If you change the month you pay your employees, send an <abbr title=\"Full Payment Submission\">FPS</abbr> in the month that you want the new annual payment month to move to. If it’s later than the month you usually pay your employees, you’ll need to send an <abbr title=\"Employer Payment Summary\">EPS</abbr> for that month to tell <abbr title=\"HM Revenue and Customs\">HMRC</abbr> you’re not paying anyone.</p>\n\n<div class=\"example\">\n<h3 id=\"example\">Example</h3>\n\n<p>If you usually pay your employees in August but want to change to September, send an EPS in August and an FPS in September.</p>\n</div>\n\n<p>If you send more than one <abbr title=\"Full Payment Submission\">FPS</abbr> in a year, <abbr title=\"HM Revenue and Customs\">HMRC</abbr> will assume you no longer wish to operate as an annual scheme and send you a letter to confirm.</p>\n\n",
+        "slug": "changing-paydays",
+        "title": "Changing paydays"
+      }
+    ]
+  },
+  "document_type": "guide",
+  "first_published_at": "2014-06-12T11:50:05Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/running-payroll",
+        "api_url": "https://www.gov.uk/api/content/running-payroll",
+        "base_path": "/running-payroll",
+        "content_id": "88309f75-af24-42e9-b30d-e36157cf918b",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-29T13:39:14Z",
+        "schema_name": "guide",
+        "title": "Running payroll",
+        "web_url": "https://www.gov.uk/running-payroll",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/paye-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/paye-detailed-information",
+        "base_path": "/government/collections/paye-detailed-information",
+        "content_id": "4da52a69-6e30-4d2a-898f-321f600b45b2",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/running-payroll",
+              "api_url": "https://www.gov.uk/api/content/running-payroll",
+              "base_path": "/running-payroll",
+              "content_id": "88309f75-af24-42e9-b30d-e36157cf918b",
+              "document_type": "guide",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-04-29T13:39:14Z",
+              "schema_name": "guide",
+              "title": "Running payroll",
+              "web_url": "https://www.gov.uk/running-payroll",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-08T00:00:00Z",
+        "schema_name": "document_collection",
+        "title": "PAYE: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/paye-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/employing-people/payroll",
+        "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+        "base_path": "/browse/employing-people/payroll",
+        "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+        "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:57:08Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Payroll",
+        "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/paye-for-employers",
+        "api_url": "https://www.gov.uk/api/content/paye-for-employers",
+        "base_path": "/paye-for-employers",
+        "content_id": "3dfcfb7f-9537-4d60-b53e-feff56394dad",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/payroll",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+              "base_path": "/browse/employing-people/payroll",
+              "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+              "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:57:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Payroll",
+              "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-09T15:38:39Z",
+        "schema_name": "guide",
+        "title": "PAYE and payroll for employers",
+        "web_url": "https://www.gov.uk/paye-for-employers",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/national-insurance-rates-letters",
+        "api_url": "https://www.gov.uk/api/content/national-insurance-rates-letters",
+        "base_path": "/national-insurance-rates-letters",
+        "content_id": "0cdbefbb-257a-40f9-97c4-eaef93e163fa",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/payroll",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+              "base_path": "/browse/employing-people/payroll",
+              "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+              "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:57:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Payroll",
+              "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+              "base_path": "/browse/tax/national-insurance",
+              "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+              "description": "Voluntary contributions and credits, numbers, rates and classes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-22T13:10:17Z",
+        "schema_name": "guide",
+        "title": "National Insurance rates and categories",
+        "web_url": "https://www.gov.uk/national-insurance-rates-letters",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/payroll-annual-reporting",
+        "api_url": "https://www.gov.uk/api/content/payroll-annual-reporting",
+        "base_path": "/payroll-annual-reporting",
+        "content_id": "5dd79407-0213-4675-9754-d6cfd1118f87",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/payroll",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+              "base_path": "/browse/employing-people/payroll",
+              "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+              "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:57:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Payroll",
+              "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-13T15:28:10Z",
+        "schema_name": "guide",
+        "title": "Payroll: annual reporting and tasks",
+        "web_url": "https://www.gov.uk/payroll-annual-reporting",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/employing-people/payroll",
+        "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+        "base_path": "/browse/employing-people/payroll",
+        "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+        "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/employing-people",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+              "base_path": "/browse/employing-people",
+              "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+              "description": "Includes pay, contracts, hiring and redundancies",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-07-09T12:54:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Employing people",
+              "web_url": "https://www.gov.uk/browse/employing-people",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:57:08Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Payroll",
+        "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+        "withdrawn": false
+      }
+    ],
+    "part_of_step_navs": [
+      {
+        "api_path": "/api/content/employ-someone",
+        "api_url": "https://www.gov.uk/api/content/employ-someone",
+        "base_path": "/employ-someone",
+        "content_id": "47bcdf4c-9df9-48ff-b1ad-2381ca819464",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/get-ready-to-employ-someone",
+                        "text": "Prepare your business to take on employees"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check your business is ready to employ staff"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You need to advertise the role and interview candidates. You can use a recruitment agency to do this or do it yourself.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "http://www.acas.org.uk/index.aspx?articleid=4217",
+                        "text": "Find out about recruiting someone yourself on Acas"
+                      },
+                      {
+                        "href": "/using-a-recruitment-agency-to-find-staff",
+                        "text": "Find out about using a recruitment agency"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "As an employer you must make sure you recruit employees fairly.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/employer-preventing-discrimination/recruitment",
+                        "text": "Avoid discrimination during recruitment"
+                      },
+                      {
+                        "href": "/reasonable-adjustments-for-disabled-workers",
+                        "text": "Make your application process accessible for employees with disabilities or health conditions"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Recruit someone"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/check-job-applicant-right-to-work",
+                        "text": "Find out how to check an applicant's right to work"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Check they have the right to work in the UK"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You may need to check someone's criminal record, for example, if they'll be working in healthcare or with children.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/dbs-check-applicant-criminal-record",
+                        "text": "Find out if you need a DBS check"
+                      },
+                      {
+                        "href": "/dbs-check-applicant-criminal-record/how-to-apply-for-a-check",
+                        "text": "How to do a DBS check"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Find out if they need a DBS check"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Check if you need to put your employee into a workplace pension scheme:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "https://www.thepensionsregulator.gov.uk/en/employers/new-employers",
+                        "text": "if it's the first time you're employing someone"
+                      },
+                      {
+                        "href": "https://www.thepensionsregulator.gov.uk/en/employers/new-employers/im-an-employer-who-has-to-provide-a-pension/declare-your-compliance/ongoing-duties-for-employers",
+                        "text": "if you already employ people"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "title": "Check if they need to be put into a workplace pension"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "When someone accepts a job offer they have a contract with you as their employer.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/national-minimum-wage-rates",
+                        "text": "Check what the National Minimum Wage is for different ages"
+                      },
+                      {
+                        "href": "/minimum-wage-different-types-work",
+                        "text": "Check what the National Minimum Wage is for different types of work"
+                      },
+                      {
+                        "href": "/employment-contracts-and-conditions/contract-terms",
+                        "text": "Check what to include in a contract"
+                      },
+                      {
+                        "href": "/employment-contracts-and-conditions/written-statement-of-employment-particulars",
+                        "text": "Agree a written statement of employment particulars"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Agree a contract and salary"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You must tell HMRC about your new employee on or before their first pay day.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/new-employee",
+                        "text": "Tell HMRC about a new employee"
+                      },
+                      {
+                        "href": "/new-employee/employee-information",
+                        "text": "Get their personal details and P45 to work out their tax code"
+                      },
+                      {
+                        "href": "/new-employee/late-p45",
+                        "text": "If you don’t have their P45, use HMRC’s ‘starter checklist’"
+                      },
+                      {
+                        "href": "/running-payroll",
+                        "text": "Check what to do when you start paying your employee"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Tell HMRC about your new employee"
+              }
+            ],
+            "title": "Employ someone: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/running-payroll",
+              "api_url": "https://www.gov.uk/api/content/running-payroll",
+              "base_path": "/running-payroll",
+              "content_id": "88309f75-af24-42e9-b30d-e36157cf918b",
+              "document_type": "guide",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-04-29T13:39:14Z",
+              "schema_name": "guide",
+              "title": "Running payroll",
+              "web_url": "https://www.gov.uk/running-payroll",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2021-08-16T12:40:21Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Employ someone: step by step",
+        "web_url": "https://www.gov.uk/employ-someone",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/guidance/what-payroll-information-to-report-to-hmrc",
+        "api_url": "https://www.gov.uk/api/content/guidance/what-payroll-information-to-report-to-hmrc",
+        "base_path": "/guidance/what-payroll-information-to-report-to-hmrc",
+        "content_id": "5f42ce9a-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-04-05T23:15:16Z",
+        "schema_name": "detailed_guide",
+        "title": "Payroll information to report to HMRC",
+        "web_url": "https://www.gov.uk/guidance/what-payroll-information-to-report-to-hmrc",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/paye-for-employers",
+        "api_url": "https://www.gov.uk/api/content/paye-for-employers",
+        "base_path": "/paye-for-employers",
+        "content_id": "3dfcfb7f-9537-4d60-b53e-feff56394dad",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-09T15:38:39Z",
+        "schema_name": "guide",
+        "title": "PAYE and payroll for employers",
+        "web_url": "https://www.gov.uk/paye-for-employers",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/new-employee",
+        "api_url": "https://www.gov.uk/api/content/new-employee",
+        "base_path": "/new-employee",
+        "content_id": "18fca3eb-2975-4b7b-9747-43ef055c63c2",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-16T09:55:52Z",
+        "schema_name": "guide",
+        "title": "Tell HMRC about a new employee",
+        "web_url": "https://www.gov.uk/new-employee",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/payroll-annual-reporting",
+        "api_url": "https://www.gov.uk/api/content/payroll-annual-reporting",
+        "base_path": "/payroll-annual-reporting",
+        "content_id": "5dd79407-0213-4675-9754-d6cfd1118f87",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-13T15:28:10Z",
+        "schema_name": "guide",
+        "title": "Payroll: annual reporting and tasks",
+        "web_url": "https://www.gov.uk/payroll-annual-reporting",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/register-employer",
+        "api_url": "https://www.gov.uk/api/content/register-employer",
+        "base_path": "/register-employer",
+        "content_id": "e9dec029-452d-4008-b363-d56a05e69710",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-10-11T13:33:45Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Register as an employer",
+        "web_url": "https://www.gov.uk/register-employer",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/payroll",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/payroll",
+        "base_path": "/business-and-industry/payroll",
+        "content_id": "2f4d2d6b-e023-4933-bfdf-a23537783f20",
+        "details": {
+          "internal_name": "Payroll",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/employing-people",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/employing-people",
+              "base_path": "/business-and-industry/employing-people",
+              "content_id": "35f5b496-add7-4263-8084-8510461881fe",
+              "details": {
+                "internal_name": "Employing people",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry/running-a-business",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+                    "base_path": "/business-and-industry/running-a-business",
+                    "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+                    "details": {
+                      "internal_name": "Running a business",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/business-and-industry",
+                          "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                          "base_path": "/business-and-industry",
+                          "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Business and industry",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-03T15:41:02Z",
+                          "schema_name": "taxon",
+                          "title": "Business and industry",
+                          "web_url": "https://www.gov.uk/business-and-industry",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Running a business",
+                    "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Employing people",
+              "web_url": "https://www.gov.uk/business-and-industry/employing-people",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:03Z",
+        "schema_name": "taxon",
+        "title": "Payroll",
+        "web_url": "https://www.gov.uk/business-and-industry/payroll",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employment/payroll",
+        "api_url": "https://www.gov.uk/api/content/employment/payroll",
+        "base_path": "/employment/payroll",
+        "content_id": "374b4837-cf2a-4529-a7f1-559d92b3d90d",
+        "details": {
+          "internal_name": "Payroll (level 3, content from mainstream browse, work theme)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/work",
+              "api_url": "https://www.gov.uk/api/content/work",
+              "base_path": "/work",
+              "content_id": "d0f1e5a3-c8f4-4780-8678-994f19104b21",
+              "description": "",
+              "details": {
+                "internal_name": "Work",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:33:40Z",
+              "schema_name": "taxon",
+              "title": "Work",
+              "web_url": "https://www.gov.uk/work",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T11:08:23Z",
+        "schema_name": "taxon",
+        "title": "Payroll",
+        "web_url": "https://www.gov.uk/employment/payroll",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/paye",
+        "api_url": "https://www.gov.uk/api/content/money/paye",
+        "base_path": "/money/paye",
+        "content_id": "86f769e5-f0a9-4d6c-8fbc-602dd5f13ad8",
+        "details": {
+          "internal_name": "PAYE [T] (Level 3)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/business-tax",
+              "api_url": "https://www.gov.uk/api/content/money/business-tax",
+              "base_path": "/money/business-tax",
+              "content_id": "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+              "details": {
+                "internal_name": "Business tax [T] (level 2, money)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:49Z",
+              "schema_name": "taxon",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/money/business-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:49Z",
+        "schema_name": "taxon",
+        "title": "PAYE",
+        "web_url": "https://www.gov.uk/money/paye",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-04-29T13:39:14Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1709115566.760-10.13.21.74-42040",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "guide",
+  "title": "Running payroll",
+  "updated_at": "2024-02-28T10:19:29Z",
+  "withdrawn_notice": {
+  }
+}

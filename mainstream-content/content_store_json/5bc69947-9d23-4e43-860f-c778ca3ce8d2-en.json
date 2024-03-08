@@ -1,0 +1,439 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/sdlt-online",
+  "content_id": "5bc69947-9d23-4e43-860f-c778ca3ce8d2",
+  "description": "Log in to HMRC's Stamp Taxes Online service to file your SDLT return as a solicitor, agent or legal conveyancer",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Log in to the HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) Stamp Taxes Online service to file your Stamp Duty Land Tax (<abbr title=\"Stamp Duty Land Tax\">SDLT</abbr>) return as a solicitor, agent or legal conveyancer.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you’re filing a return for an additional residential property, choose code 04 when you pick a property type.</p>\n</div>\n\n",
+    "more_information": "<p>You need to <a href=\"/stamp-taxes-online-how-to-register\">register for Stamp Taxes Online</a> before you can file your <abbr title=\"Stamp Duty Land Tax\">SDLT</abbr> returns online.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You cannot use the online service if you’re an individual buying property and you aren’t represented by a solicitor, agent or legal conveyancer. <a href=\"/sdlt-completing-the-paper-return\">Complete a paper return</a> instead.</p>\n</div>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.tax.service.gov.uk/gg/sign-in?continue=/stamp-taxes/&origin=STAMP-frontend",
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2014-12-23T17:00:52Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/sdlt-online",
+        "api_url": "https://www.gov.uk/api/content/sdlt-online",
+        "base_path": "/sdlt-online",
+        "content_id": "5bc69947-9d23-4e43-860f-c778ca3ce8d2",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-24T14:01:34Z",
+        "schema_name": "transaction",
+        "title": "Log in and file your Stamp Duty Land Tax return",
+        "web_url": "https://www.gov.uk/sdlt-online",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/stamp-duty-and-other-tax-on-property-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/stamp-duty-and-other-tax-on-property-detailed-information",
+        "base_path": "/government/collections/stamp-duty-and-other-tax-on-property-detailed-information",
+        "content_id": "1e6ffeba-bc5d-441e-86d2-fe406a3c6f25",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/sdlt-online",
+              "api_url": "https://www.gov.uk/api/content/sdlt-online",
+              "base_path": "/sdlt-online",
+              "content_id": "5bc69947-9d23-4e43-860f-c778ca3ce8d2",
+              "document_type": "transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2014-12-24T14:01:34Z",
+              "schema_name": "transaction",
+              "title": "Log in and file your Stamp Duty Land Tax return",
+              "web_url": "https://www.gov.uk/sdlt-online",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-05T17:29:17Z",
+        "schema_name": "document_collection",
+        "title": "Stamp duty and other tax on property: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/stamp-duty-and-other-tax-on-property-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/guidance/stamp-taxes-online-how-to-register",
+        "api_url": "https://www.gov.uk/api/content/guidance/stamp-taxes-online-how-to-register",
+        "base_path": "/guidance/stamp-taxes-online-how-to-register",
+        "content_id": "6053f23f-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-01-11T11:42:19Z",
+        "schema_name": "detailed_guide",
+        "title": "How to register for the Stamp Taxes for Agents online service",
+        "web_url": "https://www.gov.uk/guidance/stamp-taxes-online-how-to-register",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/guidance/stamp-duty-land-tax-online-and-paper-returns",
+        "api_url": "https://www.gov.uk/api/content/guidance/stamp-duty-land-tax-online-and-paper-returns",
+        "base_path": "/guidance/stamp-duty-land-tax-online-and-paper-returns",
+        "content_id": "5033eddb-28d4-4b98-a66b-3c5698dac4dd",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-03-23T14:53:55Z",
+        "schema_name": "detailed_guide",
+        "title": "Stamp Duty Land Tax online and paper returns",
+        "web_url": "https://www.gov.uk/guidance/stamp-duty-land-tax-online-and-paper-returns",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/stamp-duty-land-tax",
+        "api_url": "https://www.gov.uk/api/content/stamp-duty-land-tax",
+        "base_path": "/stamp-duty-land-tax",
+        "content_id": "8f07fc96-7882-481f-9292-df8044a5cea2",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-11-27T12:00:01Z",
+        "schema_name": "guide",
+        "title": "Stamp Duty Land Tax",
+        "web_url": "https://www.gov.uk/stamp-duty-land-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/pay-stamp-duty-land-tax",
+        "api_url": "https://www.gov.uk/api/content/guidance/pay-stamp-duty-land-tax",
+        "base_path": "/guidance/pay-stamp-duty-land-tax",
+        "content_id": "602470b8-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-01-29T12:58:22Z",
+        "schema_name": "detailed_guide",
+        "title": "Pay Stamp Duty Land Tax",
+        "web_url": "https://www.gov.uk/guidance/pay-stamp-duty-land-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/stamp-taxes-online-how-to-register",
+        "api_url": "https://www.gov.uk/api/content/guidance/stamp-taxes-online-how-to-register",
+        "base_path": "/guidance/stamp-taxes-online-how-to-register",
+        "content_id": "6053f23f-7631-11e4-a3cb-005056011aef",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-01-11T11:42:19Z",
+        "schema_name": "detailed_guide",
+        "title": "How to register for the Stamp Taxes for Agents online service",
+        "web_url": "https://www.gov.uk/guidance/stamp-taxes-online-how-to-register",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/sdlt-guide-for-completing-paper-sdlt1-return",
+        "api_url": "https://www.gov.uk/api/content/government/publications/sdlt-guide-for-completing-paper-sdlt1-return",
+        "base_path": "/government/publications/sdlt-guide-for-completing-paper-sdlt1-return",
+        "content_id": "6030218d-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-03-29T10:06:37Z",
+        "schema_name": "publication",
+        "title": "How to complete your Stamp Duty Land Tax SDLT1 paper return",
+        "web_url": "https://www.gov.uk/government/publications/sdlt-guide-for-completing-paper-sdlt1-return",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/business-tax-stamp-taxes-file-your-sdlt-return",
+        "api_url": "https://www.gov.uk/api/content/money/business-tax-stamp-taxes-file-your-sdlt-return",
+        "base_path": "/money/business-tax-stamp-taxes-file-your-sdlt-return",
+        "content_id": "3cd17485-f0d6-4de8-ba15-57b29c9d6f7d",
+        "details": {
+          "internal_name": "Filing a SDLT return [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/stamp-taxes",
+              "api_url": "https://www.gov.uk/api/content/money/stamp-taxes",
+              "base_path": "/money/stamp-taxes",
+              "content_id": "9cf64a4b-68cc-4723-8659-cd88523ce910",
+              "details": {
+                "internal_name": "Stamp duty and other tax on property [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money/business-tax",
+                    "api_url": "https://www.gov.uk/api/content/money/business-tax",
+                    "base_path": "/money/business-tax",
+                    "content_id": "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+                    "details": {
+                      "internal_name": "Business tax [T] (level 2, money)",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/money",
+                          "api_url": "https://www.gov.uk/api/content/money",
+                          "base_path": "/money",
+                          "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Money",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T20:35:25Z",
+                          "schema_name": "taxon",
+                          "title": "Money",
+                          "web_url": "https://www.gov.uk/money",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-05T16:19:49Z",
+                    "schema_name": "taxon",
+                    "title": "Business tax",
+                    "web_url": "https://www.gov.uk/money/business-tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:51Z",
+              "schema_name": "taxon",
+              "title": "Stamp duty and other tax on property",
+              "web_url": "https://www.gov.uk/money/stamp-taxes",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:51Z",
+        "schema_name": "taxon",
+        "title": "Filing a SDLT return",
+        "web_url": "https://www.gov.uk/money/business-tax-stamp-taxes-file-your-sdlt-return",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/stamp-taxes",
+        "api_url": "https://www.gov.uk/api/content/money/stamp-taxes",
+        "base_path": "/money/stamp-taxes",
+        "content_id": "9cf64a4b-68cc-4723-8659-cd88523ce910",
+        "details": {
+          "internal_name": "Stamp duty and other tax on property [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/business-tax",
+              "api_url": "https://www.gov.uk/api/content/money/business-tax",
+              "base_path": "/money/business-tax",
+              "content_id": "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+              "details": {
+                "internal_name": "Business tax [T] (level 2, money)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:49Z",
+              "schema_name": "taxon",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/money/business-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:51Z",
+        "schema_name": "taxon",
+        "title": "Stamp duty and other tax on property",
+        "web_url": "https://www.gov.uk/money/stamp-taxes",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2014-12-24T14:01:34Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "17669-1530116870.628-213.86.153.212-7196",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Log in and file your Stamp Duty Land Tax return",
+  "updated_at": "2024-02-06T14:50:28Z",
+  "withdrawn_notice": {
+  }
+}

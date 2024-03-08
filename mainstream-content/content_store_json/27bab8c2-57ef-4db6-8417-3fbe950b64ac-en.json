@@ -1,0 +1,734 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/find-bereavement-services-from-council",
+  "content_id": "27bab8c2-57ef-4db6-8417-3fbe950b64ac",
+  "description": "Contact your council to find resources and support to help when you have to cope with a death",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Contact your council to find resources and support to help in times of bereavement.</p>\n",
+    "lgil_code": 8,
+    "lgsl_code": 328,
+    "more_information": "<h2 id=\"if-you-live-in-scotland-or-northern-ireland\">If you live in Scotland or Northern Ireland</h2>\n\n<p>Find out what help is available in:</p>\n\n<ul>\n  <li>\n    <p><a rel=\"external\" href=\"https://www.mygov.scot/bereavement-support/\">Scotland</a></p>\n  </li>\n  <li>\n    <p><a rel=\"external\" href=\"https://www.nidirect.gov.uk/contacts/bereavement-service\">Northern Ireland</a></p>\n  </li>\n</ul>\n",
+    "need_to_know": "<ul>\n  <li>Available in England and Wales only</li>\n</ul>\n",
+    "service_tiers": [
+      "district",
+      "unitary"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2012-01-23T09:51:30Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/find-bereavement-services-from-council",
+        "api_url": "https://www.gov.uk/api/content/find-bereavement-services-from-council",
+        "base_path": "/find-bereavement-services-from-council",
+        "content_id": "27bab8c2-57ef-4db6-8417-3fbe950b64ac",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-02-15T17:03:13Z",
+        "schema_name": "local_transaction",
+        "title": "Find bereavement services from your council",
+        "web_url": "https://www.gov.uk/find-bereavement-services-from-council",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/births-deaths-marriages/death",
+        "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/death",
+        "base_path": "/browse/births-deaths-marriages/death",
+        "content_id": "0384fade-ef89-4dd7-8578-3df1d1699fa4",
+        "description": "Reporting a death, wills, probate and Inheritance Tax",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:22Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Death and bereavement",
+        "web_url": "https://www.gov.uk/browse/births-deaths-marriages/death",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/after-a-death",
+        "api_url": "https://www.gov.uk/api/content/after-a-death",
+        "base_path": "/after-a-death",
+        "content_id": "1b5474c1-54ec-44e3-8319-b805264fe58c",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/register-offices",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/register-offices",
+              "base_path": "/browse/births-deaths-marriages/register-offices",
+              "content_id": "553aa169-abde-4733-a84b-61fac93fe75e",
+              "description": "Birth certificates, registering a death, marriage, family history and correcting certificates",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Certificates, register offices, changes of name or gender",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/register-offices",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/death",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/death",
+              "base_path": "/browse/births-deaths-marriages/death",
+              "content_id": "0384fade-ef89-4dd7-8578-3df1d1699fa4",
+              "description": "Reporting a death, wills, probate and Inheritance Tax",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:22Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Death and bereavement",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/death",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-15T09:00:01Z",
+        "schema_name": "guide",
+        "title": "What to do after someone dies",
+        "web_url": "https://www.gov.uk/after-a-death",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1342",
+        "api_path": "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "base_path": "/government/organisations/department-for-levelling-up-housing-and-communities",
+        "content_id": "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+        "details": {
+          "acronym": "DLUHC",
+          "brand": "department-for-levelling-up-housing-and-communities",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for Levelling Up,<br/>Housing &amp; Communities"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Levelling Up, Housing and Communities ",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/births-deaths-marriages/death",
+        "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/death",
+        "base_path": "/browse/births-deaths-marriages/death",
+        "content_id": "0384fade-ef89-4dd7-8578-3df1d1699fa4",
+        "description": "Reporting a death, wills, probate and Inheritance Tax",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+              "base_path": "/browse/births-deaths-marriages",
+              "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+              "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:19:57Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Births, deaths, marriages and care",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:22Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Death and bereavement",
+        "web_url": "https://www.gov.uk/browse/births-deaths-marriages/death",
+        "withdrawn": false
+      }
+    ],
+    "part_of_step_navs": [
+      {
+        "api_path": "/api/content/when-someone-dies",
+        "api_url": "https://www.gov.uk/api/content/when-someone-dies",
+        "base_path": "/when-someone-dies",
+        "content_id": "4f1fe77d-f43b-4581-baf9-e2600e2a2b7a",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/after-a-death",
+                        "text": "Register the death within 5 days"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "Check what to do if: ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/after-a-death/when-a-death-is-reported-to-a-coroner",
+                        "text": "the death has been reported to a coroner"
+                      },
+                      {
+                        "href": "/after-a-death/death-abroad",
+                        "text": "the death happened outside the UK"
+                      },
+                      {
+                        "href": "/register-stillbirth",
+                        "text": "you're registering a stillbirth"
+                      },
+                      {
+                        "href": "/get-declaration-presumed-death",
+                        "text": "someone is missing and you think they're dead"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "title": "Register the death"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "The Tell Us Once service allows you to inform all the relevant government departments when someone dies.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/after-a-death/organisations-you-need-to-contact-and-tell-us-once",
+                        "text": "Use the Tell Us Once service to tell government"
+                      },
+                      {
+                        "href": "/after-a-death/report-without-tell-us-once",
+                        "text": "If you cannot use Tell Us Once, tell government yourself"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You'll also need to tell banks, utility companies, and landlords or housing associations yourself.",
+                    "type": "paragraph"
+                  }
+                ],
+                "title": "Tell government about the death"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/after-a-death/arrange-the-funeral",
+                        "text": "Arrange the funeral"
+                      },
+                      {
+                        "href": "/funeral-payments",
+                        "text": "Get help paying for a funeral"
+                      },
+                      {
+                        "href": "/child-funeral-costs",
+                        "text": "Get help paying for a child's funeral"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Arrange the funeral"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You might be eligible for financial help. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "Check if you can get:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/bereavement-support-payment",
+                        "text": "Bereavement Support Payment if your partner has died"
+                      },
+                      {
+                        "href": "/parental-bereavement-pay-leave",
+                        "text": "Statutory Parental Bereavement Pay and Leave if your child has died or you’ve had a stillbirth"
+                      },
+                      {
+                        "href": "/guardians-allowance",
+                        "text": "Guardian's Allowance if you're bringing up a child whose parents have died"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "title": "Check if you can get bereavement benefits"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Your tax, benefit claims and pension might change depending on your relationship with the person who died.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/death-spouse-benefits-tax-pension",
+                        "text": "Manage your tax, pensions and benefits if your partner has died"
+                      },
+                      {
+                        "href": "/after-a-death/if-a-child-or-baby-dies",
+                        "text": "Check how benefits are affected if a child dies"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Deal with your own benefits, pension and taxes"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Get help with managing grief and the things you need to do when someone dies.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/after-a-death/bereavement-help-and-support",
+                        "text": "Find bereavement help and support"
+                      },
+                      {
+                        "href": "/find-bereavement-services-from-council",
+                        "text": "Find bereavement services from your local council"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Find bereavement support and services"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "If your right to live in the UK depends on your relationship with someone who died you might need to apply for a new visa.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "text": "Check the rules if:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/visas-partner-dies",
+                        "text": "you're in the UK as the partner of a British Citizen or someone with indefinite leave to remain"
+                      },
+                      {
+                        "href": "/government/publications/hm-forces-partners-and-children",
+                        "text": "your partner who died served as a member of HM Forces"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "https://www.gov.uk/contact-ukvi-inside-outside-uk",
+                        "text": "Contact UKVI to check the rules for other visas"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Check if you need to apply to stay in the UK"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "To find out if there’s Inheritance Tax to pay, you need to estimate the value of the property, money and possessions (the ‘estate’) of the person who died.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/valuing-estate-of-someone-who-died",
+                        "text": "Estimate the value of the estate to find out if you need to pay Inheritance Tax"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/valuing-estate-of-someone-who-died/check-type-of-estate",
+                        "text": "Find out how to report the value of the estate"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/valuing-estate-of-someone-who-died/inheritance-tax-to-pay",
+                        "text": "Pay Inheritance Tax if it’s due"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Value the estate and check if you need to pay Inheritance Tax"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You might need to apply for probate before you can deal with the property, money and possessions (the ‘estate’) of the person who died.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/applying-for-probate?step-by-step-nav=4f1fe77d-f43b-4581-baf9-e2600e2a2b7a",
+                        "text": "Check if you need to apply for probate"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/applying-for-probate/apply-for-probate",
+                        "text": "Apply for probate"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Apply for probate"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Pay any debts or taxes owed by the person who's died. You can then distribute the estate as set out in the will or the law. ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/probate-estate",
+                        "text": "Deal with the estate"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/update-property-records-someone-dies",
+                        "text": "Update property records"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Deal with the estate"
+              }
+            ],
+            "title": "What to do when someone dies: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_part_of_step_nav": [
+            {
+              "api_path": "/api/content/find-bereavement-services-from-council",
+              "api_url": "https://www.gov.uk/api/content/find-bereavement-services-from-council",
+              "base_path": "/find-bereavement-services-from-council",
+              "content_id": "27bab8c2-57ef-4db6-8417-3fbe950b64ac",
+              "document_type": "local_transaction",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2017-02-15T17:03:13Z",
+              "schema_name": "local_transaction",
+              "title": "Find bereavement services from your council",
+              "web_url": "https://www.gov.uk/find-bereavement-services-from-council",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-01-09T16:11:45Z",
+        "schema_name": "step_by_step_nav",
+        "title": "What to do when someone dies: step by step",
+        "web_url": "https://www.gov.uk/when-someone-dies",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/funeral-payments",
+        "api_url": "https://www.gov.uk/api/content/funeral-payments",
+        "base_path": "/funeral-payments",
+        "content_id": "28774875-4c69-41f0-a9a3-49abb015b34d",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-12T14:56:21Z",
+        "schema_name": "guide",
+        "title": "Get help with funeral costs (Funeral Expenses Payment)",
+        "web_url": "https://www.gov.uk/funeral-payments",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/bereavement-support-payment",
+        "api_url": "https://www.gov.uk/api/content/bereavement-support-payment",
+        "base_path": "/bereavement-support-payment",
+        "content_id": "2a647198-680e-481a-815e-04d524210b8a",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-07-17T15:44:32Z",
+        "schema_name": "guide",
+        "title": "Bereavement Support Payment",
+        "web_url": "https://www.gov.uk/bereavement-support-payment",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/after-a-death",
+        "api_url": "https://www.gov.uk/api/content/after-a-death",
+        "base_path": "/after-a-death",
+        "content_id": "1b5474c1-54ec-44e3-8319-b805264fe58c",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-15T09:00:01Z",
+        "schema_name": "guide",
+        "title": "What to do after someone dies",
+        "web_url": "https://www.gov.uk/after-a-death",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/applying-for-probate",
+        "api_url": "https://www.gov.uk/api/content/applying-for-probate",
+        "base_path": "/applying-for-probate",
+        "content_id": "c25b48e9-bdae-4870-845d-5a67c1189fe1",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-12T08:00:01Z",
+        "schema_name": "guide",
+        "title": "Applying for probate",
+        "web_url": "https://www.gov.uk/applying-for-probate",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/death-spouse-benefits-tax-pension",
+        "api_url": "https://www.gov.uk/api/content/death-spouse-benefits-tax-pension",
+        "base_path": "/death-spouse-benefits-tax-pension",
+        "content_id": "19820354-dadf-4bc4-b195-d16eb51b953e",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-07-02T10:51:58Z",
+        "schema_name": "guide",
+        "title": "Your benefits, tax and pension after the death of a partner",
+        "web_url": "https://www.gov.uk/death-spouse-benefits-tax-pension",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/life-circumstances/death",
+        "api_url": "https://www.gov.uk/api/content/life-circumstances/death",
+        "base_path": "/life-circumstances/death",
+        "content_id": "0fffa994-b76d-4539-8bf9-2a6c6751580d",
+        "details": {
+          "internal_name": "Death and bereavement [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/life-circumstances",
+              "api_url": "https://www.gov.uk/api/content/life-circumstances",
+              "base_path": "/life-circumstances",
+              "content_id": "20086ead-41fc-49cf-8a62-d4e1126f41fc",
+              "description": "",
+              "details": {
+                "internal_name": "Life circumstances",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:33:11Z",
+              "schema_name": "taxon",
+              "title": "Life circumstances",
+              "web_url": "https://www.gov.uk/life-circumstances",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T08:43:13Z",
+        "schema_name": "taxon",
+        "title": "Death and bereavement",
+        "web_url": "https://www.gov.uk/life-circumstances/death",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-02-15T17:03:13Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "3587-1645025072.234-10.13.1.43-8242",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Find bereavement services from your council",
+  "updated_at": "2024-03-01T15:59:47Z",
+  "withdrawn_notice": {
+  }
+}

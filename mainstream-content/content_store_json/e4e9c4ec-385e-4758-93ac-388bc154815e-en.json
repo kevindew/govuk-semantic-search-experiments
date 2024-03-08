@@ -1,0 +1,285 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/log-in-hmrc-excise-import-export",
+  "content_id": "e4e9c4ec-385e-4758-93ac-388bc154815e",
+  "description": "Sign in to Intrastat, eBTI and New Export System and other excise, import and export services",
+  "details": {
+    "body": "<p>You can sign in for the following services:</p>\n\n<ul>\n  <li>Alcohol and Tobacco Warehousing</li>\n  <li>Excise Movement and Control System (EMCS)</li>\n  <li>EC Sales List (ECSL) Service</li>\n  <li>Gambling Tax Service</li>\n  <li>Import Control System (ICS)</li>\n  <li>Machine Games Duty</li>\n  <li>NCTS</li>\n  <li>Notification of Vehicles Online (NOVA)</li>\n  <li>Protection of Intellectual Property Rights</li>\n  <li>VAT EU Refunds</li>\n  <li>VAT One Stop Shop (VAT MOSS)</li>\n</ul>\n\n<p><a class=\"gem-c-button govuk-button govuk-button--start\" role=\"button\" data-module=\"govuk-button\" draggable=\"false\" href=\"https://online.hmrc.gov.uk\"><span> Sign in </span><svg class=\"govuk-button__start-icon govuk-!-display-none-print\" xmlns=\"http://www.w3.org/2000/svg\" width=\"17.5\" height=\"19\" viewbox=\"0 0 33 40\" focusable=\"false\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M0 0h13l20 20-20 20H0l20-20z\"></path></svg></a></p>\n\n<h2 id=\"services-with-a-different-login\">Services with a different login</h2>\n\n<p>You sign in a different way for:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"https://secure.hmce.gov.uk/ecom/login/index.html\">Duty Deferment Electronic Statements (DDES) Service</a></li>\n  <li><a rel=\"external\" href=\"https://secure.hmce.gov.uk/ecom/is2/static/is2.html\">Intrastat</a></li>\n  <li><a rel=\"external\" href=\"https://secure.hmce.gov.uk/ecom/login/index.html\">National Export System (NES)</a></li>\n  <li><a rel=\"external\" href=\"https://secure.hmce.gov.uk/ecom/login/index.html\">Rebated Oils Enquiry Service</a></li>\n  <li><a rel=\"external\" href=\"https://secure.hmce.gov.uk/ecom/login/index.html\">Rebated Oils Return Internet Upload Service</a></li>\n  <li><a rel=\"external\" href=\"https://secure.hmce.gov.uk/ecom/login/index.html\">Registered Dealers in Controlled Oils (RDCO)</a></li>\n  <li><a rel=\"external\" href=\"https://secure.hmce.gov.uk/ecom/login/index.html\">Tied Oil Enquiry Service</a></li>\n  <li>VAT and <a href=\"/log-in-register-hmrc-online-services\">all other services</a>\n</li>\n</ul>\n\n",
+    "external_related_links": [
+      {
+        "title": "HMRC service availability",
+        "url": "http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&_pageLabel=pageOnlineServices_ShowContent&propertyType=document&id=HMCE_MIG_009921"
+      },
+      {
+        "title": "HMRC service issues",
+        "url": "http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&_pageLabel=pageOnlineServices_ShowContent&propertyType=document&id=HMCE_PROD1_028772"
+      }
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2015-08-07T09:58:08Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/log-in-hmrc-excise-import-export",
+        "api_url": "https://www.gov.uk/api/content/log-in-hmrc-excise-import-export",
+        "base_path": "/log-in-hmrc-excise-import-export",
+        "content_id": "e4e9c4ec-385e-4758-93ac-388bc154815e",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-02-22T12:51:15Z",
+        "schema_name": "answer",
+        "title": "Sign in to HMRC excise, import and export services",
+        "web_url": "https://www.gov.uk/log-in-hmrc-excise-import-export",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/log-in-register-hmrc-online-services",
+        "api_url": "https://www.gov.uk/api/content/log-in-register-hmrc-online-services",
+        "base_path": "/log-in-register-hmrc-online-services",
+        "content_id": "632d1ae0-0340-4a23-87b0-595bb596e5f4",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-19T15:32:12Z",
+        "schema_name": "guide",
+        "title": "HMRC online services: sign in or set up an account",
+        "web_url": "https://www.gov.uk/log-in-register-hmrc-online-services",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/personal-tax-account",
+        "api_url": "https://www.gov.uk/api/content/personal-tax-account",
+        "base_path": "/personal-tax-account",
+        "content_id": "f4f2c99e-6d0a-4f2f-b3d0-ff2d00e33887",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-12T10:04:48Z",
+        "schema_name": "answer",
+        "title": "Personal tax account: sign in or set up",
+        "web_url": "https://www.gov.uk/personal-tax-account",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/log-in-file-self-assessment-tax-return",
+        "api_url": "https://www.gov.uk/api/content/log-in-file-self-assessment-tax-return",
+        "base_path": "/log-in-file-self-assessment-tax-return",
+        "content_id": "6a2bf66e-2313-4204-afd5-9940de5e1d66",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-15T16:17:28Z",
+        "schema_name": "answer",
+        "title": "File your Self Assessment tax return online",
+        "web_url": "https://www.gov.uk/log-in-file-self-assessment-tax-return",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/sign-in-vat-account",
+        "api_url": "https://www.gov.uk/api/content/sign-in-vat-account",
+        "base_path": "/sign-in-vat-account",
+        "content_id": "1ff456ee-52a5-4032-8872-953f553d5f33",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-28T10:27:11Z",
+        "schema_name": "transaction",
+        "title": "Sign in to your VAT online account",
+        "web_url": "https://www.gov.uk/sign-in-vat-account",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/self-assessment-tax-returns",
+        "api_url": "https://www.gov.uk/api/content/self-assessment-tax-returns",
+        "base_path": "/self-assessment-tax-returns",
+        "content_id": "f29ca4a8-8ed9-4b0f-bb6a-11e373095dee",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-17T10:55:14Z",
+        "schema_name": "guide",
+        "title": "Self Assessment tax returns",
+        "web_url": "https://www.gov.uk/self-assessment-tax-returns",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/customs-declarations-duties-tariffs",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/customs-declarations-duties-tariffs",
+        "base_path": "/business-and-industry/customs-declarations-duties-tariffs",
+        "content_id": "5984199c-d85c-4ffc-b13a-c5f2482d2258",
+        "description": "",
+        "details": {
+          "internal_name": "Customs declarations, duties and tariffs (import and export)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/trade-and-investment",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/trade-and-investment",
+              "base_path": "/business-and-industry/trade-and-investment",
+              "content_id": "ed2ca1f7-5463-4eda-9324-b597e269e242",
+              "details": {
+                "internal_name": "Trade and investment",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                    "base_path": "/business-and-industry",
+                    "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Business and industry",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Business and industry",
+                    "web_url": "https://www.gov.uk/business-and-industry",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:05Z",
+              "schema_name": "taxon",
+              "title": "Trade and investment",
+              "web_url": "https://www.gov.uk/business-and-industry/trade-and-investment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-07T09:44:16Z",
+        "schema_name": "taxon",
+        "title": "Customs declarations, duties and tariffs (import and export)",
+        "web_url": "https://www.gov.uk/business-and-industry/customs-declarations-duties-tariffs",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-02-22T12:51:15Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1709290091.118-10.13.21.74-8950",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Sign in to HMRC excise, import and export services",
+  "updated_at": "2024-03-01T10:48:11Z",
+  "withdrawn_notice": {
+  }
+}

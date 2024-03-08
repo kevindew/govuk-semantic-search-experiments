@@ -1,0 +1,545 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/sa302-tax-calculation",
+  "content_id": "778f10f6-bc1a-48e2-ad30-516ad9f04ccb",
+  "description": "Print your SA302 tax calculation and tax year overview if you're applying for a mortgage and need proof of earnings.",
+  "details": {
+    "body": "\n<div class=\"summary\">\n<p>You can get evidence of your earnings (‘SA302’) for the last 4 years once you’ve sent your <a href=\"/self-assessment-tax-returns\">Self Assessment tax return</a>.</p>\n</div>\n\n<p>You can also get a tax year overview for any year.</p>\n\n<p>You might be asked for these documents as evidence of your income, for example if you’re applying for a mortgage and you’re self-employed.</p>\n\n<p>The tax year is from 6 April to 5 April the following year.</p>\n\n<h2 id=\"printing-your-documents\">Printing your documents</h2>\n\n<p>You can print your own tax calculation and tax year overview if you do your Self Assessment tax return using either:</p>\n\n<ul>\n  <li>HM Revenue and Customs’ (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>’s) online services</li>\n  <li>commercial software</li>\n</ul>\n\n<p>Check that your mortgage provider <a href=\"/government/publications/mortgage-providers-and-lenders-who-accept-a-sa302-tax-calculation-or-tax-year-overview\">accepts documents you’ve printed yourself</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You cannot print your documents until 72 hours after you sent your tax return.</p>\n</div>\n\n<h3 id=\"if-you-use-hmrcs-online-services\">If you use <abbr title=\"HM Revenue and Customs\">HMRC</abbr>’s online services</h3>\n\n<ol class=\"steps\">\n<li>\n<p><a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=/account/&amp;origin=SA-frontend\">Log in to your HMRC online account</a>.</p>\n</li>\n<li>\n<p>Go to ‘Self Assessment’, then ‘More details about your Self Assessment returns and payments’.</p>\n</li>\n</ol>\n\n<h3 id=\"if-you-use-commercial-software\">If you use commercial software</h3>\n\n<p>If you or your accountant use commercial software to do your return, you’ll need to use that software to print your tax calculation. It might be called something different in the software - for example ‘tax computation’.</p>\n\n<p>Contact the company that makes the software if you have trouble printing.</p>\n\n<p>You can still print a tax year overview from your <a rel=\"external\" href=\"https://www.tax.service.gov.uk/gg/sign-in?continue=/account/&amp;origin=SA-frontend\"><abbr title=\"HM Revenue and Customs\">HMRC</abbr> online account.</a></p>\n\n<h3 id=\"contact-hmrc\">Contact <abbr title=\"HM Revenue and Customs\">HMRC</abbr>\n</h3>\n<p>You can <a href=\"/government/organisations/hm-revenue-customs/contact/self-assessment\">contact <abbr title=\"HM Revenue and Customs\">HMRC</abbr></a> if you have any problems getting the documents.</p>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2015-03-19T15:55:14Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/sa302-tax-calculation",
+        "api_url": "https://www.gov.uk/api/content/sa302-tax-calculation",
+        "base_path": "/sa302-tax-calculation",
+        "content_id": "778f10f6-bc1a-48e2-ad30-516ad9f04ccb",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-17T13:42:46Z",
+        "schema_name": "answer",
+        "title": "Get your SA302 tax calculation",
+        "web_url": "https://www.gov.uk/sa302-tax-calculation",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/self-employment-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/self-employment-detailed-information",
+        "base_path": "/government/collections/self-employment-detailed-information",
+        "content_id": "e328a8b7-7f27-47e0-bdfd-e3d72dcdc85f",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/sa302-tax-calculation",
+              "api_url": "https://www.gov.uk/api/content/sa302-tax-calculation",
+              "base_path": "/sa302-tax-calculation",
+              "content_id": "778f10f6-bc1a-48e2-ad30-516ad9f04ccb",
+              "document_type": "answer",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-17T13:42:46Z",
+              "schema_name": "answer",
+              "title": "Get your SA302 tax calculation",
+              "web_url": "https://www.gov.uk/sa302-tax-calculation",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-12T13:17:07Z",
+        "schema_name": "document_collection",
+        "title": "Self-employment: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/self-employment-detailed-information",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/collections/self-assessment-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/self-assessment-detailed-information",
+        "base_path": "/government/collections/self-assessment-detailed-information",
+        "content_id": "74cdc9d3-8864-4032-9a30-08d0d795b0c4",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/sa302-tax-calculation",
+              "api_url": "https://www.gov.uk/api/content/sa302-tax-calculation",
+              "base_path": "/sa302-tax-calculation",
+              "content_id": "778f10f6-bc1a-48e2-ad30-516ad9f04ccb",
+              "document_type": "answer",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-17T13:42:46Z",
+              "schema_name": "answer",
+              "title": "Get your SA302 tax calculation",
+              "web_url": "https://www.gov.uk/sa302-tax-calculation",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-12T12:09:42Z",
+        "schema_name": "document_collection",
+        "title": "Self Assessment: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/self-assessment-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+        "base_path": "/browse/tax/self-assessment",
+        "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+        "description": "Includes filing, deadlines, pay and tax records",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Self Assessment",
+        "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/self-assessment-tax-returns",
+        "api_url": "https://www.gov.uk/api/content/self-assessment-tax-returns",
+        "base_path": "/self-assessment-tax-returns",
+        "content_id": "f29ca4a8-8ed9-4b0f-bb6a-11e373095dee",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/income-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/income-tax",
+              "base_path": "/browse/tax/income-tax",
+              "content_id": "fa069a4b-be51-45dd-a579-d357864986c1",
+              "description": "Includes rates and allowances, tax codes and refunds",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Income Tax",
+              "web_url": "https://www.gov.uk/browse/tax/income-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/self-assessment",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+              "base_path": "/browse/tax/self-assessment",
+              "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+              "description": "Includes filing, deadlines, pay and tax records",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Self Assessment",
+              "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-17T10:55:14Z",
+        "schema_name": "guide",
+        "title": "Self Assessment tax returns",
+        "web_url": "https://www.gov.uk/self-assessment-tax-returns",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/self-assessment",
+        "base_path": "/browse/tax/self-assessment",
+        "content_id": "fecdc8c8-4006-4f8e-95d5-fe40ca49c7a8",
+        "description": "Includes filing, deadlines, pay and tax records",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Self Assessment",
+        "web_url": "https://www.gov.uk/browse/tax/self-assessment",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/log-in-file-self-assessment-tax-return",
+        "api_url": "https://www.gov.uk/api/content/log-in-file-self-assessment-tax-return",
+        "base_path": "/log-in-file-self-assessment-tax-return",
+        "content_id": "6a2bf66e-2313-4204-afd5-9940de5e1d66",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-15T16:17:28Z",
+        "schema_name": "answer",
+        "title": "File your Self Assessment tax return online",
+        "web_url": "https://www.gov.uk/log-in-file-self-assessment-tax-return",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/log-in-register-hmrc-online-services",
+        "api_url": "https://www.gov.uk/api/content/log-in-register-hmrc-online-services",
+        "base_path": "/log-in-register-hmrc-online-services",
+        "content_id": "632d1ae0-0340-4a23-87b0-595bb596e5f4",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-19T15:32:12Z",
+        "schema_name": "guide",
+        "title": "HMRC online services: sign in or set up an account",
+        "web_url": "https://www.gov.uk/log-in-register-hmrc-online-services",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pay-self-assessment-tax-bill",
+        "api_url": "https://www.gov.uk/api/content/pay-self-assessment-tax-bill",
+        "base_path": "/pay-self-assessment-tax-bill",
+        "content_id": "999dd0f5-41d3-4a63-8bb9-f00a68c129a8",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-30T10:52:29Z",
+        "schema_name": "guide",
+        "title": "Pay your Self Assessment tax bill",
+        "web_url": "https://www.gov.uk/pay-self-assessment-tax-bill",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/understand-self-assessment-bill",
+        "api_url": "https://www.gov.uk/api/content/understand-self-assessment-bill",
+        "base_path": "/understand-self-assessment-bill",
+        "content_id": "40dab11d-12c3-4c55-a429-74138c6f7132",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-19T15:57:14Z",
+        "schema_name": "guide",
+        "title": "Understand your Self Assessment tax bill",
+        "web_url": "https://www.gov.uk/understand-self-assessment-bill",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/self-assessment-tax-return-forms",
+        "api_url": "https://www.gov.uk/api/content/self-assessment-tax-return-forms",
+        "base_path": "/self-assessment-tax-return-forms",
+        "content_id": "b005a96f-ebb2-4bb9-a030-b4e59e12918c",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-08T13:33:34Z",
+        "schema_name": "answer",
+        "title": "Self Assessment tax return forms",
+        "web_url": "https://www.gov.uk/self-assessment-tax-return-forms",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/self-assessment",
+        "api_url": "https://www.gov.uk/api/content/money/self-assessment",
+        "base_path": "/money/self-assessment",
+        "content_id": "edb9b4a6-b804-4348-beee-81827c86bf0b",
+        "details": {
+          "internal_name": "Self Assessment [T] (level 2)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:55Z",
+        "schema_name": "taxon",
+        "title": "Self Assessment",
+        "web_url": "https://www.gov.uk/money/self-assessment",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employment/self-employed",
+        "api_url": "https://www.gov.uk/api/content/employment/self-employed",
+        "base_path": "/employment/self-employed",
+        "content_id": "24e91c04-21cb-479a-8f23-df0eaab31788",
+        "description": "List of information about Self-employment.",
+        "details": {
+          "internal_name": "Self-employment [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/work",
+              "api_url": "https://www.gov.uk/api/content/work",
+              "base_path": "/work",
+              "content_id": "d0f1e5a3-c8f4-4780-8678-994f19104b21",
+              "description": "",
+              "details": {
+                "internal_name": "Work",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:33:40Z",
+              "schema_name": "taxon",
+              "title": "Work",
+              "web_url": "https://www.gov.uk/work",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T11:08:22Z",
+        "schema_name": "taxon",
+        "title": "Self-employment",
+        "web_url": "https://www.gov.uk/employment/self-employed",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-06-17T13:42:46Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1701358726.811-10.13.22.47-9538",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Get your SA302 tax calculation",
+  "updated_at": "2024-02-12T14:15:09Z",
+  "withdrawn_notice": {
+  }
+}

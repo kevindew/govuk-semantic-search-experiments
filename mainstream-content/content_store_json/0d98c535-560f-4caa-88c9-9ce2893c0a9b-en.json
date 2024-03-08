@@ -1,0 +1,178 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/report-covid19-result",
+  "content_id": "0d98c535-560f-4caa-88c9-9ce2893c0a9b",
+  "description": "You do not need to report the result from a COVID-19 rapid lateral flow test in England. ",
+  "details": {
+    "body": "<p>You no longer need to report the result from a free NHS rapid lateral flow test if you live in England.</p>\n\n<p>If you have an old free NHS rapid lateral flow test, you can take it but you do not need to report the results.</p>\n\n<p>Find out more about <a rel=\"external\" href=\"https://www.nhs.uk/covid-19-advice-and-services/\">COVID-19 symptoms, testing and vaccination</a> and <a rel=\"external\" href=\"https://www.nhs.uk/conditions/coronavirus-covid-19/how-to-avoid-catching-and-spreading-coronavirus-covid-19/\">how to avoid catching and spreading COVID-19</a>.</p>\n\n<h2 id=\"if-you-live-in-northern-ireland-scotland-or-wales\">If you live in Northern Ireland, Scotland or Wales</h2>\n\n<p>Find out about:</p>\n\n<ul>\n  <li>\n<a rel=\"external\" href=\"https://www.nidirect.gov.uk/covid-19-testing\">COVID-19 testing in Northern Ireland</a> </li>\n  <li><a rel=\"external\" href=\"https://www.nhsinform.scot/covid19\">COVID-19 testing in Scotland</a></li>\n  <li><a rel=\"external\" href=\"https://www.gov.wales/get-tested-coronavirus-covid-19\">COVID-19 testing in Wales</a></li>\n</ul>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2020-12-11T10:10:31Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/report-covid19-result",
+        "api_url": "https://www.gov.uk/api/content/report-covid19-result",
+        "base_path": "/report-covid19-result",
+        "content_id": "0d98c535-560f-4caa-88c9-9ce2893c0a9b",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-01-27T12:32:56Z",
+        "schema_name": "answer",
+        "title": "Report a free NHS COVID-19 rapid lateral flow test result",
+        "web_url": "https://www.gov.uk/report-covid19-result",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D12",
+        "api_path": "/api/content/government/organisations/department-of-health-and-social-care",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-of-health-and-social-care",
+        "base_path": "/government/organisations/department-of-health-and-social-care",
+        "content_id": "7cd6bf12-bbe9-4118-8523-f927b0442156",
+        "details": {
+          "acronym": "DHSC",
+          "brand": "department-of-health",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/62750817e90e070dbf5acad5/s300_DHSC_plaque.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>of Health &amp;<br/>Social Care"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department of Health and Social Care",
+        "web_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/coronavirus-taxon/testing",
+        "api_url": "https://www.gov.uk/api/content/coronavirus-taxon/testing",
+        "base_path": "/coronavirus-taxon/testing",
+        "content_id": "b9ade971-9c53-4318-b95b-906a122ed2f8",
+        "description": "",
+        "details": {
+          "internal_name": "Testing for COVID-19",
+          "notes_for_editors": "",
+          "url_override": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/coronavirus-taxon",
+              "api_url": "https://www.gov.uk/api/content/coronavirus-taxon",
+              "base_path": "/coronavirus-taxon",
+              "content_id": "5b7b9532-a775-4bd2-a3aa-6ce380184b6c",
+              "description": "",
+              "details": {
+                "internal_name": "COVID-19",
+                "notes_for_editors": "",
+                "url_override": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2023-06-05T09:53:55Z",
+              "schema_name": "taxon",
+              "title": "COVID-19",
+              "web_url": "https://www.gov.uk/coronavirus-taxon",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-06-05T09:55:05Z",
+        "schema_name": "taxon",
+        "title": "Testing for COVID-19",
+        "web_url": "https://www.gov.uk/coronavirus-taxon/testing",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2021-01-27T12:32:56Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1707472901.196-10.13.20.204-8323",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Report a free NHS COVID-19 rapid lateral flow test result",
+  "updated_at": "2024-02-15T10:00:04Z",
+  "withdrawn_notice": {
+  }
+}

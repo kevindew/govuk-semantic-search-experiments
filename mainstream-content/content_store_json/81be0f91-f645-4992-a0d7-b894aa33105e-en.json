@@ -1,0 +1,673 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/independent-livingfund",
+  "content_id": "81be0f91-f645-4992-a0d7-b894aa33105e",
+  "description": "The Independent Living Fund (ILF) provided funds to help disabled people live an independent life - closed to new applications, reviews of existing payments",
+  "details": {
+    "body": "<p>The Independent Living Fund (<abbr title=\"Independent Living Fund\">ILF</abbr>) has closed - you cannot make a new claim.</p>\n\n<h2 id=\"england-and-wales\">England and Wales</h2>\n\n<p>Your <a href=\"/find-your-local-council\">local council</a> is responsible for <abbr title=\"Independent Living Fund\">ILF</abbr> payments.</p>\n\n<h2 id=\"scotland-and-northern-ireland\">Scotland and Northern Ireland</h2>\n\n<p><a rel=\"external\" href=\"http://www.gov.scot/Topics/Health/Support-Social-Care/Independent-Living/ScottishIndependentLivingFund\"><abbr title=\"Independent Living Fund\">ILF</abbr> Scotland</a> is responsible for <abbr title=\"Independent Living Fund\">ILF</abbr> payments in Northern Ireland and Scotland.</p>\n\n<h2 id=\"repayments\">Repayments</h2>\n\n<p>If you have any questions about <abbr title=\"Independent Living Fund\">ILF</abbr> repayments, email the Department for Work and Pensions (DWP) at <a href=\"mailto:cru.customerfeedback@dwp.gov.uk\">cru.customerfeedback@dwp.gov.uk</a>.</p>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-01-26T14:04:53Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/independent-livingfund",
+        "api_url": "https://www.gov.uk/api/content/independent-livingfund",
+        "base_path": "/independent-livingfund",
+        "content_id": "81be0f91-f645-4992-a0d7-b894aa33105e",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-30T23:01:01Z",
+        "schema_name": "answer",
+        "title": "Independent Living Fund",
+        "web_url": "https://www.gov.uk/independent-livingfund",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/disabilities/benefits",
+        "api_url": "https://www.gov.uk/api/content/browse/disabilities/benefits",
+        "base_path": "/browse/disabilities/benefits",
+        "content_id": "126f9803-4689-468f-b46e-552ce57e1ee4",
+        "description": "Includes Disability Living Allowance, Employment and Support Allowance and Attendance Allowance",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:50Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial help",
+        "web_url": "https://www.gov.uk/browse/disabilities/benefits",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/apply-for-the-schemes-grants-and-services-available-to-get-financial-support-and-fund-equipment-modifications-to-my-home-etc",
+        "api_url": "https://www.gov.uk/api/content/needs/apply-for-the-schemes-grants-and-services-available-to-get-financial-support-and-fund-equipment-modifications-to-my-home-etc",
+        "base_path": "/needs/apply-for-the-schemes-grants-and-services-available-to-get-financial-support-and-fund-equipment-modifications-to-my-home-etc",
+        "content_id": "add2ac31-202a-4050-af1b-bddc75d2fabd",
+        "details": {
+          "benefit": "can get financial and other help with any challenges to my daily living",
+          "goal": "apply for the schemes, grants and services available to get financial support and fund equipment, modifications to my home etc",
+          "justifications": [
+            "It's something the government provides/does/pays for"
+          ],
+          "met_when": null,
+          "role": "disabled person"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a disabled person, I need to apply for the schemes, grants and services available to get financial support and fund equipment, modifications to my home etc, so that can get financial and other help with any challenges to my daily living (103508)",
+        "web_url": "https://www.gov.uk/needs/apply-for-the-schemes-grants-and-services-available-to-get-financial-support-and-fund-equipment-modifications-to-my-home-etc",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/financial-help-disabled",
+        "api_url": "https://www.gov.uk/api/content/financial-help-disabled",
+        "base_path": "/financial-help-disabled",
+        "content_id": "d1d66f56-3a29-449c-9639-787f02a576e1",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/disability",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/disability",
+              "base_path": "/browse/benefits/disability",
+              "content_id": "55137051-1759-4251-a94c-476239ddfb36",
+              "description": "Help if you're living with a health condition or disability. Includes Employment and Support Allowance (ESA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:16Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're disabled or have a health condition",
+              "web_url": "https://www.gov.uk/browse/benefits/disability",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/disabilities/benefits",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/benefits",
+              "base_path": "/browse/disabilities/benefits",
+              "content_id": "126f9803-4689-468f-b46e-552ce57e1ee4",
+              "description": "Includes Disability Living Allowance, Employment and Support Allowance and Attendance Allowance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial help",
+              "web_url": "https://www.gov.uk/browse/disabilities/benefits",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/armed-forces",
+              "api_url": "https://www.gov.uk/api/content/browse/working/armed-forces",
+              "base_path": "/browse/working/armed-forces",
+              "content_id": "201306e2-65d1-409a-92f6-d266f8151b8d",
+              "description": "Includes reserve forces and armed forces pensions, benefits and financial assistance. ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-10-09T15:02:15Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Armed forces",
+              "web_url": "https://www.gov.uk/browse/working/armed-forces",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-11T16:09:53Z",
+        "schema_name": "guide",
+        "title": "Financial help if you're disabled",
+        "web_url": "https://www.gov.uk/financial-help-disabled",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-a-community-support-group-or-organisation",
+        "api_url": "https://www.gov.uk/api/content/find-a-community-support-group-or-organisation",
+        "base_path": "/find-a-community-support-group-or-organisation",
+        "content_id": "f7bc5569-2c6d-4b2b-bf4a-5792cb3135b8",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/local-councils",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+              "base_path": "/browse/housing-local-services/local-councils",
+              "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+              "description": "Find and access local services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Local councils and services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:26:44Z",
+        "schema_name": "local_transaction",
+        "title": "Find a community support group or organisation",
+        "web_url": "https://www.gov.uk/find-a-community-support-group-or-organisation",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/community-transport-services-shopmobility",
+        "api_url": "https://www.gov.uk/api/content/community-transport-services-shopmobility",
+        "base_path": "/community-transport-services-shopmobility",
+        "content_id": "d44cf55d-54a5-4870-8420-132587d0fe94",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/disabilities/equipment",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/equipment",
+              "base_path": "/browse/disabilities/equipment",
+              "content_id": "48a1a4c2-23ac-44a8-b917-e72f629f2370",
+              "description": "Includes Disabled Students Allowances, Blue Badge and disabled access",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Disability equipment and transport",
+              "web_url": "https://www.gov.uk/browse/disabilities/equipment",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/local-councils",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+              "base_path": "/browse/housing-local-services/local-councils",
+              "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+              "description": "Find and access local services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Local councils and services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:19Z",
+        "schema_name": "local_transaction",
+        "title": "Find out about community transport services and Shopmobility",
+        "web_url": "https://www.gov.uk/community-transport-services-shopmobility",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D10",
+        "api_path": "/api/content/government/organisations/department-for-work-pensions",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-work-pensions",
+        "base_path": "/government/organisations/department-for-work-pensions",
+        "content_id": "b548a09f-8b35-4104-89f4-f1a40bf3136d",
+        "details": {
+          "acronym": "DWP",
+          "brand": "department-for-work-pensions",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab1e5274a7908e35204/s960_dwp-caxton-house-logo-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab040f0b649cfaf7b4b/s300_dwp-caxton-house-logo-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Work &amp; <br/>Pensions"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Work and Pensions",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/disabilities/benefits",
+        "api_url": "https://www.gov.uk/api/content/browse/disabilities/benefits",
+        "base_path": "/browse/disabilities/benefits",
+        "content_id": "126f9803-4689-468f-b46e-552ce57e1ee4",
+        "description": "Includes Disability Living Allowance, Employment and Support Allowance and Attendance Allowance",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/disabilities",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+              "base_path": "/browse/disabilities",
+              "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+              "description": "Includes carers, your rights, benefits and the Equality Act",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:23Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Disabled people",
+              "web_url": "https://www.gov.uk/browse/disabilities",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:50Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial help",
+        "web_url": "https://www.gov.uk/browse/disabilities/benefits",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/financial-help-disabled",
+        "api_url": "https://www.gov.uk/api/content/financial-help-disabled",
+        "base_path": "/financial-help-disabled",
+        "content_id": "d1d66f56-3a29-449c-9639-787f02a576e1",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-11T16:09:53Z",
+        "schema_name": "guide",
+        "title": "Financial help if you're disabled",
+        "web_url": "https://www.gov.uk/financial-help-disabled",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/reduced-earnings-allowance",
+        "api_url": "https://www.gov.uk/api/content/reduced-earnings-allowance",
+        "base_path": "/reduced-earnings-allowance",
+        "content_id": "0160d483-38bf-42ea-a00d-e24aeb8bea0f",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-09-08T13:18:20Z",
+        "schema_name": "guide",
+        "title": "Reduced Earnings Allowance",
+        "web_url": "https://www.gov.uk/reduced-earnings-allowance",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pip",
+        "api_url": "https://www.gov.uk/api/content/pip",
+        "base_path": "/pip",
+        "content_id": "56ffb2a7-f45f-4e6c-bbfe-3d898a3358d8",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-09T14:46:50Z",
+        "schema_name": "guide",
+        "title": "Personal Independence Payment (PIP)",
+        "web_url": "https://www.gov.uk/pip",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/severe-disablement-allowance",
+        "api_url": "https://www.gov.uk/api/content/severe-disablement-allowance",
+        "base_path": "/severe-disablement-allowance",
+        "content_id": "5b569e68-266f-42cd-969e-1ca5e684614e",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-02-17T17:44:09Z",
+        "schema_name": "answer",
+        "title": "Severe Disablement Allowance",
+        "web_url": "https://www.gov.uk/severe-disablement-allowance",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/incapacity-benefit",
+        "api_url": "https://www.gov.uk/api/content/incapacity-benefit",
+        "base_path": "/incapacity-benefit",
+        "content_id": "70580216-af71-43e2-b804-44fcddd20751",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-09-07T16:54:26Z",
+        "schema_name": "answer",
+        "title": "Incapacity Benefit",
+        "web_url": "https://www.gov.uk/incapacity-benefit",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/health-and-social-care/disabilities-benefits",
+        "api_url": "https://www.gov.uk/api/content/health-and-social-care/disabilities-benefits",
+        "base_path": "/health-and-social-care/disabilities-benefits",
+        "content_id": "a1848bca-b5f7-4e72-8e88-63e2847d20d4",
+        "details": {
+          "internal_name": "Benefits and financial help [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/health-and-social-care/disabilities",
+              "api_url": "https://www.gov.uk/api/content/health-and-social-care/disabilities",
+              "base_path": "/health-and-social-care/disabilities",
+              "content_id": "d69977ab-4fb1-4ad6-b379-e967c5b7528b",
+              "details": {
+                "internal_name": "Disabled people [M]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/health-and-social-care",
+                    "api_url": "https://www.gov.uk/api/content/health-and-social-care",
+                    "base_path": "/health-and-social-care",
+                    "content_id": "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Health and social care",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:30:51Z",
+                    "schema_name": "taxon",
+                    "title": "Health and social care",
+                    "web_url": "https://www.gov.uk/health-and-social-care",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T12:56:16Z",
+              "schema_name": "taxon",
+              "title": "Disabled people",
+              "web_url": "https://www.gov.uk/health-and-social-care/disabilities",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T12:56:16Z",
+        "schema_name": "taxon",
+        "title": "Benefits and financial help",
+        "web_url": "https://www.gov.uk/health-and-social-care/disabilities-benefits",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/welfare/disability",
+        "api_url": "https://www.gov.uk/api/content/welfare/disability",
+        "base_path": "/welfare/disability",
+        "content_id": "05a9527b-e6e9-4a68-8dd7-7d84e6a24eef",
+        "details": {
+          "internal_name": "Carers and disability benefits [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/welfare",
+              "api_url": "https://www.gov.uk/api/content/welfare",
+              "base_path": "/welfare",
+              "content_id": "dded88e2-f92e-424f-b73e-6ad24a839c51",
+              "description": "",
+              "details": {
+                "internal_name": "Welfare",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:32:41Z",
+              "schema_name": "taxon",
+              "title": "Welfare",
+              "web_url": "https://www.gov.uk/welfare",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:14:39Z",
+        "schema_name": "taxon",
+        "title": "Carers and disability benefits",
+        "web_url": "https://www.gov.uk/welfare/disability",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-06-30T23:01:01Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "1402-1588691088.529-10.3.3.1-6906",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Independent Living Fund",
+  "updated_at": "2024-03-06T08:33:49Z",
+  "withdrawn_notice": {
+  }
+}

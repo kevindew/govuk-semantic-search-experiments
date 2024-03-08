@@ -1,0 +1,603 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/find-local-consultations",
+  "content_id": "81daa213-0535-49ae-9def-5e7a6023ae03",
+  "description": "Councils carry out consultations to help plan, manage and deliver services. Have your say about local issues by responding to consultations run by your council",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "introduction": "<p>Have your say about local issues. Councils carry out consultations on the way they plan, manage and deliver services.</p>\n",
+    "lgil_code": 8,
+    "lgsl_code": 867,
+    "more_information": "\n",
+    "need_to_know": "<ul>\n  <li>Available in England and Wales only</li>\n</ul>\n",
+    "service_tiers": [
+      "district",
+      "unitary",
+      "county"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2012-01-19T16:51:24Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/find-local-consultations",
+        "api_url": "https://www.gov.uk/api/content/find-local-consultations",
+        "base_path": "/find-local-consultations",
+        "content_id": "81daa213-0535-49ae-9def-5e7a6023ae03",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:19Z",
+        "schema_name": "local_transaction",
+        "title": "Find local consultations",
+        "web_url": "https://www.gov.uk/find-local-consultations",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/local-councils",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+        "base_path": "/browse/housing-local-services/local-councils",
+        "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+        "description": "Find and access local services",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/housing-local-services/planning-permission-regulations-information",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/planning-permission-regulations-information",
+        "base_path": "/browse/housing-local-services/planning-permission-regulations-information",
+        "content_id": "0d605105-67ff-426f-8436-2459d4a9a4c1",
+        "description": "Includes building regulations, planning permission and finding land and property information",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-25T10:44:13Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Planning permission and building regulations ",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/planning-permission-regulations-information",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/find-local-transport-plans",
+        "api_url": "https://www.gov.uk/api/content/find-local-transport-plans",
+        "base_path": "/find-local-transport-plans",
+        "content_id": "15bab847-d6dc-4c57-830a-6c3d0fb738fb",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/local-councils",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+              "base_path": "/browse/housing-local-services/local-councils",
+              "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+              "description": "Find and access local services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Local councils and services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/recycling-rubbish",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/recycling-rubbish",
+              "base_path": "/browse/housing-local-services/recycling-rubbish",
+              "content_id": "f4267150-2591-4c47-856a-25795c71f303",
+              "description": "Includes collecting large waste items, garden waste and reporting problems",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Recycling and rubbish",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/recycling-rubbish",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/streets-roads-pavements-buildings",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/streets-roads-pavements-buildings",
+              "base_path": "/browse/housing-local-services/streets-roads-pavements-buildings",
+              "content_id": "0eef00df-cd70-4a77-8965-2a90af9616e2",
+              "description": "Includes street cleaning, traffic lights and reporting problems",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Streets, roads, pavements and buildings",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/streets-roads-pavements-buildings",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:21Z",
+        "schema_name": "local_transaction",
+        "title": "Find local transport plans",
+        "web_url": "https://www.gov.uk/find-local-transport-plans",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/search-register-planning-decisions",
+        "api_url": "https://www.gov.uk/api/content/search-register-planning-decisions",
+        "base_path": "/search-register-planning-decisions",
+        "content_id": "2d206305-a832-4a1c-9347-abb7e22a824f",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/planning-permission-regulations-information",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/planning-permission-regulations-information",
+              "base_path": "/browse/housing-local-services/planning-permission-regulations-information",
+              "content_id": "0d605105-67ff-426f-8436-2459d4a9a4c1",
+              "description": "Includes building regulations, planning permission and finding land and property information",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-25T10:44:13Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Planning permission and building regulations ",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/planning-permission-regulations-information",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-08-04T16:18:16Z",
+        "schema_name": "local_transaction",
+        "title": "Search the register of planning decisions",
+        "web_url": "https://www.gov.uk/search-register-planning-decisions",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/understand-how-your-council-works",
+        "api_url": "https://www.gov.uk/api/content/understand-how-your-council-works",
+        "base_path": "/understand-how-your-council-works",
+        "content_id": "df61f873-f42f-4fb9-8e8e-17fa6a583270",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/local-councils",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+              "base_path": "/browse/housing-local-services/local-councils",
+              "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+              "description": "Find and access local services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Local councils and services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-24T15:39:31Z",
+        "schema_name": "guide",
+        "title": "Understand how your council works",
+        "web_url": "https://www.gov.uk/understand-how-your-council-works",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1342",
+        "api_path": "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+        "base_path": "/government/organisations/department-for-levelling-up-housing-and-communities",
+        "content_id": "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+        "details": {
+          "acronym": "DLUHC",
+          "brand": "department-for-levelling-up-housing-and-communities",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for Levelling Up,<br/>Housing &amp; Communities"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Levelling Up, Housing and Communities ",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/find-local-transport-plans",
+        "api_url": "https://www.gov.uk/api/content/find-local-transport-plans",
+        "base_path": "/find-local-transport-plans",
+        "content_id": "15bab847-d6dc-4c57-830a-6c3d0fb738fb",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:21Z",
+        "schema_name": "local_transaction",
+        "title": "Find local transport plans",
+        "web_url": "https://www.gov.uk/find-local-transport-plans",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/search-register-planning-decisions",
+        "api_url": "https://www.gov.uk/api/content/search-register-planning-decisions",
+        "base_path": "/search-register-planning-decisions",
+        "content_id": "2d206305-a832-4a1c-9347-abb7e22a824f",
+        "document_type": "local_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-08-04T16:18:16Z",
+        "schema_name": "local_transaction",
+        "title": "Search the register of planning decisions",
+        "web_url": "https://www.gov.uk/search-register-planning-decisions",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/understand-how-your-council-works",
+        "api_url": "https://www.gov.uk/api/content/understand-how-your-council-works",
+        "base_path": "/understand-how-your-council-works",
+        "content_id": "df61f873-f42f-4fb9-8e8e-17fa6a583270",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-24T15:39:31Z",
+        "schema_name": "guide",
+        "title": "Understand how your council works",
+        "web_url": "https://www.gov.uk/understand-how-your-council-works",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/planning-permission-england-wales",
+        "api_url": "https://www.gov.uk/api/content/planning-permission-england-wales",
+        "base_path": "/planning-permission-england-wales",
+        "content_id": "366849b0-1c46-439d-9156-aca3e0fb96e0",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-09-28T13:15:25Z",
+        "schema_name": "guide",
+        "title": "Planning permission",
+        "web_url": "https://www.gov.uk/planning-permission-england-wales",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/party-walls-building-works",
+        "api_url": "https://www.gov.uk/api/content/party-walls-building-works",
+        "base_path": "/party-walls-building-works",
+        "content_id": "4d0a8f64-9a58-4c7d-be7f-ec840eebc90a",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-11T16:10:56Z",
+        "schema_name": "guide",
+        "title": "Party walls and building work",
+        "web_url": "https://www.gov.uk/party-walls-building-works",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/regional-and-local-government/local-councils",
+        "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-councils",
+        "base_path": "/regional-and-local-government/local-councils",
+        "content_id": "15191831-40b4-4f6e-ade3-e82d7c775afd",
+        "details": {
+          "internal_name": "Local councils and services [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/regional-and-local-government",
+              "api_url": "https://www.gov.uk/api/content/regional-and-local-government",
+              "base_path": "/regional-and-local-government",
+              "content_id": "503c5bc7-809a-47b9-83e2-bd0c212dbabb",
+              "description": "",
+              "details": {
+                "internal_name": "Regional and local government",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:30:05Z",
+              "schema_name": "taxon",
+              "title": "Regional and local government",
+              "web_url": "https://www.gov.uk/regional-and-local-government",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:09:40Z",
+        "schema_name": "taxon",
+        "title": "Local councils and services",
+        "web_url": "https://www.gov.uk/regional-and-local-government/local-councils",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/housing-local-and-community/planning-permission-appeals",
+        "api_url": "https://www.gov.uk/api/content/housing-local-and-community/planning-permission-appeals",
+        "base_path": "/housing-local-and-community/planning-permission-appeals",
+        "content_id": "9101cc52-aaf3-429b-9bad-da16dc6f0a01",
+        "details": {
+          "internal_name": "Planning permission and appeals [T] (level 3, housing theme)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/housing-local-and-community/planning-and-building",
+              "api_url": "https://www.gov.uk/api/content/housing-local-and-community/planning-and-building",
+              "base_path": "/housing-local-and-community/planning-and-building",
+              "content_id": "e3147d4f-4bd5-4a14-a386-4ba7ccb058b4",
+              "details": {
+                "internal_name": "Planning and building (merged, level 2)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/housing-local-and-community",
+                    "api_url": "https://www.gov.uk/api/content/housing-local-and-community",
+                    "base_path": "/housing-local-and-community",
+                    "content_id": "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Housing, local and community",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:32:02Z",
+                    "schema_name": "taxon",
+                    "title": "Housing, local and community",
+                    "web_url": "https://www.gov.uk/housing-local-and-community",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-24T11:05:58Z",
+              "schema_name": "taxon",
+              "title": "Planning and building",
+              "web_url": "https://www.gov.uk/housing-local-and-community/planning-and-building",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T12:54:43Z",
+        "schema_name": "taxon",
+        "title": "Planning permission and appeals",
+        "web_url": "https://www.gov.uk/housing-local-and-community/planning-permission-appeals",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-05-02T16:27:19Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15546-1504182734.471-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Find local consultations",
+  "updated_at": "2024-03-01T16:01:44Z",
+  "withdrawn_notice": {
+  }
+}

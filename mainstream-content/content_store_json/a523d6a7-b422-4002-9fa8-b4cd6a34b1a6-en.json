@@ -1,0 +1,81 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/vehicle-log-book",
+  "content_id": "a523d6a7-b422-4002-9fa8-b4cd6a34b1a6",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ],
+    "promotion": {
+      "category": "organ_donor",
+      "opt_in_url": "",
+      "opt_out_url": "",
+      "url": "https://www.organdonation.nhs.uk/register-your-decision/donate/?campaign=2442&utm_source=dvla_duplicate_v5c&utm_medium=referral&utm_campaign=partner&utm_content=web_endoftransaction&utm_term=allaudiences"
+    }
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2020-09-28T06:00:05Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/vehicle-log-book",
+        "api_url": "https://www.gov.uk/api/content/done/vehicle-log-book",
+        "base_path": "/done/vehicle-log-book",
+        "content_id": "a523d6a7-b422-4002-9fa8-b4cd6a34b1a6",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-11-24T08:43:23Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Apply for a duplicate log book (V5C)",
+        "web_url": "https://www.gov.uk/done/vehicle-log-book",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-11-24T08:43:23Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629921.389-10.13.30.3-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Apply for a duplicate log book (V5C)",
+  "updated_at": "2023-07-21T14:27:16Z",
+  "withdrawn_notice": {
+  }
+}

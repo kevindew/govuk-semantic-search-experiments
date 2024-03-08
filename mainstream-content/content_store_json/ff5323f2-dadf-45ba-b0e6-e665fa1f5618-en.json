@@ -1,0 +1,448 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/get-proof-employment-history",
+  "content_id": "ff5323f2-dadf-45ba-b0e6-e665fa1f5618",
+  "description": "Get details of your employment history from HMRC if you need to make a claim for compensation.",
+  "details": {
+    "body": "<p>You can ask HM Revenue and Customs (<abbr title=\"HM Revenue and Customs\">HMRC</abbr>) for a record of your employment history, for example if you’re:</p>\n\n<ul>\n  <li>making a compensation claim (for example for an industrial injury, road traffic accident or medical negligence claim)</li>\n  <li>applying for a loan</li>\n  <li>renewing a work visa</li>\n</ul>\n\n<p>You can find this information yourself or get a <a href=\"/find-a-legal-adviser\">legal adviser</a> or <a href=\"/tax-help\">tax agent</a> to do it for you.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This guide is also available <a href=\"/cael-tystiolaeth-o-hanes-cyflogaeth\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<h2 id=\"how-to-get-your-employment-history\">How to get your employment history</h2>\n\n<p>You can get a record of the current and past 5 years’ employment using:</p>\n\n<ul>\n  <li>your <a rel=\"external\" href=\"https://www.tax.service.gov.uk/check-income-tax/income-tax-history\">personal tax account</a>\n</li>\n  <li><a href=\"/government/publications/the-official-hmrc-app/the-free-hmrc-app\">the <abbr title=\"HM Revenue and Customs\">HMRC</abbr> app</a></li>\n</ul>\n\n<p>Once you’ve signed in, you’ll need to navigate to your Pay As You Earn (PAYE) Income Tax records to get your employment history.</p>\n\n<h3 id=\"apply-using-a-paper-form\">Apply using a paper form</h3>\n\n<p>You can also fill in the <a href=\"/government/publications/national-insurance-employment-history-request\">application form</a> for a record from any year and send it to <abbr title=\"HM Revenue and Customs\">HMRC</abbr>. The address is on the form.</p>\n\n<p>If you’re applying through a legal adviser or tax agent, you’ll first need to give them written consent. Use the <a href=\"/government/publications/paye-employment-history-consent-form-bc539\">employment history consent form</a>. They’ll include your consent with your application.</p>\n\n<h2 id=\"apply-for-an-employment-history-on-behalf-of-someone-who-has-died\">Apply for an employment history on behalf of someone who has died</h2>\n\n<p>You can apply to get the employment history of someone who’s died if you’re legally entitled to claim damages <a href=\"/wills-probate-inheritance\">on behalf of their estate</a>:</p>\n\n<ul>\n  <li>as part of a claim for personal injury or a fatal accident</li>\n  <li>under the <a href=\"/diffuse-mesothelioma-payment\">Diffuse Mesothelioma Payment Scheme</a>\n</li>\n</ul>\n\n<h3 id=\"how-to-apply\">How to apply</h3>\n\n<p>Fill in the <a href=\"/government/publications/paye-employment-history-consent-form-bc539\">request employment history about a deceased person form</a> and send it to <abbr title=\"HM Revenue and Customs\">HMRC</abbr>. The address is on the form.</p>\n\n<p>If a professional representative (for example a solicitor or coroner) gave you the form, fill it in and return it to them.</p>\n\n<h2 id=\"after-youve-applied\">After you’ve applied</h2>\n\n<p>Contact the <a href=\"/government/organisations/hm-revenue-customs/contact/national-insurance-enquiries-for-employees-and-individuals\">National Insurance: general enquiries helpline</a> if you have not heard from <abbr title=\"HM Revenue and Customs\">HMRC</abbr> after 40 days.</p>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2015-09-08T13:44:37Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/get-proof-employment-history",
+        "api_url": "https://www.gov.uk/api/content/get-proof-employment-history",
+        "base_path": "/get-proof-employment-history",
+        "content_id": "ff5323f2-dadf-45ba-b0e6-e665fa1f5618",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-02-26T12:09:50Z",
+        "schema_name": "answer",
+        "title": "Get proof of employment history ",
+        "web_url": "https://www.gov.uk/get-proof-employment-history",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/national-insurance",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+        "base_path": "/browse/tax/national-insurance",
+        "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+        "description": "Voluntary contributions and credits, numbers, rates and classes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "National Insurance",
+        "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/check-national-insurance-record",
+        "api_url": "https://www.gov.uk/api/content/check-national-insurance-record",
+        "base_path": "/check-national-insurance-record",
+        "content_id": "cb366ff9-c541-4497-acc6-8f643c901e85",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/tax/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+              "base_path": "/browse/tax/national-insurance",
+              "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+              "description": "Voluntary contributions and credits, numbers, rates and classes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-24T16:00:51Z",
+        "schema_name": "transaction",
+        "title": "Check your National Insurance record",
+        "web_url": "https://www.gov.uk/check-national-insurance-record",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/national-insurance-employment-history-request",
+        "api_url": "https://www.gov.uk/api/content/government/publications/national-insurance-employment-history-request",
+        "base_path": "/government/publications/national-insurance-employment-history-request",
+        "content_id": "602f291e-7631-11e4-a3cb-005056011aef",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-28T08:53:12Z",
+        "schema_name": "publication",
+        "title": "Request your employment history from National Insurance records",
+        "web_url": "https://www.gov.uk/government/publications/national-insurance-employment-history-request",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/claim-compensation-criminal-injury",
+        "api_url": "https://www.gov.uk/api/content/claim-compensation-criminal-injury",
+        "base_path": "/claim-compensation-criminal-injury",
+        "content_id": "cc357863-4cc9-445e-87a7-fc3f89262f17",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/justice/compensation-victim-support",
+              "api_url": "https://www.gov.uk/api/content/browse/justice/compensation-victim-support",
+              "base_path": "/browse/justice/compensation-victim-support",
+              "content_id": "fb5999e3-e364-40a4-997c-c731ad51ca7d",
+              "description": "Includes criminal injuries compensation and other victim support",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/justice",
+                    "api_url": "https://www.gov.uk/api/content/browse/justice",
+                    "base_path": "/browse/justice",
+                    "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+                    "description": "Legal processes, courts and the police",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2022-04-06T18:09:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Crime, justice and the law",
+                    "web_url": "https://www.gov.uk/browse/justice",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:46Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Compensation and victim support",
+              "web_url": "https://www.gov.uk/browse/justice/compensation-victim-support",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2018-05-29T14:56:49Z",
+        "schema_name": "guide",
+        "title": "Claim compensation if you were the victim of a violent crime",
+        "web_url": "https://www.gov.uk/claim-compensation-criminal-injury",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/national-insurance",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+        "base_path": "/browse/tax/national-insurance",
+        "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+        "description": "Voluntary contributions and credits, numbers, rates and classes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "National Insurance",
+        "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/check-national-insurance-record",
+        "api_url": "https://www.gov.uk/api/content/check-national-insurance-record",
+        "base_path": "/check-national-insurance-record",
+        "content_id": "cb366ff9-c541-4497-acc6-8f643c901e85",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-24T16:00:51Z",
+        "schema_name": "transaction",
+        "title": "Check your National Insurance record",
+        "web_url": "https://www.gov.uk/check-national-insurance-record",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/hmrc-subject-access-request",
+        "api_url": "https://www.gov.uk/api/content/guidance/hmrc-subject-access-request",
+        "base_path": "/guidance/hmrc-subject-access-request",
+        "content_id": "15eedbaf-25ce-468b-8e59-fe0ea9c99c86",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-06-08T08:44:20Z",
+        "schema_name": "detailed_guide",
+        "title": "Make a subject access request to HMRC",
+        "web_url": "https://www.gov.uk/guidance/hmrc-subject-access-request",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/l17-statement-of-earnings",
+        "api_url": "https://www.gov.uk/api/content/government/publications/l17-statement-of-earnings",
+        "base_path": "/government/publications/l17-statement-of-earnings",
+        "content_id": "5fe95413-7631-11e4-a3cb-005056011aef",
+        "document_type": "form",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-07-13T13:05:02Z",
+        "schema_name": "publication",
+        "title": "L17: statement of earnings",
+        "web_url": "https://www.gov.uk/government/publications/l17-statement-of-earnings",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/contact-hmrc",
+        "api_url": "https://www.gov.uk/api/content/contact-hmrc",
+        "base_path": "/contact-hmrc",
+        "content_id": "86f14e34-ba09-4e35-913e-af9e213cff2e",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-24T15:26:43Z",
+        "schema_name": "answer",
+        "title": "Contact HMRC",
+        "web_url": "https://www.gov.uk/contact-hmrc",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/personal-tax-account",
+        "api_url": "https://www.gov.uk/api/content/personal-tax-account",
+        "base_path": "/personal-tax-account",
+        "content_id": "f4f2c99e-6d0a-4f2f-b3d0-ff2d00e33887",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-12T10:04:48Z",
+        "schema_name": "answer",
+        "title": "Personal tax account: sign in or set up",
+        "web_url": "https://www.gov.uk/personal-tax-account",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/income-tax",
+        "api_url": "https://www.gov.uk/api/content/money/income-tax",
+        "base_path": "/money/income-tax",
+        "content_id": "104ee859-8278-406b-80cb-5727373e0198",
+        "details": {
+          "internal_name": "Income Tax [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/personal-tax",
+              "api_url": "https://www.gov.uk/api/content/money/personal-tax",
+              "base_path": "/money/personal-tax",
+              "content_id": "a5c88a77-03ba-4100-bd33-7ee2ce602dc8",
+              "details": {
+                "internal_name": "Personal tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:54Z",
+              "schema_name": "taxon",
+              "title": "Personal tax",
+              "web_url": "https://www.gov.uk/money/personal-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:55Z",
+        "schema_name": "taxon",
+        "title": "Income Tax",
+        "web_url": "https://www.gov.uk/money/income-tax",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-02-26T12:09:50Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1706891607.028-10.13.20.112-10295",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Get proof of employment history ",
+  "updated_at": "2024-02-28T08:53:13Z",
+  "withdrawn_notice": {
+  }
+}

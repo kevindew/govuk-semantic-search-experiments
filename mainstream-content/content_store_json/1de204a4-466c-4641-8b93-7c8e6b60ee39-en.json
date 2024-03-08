@@ -1,0 +1,458 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/plan-shared-parental-leave-pay",
+  "content_id": "1de204a4-466c-4641-8b93-7c8e6b60ee39",
+  "description": "Plan how and when you and your partner take Shared Parental Leave. Find out how much Statutory Shared Parental Pay you would get and when to give notice.",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>You can use this planning tool to find out:</p>\n\n<ul>\n  <li>how and when you can take Shared Parental Leave alongside Maternity, Adoption and Paternity Leave</li>\n  <li>how much Statutory Shared Parental Pay you’re entitled to while you take leave (your employer might offer more than the statutory amount)</li>\n  <li>when you need to give notice to your employer</li>\n</ul>\n\n<p>You can save your plan and edit it at any time.</p>\n\n<p>You can choose to share the plan with other people (for example, your partner or employer) but it will not be shared with anyone automatically.</p>\n",
+    "more_information": "<p><a href=\"/shared-parental-leave-and-pay\">Check if you and your partner are eligible for Shared Parental Leave or Pay</a>. You can use the planning tool if at least one of you is eligible for either leave or pay.</p>\n\n<p>You’ll also need:</p>\n\n<ul>\n  <li>your child’s due date, birth date or placement date</li>\n  <li>your salary</li>\n  <li>your partner’s salary</li>\n</ul>\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.plan-shared-parental-leave.service.gov.uk",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2021-06-17T06:39:26Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/plan-shared-parental-leave-pay",
+        "api_url": "https://www.gov.uk/api/content/plan-shared-parental-leave-pay",
+        "base_path": "/plan-shared-parental-leave-pay",
+        "content_id": "1de204a4-466c-4641-8b93-7c8e6b60ee39",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2021-06-17T06:39:25Z",
+        "schema_name": "transaction",
+        "title": "Plan your Shared Parental Leave and Pay",
+        "web_url": "https://www.gov.uk/plan-shared-parental-leave-pay",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/births-deaths-marriages/child-adoption",
+        "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/child-adoption",
+        "base_path": "/browse/births-deaths-marriages/child-adoption",
+        "content_id": "932a86f4-4916-4d9f-99cb-dfd34d7ee5d1",
+        "description": "Legal rights, birth certificates, parental rights and child maintenance",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:48Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Having a child, parenting and adoption",
+        "web_url": "https://www.gov.uk/browse/births-deaths-marriages/child-adoption",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/childcare-parenting/financial-help-children",
+        "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/financial-help-children",
+        "base_path": "/browse/childcare-parenting/financial-help-children",
+        "content_id": "e027612d-17f3-4183-ae8d-cde8f43dc471",
+        "description": "Includes help when having a baby or adopting, child benefit and tax credits, support for childcare",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:33Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Financial help if you have children",
+        "web_url": "https://www.gov.uk/browse/childcare-parenting/financial-help-children",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/childcare-parenting/fostering-adoption-surrogacy",
+        "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/fostering-adoption-surrogacy",
+        "base_path": "/browse/childcare-parenting/fostering-adoption-surrogacy",
+        "content_id": "263bca52-026d-4c52-80c8-3af486908bf5",
+        "description": "Fostering or adopting a child, including from abroad, and being a surrogate mother",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:33Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Fostering, adoption and surrogacy",
+        "web_url": "https://www.gov.uk/browse/childcare-parenting/fostering-adoption-surrogacy",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/childcare-parenting/pregnancy-birth",
+        "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/pregnancy-birth",
+        "base_path": "/browse/childcare-parenting/pregnancy-birth",
+        "content_id": "6028e11b-592e-40ec-81e6-312c9fcb749d",
+        "description": "Working, time off and financial support when you have a baby, registering a birth",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-09-21T12:38:24Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Pregnancy and birth",
+        "web_url": "https://www.gov.uk/browse/childcare-parenting/pregnancy-birth",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/working/time-off",
+        "api_url": "https://www.gov.uk/api/content/browse/working/time-off",
+        "base_path": "/browse/working/time-off",
+        "content_id": "e7360935-e4c8-4882-a2ad-bc81f5d6eaac",
+        "description": "Includes career breaks and the holiday entitlement calculator",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Holidays, time off, sick leave, maternity and paternity leave",
+        "web_url": "https://www.gov.uk/browse/working/time-off",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/shared-parental-leave-and-pay",
+        "api_url": "https://www.gov.uk/api/content/shared-parental-leave-and-pay",
+        "base_path": "/shared-parental-leave-and-pay",
+        "content_id": "dc68775c-3df8-4930-ad22-bde7bfbb3b61",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/families",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/families",
+              "base_path": "/browse/benefits/families",
+              "content_id": "64e7bfb6-5213-425b-9e44-5c7eca17ad75",
+              "description": "Help if you look after children or plan to have or adopt a child. Includes Child Benefit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:25Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support for families",
+              "web_url": "https://www.gov.uk/browse/benefits/families",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/childcare-parenting/financial-help-children",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/financial-help-children",
+              "base_path": "/browse/childcare-parenting/financial-help-children",
+              "content_id": "e027612d-17f3-4183-ae8d-cde8f43dc471",
+              "description": "Includes help when having a baby or adopting, child benefit and tax credits, support for childcare",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+                    "base_path": "/browse/childcare-parenting",
+                    "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+                    "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-07-15T11:40:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Childcare and parenting",
+                    "web_url": "https://www.gov.uk/browse/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Financial help if you have children",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting/financial-help-children",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/childcare-parenting/fostering-adoption-surrogacy",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/fostering-adoption-surrogacy",
+              "base_path": "/browse/childcare-parenting/fostering-adoption-surrogacy",
+              "content_id": "263bca52-026d-4c52-80c8-3af486908bf5",
+              "description": "Fostering or adopting a child, including from abroad, and being a surrogate mother",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+                    "base_path": "/browse/childcare-parenting",
+                    "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+                    "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-07-15T11:40:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Childcare and parenting",
+                    "web_url": "https://www.gov.uk/browse/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Fostering, adoption and surrogacy",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting/fostering-adoption-surrogacy",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/childcare-parenting/pregnancy-birth",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/pregnancy-birth",
+              "base_path": "/browse/childcare-parenting/pregnancy-birth",
+              "content_id": "6028e11b-592e-40ec-81e6-312c9fcb749d",
+              "description": "Working, time off and financial support when you have a baby, registering a birth",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+                    "base_path": "/browse/childcare-parenting",
+                    "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+                    "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-07-15T11:40:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Childcare and parenting",
+                    "web_url": "https://www.gov.uk/browse/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-09-21T12:38:24Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Pregnancy and birth",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting/pregnancy-birth",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/time-off",
+              "api_url": "https://www.gov.uk/api/content/browse/working/time-off",
+              "base_path": "/browse/working/time-off",
+              "content_id": "e7360935-e4c8-4882-a2ad-bc81f5d6eaac",
+              "description": "Includes career breaks and the holiday entitlement calculator",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:40Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Holidays, time off, sick leave, maternity and paternity leave",
+              "web_url": "https://www.gov.uk/browse/working/time-off",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-19T15:57:12Z",
+        "schema_name": "guide",
+        "title": "Shared Parental Leave and Pay",
+        "web_url": "https://www.gov.uk/shared-parental-leave-and-pay",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1382",
+        "api_path": "/api/content/government/organisations/department-for-business-and-trade",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-business-and-trade",
+        "base_path": "/government/organisations/department-for-business-and-trade",
+        "content_id": "aa750cdf-7925-429d-a2b3-0d9fa47d2c48",
+        "details": {
+          "acronym": "DBT",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/64539946faf4aa0012e132d1/s960_DBT_Plaque-2.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/64539946c33b46000cf5e655/s300_DBT_Plaque-2.jpg"
+          },
+          "logo": {
+            "crest": "dbt",
+            "formatted_title": "Department for<br/>Business &amp; Trade"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Business and Trade",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D1198",
+        "api_path": "/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "base_path": "/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "content_id": "2bde479a-97f2-42b5-986a-287a623c2a1c",
+        "details": {
+          "acronym": "BEIS",
+          "brand": "department-for-business-innovation-skills",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a62fdc6b1/s960_beis-sign-1vs.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a5f965fd5/s300_beis-sign-1vs.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for<br/>Business, Energy<br/>&amp; Industrial Strategy"
+          },
+          "organisation_govuk_status": {
+            "status": "split",
+            "updated_at": null,
+            "url": ""
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Business, Energy & Industrial Strategy",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/working/time-off",
+        "api_url": "https://www.gov.uk/api/content/browse/working/time-off",
+        "base_path": "/browse/working/time-off",
+        "content_id": "e7360935-e4c8-4882-a2ad-bc81f5d6eaac",
+        "description": "Includes career breaks and the holiday entitlement calculator",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/working",
+              "api_url": "https://www.gov.uk/api/content/browse/working",
+              "base_path": "/browse/working",
+              "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+              "description": "Includes holidays, finding a job and redundancy",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-07-09T12:54:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/browse/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Holidays, time off, sick leave, maternity and paternity leave",
+        "web_url": "https://www.gov.uk/browse/working/time-off",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2021-06-17T06:39:25Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "28602-1623911965.647-10.13.1.43-7895",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Plan your Shared Parental Leave and Pay",
+  "updated_at": "2024-03-01T13:23:25Z",
+  "withdrawn_notice": {
+  }
+}

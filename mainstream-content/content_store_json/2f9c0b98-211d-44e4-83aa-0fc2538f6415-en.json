@@ -1,0 +1,1593 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/find-out-dbs-check",
+  "content_id": "2f9c0b98-211d-44e4-83aa-0fc2538f6415",
+  "description": "Find out what level of Disclosure and Barring Service (DBS) check you can get for an employee you’re recruiting. Formerly a Criminal Records Bureau (CRB) check.",
+  "details": {
+    "body": "<p>Use this tool to find out what type of Disclosure and Barring Service (<abbr title=\"Disclosure and Barring Service\">DBS</abbr>) check you can get for your employee.</p>\n\n<p>You can request a more detailed check for certain roles, for example in healthcare or childcare.</p>\n\n<p>This tool is for companies that are registered in England or Wales and make decisions there about employing people. Find out if you can <a rel=\"external\" href=\"https://www.mygov.scot/browse/working-jobs/finding-a-job/disclosure\">get a check in Scotland</a> or <a rel=\"external\" href=\"https://www.nidirect.gov.uk/campaigns/accessni-criminal-record-checks\">get a check in Northern Ireland</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>You can use this tool to see if you need a DBS check for a role you’re applying for. Your employer may also ask you to <a href=\"/request-copy-criminal-record\">request your own basic check</a>.</p>\n</div>\n\n<h2 id=\"checking-for-a-management-role\">Checking for a management role</h2>\n\n<p>Use this tool to see what type of check you can request for the staff they manage. You can get the same type of check for the manager.</p>\n\n",
+    "external_related_links": [
+
+    ],
+    "nodes": [
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Healthcare or working in a hospital",
+            "next_node": "question-9",
+            "slug": "healthcare-or-working-in-a-hospital"
+          },
+          {
+            "label": "Caring for or working with children (under 18) or working in a school",
+            "next_node": "question-2",
+            "slug": "caring-for-or-working-with-children-under-18-or-working-in-a-school"
+          },
+          {
+            "label": "Working with elderly, ill or disabled adults",
+            "next_node": "question-11",
+            "slug": "working-with-elderly-ill-or-disabled-adults"
+          },
+          {
+            "label": "None of these",
+            "next_node": "question-13",
+            "slug": "none-of-these"
+          }
+        ],
+        "slug": "question-1",
+        "title": "What type of role is it? "
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Teaching or caring for children ",
+            "next_node": "question-3",
+            "slug": "teaching-or-caring-for-children"
+          },
+          {
+            "label": "Driving children",
+            "next_node": "question-12",
+            "slug": "driving-children"
+          },
+          {
+            "label": "Working in a school but not in a teaching role, for example as a cleaner",
+            "next_node": "question-21",
+            "slug": "working-in-a-school-but-not-in-a-teaching-role-for-example-as-a-cleaner"
+          },
+          {
+            "label": "Moderating an online chatroom or online media",
+            "next_node": "question-12",
+            "slug": "moderating-an-online-chatroom-or-online-media"
+          },
+          {
+            "label": "Running a childcare business",
+            "next_node": "outcome-5",
+            "slug": "running-a-childcare-business"
+          },
+          {
+            "label": "Giving legal advice",
+            "next_node": "outcome-5",
+            "slug": "giving-legal-advice"
+          },
+          {
+            "label": "Inspecting childcare premises ",
+            "next_node": "question-28",
+            "slug": "inspecting-childcare-premises"
+          },
+          {
+            "label": "None of these",
+            "next_node": "outcome-6",
+            "slug": "none-of-these"
+          }
+        ],
+        "slug": "question-2",
+        "title": "What will the role with children involve?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Childminding (includes people living on childminding premises)",
+            "next_node": "outcome-3",
+            "slug": "childminding-includes-people-living-on-childminding-premises"
+          },
+          {
+            "label": "Working in a school, nursery, children's centre or home, detention service, young offender institution or childcare premises",
+            "next_node": "question-4",
+            "slug": "working-in-a-school-nursery-children-s-centre-or-home-detention-service-young-offender-institution-or-childcare-premises"
+          },
+          {
+            "label": "Teaching, training or supervising children, but not in a school, nursery, children's centre or home, detention service, young offender institution or childcare premises",
+            "next_node": "question-7",
+            "slug": "teaching-training-or-supervising-children-but-not-in-a-school-nursery-children-s-centre-or-home-detention-service-young-offender-institution-or-childcare-premises"
+          },
+          {
+            "label": "Helping ill or disabled children with eating or drinking, or helping ill, disabled or young children with washing, dressing or going to the toilet",
+            "next_node": "outcome-4",
+            "slug": "helping-ill-or-disabled-children-with-eating-or-drinking-or-helping-ill-disabled-or-young-children-with-washing-dressing-or-going-to-the-toilet"
+          },
+          {
+            "label": "Giving advice about physical, emotional or educational wellbeing, for example as a therapist",
+            "next_node": "question-30",
+            "slug": "giving-advice-about-physical-emotional-or-educational-wellbeing-for-example-as-a-therapist"
+          },
+          {
+            "label": "Fostering or adopting a child or working with fostered or adopted children",
+            "next_node": "question-34",
+            "slug": "fostering-or-adopting-a-child-or-working-with-fostered-or-adopted-children"
+          }
+        ],
+        "slug": "question-3",
+        "title": "What will the teaching or caring involve?"
+      },
+      {
+        "body": "<p>Answer ‘yes’ if the role involves any of the following:</p>\n\n<ul>\n  <li>working with children for more than 3 days in any 30 day period</li>\n  <li>ever working overnight (between 2am and 6am) where there may be face-to-face contact with children and the work involves teaching, training, supervising, advising, guiding or caring for children</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-4",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-5",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-4",
+        "title": "Will the work be done frequently? "
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-12",
+            "slug": "yes"
+          },
+          {
+            "label": "Yes, but the role is temporary",
+            "next_node": "outcome-6",
+            "slug": "yes-but-the-role-is-temporary"
+          },
+          {
+            "label": "No",
+            "next_node": "question-6",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-5",
+        "title": "Will they get paid for the role? QUESTION NOT IN USE"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-18",
+            "slug": "yes"
+          },
+          {
+            "label": "No ",
+            "next_node": "outcome-4",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-6",
+        "title": "Will they be supervised? QUESTION NOT IN USE"
+      },
+      {
+        "body": "<p>Answer ‘yes’ if the role involves any of the following:</p>\n\n<ul>\n  <li>working with children for more than 3 days in any 30 day period</li>\n  <li>ever working overnight (between 2am and 6am) where there may be face-to-face contact with children</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-8",
+            "slug": "yes"
+          },
+          {
+            "label": "No ",
+            "next_node": "outcome-5",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-7",
+        "title": "Will the work be done frequently?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes ",
+            "next_node": "outcome-18",
+            "slug": "yes"
+          },
+          {
+            "label": "No ",
+            "next_node": "outcome-4",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-8",
+        "title": "Will they be supervised?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Doctor, nurse, pharmacist, optometrist or other healthcare professional or someone supervised by one while providing healthcare",
+            "next_node": "question-10",
+            "slug": "doctor-nurse-pharmacist-optometrist-or-other-healthcare-professional-or-someone-supervised-by-one-while-providing-healthcare"
+          },
+          {
+            "label": "Working with patients without supervision by a healthcare professional, for example reception staff, caterers, cleaners, volunteers",
+            "next_node": "question-20",
+            "slug": "working-with-patients-without-supervision-by-a-healthcare-professional-for-example-reception-staff-caterers-cleaners-volunteers"
+          },
+          {
+            "label": "Providing first aid through a first aid organisation",
+            "next_node": "outcome-8",
+            "slug": "providing-first-aid-through-a-first-aid-organisation"
+          },
+          {
+            "label": "None of these",
+            "next_node": "outcome-6",
+            "slug": "none-of-these"
+          }
+        ],
+        "slug": "question-9",
+        "title": "What is the role?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Children (under 18)",
+            "next_node": "outcome-4",
+            "slug": "children-under-18"
+          },
+          {
+            "label": "Adults",
+            "next_node": "outcome-7",
+            "slug": "adults"
+          },
+          {
+            "label": "Both children and adults",
+            "next_node": "outcome-21",
+            "slug": "both-children-and-adults"
+          },
+          {
+            "label": "Neither, for example working in a lab",
+            "next_node": "outcome-9",
+            "slug": "neither-for-example-working-in-a-lab"
+          }
+        ],
+        "slug": "question-10",
+        "title": "Will the role involve working with children or adults?"
+      },
+      {
+        "body": "<p>If it’s a management role, choose the answer that describes the roles of the people they’ll be managing.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Social work",
+            "next_node": "outcome-7",
+            "slug": "social-work"
+          },
+          {
+            "label": "Helping ill, disabled or elderly adults with personal care",
+            "next_node": "question-25",
+            "slug": "helping-ill-disabled-or-elderly-adults-with-personal-care"
+          },
+          {
+            "label": "Looking after an adult's cash, bills or shopping because they're ill, disabled or elderly",
+            "next_node": "outcome-7",
+            "slug": "looking-after-an-adult-s-cash-bills-or-shopping-because-they-re-ill-disabled-or-elderly"
+          },
+          {
+            "label": "Driving adults to where they get health or social care (but not taxi drivers)",
+            "next_node": "outcome-7",
+            "slug": "driving-adults-to-where-they-get-health-or-social-care-but-not-taxi-drivers"
+          },
+          {
+            "label": "Being appointed to represent an adult or conduct their affairs on their behalf",
+            "next_node": "outcome-7",
+            "slug": "being-appointed-to-represent-an-adult-or-conduct-their-affairs-on-their-behalf"
+          },
+          {
+            "label": "Teaching, advising or guiding adults, for example giving therapy",
+            "next_node": "question-31",
+            "slug": "teaching-advising-or-guiding-adults-for-example-giving-therapy"
+          },
+          {
+            "label": "Working in a care home, but not in a caring role, for example as a cleaner",
+            "next_node": "question-14",
+            "slug": "working-in-a-care-home-but-not-in-a-caring-role-for-example-as-a-cleaner"
+          },
+          {
+            "label": "Moderating online chat or online media",
+            "next_node": "question-14",
+            "slug": "moderating-online-chat-or-online-media"
+          },
+          {
+            "label": "Inspecting places where adults receive health or social care",
+            "next_node": "question-26",
+            "slug": "inspecting-places-where-adults-receive-health-or-social-care"
+          },
+          {
+            "label": "None of these",
+            "next_node": "outcome-6",
+            "slug": "none-of-these"
+          }
+        ],
+        "slug": "question-11",
+        "title": "What will the work involve?"
+      },
+      {
+        "body": "<p>Answer ‘yes’ if the role involves working with children for more than 3 days in any 30 day period.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-4",
+            "slug": "yes"
+          },
+          {
+            "label": "No ",
+            "next_node": "outcome-5",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-12",
+        "title": "Will the work be done frequently?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Financial or legal professional ",
+            "next_node": "question-15",
+            "slug": "financial-or-legal-professional"
+          },
+          {
+            "label": "Someone working in the courts, prisons or probation services",
+            "next_node": "question-16",
+            "slug": "someone-working-in-the-courts-prisons-or-probation-services"
+          },
+          {
+            "label": "Vet or someone employed by the RSPCA who is responsible for killing animals humanely",
+            "next_node": "outcome-13",
+            "slug": "vet-or-someone-employed-by-the-rspca-who-is-responsible-for-killing-animals-humanely"
+          },
+          {
+            "label": "Traffic warden ",
+            "next_node": "outcome-11",
+            "slug": "traffic-warden"
+          },
+          {
+            "label": "Immigration worker",
+            "next_node": "question-17",
+            "slug": "immigration-worker"
+          },
+          {
+            "label": "Someone applying for a licence or membership of an association",
+            "next_node": "question-18",
+            "slug": "someone-applying-for-a-licence-or-membership-of-an-association"
+          },
+          {
+            "label": "None of these ",
+            "next_node": "question-19",
+            "slug": "none-of-these"
+          }
+        ],
+        "slug": "question-13",
+        "title": "Who is the check for?"
+      },
+      {
+        "body": "<p>Answer ‘yes’ if the role involves any of the following:</p>\n\n<ul>\n  <li>working with adults receiving care once a week or more</li>\n  <li>working with adults receiving care for more than 3 days in any 30 day period</li>\n  <li>ever working with adults receiving care overnight (between 2am and 6am)</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-18",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-11",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-14",
+        "title": "Will the work be done frequently?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Solicitor or chartered legal executive",
+            "next_node": "outcome-10",
+            "slug": "solicitor-or-chartered-legal-executive"
+          },
+          {
+            "label": "Accountant or actuary ",
+            "next_node": "outcome-10",
+            "slug": "accountant-or-actuary"
+          },
+          {
+            "label": "Other financial services professional (regulated by the Financial Conduct Authority)",
+            "next_node": "outcome-11",
+            "slug": "other-financial-services-professional-regulated-by-the-financial-conduct-authority"
+          }
+        ],
+        "slug": "question-15",
+        "title": "What type of financial or legal professional is the check for? "
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "A prison, detention or removal centre ",
+            "next_node": "question-38",
+            "slug": "a-prison-detention-or-removal-centre"
+          },
+          {
+            "label": "A young offender institution",
+            "next_node": "question-39",
+            "slug": "a-young-offender-institution"
+          },
+          {
+            "label": "HM Courts and Tribunals Service or in probation services ",
+            "next_node": "outcome-9",
+            "slug": "hm-courts-and-tribunals-service-or-in-probation-services"
+          }
+        ],
+        "slug": "question-16",
+        "title": "Where will they be working? "
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Regulated immigration adviser or someone working for one ",
+            "next_node": "outcome-5",
+            "slug": "regulated-immigration-adviser-or-someone-working-for-one"
+          },
+          {
+            "label": "Immigration search officer ",
+            "next_node": "outcome-11",
+            "slug": "immigration-search-officer"
+          }
+        ],
+        "slug": "question-17",
+        "title": "What type of immigration worker is the check for?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Taxi driver or private hire vehicle licence",
+            "next_node": "outcome-12",
+            "slug": "taxi-driver-or-private-hire-vehicle-licence"
+          },
+          {
+            "label": "Security Industry Authority licence ",
+            "next_node": "outcome-11",
+            "slug": "security-industry-authority-licence"
+          },
+          {
+            "label": "Gambling or lottery licence ",
+            "next_node": "outcome-5",
+            "slug": "gambling-or-lottery-licence"
+          },
+          {
+            "label": "Membership of the Master Locksmiths Association ",
+            "next_node": "outcome-11",
+            "slug": "membership-of-the-master-locksmiths-association"
+          },
+          {
+            "label": "Licence for a drugs regulator",
+            "next_node": "outcome-5",
+            "slug": "licence-for-a-drugs-regulator"
+          },
+          {
+            "label": "None of these",
+            "next_node": "outcome-6",
+            "slug": "none-of-these"
+          }
+        ],
+        "slug": "question-18",
+        "title": "What type of licence or membership do they need?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Gambling Commission or National Lottery employee",
+            "next_node": "outcome-5",
+            "slug": "gambling-commission-or-national-lottery-employee"
+          },
+          {
+            "label": "Football steward",
+            "next_node": "outcome-11",
+            "slug": "football-steward"
+          },
+          {
+            "label": "None of these ",
+            "next_node": "outcome-6",
+            "slug": "none-of-these"
+          }
+        ],
+        "slug": "question-19",
+        "title": "Is the check for any of the following? "
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-41",
+            "slug": "yes"
+          },
+          {
+            "label": "No ",
+            "next_node": "outcome-20",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-20",
+        "title": "Is the role in a children's hospital? "
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-22",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-6",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-21",
+        "title": "Will the role involve contact with children?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "The school",
+            "next_node": "question-23",
+            "slug": "the-school"
+          },
+          {
+            "label": "An employer or organisation that provides services for the school",
+            "next_node": "question-23",
+            "slug": "an-employer-or-organisation-that-provides-services-for-the-school"
+          },
+          {
+            "label": "An employer or organisation that hires school premises but does not do any work for the school",
+            "next_node": "outcome-6",
+            "slug": "an-employer-or-organisation-that-hires-school-premises-but-does-not-do-any-work-for-the-school"
+          }
+        ],
+        "slug": "question-22",
+        "title": "Who will they work for?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-24",
+            "slug": "yes"
+          },
+          {
+            "label": "Yes, but the role is temporary",
+            "next_node": "outcome-5",
+            "slug": "yes-but-the-role-is-temporary"
+          },
+          {
+            "label": "No",
+            "next_node": "question-43",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-23",
+        "title": "Will they get paid for the role?"
+      },
+      {
+        "body": "<p>Answer ‘yes’ if the role involves working with children for more than 3 days in any 30 day period.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-4",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-5",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-24",
+        "title": "Will the work be done frequently?"
+      },
+      {
+        "body": "<ul>\n  <li>eating or drinking</li>\n  <li>going to the toilet</li>\n  <li>washing or bathing</li>\n  <li>dressing</li>\n  <li>oral care</li>\n  <li>looking after their hair, skin or nails</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-7",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-6",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-25",
+        "title": "Will the role involve helping them with any of the following?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "England",
+            "next_node": "outcome-5",
+            "slug": "england"
+          },
+          {
+            "label": "Wales",
+            "next_node": "outcome-7",
+            "slug": "wales"
+          }
+        ],
+        "slug": "question-26",
+        "title": "Are they in England or Wales?"
+      },
+      {
+        "body": "<p>Answer ‘yes’ if the role involves any of the following:</p>\n\n<ul>\n  <li>working with adults receiving care once a week or more</li>\n  <li>working with adults receiving care for more than 3 days in any 30 day period</li>\n  <li>ever working with adults receiving care overnight (between 2am and 6am)</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-7",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-5",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-27",
+        "title": "Will the work be done frequently? QUESTION NOT IN USE"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "England",
+            "next_node": "outcome-5",
+            "slug": "england"
+          },
+          {
+            "label": "Wales",
+            "next_node": "outcome-4",
+            "slug": "wales"
+          }
+        ],
+        "slug": "question-28",
+        "title": "Are they in England or Wales?"
+      },
+      {
+        "body": "<p>Answer ‘yes’ if the role involves working with children for more than 3 days in any 30 day period.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-4",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-5",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-29",
+        "title": "Will the work be done frequently? QUESTION NOT IN USE"
+      },
+      {
+        "body": "<p>Answer ‘yes’ if the role involves any of the following:</p>\n\n<ul>\n  <li>working with children for more than 3 days in any 30 day period</li>\n  <li>ever working overnight (between 2am and 6am) where there may be face-to-face contact with children and the work involves teaching, training, supervising, advising, guiding or caring for children</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-4",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-5",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-30",
+        "title": "Will the work be done frequently?"
+      },
+      {
+        "body": "<p>Answer ‘yes’ if the role involves any of the following:</p>\n\n<ul>\n  <li>working with adults receiving care once a week or more</li>\n  <li>working with adults receiving care for more than 3 days in any 30 day period</li>\n  <li>ever working with adults receiving care overnight (between 2am and 6am)</li>\n</ul>\n\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-18",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-6",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-31",
+        "title": "Will the work be done frequently?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-11",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-7",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-33",
+        "title": "Will they be supervised?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Fostered",
+            "next_node": "question-35",
+            "slug": "fostered"
+          },
+          {
+            "label": "Adopted",
+            "next_node": "question-36",
+            "slug": "adopted"
+          }
+        ],
+        "slug": "question-34",
+        "title": "Are the children fostered or adopted?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Registered foster carer",
+            "next_node": "outcome-16",
+            "slug": "registered-foster-carer"
+          },
+          {
+            "label": "Living in a household with fostered children",
+            "next_node": "outcome-15",
+            "slug": "living-in-a-household-with-fostered-children"
+          },
+          {
+            "label": "Named foster care support",
+            "next_node": "question-37",
+            "slug": "named-foster-care-support"
+          },
+          {
+            "label": "Babysitting fostered children",
+            "next_node": "question-37",
+            "slug": "babysitting-fostered-children"
+          },
+          {
+            "label": "Working in a foster agency with access to children or their personal information",
+            "next_node": "outcome-11",
+            "slug": "working-in-a-foster-agency-with-access-to-children-or-their-personal-information"
+          },
+          {
+            "label": "Any other role with frequent visits to a household of fostered children",
+            "next_node": "outcome-6",
+            "slug": "any-other-role-with-frequent-visits-to-a-household-of-fostered-children"
+          }
+        ],
+        "slug": "question-35",
+        "title": "What will the role involve?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Adoptive parent or prospective adoptive parent",
+            "next_node": "outcome-15",
+            "slug": "adoptive-parent-or-prospective-adoptive-parent"
+          },
+          {
+            "label": "Living in a household with adopted children",
+            "next_node": "outcome-15",
+            "slug": "living-in-a-household-with-adopted-children"
+          },
+          {
+            "label": "Frequently visiting a household with adopted children",
+            "next_node": "outcome-6",
+            "slug": "frequently-visiting-a-household-with-adopted-children"
+          }
+        ],
+        "slug": "question-36",
+        "title": "What does the role involve?"
+      },
+      {
+        "body": "<p>Answer ‘yes’ if the role involves any of the following:</p>\n\n<ul>\n  <li>working with children for more than 3 days in any 30 day period</li>\n  <li>ever working overnight (between 2am and 6am) where there may be face-to-face contact with children</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-16",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-17",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-37",
+        "title": "Will the work be done frequently?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Prison officer",
+            "next_node": "question-40",
+            "slug": "prison-officer"
+          },
+          {
+            "label": "Prison doctor",
+            "next_node": "outcome-7",
+            "slug": "prison-doctor"
+          },
+          {
+            "label": "Giving advice, for example counsellors",
+            "next_node": "question-40",
+            "slug": "giving-advice-for-example-counsellors"
+          },
+          {
+            "label": "Admin staff, cleaner or caterer",
+            "next_node": "outcome-11",
+            "slug": "admin-staff-cleaner-or-caterer"
+          }
+        ],
+        "slug": "question-38",
+        "title": "What type of role is it?"
+      },
+      {
+        "body": "<p>Answer ‘yes’ if the role involves any of the following:</p>\n\n<ul>\n  <li>working with children for more than 3 days in a 30 day period</li>\n  <li>ever working overnight (between 2am and 6am) where there may be face-to-face contact with children and the work involves teaching, training, supervising, advising, guiding or caring for children</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-4",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-5",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-39",
+        "title": "Will the work be done frequently?"
+      },
+      {
+        "body": "<p>Answer ‘yes’ if the role involves any of the following:</p>\n\n<ul>\n  <li>working with adult prisoners for more than 3 days in any 30 day period</li>\n  <li>ever working face-to-face with adult prisoners overnight (between 2am and 6am)</li>\n  <li>working with adult prisoners at least once a week</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-18",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-6",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-40",
+        "title": "Will the work be done frequently?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "England",
+            "next_node": "outcome-18",
+            "slug": "england"
+          },
+          {
+            "label": "Wales",
+            "next_node": "question-42",
+            "slug": "wales"
+          }
+        ],
+        "slug": "question-41",
+        "title": "Is it in England or Wales? "
+      },
+      {
+        "body": "<p>Answer ‘yes’ if the role involves working with children for more than 3 days in any 30 day period.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-4",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-5",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-42",
+        "title": "Will the work be done frequently?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-18",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-44",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-43",
+        "title": "Will they be supervised?"
+      },
+      {
+        "body": "<p>Answer ‘yes’ if the role involves working with children for more than 3 days in any 30 day period.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-4",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-5",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-44",
+        "title": "Will the work be done frequently?"
+      },
+      {
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-1",
+        "title": "Placeholder outcome "
+      },
+      {
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-2",
+        "title": "Placeholder outcome "
+      },
+      {
+        "body": "<p>Being a childminder is <a href=\"/government/publications/dbs-check-eligible-positions-guidance\">regulated activity</a>, which means some people are barred from doing this role.</p>\n\n<p>For childminders you can get both:</p>\n\n<ul>\n  <li>an <a href=\"/disclosure-barring-service-check\">enhanced check</a>\n</li>\n  <li>a <a href=\"/disclosure-barring-service-check/dbs-barred-lists\">children’s barred list check</a>\n</li>\n</ul>\n\n<h2 id=\"people-who-live-or-work-with-the-childminder\">People who live or work with the childminder</h2>\n<p>You can also request these checks for anyone 16 or over who lives or works on childminding premises.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-3",
+        "title": "You can request an enhanced check with a children's barred list check"
+      },
+      {
+        "body": "<p>Find out how to request:</p>\n\n<ul>\n  <li>an <a href=\"/disclosure-barring-service-check\">enhanced check</a>\n</li>\n  <li>a <a href=\"/disclosure-barring-service-check/dbs-barred-lists\">children’s barred list check</a>\n</li>\n</ul>\n\n<p>This is a <a href=\"/government/publications/dbs-check-eligible-positions-guidance\">regulated activity</a> role, which means some people are barred from doing it.</p>\n\n<h2 id=\"managers\">Managers</h2>\n<p>You can request the same check for a manager of someone doing this role.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-4",
+        "title": "You can request an enhanced check with a children's barred list check"
+      },
+      {
+        "body": "<p>Find out how to <a href=\"/disclosure-barring-service-check\">request an enhanced check</a>.</p>\n\n<h2 id=\"managers\">Managers</h2>\n<p>You cannot request a check for a manager of someone doing this role.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-5",
+        "title": "You can request an enhanced check without a barred list check"
+      },
+      {
+        "body": "<p>This role does not seem to be eligible for a standard or enhanced check. But you can still <a href=\"/dbs-check-applicant-criminal-record/get-a-basic-dbs-check-for-an-employee\">request a basic check</a>.</p>\n\n<p>You can either do this for the applicant or ask them to get their own check.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>This tool does not cover every role. Contact DBS if you’re still not sure what type of check you can request.</p>\n</div>\n\n<div class=\"contact\">\n<p>DBS customer services<br>\n<a href=\"mailto:customerservices@dbs.gov.uk\">customerservices@dbs.gov.uk</a> <br>\nTelephone: 03000 200 190<br>\nMinicom: 03000 200 192 <br>\nMonday to Friday, 8am to 6pm<br>\nSaturday, 10am to 5pm<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-6",
+        "title": "You can request a basic DBS check "
+      },
+      {
+        "body": "<p>Find out how to request:</p>\n\n<ul>\n  <li>an <a href=\"/disclosure-barring-service-check\">enhanced check</a>\n</li>\n  <li>a <a href=\"/disclosure-barring-service-check/dbs-barred-lists\">barred list check</a>\n</li>\n</ul>\n\n<p>This is a <a href=\"/government/publications/dbs-check-eligible-positions-guidance\">regulated activity</a> role, which means some people are barred from doing it.</p>\n\n<h2 id=\"managers\">Managers</h2>\n<p>You can request the same check for a manager of someone doing this role.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-7",
+        "title": "You can request an enhanced check with an adults' barred list check"
+      },
+      {
+        "body": "<p>Find out how to request:</p>\n\n<ul>\n  <li>an <a href=\"/disclosure-barring-service-check\">enhanced check</a>\n</li>\n  <li>a <a href=\"/disclosure-barring-service-check/dbs-barred-lists\">barred list check</a>\n</li>\n</ul>\n\n<p>This is a <a href=\"/government/publications/dbs-check-eligible-positions-guidance\">regulated activity</a> role, which means some people are barred from doing it.</p>\n\n<h2 id=\"managers\">Managers</h2>\n<p>You can request the same check for a manager of someone doing this role.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-8",
+        "title": "You can request an enhanced check with a check of both the adults' and children's barred lists"
+      },
+      {
+        "body": "<p>Contact DBS to discuss the role.</p>\n\n<div class=\"contact\">\n<p>DBS customer services<br>\ncustomerservices@dbs.gov.uk<br>\nTelephone: 03000 200 190<br>\nMinicom: 03000 200 192<br>\nMonday to Friday, 8am to 6pm<br>\nSaturday, 10am to 5pm<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-9",
+        "title": "Contact the Disclosure and Barring Service (DBS)"
+      },
+      {
+        "body": "<p>You can only <a href=\"/disclosure-barring-service-check\">request a standard check</a> when someone first becomes a solicitor, chartered legal executive, accountant or actuary.</p>\n\n<h2 id=\"managers\">Managers</h2>\n<p>You cannot request a check for a manager of someone doing this role.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-10",
+        "title": "You can request a standard check "
+      },
+      {
+        "body": "<p>Find out how to <a href=\"/disclosure-barring-service-check\">request a standard check</a>.</p>\n\n<h2 id=\"managers\">Managers</h2>\n<p>You cannot request a check for a manager of someone doing this role.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-11",
+        "title": "You can request a standard check"
+      },
+      {
+        "body": "<p>Find out how to request:</p>\n\n<ul>\n  <li>an <a href=\"/disclosure-barring-service-check\">enhanced check</a>\n</li>\n  <li>a <a href=\"/disclosure-barring-service-check/dbs-barred-lists\">barred list check</a>\n</li>\n</ul>\n\n<h2 id=\"managers\">Managers</h2>\n<p>You cannot request a check for a manager of someone doing this role.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-12",
+        "title": "You can request an enhanced check with a check of both the adults' and children's barred lists"
+      },
+      {
+        "body": "<p>You can only <a href=\"/disclosure-barring-service-check\">request a standard check</a> when someone first becomes a vet or responsible for killing animals humanely.</p>\n\n<h2 id=\"managers\">Managers</h2>\n<p>You cannot request a check for a manager of someone doing this role.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-13",
+        "title": "You can request a standard check "
+      },
+      {
+        "body": "<p>Find out how to request:</p>\n\n<ul>\n  <li>an <a href=\"/disclosure-barring-service-check\">enhanced check</a>\n</li>\n  <li>a <a href=\"/disclosure-barring-service-check/dbs-barred-lists\">barred list check</a>\n</li>\n</ul>\n\n<h2 id=\"managers\">Managers</h2>\n<p>You cannot request a check for a manager of someone doing this role.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-14",
+        "title": "You can request an enhanced check with a children's barred list check"
+      },
+      {
+        "body": "<p>Find out how to request:</p>\n\n<ul>\n  <li>an <a href=\"/disclosure-barring-service-check\">enhanced check</a>\n</li>\n  <li>a <a href=\"/disclosure-barring-service-check/dbs-barred-lists\">barred list check</a>\n</li>\n</ul>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-15",
+        "title": "You can request an enhanced check with a children's barred list check"
+      },
+      {
+        "body": "<p>Find out how to request:</p>\n\n<ul>\n  <li>an <a href=\"/disclosure-barring-service-check\">enhanced check</a>\n</li>\n  <li>a <a href=\"/disclosure-barring-service-check/dbs-barred-lists\">children’s barred list check</a>\n</li>\n</ul>\n\n<p>This is a <a href=\"/government/publications/dbs-check-eligible-positions-guidance\">regulated activity</a> role, which means some people are barred from doing it.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-16",
+        "title": "You can request an enhanced check with a children's barred list check"
+      },
+      {
+        "body": "<p>Find out how to <a href=\"/disclosure-barring-service-check\">request an enhanced check</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-17",
+        "title": "You can request an enhanced check without a barred list check"
+      },
+      {
+        "body": "<p>Find out how to <a href=\"/disclosure-barring-service-check\">request an enhanced check</a>.</p>\n\n<h2 id=\"managers\">Managers</h2>\n<p>You can request the same check for a manager of someone doing this role.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-18",
+        "title": "You can request an enhanced check without a barred list check"
+      },
+      {
+        "body": "<p>Find out how to <a href=\"/disclosure-barring-service-check\">request a standard check</a>.</p>\n\n<h2 id=\"managers\">Managers</h2>\n<p>You cannot request a check for a manager of someone doing this role.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-20",
+        "title": "You can request a standard check"
+      },
+      {
+        "body": "<p>Find out how to request:</p>\n\n<ul>\n  <li>an <a href=\"/disclosure-barring-service-check\">enhanced check</a>\n</li>\n  <li>a <a href=\"/disclosure-barring-service-check/dbs-barred-lists\">barred list check</a>\n</li>\n</ul>\n\n<p>This is a <a href=\"/government/publications/dbs-check-eligible-positions-guidance\">regulated activity</a> role, which means some people are barred from doing it.</p>\n\n<h2 id=\"managers\">Managers</h2>\n<p>You can request the same check for a manager of someone doing this role.</p>\n\n<h2 id=\"retail-staff\">Retail staff</h2>\n<p>You cannot request a check for retail staff working with an optician or pharmacist.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-21",
+        "title": "You can request an enhanced check with a check of both the adults' and children's barred lists"
+      }
+    ],
+    "start_button_text": "Start now"
+  },
+  "document_type": "simple_smart_answer",
+  "first_published_at": "2016-08-08T08:55:06Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/find-out-dbs-check",
+        "api_url": "https://www.gov.uk/api/content/find-out-dbs-check",
+        "base_path": "/find-out-dbs-check",
+        "content_id": "2f9c0b98-211d-44e4-83aa-0fc2538f6415",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-09-13T11:44:31Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Find out which DBS check is right for your employee",
+        "web_url": "https://www.gov.uk/find-out-dbs-check",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/employing-people/recruiting-hiring",
+        "api_url": "https://www.gov.uk/api/content/browse/employing-people/recruiting-hiring",
+        "base_path": "/browse/employing-people/recruiting-hiring",
+        "content_id": "18316184-f6ff-4581-a487-83935a490074",
+        "description": "Advertise a job, Disclosure and Barring (DBS) checks, right to work checks, discrimination law and apprenticeships",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-08-03T13:11:33Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Recruiting and hiring",
+        "web_url": "https://www.gov.uk/browse/employing-people/recruiting-hiring",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "PB509",
+        "api_path": "/api/content/government/organisations/disclosure-and-barring-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/disclosure-and-barring-service",
+        "base_path": "/government/organisations/disclosure-and-barring-service",
+        "content_id": "77311cfc-4947-4a94-8b96-5412b1a359ab",
+        "details": {
+          "acronym": "DBS",
+          "brand": "home-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "Disclosure &amp;<br/>Barring Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Disclosure and Barring Service",
+        "web_url": "https://www.gov.uk/government/organisations/disclosure-and-barring-service",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/employing-people/recruiting-hiring",
+        "api_url": "https://www.gov.uk/api/content/browse/employing-people/recruiting-hiring",
+        "base_path": "/browse/employing-people/recruiting-hiring",
+        "content_id": "18316184-f6ff-4581-a487-83935a490074",
+        "description": "Advertise a job, Disclosure and Barring (DBS) checks, right to work checks, discrimination law and apprenticeships",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/employing-people",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+              "base_path": "/browse/employing-people",
+              "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+              "description": "Includes pay, contracts, hiring and redundancies",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-07-09T12:54:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Employing people",
+              "web_url": "https://www.gov.uk/browse/employing-people",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-08-03T13:11:33Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Recruiting and hiring",
+        "web_url": "https://www.gov.uk/browse/employing-people/recruiting-hiring",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/dbs-check-applicant-criminal-record",
+        "api_url": "https://www.gov.uk/api/content/dbs-check-applicant-criminal-record",
+        "base_path": "/dbs-check-applicant-criminal-record",
+        "content_id": "d5c3a85a-7d09-4ec7-a0f2-554b0717b606",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-01-18T10:39:15Z",
+        "schema_name": "guide",
+        "title": "Check someone's criminal record as an employer",
+        "web_url": "https://www.gov.uk/dbs-check-applicant-criminal-record",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/responsible-organisations",
+        "api_url": "https://www.gov.uk/api/content/guidance/responsible-organisations",
+        "base_path": "/guidance/responsible-organisations",
+        "content_id": "6c7d75f1-8600-4a08-bb2f-47cc1f286e84",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-04-12T12:35:11Z",
+        "schema_name": "detailed_guide",
+        "title": "Responsible Organisations",
+        "web_url": "https://www.gov.uk/guidance/responsible-organisations",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/report-unfit-work-children-vulnerable-adults",
+        "api_url": "https://www.gov.uk/api/content/report-unfit-work-children-vulnerable-adults",
+        "base_path": "/report-unfit-work-children-vulnerable-adults",
+        "content_id": "615da9fb-41b5-4cb8-8500-69e15ca3ce19",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-06-18T19:45:49Z",
+        "schema_name": "answer",
+        "title": "Report someone as unfit to work with children or vulnerable adults",
+        "web_url": "https://www.gov.uk/report-unfit-work-children-vulnerable-adults",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/find-dbs-umbrella-body",
+        "api_url": "https://www.gov.uk/api/content/find-dbs-umbrella-body",
+        "base_path": "/find-dbs-umbrella-body",
+        "content_id": "70180812-afda-446e-9f9c-728d83902bde",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2013-03-28T14:27:49Z",
+        "schema_name": "transaction",
+        "title": "Find a DBS umbrella body company",
+        "web_url": "https://www.gov.uk/find-dbs-umbrella-body",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/dbs-check-eligible-positions-guidance",
+        "api_url": "https://www.gov.uk/api/content/government/publications/dbs-check-eligible-positions-guidance",
+        "base_path": "/government/publications/dbs-check-eligible-positions-guidance",
+        "content_id": "5dc0d421-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-06T11:28:51Z",
+        "schema_name": "publication",
+        "title": "Eligibility guidance for standard DBS checks",
+        "web_url": "https://www.gov.uk/government/publications/dbs-check-eligible-positions-guidance",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business-and-industry/recruiting-hiring",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/recruiting-hiring",
+        "base_path": "/business-and-industry/recruiting-hiring",
+        "content_id": "c195d3e6-5924-4def-b1c2-24a685a0b210",
+        "details": {
+          "internal_name": "Recruiting and hiring",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/employing-people",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/employing-people",
+              "base_path": "/business-and-industry/employing-people",
+              "content_id": "35f5b496-add7-4263-8084-8510461881fe",
+              "details": {
+                "internal_name": "Employing people",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry/running-a-business",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+                    "base_path": "/business-and-industry/running-a-business",
+                    "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+                    "details": {
+                      "internal_name": "Running a business",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/business-and-industry",
+                          "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                          "base_path": "/business-and-industry",
+                          "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Business and industry",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-03T15:41:02Z",
+                          "schema_name": "taxon",
+                          "title": "Business and industry",
+                          "web_url": "https://www.gov.uk/business-and-industry",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Running a business",
+                    "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Employing people",
+              "web_url": "https://www.gov.uk/business-and-industry/employing-people",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:03Z",
+        "schema_name": "taxon",
+        "title": "Recruiting and hiring",
+        "web_url": "https://www.gov.uk/business-and-industry/recruiting-hiring",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employment/recruiting-hiring",
+        "api_url": "https://www.gov.uk/api/content/employment/recruiting-hiring",
+        "base_path": "/employment/recruiting-hiring",
+        "content_id": "55e8ea89-9ba8-4439-a703-7d26723a4ec0",
+        "details": {
+          "internal_name": "Recruiting and hiring (level 3, work theme, content from mainstream browse)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/employment/working",
+              "api_url": "https://www.gov.uk/api/content/employment/working",
+              "base_path": "/employment/working",
+              "content_id": "092348a4-b896-4f8f-a0dc-e6d4605a4904",
+              "description": "Includes holidays and finding a job",
+              "details": {
+                "internal_name": "Working, jobs and pensions [M] (merged, level 2, work theme)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/work",
+                    "api_url": "https://www.gov.uk/api/content/work",
+                    "base_path": "/work",
+                    "content_id": "d0f1e5a3-c8f4-4780-8678-994f19104b21",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Work",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:33:40Z",
+                    "schema_name": "taxon",
+                    "title": "Work",
+                    "web_url": "https://www.gov.uk/work",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T11:08:23Z",
+              "schema_name": "taxon",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/employment/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T11:08:23Z",
+        "schema_name": "taxon",
+        "title": "Recruiting and hiring",
+        "web_url": "https://www.gov.uk/employment/recruiting-hiring",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2016-09-13T11:44:31Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1692798801.914-10.13.20.177-102012",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "simple_smart_answer",
+  "title": "Find out which DBS check is right for your employee",
+  "updated_at": "2024-02-27T11:48:37Z",
+  "withdrawn_notice": {
+  }
+}

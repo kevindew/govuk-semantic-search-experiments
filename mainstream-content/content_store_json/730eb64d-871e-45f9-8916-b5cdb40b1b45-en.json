@@ -1,0 +1,474 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/report-unlicenced-taxi",
+  "content_id": "730eb64d-871e-45f9-8916-b5cdb40b1b45",
+  "description": "Report an unlicensed private hire vehicle (PHV) or taxi driver to the local council or Transport for London (TfL)",
+  "details": {
+    "body": "<p>Taxis and private hire vehicles (also called minicabs) must have a licence from the local council or Transport for London (<abbr title=\"Transport for London\">TfL</abbr>).</p>\n\n<p>Report a vehicle, driver or operator that’s unlicensed by either:</p>\n\n<ul>\n  <li>\n<a href=\"/find-your-local-council\">contacting the local council</a> where you saw them</li>\n  <li>\n<a rel=\"external\" href=\"https://tfl.gov.uk/forms/12368.aspx\">contacting <abbr title=\"Transport for London\">TfL</abbr></a> if you saw them in London</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Call 999 if you or someone else is in immediate danger.</p>\n</div>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>There is a different process for <a rel=\"external\" href=\"https://www.nidirect.gov.uk/articles/enforcement-taxi-legislation\">Northern Ireland</a>.</p>\n</div>\n\n<h2 id=\"check-if-a-vehicle-is-licensed-correctly\">Check if a vehicle is licensed correctly</h2>\n\n<p>A private hire vehicle (<abbr title=\"Private Hire Vehicle\">PHV</abbr>) can only be pre-booked. Taxis can also be hailed in the street or hired at a rank in the area they’re licensed by.</p>\n\n<h3 id=\"taxis\">Taxis</h3>\n\n<p>Taxis have a plate on the back showing their taxi licence number and the area they’re licensed by.</p>\n\n<p>They usually have a ‘TAXI’ roof sign.</p>\n\n<p>Taxis can only be hailed in the area they’re licensed by, but they can be pre-booked from anywhere.</p>\n\n<h3 id=\"phvs-minicabs\">\n<abbr title=\"Private Hire Vehicles\">PHVs</abbr> (minicabs)</h3>\n\n<p>To show they’re licensed, most <abbr title=\"Private Hire Vehicles\">PHVs</abbr> must display either a:</p>\n\n<ul>\n  <li>special licence plate on the front or rear of the vehicle</li>\n  <li>special disc on the windscreen or rear window</li>\n</ul>\n\n<p>Some <abbr title=\"Private Hire Vehicles\">PHVs</abbr> are exempt, such as executive hire vehicles.</p>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2015-10-21T14:17:07Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/report-unlicenced-taxi",
+        "api_url": "https://www.gov.uk/api/content/report-unlicenced-taxi",
+        "base_path": "/report-unlicenced-taxi",
+        "content_id": "730eb64d-871e-45f9-8916-b5cdb40b1b45",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-21T14:53:28Z",
+        "schema_name": "answer",
+        "title": "Report unlicensed taxis, minicabs or private hire vehicles",
+        "web_url": "https://www.gov.uk/report-unlicenced-taxi",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/driving/driving-enforcing-the-law",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/driving-enforcing-the-law",
+        "base_path": "/browse/driving/driving-enforcing-the-law",
+        "content_id": "32cd2eb4-26bc-4b1e-863a-f30a1d5a18b5",
+        "description": "Legal obligations of drivers and riders, report a crime",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:38Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Driving and enforcing the law",
+        "web_url": "https://www.gov.uk/browse/driving/driving-enforcing-the-law",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/parking-public-transport-environment",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/parking-public-transport-environment",
+        "base_path": "/browse/driving/parking-public-transport-environment",
+        "content_id": "11c4c5fa-9667-4a7a-825f-9e8256f0e225",
+        "description": "Public transport and bus passes, parking, environment and emissions",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-14T14:34:58Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Parking, public transport and the environment",
+        "web_url": "https://www.gov.uk/browse/driving/parking-public-transport-environment",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/driving/businesses",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+        "base_path": "/browse/driving/businesses",
+        "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+        "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-22T16:19:11Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Transport and driving businesses",
+        "web_url": "https://www.gov.uk/browse/driving/businesses",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D9",
+        "api_path": "/api/content/government/organisations/department-for-transport",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-transport",
+        "base_path": "/government/organisations/department-for-transport",
+        "content_id": "4c717efc-f47b-478e-a76d-ce1ae0af1946",
+        "details": {
+          "acronym": "DfT",
+          "brand": "department-for-transport",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/654bbccfe2e16a000d42abe1/s960_dft-gmh-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/654bbccfe70413000dfc4a51/s300_dft-gmh-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Transport"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Transport",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/driving/businesses",
+        "api_url": "https://www.gov.uk/api/content/browse/driving/businesses",
+        "base_path": "/browse/driving/businesses",
+        "content_id": "a066cec7-0d56-418b-9fbb-87ffe9bf5d7e",
+        "description": "Vehicle operator licences, goods vehicle and bus and public service vehicle operators, employing drivers",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/driving",
+              "api_url": "https://www.gov.uk/api/content/browse/driving",
+              "base_path": "/browse/driving",
+              "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+              "description": "Includes vehicle tax, MOT and driving licences",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:22:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving and transport",
+              "web_url": "https://www.gov.uk/browse/driving",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-22T16:19:11Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Transport and driving businesses",
+        "web_url": "https://www.gov.uk/browse/driving/businesses",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/find-local-council",
+        "api_url": "https://www.gov.uk/api/content/find-local-council",
+        "base_path": "/find-local-council",
+        "content_id": "622fda2b-5fa6-4c84-bc3b-22cd3ff08828",
+        "document_type": "special_route",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-10T13:10:02Z",
+        "schema_name": "special_route",
+        "title": "Find your local council",
+        "web_url": "https://www.gov.uk/find-local-council",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/report-smoky-vehicle",
+        "api_url": "https://www.gov.uk/api/content/report-smoky-vehicle",
+        "base_path": "/report-smoky-vehicle",
+        "content_id": "434b181f-112c-4738-8e6b-31678e953555",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-18T10:08:47Z",
+        "schema_name": "transaction",
+        "title": "Report a smoky lorry or bus",
+        "web_url": "https://www.gov.uk/report-smoky-vehicle",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/report-red-diesel-used-on-public-roads",
+        "api_url": "https://www.gov.uk/api/content/report-red-diesel-used-on-public-roads",
+        "base_path": "/report-red-diesel-used-on-public-roads",
+        "content_id": "132d5c59-1d0f-43f9-a512-8b5591bba615",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-24T13:58:24Z",
+        "schema_name": "answer",
+        "title": "Report red diesel used on public roads",
+        "web_url": "https://www.gov.uk/report-red-diesel-used-on-public-roads",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/psv-operator-licences",
+        "api_url": "https://www.gov.uk/api/content/psv-operator-licences",
+        "base_path": "/psv-operator-licences",
+        "content_id": "5ebd4e39-4c09-4be7-a9a4-446b82a2969e",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-27T12:12:52Z",
+        "schema_name": "guide",
+        "title": "PSV (Public Service Vehicle) operator licences",
+        "web_url": "https://www.gov.uk/psv-operator-licences",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/taxi-driver-licence",
+        "api_url": "https://www.gov.uk/api/content/taxi-driver-licence",
+        "base_path": "/taxi-driver-licence",
+        "content_id": "7c99580d-c4e6-43cc-a22a-39f19067ff0d",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-09-15T09:57:29Z",
+        "schema_name": "answer",
+        "title": "Driver licences for taxis and private hire vehicles",
+        "web_url": "https://www.gov.uk/taxi-driver-licence",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/transport/local-transport",
+        "api_url": "https://www.gov.uk/api/content/transport/local-transport",
+        "base_path": "/transport/local-transport",
+        "content_id": "3b4d6319-fcef-4637-b35a-e3df76321894",
+        "description": "Local transport funding, concessionary travel, buses, taxis, private hire vehicles and trams.",
+        "details": {
+          "internal_name": "Local transport",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport",
+              "api_url": "https://www.gov.uk/api/content/transport",
+              "base_path": "/transport",
+              "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+              "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+              "details": {
+                "internal_name": "Transport",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-15T14:31:46Z",
+              "schema_name": "taxon",
+              "title": "Transport",
+              "web_url": "https://www.gov.uk/transport",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-06-14T09:27:20Z",
+        "schema_name": "taxon",
+        "title": "Local transport",
+        "web_url": "https://www.gov.uk/transport/local-transport",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/transport/taxi-and-private-hire-vehicle-licensing",
+        "api_url": "https://www.gov.uk/api/content/transport/taxi-and-private-hire-vehicle-licensing",
+        "base_path": "/transport/taxi-and-private-hire-vehicle-licensing",
+        "content_id": "5b85ce16-9b5d-4626-ad27-0dc3c7f31c91",
+        "description": "Apply for taxi or private hire vehicle licenses, guidelines for carrying disabled passengers, and reporting unlicensed drivers.",
+        "details": {
+          "internal_name": "Taxi and private hire vehicle licensing",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/transport/vehicle-operator-licences",
+              "api_url": "https://www.gov.uk/api/content/transport/vehicle-operator-licences",
+              "base_path": "/transport/vehicle-operator-licences",
+              "content_id": "7bf5c281-681a-4ea3-bd22-d1ed96d421aa",
+              "description": "Apply for and manage your vehicle operator licence.",
+              "details": {
+                "internal_name": "Vehicle operator licences",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/transport/transport-businesses-and-vehicle-operator-licences",
+                    "api_url": "https://www.gov.uk/api/content/transport/transport-businesses-and-vehicle-operator-licences",
+                    "base_path": "/transport/transport-businesses-and-vehicle-operator-licences",
+                    "content_id": "693b7a9e-688f-4278-9375-9841f4187b23",
+                    "description": "Operator licensing for PSVs, HGVs and private hire vehicles, tachograph, speed limiter and driver CPC training centres.",
+                    "details": {
+                      "internal_name": "Transport businesses and vehicle operator licences",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/transport/driving-and-road-transport",
+                          "api_url": "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                          "base_path": "/transport/driving-and-road-transport",
+                          "content_id": "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                          "description": "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                          "details": {
+                            "internal_name": "Driving and road transport",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": false
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "parent_taxons": [
+                              {
+                                "api_path": "/api/content/transport",
+                                "api_url": "https://www.gov.uk/api/content/transport",
+                                "base_path": "/transport",
+                                "content_id": "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                                "description": "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                                "details": {
+                                  "internal_name": "Transport",
+                                  "notes_for_editors": "",
+                                  "visible_to_departmental_editors": true
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                  "root_taxon": [
+                                    {
+                                      "api_path": "/api/content/",
+                                      "api_url": "https://www.gov.uk/api/content/",
+                                      "base_path": "/",
+                                      "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                      "document_type": "homepage",
+                                      "links": {
+                                      },
+                                      "locale": "en",
+                                      "public_updated_at": "2023-06-28T09:32:34Z",
+                                      "schema_name": "homepage",
+                                      "title": "GOV.UK homepage",
+                                      "web_url": "https://www.gov.uk/",
+                                      "withdrawn": false
+                                    }
+                                  ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-06-15T14:31:46Z",
+                                "schema_name": "taxon",
+                                "title": "Transport",
+                                "web_url": "https://www.gov.uk/transport",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-06-14T09:27:13Z",
+                          "schema_name": "taxon",
+                          "title": "Driving and road transport",
+                          "web_url": "https://www.gov.uk/transport/driving-and-road-transport",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-06-14T09:27:13Z",
+                    "schema_name": "taxon",
+                    "title": "Transport businesses and vehicle operator licences",
+                    "web_url": "https://www.gov.uk/transport/transport-businesses-and-vehicle-operator-licences",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-06-14T09:27:13Z",
+              "schema_name": "taxon",
+              "title": "Vehicle operator licences",
+              "web_url": "https://www.gov.uk/transport/vehicle-operator-licences",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-11-22T12:18:36Z",
+        "schema_name": "taxon",
+        "title": "Taxi and private hire vehicle licensing",
+        "web_url": "https://www.gov.uk/transport/taxi-and-private-hire-vehicle-licensing",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2015-10-21T14:53:28Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1692610931.656-10.13.22.11-8956",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Report unlicensed taxis, minicabs or private hire vehicles",
+  "updated_at": "2024-02-22T16:19:16Z",
+  "withdrawn_notice": {
+  }
+}

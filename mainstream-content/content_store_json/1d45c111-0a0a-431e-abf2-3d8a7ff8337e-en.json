@@ -1,0 +1,1043 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/landlord-immigration-check",
+  "content_id": "1d45c111-0a0a-431e-abf2-3d8a7ff8337e",
+  "description": "Find out if someone can rent your private residential property in England.",
+  "details": {
+    "body": "<p>You must check anyone aged 18 or over who pays to use your property as their main home, for example, tenants, sub-tenants and paying house guests.</p>\n\n<p>Use this service to find out:</p>\n\n<ul>\n  <li>which types of documents give someone the right to rent in the UK</li>\n  <li>how to check someone’s documents</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You might <a href=\"/penalties-illegal-renting\">get a fine (‘civil penalty’)</a> if you rent your property to someone who does not have the right to rent.</p>\n</div>\n\n<p>If you’ve bought a property that already has tenants, you need proof that their last landlord did the check. You’ll still be responsible for carrying out <a href=\"/check-tenant-right-to-rent-documents/further-checks\">further checks</a> on your tenants in future.</p>\n",
+    "external_related_links": [
+
+    ],
+    "nodes": [
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-2",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-1",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-1",
+        "title": "Is the property you want to let in England?"
+      },
+      {
+        "body": "<p>A property would usually be a tenant’s only or main home if:</p>\n\n<ul>\n  <li>they live there most of the time</li>\n  <li>they keep most of their belongings there</li>\n  <li>their partner or children live with them</li>\n  <li>they’re registered to vote at the property</li>\n  <li>they’re registered with the doctor using that address</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-40",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-26",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-2",
+        "title": "Is the person renting the property as their main home?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Social housing",
+            "next_node": "outcome-3",
+            "slug": "social-housing"
+          },
+          {
+            "label": "A care home or hospice",
+            "next_node": "outcome-3",
+            "slug": "a-care-home-or-hospice"
+          },
+          {
+            "label": "A hostel or refuge",
+            "next_node": "outcome-4",
+            "slug": "a-hostel-or-refuge"
+          },
+          {
+            "label": "Holiday accommodation",
+            "next_node": "outcome-5",
+            "slug": "holiday-accommodation"
+          },
+          {
+            "label": "Accommodation to an employee or as part of training (for example, tied accommodation)",
+            "next_node": "outcome-3",
+            "slug": "accommodation-to-an-employee-or-as-part-of-training-for-example-tied-accommodation"
+          },
+          {
+            "label": "Student accommodation (student halls or where an arrangement has been made with the educational institution)",
+            "next_node": "outcome-7",
+            "slug": "student-accommodation-student-halls-or-where-an-arrangement-has-been-made-with-the-educational-institution"
+          },
+          {
+            "label": "A residential property with a lease for 7 years or more",
+            "next_node": "outcome-8",
+            "slug": "a-residential-property-with-a-lease-for-7-years-or-more"
+          },
+          {
+            "label": "Another type of property (including mobile homes)",
+            "next_node": "question-42",
+            "slug": "another-type-of-property-including-mobile-homes"
+          }
+        ],
+        "slug": "question-40",
+        "title": "What kind of property are you letting?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-43",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-9",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-42",
+        "title": "Is the person at least 18 years old?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "British or Irish",
+            "next_node": "question-44",
+            "slug": "british-or-irish"
+          },
+          {
+            "label": "Citizen from the EU, Switzerland, Norway, Iceland or Liechtenstein",
+            "next_node": "question-46",
+            "slug": "citizen-from-the-eu-switzerland-norway-iceland-or-liechtenstein"
+          },
+          {
+            "label": "Citizen from Australia, Canada, Japan, New Zealand, Singapore, South Korea or USA",
+            "next_node": "question-75",
+            "slug": "citizen-from-australia-canada-japan-new-zealand-singapore-south-korea-or-usa"
+          },
+          {
+            "label": "Citizen from another country",
+            "next_node": "question-55",
+            "slug": "citizen-from-another-country"
+          }
+        ],
+        "slug": "question-43",
+        "title": "What is the person’s nationality?"
+      },
+      {
+        "body": "<ul>\n  <li>a British passport (current or expired)</li>\n  <li>an Irish passport or passport card (current or expired)</li>\n  <li>a certificate of naturalisation or registration as a British citizen</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-10",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-45",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-44",
+        "title": "Does the person have any of the following documents?"
+      },
+      {
+        "body": "<ul>\n  <li>a current UK driving licence (full or provisional)</li>\n  <li>a full birth or adoption certificate from the UK, Guernsey, Jersey, the Isle of Man or Ireland (listing at least one birth or adoptive parent)</li>\n  <li>a letter from their employer giving their National Insurance or employee number and the employer’s name, signature and company address (dated within the past 3 months)</li>\n  <li>a letter confirming they’re enrolled to study, the course name and how long it lasts (from a UK further or higher education institution, dated within the past 3 months)</li>\n  <li>benefits paperwork from HMRC, a local authority, the Department for Work and Pensions (DWP) or Jobcentre Plus (dated within the past 3 months)</li>\n  <li>a Disclosure and Barring Service (DBS) certificate from a criminal records check (dated within the past 3 months)</li>\n  <li>evidence the person is currently serving in the UK armed forces or has previously served</li>\n  <li>a letter from a private rented sector access scheme, confirming the address of the property it’s helping the person rent from you (dated within the past 3 months)</li>\n  <li>a letter from a British passport holder in an <a href=\"/government/publications/right-to-rent-landlords-code-of-practice/code-of-practice-on-illegal-immigrants-and-private-rented-accommodation-for-tenancies-starting-on-or-after-1-february-2016#annex-a-list-of-acceptable-professional-persons\">accepted profession</a> who’s known them for at least 3 months, with the professional’s name, address, signature, passport number, profession, most recent work address, how long they’ve known the person and in what capacity (dated within the past 3 months)</li>\n  <li>a letter confirming they’re known to a UK government department or local authority, with the signature and work address of a named official (dated within the past 3 months)</li>\n  <li>a letter from the UK police confirming that their passport or biometric residence permit was stolen, with the crime reference number (dated within the past 3 months)</li>\n  <li>a letter confirming they’ve been released from prison within the past 6 months, with their date of birth (from HM, Scottish or Northern Ireland Prison Service)</li>\n  <li>a letter confirming they’re on probation, from their offender manager (dated within the past 3 months)</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-10",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-11",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-45",
+        "title": "Does the person have 2 of the following documents?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "question-47",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-62",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-46",
+        "title": "Does the person have settled or pre-settled status, or have they ever applied to the EU Settlement Scheme?"
+      },
+      {
+        "body": "<p>The person has:</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "settled status under the EU Settlement Scheme",
+            "next_node": "question-48",
+            "slug": "settled-status-under-the-eu-settlement-scheme"
+          },
+          {
+            "label": "pre-settled status under the EU Settlement Scheme",
+            "next_node": "question-49",
+            "slug": "pre-settled-status-under-the-eu-settlement-scheme"
+          },
+          {
+            "label": "applied to the EU Settlement Scheme and is waiting for a decision",
+            "next_node": "question-50",
+            "slug": "applied-to-the-eu-settlement-scheme-and-is-waiting-for-a-decision"
+          },
+          {
+            "label": "applied to the EU Settlement Scheme, but their application has been refused",
+            "next_node": "question-68",
+            "slug": "applied-to-the-eu-settlement-scheme-but-their-application-has-been-refused"
+          }
+        ],
+        "slug": "question-47",
+        "title": "Which of the following applies to this person?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "the UK (England, Scotland, Wales and Northern Ireland)",
+            "next_node": "outcome-12",
+            "slug": "the-uk-england-scotland-wales-and-northern-ireland"
+          },
+          {
+            "label": "Guernsey, Jersey or the Isle of Man ",
+            "next_node": "outcome-13",
+            "slug": "guernsey-jersey-or-the-isle-of-man"
+          }
+        ],
+        "slug": "question-48",
+        "title": "Where did the person get their settled status?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "the UK (England, Scotland, Wales and Northern Ireland)",
+            "next_node": "outcome-14",
+            "slug": "the-uk-england-scotland-wales-and-northern-ireland"
+          },
+          {
+            "label": "Guernsey, Jersey or the Isle of Man",
+            "next_node": "outcome-23",
+            "slug": "guernsey-jersey-or-the-isle-of-man"
+          }
+        ],
+        "slug": "question-49",
+        "title": "Where did the person get their pre-settled status?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Before 30 June 2021",
+            "next_node": "outcome-15",
+            "slug": "before-30-june-2021"
+          },
+          {
+            "label": "On or after 30 June 2021",
+            "next_node": "outcome-21",
+            "slug": "on-or-after-30-june-2021"
+          }
+        ],
+        "slug": "question-50",
+        "title": "When did the tenant apply to the EU Settlement Scheme? "
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-10",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-56",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-55",
+        "title": "Does the person have a UK ‘certificate of entitlement to the right of abode’ (in their current or expired foreign passport)?"
+      },
+      {
+        "body": "<p>The biometric residence card or permit must be:</p>\n\n<ul>\n  <li>current (not expired)</li>\n  <li>in the person’s name</li>\n  <li>issued by the Home Office</li>\n  <li>marked to show the person has limited leave to enter or remain in the UK</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-24",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-57",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-56",
+        "title": "Does the person have a current biometric residence card or permit endorsed to show they’re allowed to stay in the UK for a limited time?"
+      },
+      {
+        "body": "<p>The biometric residence card or permit must be:</p>\n\n<ul>\n  <li>current (not expired)</li>\n  <li>in the person’s name</li>\n  <li>issued by the Home Office</li>\n  <li>marked to show the person has indefinite leave to enter or remain in the UK</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-12",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-58",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-57",
+        "title": "Does the person have a current biometric residence card or permit endorsed to show they’re allowed to stay in the UK indefinitely?"
+      },
+      {
+        "body": "<p>This can be any of the following:</p>\n\n<ul>\n  <li>a ‘certificate of entitlement’ in their foreign passport</li>\n  <li>a ‘travel document’ or ‘immigration status document’</li>\n  <li>an ‘exempt vignette’ (sticker in their foreign passport) - it could also be marked</li>\n</ul>\n\n<p>The document should be current, in the person’s name, and needs to show that the person has one of the following:</p>\n\n<ul>\n  <li>indefinite leave to enter or remain in the UK</li>\n  <li>no time limit to their stay in the UK</li>\n  <li>a certificate of entitlement to the Right of Abode</li>\n  <li>exemption from immigration control</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-20",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-59",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-58",
+        "title": "Does the person have a Home Office document endorsed to show they’re allowed to stay indefinitely in the UK?"
+      },
+      {
+        "body": "<p>This can be any of the following:</p>\n\n<ul>\n  <li>a sticker or stamp in their passport (called a ‘vignette’)</li>\n  <li>a ‘travel document’ or ‘immigration status document’</li>\n</ul>\n\n<p>The endorsement should be current, in the person’s name and needs to show that the person has either:</p>\n\n<ul>\n  <li>limited leave to enter or remain in the UK</li>\n  <li>exemption from immigration control</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-25",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-60",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-59",
+        "title": "Does the person have a passport or travel document endorsed to show they’re allowed to stay in the UK for a limited time?"
+      },
+      {
+        "body": "<ul>\n  <li>the Home Office to return their documents</li>\n  <li>a decision on their immigration case or visa application</li>\n  <li>a decision on their immigration appeal or administrative review</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-22",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-61",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-60",
+        "title": "If the person does not have the right documents, are they waiting for:"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-22",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-11",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-61",
+        "title": "Did the Home Office tell the person they have permission to rent?"
+      },
+      {
+        "body": "<p>The biometric residence card or permit must be:</p>\n\n<ul>\n  <li>current (not expired)</li>\n  <li>in the person’s name</li>\n  <li>issued by the Home Office</li>\n  <li>marked to show the person has limited leave to enter or remain in the UK</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-24",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-63",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-62",
+        "title": "Does the person have a current biometric residence card or permit endorsed to show they’re allowed to stay in the UK for a limited time?"
+      },
+      {
+        "body": "<p>The biometric residence card or permit must be:</p>\n\n<ul>\n  <li>current (not expired)</li>\n  <li>in the person’s name</li>\n  <li>issued by the Home Office</li>\n  <li>marked to show the person has indefinite leave to enter or remain in the UK</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-12",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-64",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-63",
+        "title": "Does the person have a current biometric residence card or permit endorsed to show they’re allowed to stay in the UK indefinitely?"
+      },
+      {
+        "body": "<p>This can be any of the following:</p>\n\n<ul>\n  <li>a sticker or stamp in their passport (called a ‘vignette’)</li>\n  <li>a ‘travel document’ or ‘immigration status document’</li>\n</ul>\n\n<p>The endorsement should be current, in the person’s name and needs to show that the person has either:</p>\n\n<ul>\n  <li>limited leave to enter or remain in the UK</li>\n  <li>exemption from immigration control</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-25",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-65",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-64",
+        "title": "Does the person have a passport or travel document endorsed to show they’re allowed to stay in the UK for a limited time?"
+      },
+      {
+        "body": "<p>This can be any of the following:</p>\n\n<ul>\n  <li>a ‘certificate of entitlement’ in their foreign passport</li>\n  <li>a ‘travel document’ or ‘immigration status document’</li>\n  <li>an ‘exempt vignette’ (sticker in their foreign passport) - it could also be marked</li>\n</ul>\n\n<p>The document should be current, in the person’s name, and needs to show that the person has one of the following:</p>\n\n<ul>\n  <li>indefinite leave to enter or remain in the UK</li>\n  <li>no time limit to their stay in the UK</li>\n  <li>a certificate of entitlement to the Right of Abode</li>\n  <li>exemption from immigration control</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-20",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-66",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-65",
+        "title": "Does the person have a Home Office document endorsed to show they’re allowed to stay indefinitely in the UK?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-24",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-67",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-66",
+        "title": "Does the person have a current Frontier Worker permit?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-19",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-27",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-67",
+        "title": "Does the person have a current Service providers of Switzerland visa?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-24",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-69",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-68",
+        "title": "Is the person currently appealing their decision to the EU Settlement Scheme?"
+      },
+      {
+        "body": "<p>The biometric residence card or permit must be:</p>\n\n<ul>\n  <li>current (not expired)</li>\n  <li>in the person’s name</li>\n  <li>issued by the Home Office</li>\n  <li>marked to show the person has limited leave to enter or remain in the UK</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-24",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-70",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-69",
+        "title": "Does the person have a current biometric residence card or permit endorsed to show they’re allowed to stay in the UK for a limited time?"
+      },
+      {
+        "body": "<p>The biometric residence card or permit must be:</p>\n\n<ul>\n  <li>current (not expired)</li>\n  <li>in the person’s name</li>\n  <li>issued by the Home Office</li>\n  <li>marked to show the person has indefinite leave to enter or remain in the UK</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-12",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-71",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-70",
+        "title": "Does the person have a current biometric residence card or permit endorsed to show they’re allowed to stay in the UK indefinitely?"
+      },
+      {
+        "body": "<p>This can be any of the following:</p>\n\n<ul>\n  <li>a sticker or stamp in their passport (called a ‘vignette’)</li>\n  <li>a ‘travel document’ or ‘immigration status document’</li>\n</ul>\n\n<p>The endorsement should be current, in the person’s name and needs to show that the person has either:</p>\n\n<ul>\n  <li>limited leave to enter or remain in the UK</li>\n  <li>exemption from immigration control</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-25",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-72",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-71",
+        "title": "Does the person have a passport or travel document endorsed to show they’re allowed to stay in the UK for a limited time?"
+      },
+      {
+        "body": "<p>This can be any of the following:</p>\n\n<ul>\n  <li>a ‘certificate of entitlement’ in their foreign passport</li>\n  <li>a ‘travel document’ or ‘immigration status document’</li>\n  <li>an ‘exempt vignette’ (sticker in their foreign passport) - it could also be marked</li>\n</ul>\n\n<p>The document should be current, in the person’s name, and needs to show that the person has one of the following:</p>\n\n<ul>\n  <li>indefinite leave to enter or remain in the UK</li>\n  <li>no time limit to their stay in the UK</li>\n  <li>a certificate of entitlement to the Right of Abode</li>\n  <li>exemption from immigration control</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-20",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-73",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-72",
+        "title": "Does the person have a Home Office document endorsed to show they’re allowed to stay indefinitely in the UK?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-24",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-74",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-73",
+        "title": "Does the person have a current Frontier Worker permit?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-19",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-27",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-74",
+        "title": "Does the person have a current Service providers of Switzerland visa?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-10",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-76",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-75",
+        "title": "Does the person have a UK ‘certificate of entitlement to the right of abode’ (in their current or expired foreign passport)?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-24",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-77",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-76",
+        "title": "Does the person have a current biometric residence card or permit endorsed to show they’re allowed to stay in the UK for a limited time?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-12",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-78",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-77",
+        "title": "Does the person have a current biometric residence card or permit endorsed to show they’re allowed to stay in the UK indefinitely?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-20",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-79",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-78",
+        "title": "Does the person have a Home Office document endorsed to show they’re allowed to stay indefinitely in the UK?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-25",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-80",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-79",
+        "title": "Does the person have a passport or travel document endorsed to show they’re allowed to stay in the UK for a limited time?"
+      },
+      {
+        "body": "<ul>\n  <li>the Home Office to return their documents</li>\n  <li>a decision on their immigration case or visa application</li>\n  <li>a decision on their immigration appeal or administrative review</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-22",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-81",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-80",
+        "title": "If the person does not have the right documents, are they waiting for:"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-22",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-27",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-81",
+        "title": "Did the Home Office tell the person they have permission to rent?"
+      },
+      {
+        "body": "<p>You do not need to check a tenant’s right to rent property in Wales, Scotland or Northern Ireland.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-1",
+        "title": "You only need to do a right to rent check in England"
+      },
+      {
+        "body": "<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-3",
+        "title": "You do not need to do a right to rent check"
+      },
+      {
+        "body": "<p>You do not need to make a check if the hostel or refuge is:</p>\n\n<ul>\n  <li>managed by a social landlord, voluntary organisation or charity</li>\n  <li>not operated as a commercial basis</li>\n  <li>partly or wholly funded by a government department, agency or local authority</li>\n</ul>\n\n<p>You’ll have to carry out a check in all other cases.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-4",
+        "title": "You might need to do a right to rent check "
+      },
+      {
+        "body": "<p>You do not need to make a check for holiday accommodation if both of the following apply:</p>\n\n<ul>\n  <li>you’re letting the property for holiday or leisure</li>\n  <li>you’re letting the property to the person for under 3 months</li>\n</ul>\n\n<p>You’ll have to do a check if:</p>\n\n<ul>\n  <li>you’re letting the property to the same person for longer than 3 months</li>\n  <li>the booking for the property is open-ended</li>\n  <li>you’ve extended the time the person has booked the property more than once</li>\n</ul>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-5",
+        "title": "You might need to do a right to rent check"
+      },
+      {
+        "body": "<p>You do not have to make a check if the student is in:</p>\n\n<ul>\n  <li>a halls of residence</li>\n  <li>any accommodation provided by their educational institution</li>\n  <li>any private accommodation agreed between the educational institution and the landlord</li>\n</ul>\n\n<p>You’ll have to carry out a check in all other cases.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-7",
+        "title": "You might need to do a right to rent check"
+      },
+      {
+        "body": "<p>You only have to do a right to rent check if there’s a break clause within the lease.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-8",
+        "title": "You might need to do a right to rent check"
+      },
+      {
+        "body": "<p>You do not have to make a check if the tenant is under 18 years old.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-9",
+        "title": "You do not need to do a right to rent check"
+      },
+      {
+        "body": "<p>You need to make a copy of the <a href=\"/check-tenant-right-to-rent-documents/copy-documents\">relevant parts of the documents</a> and keep the copies for 12 months after the tenancy has ended.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You might <a href=\"/penalties-illegal-renting\">get a fine (‘civil penalty’)</a> if you cannot prove you’ve carried out the check.</p>\n</div>\n\n<p>You do not have to do this check again.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-10",
+        "title": "This person can rent the property"
+      },
+      {
+        "body": "<p>This person cannot rent your property because they have not shown you documents to prove their right to rent.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If you think they do have the right to rent, <a href=\"/government/publications/right-to-rent-document-checks-a-user-guide\">check the full list of documents</a> they can show you as proof.</p>\n</div>\n\n<p>If the person is already renting your property, you must <a rel=\"external\" href=\"https://eforms.homeoffice.gov.uk/outreach/lcs-reporting.ofml\">report them to the Home Office</a>. You do not need to evict them.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-11",
+        "title": "This person cannot rent your property"
+      },
+      {
+        "body": "<p>You must <a href=\"/view-right-to-rent\">view the tenant’s right to rent details online</a>. You’ll need their share code.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Ask your tenant for their share code.</p>\n</div>\n\n<p>The tenant can get their share code by <a href=\"/prove-right-to-rent\">proving their right to rent online</a>.</p>\n\n<p>If the tenant does not give you their share code, use the <a rel=\"external\" href=\"https://eforms.homeoffice.gov.uk/outreach/lcs-application.ofml\">Landlord Checking Service</a>.</p>\n\n<p><a href=\"/government/publications/landlords-guide-to-right-to-rent-checks\">Find out more about using the Landlord Checking Service</a>.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You might <a href=\"/penalties-illegal-renting\">get a fine (‘civil penalty’)</a> if you cannot prove you’ve carried out the check.</p>\n</div>\n\n<p>You do not have to do this check again.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-12",
+        "title": "This person can rent the property"
+      },
+      {
+        "body": "<p>The tenant must show you a letter or email confirming they have settled status that was given in Guernsey, Jersey or the Isle of Man.</p>\n\n<p>If they’re from Jersey, they’ll need to use the <a rel=\"external\" href=\"https://www.gov.je/travel/passports/citizenshipandsettlement/pages/immigrationstatuscheckersettlementscheme.aspx\">online immigration status checker</a> to get a confirmation letter.</p>\n\n<p>You must then use the <a rel=\"external\" href=\"https://eforms.homeoffice.gov.uk/outreach/lcs-application.ofml\">Landlord Checking Service</a> to find out if the tenant is allowed to rent a property.</p>\n\n<h2 id=\"using-the-landlord-checking-service\">Using the Landlord Checking Service</h2>\n\n<p>You’ll need the person’s Home Office reference number and date of birth to use the service.</p>\n\n<p>You should get an answer within 2 working days.</p>\n\n<p><a href=\"/government/publications/landlords-guide-to-right-to-rent-checks\">Find out more about using the Landlord Checking Service</a>.</p>\n\n<h3 id=\"if-the-tenant-is-allowed-to-rent-your-property\">If the tenant is allowed to rent your property</h3>\n\n<p>You need to make a copy of both:</p>\n\n<ul>\n  <li>the letter or email confirming they have settled or status</li>\n  <li>the response from the Landlord Checking Service - this is called a Positive Right to Rent Notice (PRRN)</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You might <a href=\"/penalties-illegal-renting\">get a fine (‘civil penalty’)</a> if you cannot prove you’ve carried out the check.</p>\n</div>\n\n<p>You do not need to do this check again.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-13",
+        "title": "This person can rent the property if they can prove their settled status"
+      },
+      {
+        "body": "<p>You must <a href=\"/view-right-to-rent\">view the tenant’s right to rent details online</a>. You’ll need their share code.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Ask your tenant for their share code.</p>\n</div>\n\n<p>The tenant can get their share code by <a href=\"/prove-right-to-rent\">proving their right to rent online</a>.</p>\n\n<p>If the tenant does not give you their share code, use the <a rel=\"external\" href=\"https://eforms.homeoffice.gov.uk/outreach/lcs-application.ofml\">Landlord Checking Service</a>.</p>\n\n<p><a href=\"/government/publications/landlords-guide-to-right-to-rent-checks\">Find out more about using the Landlord Checking Service</a>.</p>\n\n<h2 id=\"follow-up-checks\">Follow-up checks</h2>\n\n<p>Do the follow-up check just before the date that’s the later of:</p>\n\n<ul>\n  <li>the end of your tenant’s permission to stay in the UK</li>\n  <li>12 months after your previous check</li>\n</ul>\n\n<p><a href=\"/report-immigration-crime\">Report your tenant to the Home Office</a> if you check again and find that one of the following is true:</p>\n\n<ul>\n  <li>the tenant’s pre-settled status has expired and has not been renewed</li>\n  <li>the tenant has not switched to settled status</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You might <a href=\"/penalties-illegal-renting\">get a fine (‘civil penalty’)</a> if you cannot prove you’ve carried out the check.</p>\n</div>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-14",
+        "title": "This person can rent the property if they can prove their pre-settled status"
+      },
+      {
+        "body": "<p>How you check this person’s right to rent depends on whether they have a digital Certificate of Application.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You might <a href=\"/penalties-illegal-renting\">get a penalty</a> if you cannot prove you’ve carried out the check.</p>\n</div>\n\n<h2 id=\"if-they-have-a-digital-certificate-of-application\">If they have a digital Certificate of Application</h2>\n\n<p>They can <a href=\"/prove-right-to-rent\">prove their right to rent online</a> and give you their ‘share code’. You’ll need to use their share code to <a href=\"/view-right-to-rent\">view the tenant’s right to rent details online</a>.</p>\n\n<p>The tenant can view their digital Certificate of Application online using the <a href=\"/view-prove-immigration-status\">View\nand prove your immigration status service</a>. It is an electronic record, not an email or physical document.</p>\n\n<p>You must make a copy of their Certificate of Application and keep it for 12 months after the tenancy has ended.</p>\n\n<h2 id=\"if-they-do-not-have-a-digital-certificate-of-application\">If they do not have a digital Certificate of Application</h2>\n\n<p>You can use the <a rel=\"external\" href=\"https://eforms.homeoffice.gov.uk/outreach/lcs-application.ofml\">Landlord Checking Service</a> to check the tenant’s right to rent if they have one of the following:</p>\n\n<ul>\n  <li>a non-digital Certificate of Application - this could be a letter or an email confirming their rights</li>\n  <li>an email or letter confirmation of their application to the EU Settlement Scheme (<abbr title=\"EU Settlement Scheme\">EUSS</abbr>)</li>\n</ul>\n\n<h3 id=\"using-the-landlord-checking-service\">Using the Landlord Checking Service</h3>\n\n<p>You’ll need the person’s Home Office reference number and date of birth to use the service.</p>\n\n<p>You should get an answer within 2 working days.</p>\n\n<p><a href=\"/government/publications/landlords-guide-to-right-to-rent-checks\">Find out more about using the Landlord Checking Service</a>.</p>\n\n<h3 id=\"if-the-tenant-is-allowed-to-rent-your-property\">If the tenant is allowed to rent your property</h3>\n\n<p>You must make a copy of:</p>\n\n<ul>\n  <li>either their Certificate of Application or their confirmation of application to the <abbr title=\"EU Settlement Scheme\">EUSS</abbr>\n</li>\n  <li>the response from the Landlord Checking Service - this is called a Positive Right to Rent Notice (PRRN)</li>\n</ul>\n\n<p>You must keep the copies for 12 months after the tenancy has ended.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-15",
+        "title": "This person might be able to rent your property"
+      },
+      {
+        "body": "<p>You’ll need to check your tenant’s original documents.</p>\n\n<p><a href=\"/government/publications/right-to-rent-document-checks-a-user-guide\">Check the full list of documents your tenant can show you as proof</a>.</p>\n\n<p><a href=\"/check-tenant-right-to-rent-documents/how-to-check\">Check the steps you need to take when checking original documents</a>.</p>\n\n<p>You need to make a copy of the <a href=\"/check-tenant-right-to-rent-documents/copy-documents\">relevant parts of the documents</a>.</p>\n\n<h2 id=\"follow-up-checks\">Follow-up checks</h2>\n\n<p>Do the follow-up check just before the date that’s the later of:</p>\n\n<ul>\n  <li>the end of your tenant’s permission to stay in the UK</li>\n  <li>12 months after your previous check</li>\n</ul>\n\n<p><a href=\"/report-immigration-crime\">Report your tenant to the Home Office</a> if you check again and find out the tenant does not have the right to rent your property.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You might <a href=\"/penalties-illegal-renting\">get a fine (‘civil penalty’)</a> if you cannot prove you’ve carried out the check.</p>\n</div>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-19",
+        "title": "This person can rent the property"
+      },
+      {
+        "body": "<p>You can either:</p>\n\n<ul>\n  <li>check your tenant’s original documents</li>\n  <li>view your tenant’s right to rent online if they have a ‘share code’</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You might <a href=\"/penalties-illegal-renting\">get a fine (‘civil penalty’)</a> if you cannot prove you’ve carried out the check.</p>\n</div>\n\n<h2 id=\"how-to-check-original-documents\">How to check original documents</h2>\n\n<p>You must ask the tenant to give you their original documents.</p>\n\n<p>You must check that:</p>\n\n<ul>\n  <li>the photograph and date of birth are the same across the tenants documents</li>\n  <li>the photograph on the document is a photograph of the tenant</li>\n  <li>the endorsement to show the tenant is allowed to stay in the UK for a limited time has not expired</li>\n</ul>\n\n<p>If the tenant has a different name to the name on their documents, you must ask the tenant to provide supporting documents. Supporting documents can include:</p>\n\n<ul>\n  <li>a marriage certificate</li>\n  <li>a deed poll</li>\n  <li>a decree</li>\n</ul>\n\n<p>You must be with the tenant in person or on a video call when you do the check.</p>\n\n<p>You need to <a href=\"/check-tenant-right-to-rent-documents/copy-documents\">make a copy of the relevant parts of the documents</a> and keep the copies for 12 months after the tenancy has ended.</p>\n\n<h2 id=\"how-to-check-with-a-share-code\">How to check with a share code</h2>\n\n<p><a href=\"/view-right-to-rent\">Check the person’s right to rent online</a>, if they’ve given you their share code.</p>\n\n<p>The tenant can get their share code by <a href=\"/prove-right-to-rent\">proving their right to rent online</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If your tenant can prove their right to rent using an original document, you cannot make them use the online service instead.</p>\n</div>\n\n<p>You do not have to do this check again.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-20",
+        "title": "This person can rent the property"
+      },
+      {
+        "body": "<p>You can use the <a rel=\"external\" href=\"https://eforms.homeoffice.gov.uk/outreach/lcs-application.ofml\">Landlord Checking Service</a> to check the tenant’s right to rent if they have a Certificate of Application.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You might <a href=\"/penalties-illegal-renting\">get a fine (‘civil penalty’)</a> if you cannot prove you’ve carried out the check.</p>\n</div>\n\n<h2 id=\"using-the-landlord-checking-service\">Using the Landlord Checking Service</h2>\n\n<p>You’ll need the person’s Home Office reference number and date of birth to use the service.</p>\n\n<p>You should an answer within 2 working days.</p>\n\n<p><a href=\"/government/publications/landlords-guide-to-right-to-rent-checks\">Find out more about using the Landlord Checking Service</a>.</p>\n\n<h3 id=\"if-the-tenant-is-allowed-to-rent-your-property\">If the tenant is allowed to rent your property</h3>\n\n<p>You must make a copy of both:</p>\n\n<ul>\n  <li>their Certificate of Application</li>\n  <li>the response from the Landlord Checking Service - this is called a Positive Right to Rent Notice (PRRN)</li>\n</ul>\n\n<p>You must keep the copies for 12 months after the tenancy has ended.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-21",
+        "title": "You need to use the Landlord Checking Service to check the tenant's right to rent"
+      },
+      {
+        "body": "<p>You must use the <a rel=\"external\" href=\"https://eforms.homeoffice.gov.uk/outreach/lcs-application.ofml\">Landlord Checking Service</a> to check the tenant’s right to rent.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You might <a href=\"/penalties-illegal-renting\">get a fine (‘civil penalty’)</a> if you cannot prove you’ve carried out the check.</p>\n</div>\n\n<h2 id=\"using-the-landlord-checking-service\">Using the Landlord Checking Service</h2>\n\n<p>You’ll need the person’s Home Office reference number and date of birth to use the service.</p>\n\n<p>You should get an answer within 2 working days.</p>\n\n<p><a href=\"/government/publications/landlords-guide-to-right-to-rent-checks\">Find out more about using the Landlord Checking Service</a>.</p>\n\n<h3 id=\"if-the-tenant-is-allowed-to-rent-your-property\">If the tenant is allowed to rent your property</h3>\n\n<p>You must make a copy of the response from the Landlord Checking Service - this is called a Positive Right to Rent Notice (PRRN).</p>\n\n<p>You must keep the copy for 12 months after the tenancy has ended.</p>\n\n<p>The Home Office will tell you if you need to check their documents again later.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-22",
+        "title": "You need to use the Landlord Checking Service to check the tenant's right to rent"
+      },
+      {
+        "body": "<p>The tenant must show you a letter or email confirming they have pre-settled status that was given in Guernsey, Jersey or the Isle of Man.</p>\n\n<p>If they’re from Jersey, they’ll need to use the <a rel=\"external\" href=\"https://www.gov.je/travel/passports/citizenshipandsettlement/pages/immigrationstatuscheckersettlementscheme.aspx\">online immigration status checker</a> to get a confirmation letter.</p>\n\n<p>You must then use the <a rel=\"external\" href=\"https://eforms.homeoffice.gov.uk/outreach/lcs-application.ofml\">Landlord Checking Service</a> to check if the tenant is allowed to rent property.</p>\n\n<p>You’ll need the person’s Home Office reference number and date of birth to use the service.</p>\n\n<p>You should get an answer within 2 working days.</p>\n\n<p><a href=\"/government/publications/landlords-guide-to-right-to-rent-checks\">Find out more about using the Landlord Checking Service</a>.</p>\n\n<h2 id=\"if-the-tenant-is-allowed-to-rent-your-property\">If the tenant is allowed to rent your property</h2>\n\n<p>You need to make a copy of both:</p>\n\n<ul>\n  <li>the letter or email confirming they have pre-settled status</li>\n  <li>the response from the Landlord Checking Service - this is called a Positive Right to Rent Notice (PRRN)</li>\n</ul>\n\n<h2 id=\"follow-up-checks\">Follow-up checks</h2>\n\n<p>Do the follow-up check just before the date that’s the later of:</p>\n\n<ul>\n  <li>the end of your tenant’s permission to stay in the UK</li>\n  <li>12 months after your previous check</li>\n</ul>\n\n<p><a href=\"https://www.gov.uk/report-immigration-crime\">Report your tenant to the Home Office</a> if you check again and find that one of the following is true:</p>\n\n<ul>\n  <li>the tenant’s pre-settled status has expired and has not been renewed</li>\n  <li>the tenant has not switched to settled status</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You might <a href=\"/penalties-illegal-renting\">get a fine (‘civil penalty’)</a> if you cannot prove you’ve carried out the check.</p>\n</div>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-23",
+        "title": "This person can rent the property if they can prove their pre-settled status"
+      },
+      {
+        "body": "<p>You must <a href=\"/view-right-to-rent\">view the tenant’s right to rent details online</a>. You’ll need their share code.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Ask your tenant for their share code.</p>\n</div>\n\n<p>The tenant can get their share code by <a href=\"/prove-right-to-rent\">proving their right to rent online</a>.</p>\n\n<p>If the tenant does not give you their share code, use the <a rel=\"external\" href=\"https://eforms.homeoffice.gov.uk/outreach/lcs-application.ofml\">Landlord Checking Service</a>.</p>\n\n<p><a href=\"/government/publications/landlords-guide-to-right-to-rent-checks\">Find out more about using the Landlord Checking Service</a>.</p>\n\n<h2 id=\"follow-up-checks\">Follow-up checks</h2>\n\n<p>Do the follow-up check just before the date that’s the later of:</p>\n\n<ul>\n  <li>the end of your tenant’s permission to stay in the UK</li>\n  <li>12 months after your previous check</li>\n</ul>\n\n<p><a href=\"/report-immigration-crime\">Report your tenant to the Home Office</a> if you check and find out the tenant does not have the right to rent your property.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You might <a href=\"/penalties-illegal-renting\">get a fine (‘civil penalty’)</a> if you cannot prove you’ve carried out the check.</p>\n</div>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-24",
+        "title": "This person can rent the property"
+      },
+      {
+        "body": "<p>You can either:</p>\n\n<ul>\n  <li>check your tenant’s original documents</li>\n  <li>view your tenant’s right to rent online if they have a ‘share code’</li>\n</ul>\n\n<h2 id=\"how-to-check-original-documents\">How to check original documents</h2>\n\n<p>You must ask the tenant to give you their original documents.</p>\n\n<p>You must check that:</p>\n\n<p>the photograph and date of birth are the same across the tenants documents \nthe photograph on the document is a photograph of the tenant \nthe endorsement to show the tenant is allowed to stay in the UK for a limited time has not expired</p>\n\n<p>If the tenant has a different name to the name on their documents, you must ask the tenant to provide supporting documents. Supporting documents can include:</p>\n\n<ul>\n  <li>a marriage certificate</li>\n  <li>a deed poll</li>\n  <li>a decree</li>\n</ul>\n\n<p>You must be with the tenant in person or on a video call when you do the check.</p>\n\n<p>You need to <a href=\"/check-tenant-right-to-rent-documents/copy-documents\">make a copy of the relevant parts of the documents</a> and keep the copies for 12 months after the tenancy has ended.</p>\n\n<h2 id=\"how-to-check-with-a-share-code\">How to check with a share code</h2>\n\n<p><a href=\"/view-right-to-rent\">Check the person’s right to rent online</a>, if they’ve given you their share code.</p>\n\n<p>The tenant can get their share code by <a href=\"/prove-right-to-rent\">proving their right to rent online</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>If your tenant can prove their right to rent using an original document, you cannot make them use the online service instead.</p>\n</div>\n\n<h2 id=\"follow-up-checks\">Follow-up checks</h2>\n\n<p>Do the follow-up check just before the date that’s the later of:</p>\n\n<ul>\n  <li>the end of your tenant’s permission to stay in the UK</li>\n  <li>12 months after your previous check</li>\n</ul>\n\n<p><a href=\"/report-immigration-crime\">Report your tenant to the Home Office</a> if you check and find out the tenant does not have the right to rent your property.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You might <a href=\"/penalties-illegal-renting\">get a fine (‘civil penalty’)</a> if you cannot prove you’ve carried out the check.</p>\n</div>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-25",
+        "title": "This person can rent the property"
+      },
+      {
+        "body": "<p>You do not need to do a check if the tenant is not renting the property as their main home.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-26",
+        "title": "You do not need to do a right to rent check"
+      },
+      {
+        "body": "<p>This person can rent your property if they:</p>\n\n<ul>\n  <li>are visiting the UK for 6 months or less</li>\n  <li>have proof they arrived in the UK in the last 6 months</li>\n</ul>\n\n<h2 id=\"how-to-check-their-documents\">How to check their documents</h2>\n\n<p>You need to check their passport showing they’re from one of the following countries:</p>\n\n<ul>\n  <li>an EU country</li>\n  <li>Australia</li>\n  <li>Canada</li>\n  <li>Iceland</li>\n  <li>Japan</li>\n  <li>Liechtenstein</li>\n  <li>New Zealand</li>\n  <li>Norway</li>\n  <li>Singapore</li>\n  <li>South Korea</li>\n  <li>Switzerland</li>\n  <li>USA</li>\n</ul>\n\n<p>They must give you a document that includes the date they arrived in the UK, such as:</p>\n\n<ul>\n  <li>a boarding pass</li>\n  <li>a travel ticket</li>\n  <li>their booking confirmation</li>\n</ul>\n\n<p>The date they arrived in the UK must be in the last 6 months.</p>\n\n<p>They can give you an original or copy of the document. It can be an electronic or physical version.</p>\n\n<p>You must have their passport and documents with you when you check them with the tenant in person or on a video call. The tenant cannot show the documents to you on screen.</p>\n\n<p>You’ll then need to <a href=\"/check-tenant-right-to-rent-documents/copy-documents\">make a copy of the relevant parts of the documents</a>.</p>\n\n<p>You can read the <a href=\"/government/publications/right-to-rent-landlords-code-of-practice\">landlord’s code of practice</a> for more information.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-27",
+        "title": "This person might be able to rent the property"
+      }
+    ],
+    "start_button_text": "Start now"
+  },
+  "document_type": "simple_smart_answer",
+  "first_published_at": "2021-06-30T15:31:41Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/landlord-immigration-check",
+        "api_url": "https://www.gov.uk/api/content/landlord-immigration-check",
+        "base_path": "/landlord-immigration-check",
+        "content_id": "1d45c111-0a0a-431e-abf2-3d8a7ff8337e",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-04-05T23:01:03Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Check if someone can rent your residential property",
+        "web_url": "https://www.gov.uk/landlord-immigration-check",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D16",
+        "api_path": "/api/content/government/organisations/home-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/home-office",
+        "base_path": "/government/organisations/home-office",
+        "content_id": "06056197-bc69-4147-aa28-070bca132178",
+        "details": {
+          "acronym": "Home Office",
+          "brand": "home-office",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db3ce5274a7908e3530c/s960_home-office.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db3c40f0b649cceb18de/s300_home-office.jpg"
+          },
+          "logo": {
+            "crest": "ho",
+            "formatted_title": "Home Office"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Home Office",
+        "web_url": "https://www.gov.uk/government/organisations/home-office",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2022-04-05T23:01:03Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1695893121.573-10.13.20.204-104835",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "simple_smart_answer",
+  "title": "Check if someone can rent your residential property",
+  "updated_at": "2024-03-07T11:18:24Z",
+  "withdrawn_notice": {
+  }
+}

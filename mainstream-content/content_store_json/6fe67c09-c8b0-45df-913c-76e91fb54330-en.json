@@ -1,0 +1,776 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/complain-company",
+  "content_id": "6fe67c09-c8b0-45df-913c-76e91fb54330",
+  "description": "Complain about or report company for breaking the law or committing fraud, running scams, or selling faulty products of services ",
+  "details": {
+    "body": "<p>Find out how to complain about a company that:</p>\n\n<ul>\n  <li>is committing fraud or running scams</li>\n  <li>sold you a faulty product or service</li>\n  <li>owes you money</li>\n  <li>files late or fraudulent documents</li>\n  <li>is evading tax</li>\n  <li>is causing harm to its suppliers or customers</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>The process is different if you want to <a href=\"/report-a-disqualified-director\">report a disqualified director</a> or <a href=\"/government/publications/complain-about-the-re-use-of-a-company-name\">complain about the re-use of a company name</a>.</p>\n</div>\n",
+    "external_related_links": [
+
+    ],
+    "nodes": [
+      {
+        "body": "<p><a rel=\"external\" href=\"https://beta.companieshouse.gov.uk/\">Check the Companies House register</a> if you do not know the status of the company.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes, the company is still active",
+            "next_node": "question-2",
+            "slug": "yes-the-company-is-still-active"
+          },
+          {
+            "label": "No, the company is being liquidated (being 'wound up') ",
+            "next_node": "outcome-9",
+            "slug": "no-the-company-is-being-liquidated-being-wound-up"
+          },
+          {
+            "label": "No, the  company has been dissolved",
+            "next_node": "outcome-10",
+            "slug": "no-the-company-has-been-dissolved"
+          }
+        ],
+        "slug": "question-1",
+        "title": "Is the company active? "
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Fraud or a scam",
+            "next_node": "question-3",
+            "slug": "fraud-or-a-scam"
+          },
+          {
+            "label": "A faulty product or service",
+            "next_node": "question-4",
+            "slug": "a-faulty-product-or-service"
+          },
+          {
+            "label": "You're owed money",
+            "next_node": "outcome-4",
+            "slug": "you-re-owed-money"
+          },
+          {
+            "label": "Tax evasion ",
+            "next_node": "outcome-8",
+            "slug": "tax-evasion"
+          },
+          {
+            "label": "Financial harm to customers or suppliers",
+            "next_node": "outcome-6",
+            "slug": "financial-harm-to-customers-or-suppliers"
+          }
+        ],
+        "slug": "question-2",
+        "title": "What are you complaining about?"
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Fraud or a scam (for example a fake investment scheme, a ‘Ponzi’ or pyramid scheme) ",
+            "next_node": "outcome-6",
+            "slug": "fraud-or-a-scam-for-example-a-fake-investment-scheme-a-ponzi-or-pyramid-scheme"
+          },
+          {
+            "label": "Filing late or fraudulent documents  ",
+            "next_node": "outcome-2",
+            "slug": "filing-late-or-fraudulent-documents"
+          },
+          {
+            "label": "Serious and complex fraud (this usually involves hundreds of millions of pounds and damages the economy)",
+            "next_node": "outcome-5",
+            "slug": "serious-and-complex-fraud-this-usually-involves-hundreds-of-millions-of-pounds-and-damages-the-economy"
+          }
+        ],
+        "slug": "question-3",
+        "title": "What's the company doing? "
+      },
+      {
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-7",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-3",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-4",
+        "title": "Are you complaining about a financial service? "
+      },
+      {
+        "body": "<p>Complain to Companies House if a company has not filed its annual accounts or confirmation statements (previously annual returns), or has filed fraudulent documents.</p>\n\n<p>To make a complaint, email <a href=\"mailto:enquiries@companieshouse.gov.uk\">enquiries@companieshouse.gov.uk</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-2",
+        "title": "Complain to Companies House "
+      },
+      {
+        "body": "<p>Use <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/\">Citizens Advice</a> to find out what to do if you’ve:</p>\n\n<ul>\n  <li>been sold faulty or counterfeit goods</li>\n  <li>received poor service</li>\n  <li>had problems with contracts</li>\n  <li>had problems with builders</li>\n</ul>\n\n<p>You can also get advice on your consumer rights, for example when you’re entitled to a refund.</p>\n\n<p>If you cannot resolve a complaint, an ‘ombudsman’ can investigate complaints about organisations for free.</p>\n\n<p>Use the <a rel=\"external\" href=\"http://www.ombudsmanassociation.org/\">Ombudsman Association</a> website to find the right ombudsman for your complaint.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-3",
+        "title": "Contact Citizens Advice or an ombudsman "
+      },
+      {
+        "body": "<p>You might be able to:</p>\n\n<ul>\n  <li>\n<a href=\"/make-court-claim-for-money\">make a court claim</a> - sometimes knows as ‘small claims court’</li>\n  <li><a href=\"/statutory-demands\">send a statutory demand</a></li>\n</ul>\n\n<p>Find out other <a href=\"https://www.gov.uk/options-if-youre-owed-money\">options if a company owes you money</a>.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-4",
+        "title": "A company owes you money "
+      },
+      {
+        "body": "<p><a rel=\"external\" href=\"https://www.sfo.gov.uk/publications/guidance-policy-and-protocols/#statement\">Report serious and complex fraud, bribery and corruption</a> to the Serious Fraud Office.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-5",
+        "title": "Complain to the Serious Fraud Office "
+      },
+      {
+        "body": "<p>You can either:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"http://www.insolvencydirect.bis.gov.uk/complaintformcib.htm\">complain to the Insolvency Service online</a></li>\n  <li>call or write to the Insolvency Service</li>\n</ul>\n\n<div class=\"contact\">\n<p>Insolvency Service  <br>\nTelephone: 0303 003 1744  <br>\n24-hour answerphone<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nCompliance and Targeting\n<br>Investigations and Enforcement Services\n<br>Insolvency Service\n<br>3rd Floor Cannon House\n<br>18 Priory Queensway\n<br>Birmingham\n<br>B4 6FD\n<br>\n</p></div></div>\n\n<h3 id=\"what-happens-next\">What happens next</h3>\n\n<p>If the Insolvency Service decides that your complaint is serious enough, they will either:</p>\n\n<ul>\n  <li>carry out a confidential investigation</li>\n  <li>pass your complaint on to another public body</li>\n</ul>\n\n<p>If they find anything wrong and have enough evidence, they might ask a court to:</p>\n\n<ul>\n  <li>close the company down</li>\n  <li>disqualify the company’s directors</li>\n</ul>\n\n<p>They may also carry out a criminal investigation if they find the company has committed an offence.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-6",
+        "title": "Complain to the Insolvency Service"
+      },
+      {
+        "body": "<p>Follow the company’s complaints procedure. You can usually then <a href=\"https://www.gov.uk/complain-financial-service\">complain to the Financial Ombudsman Service</a> if you’re unhappy with their response.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-7",
+        "title": "Complain to the Financial Ombudsman Service "
+      },
+      {
+        "body": "<p><a href=\"/report-an-unregistered-trader-or-business\">Report someone to HM Revenue and Customs (HMRC)</a> if you think they’re evading tax, for example by:</p>\n\n<ul>\n  <li>not telling HMRC about what they owe</li>\n  <li>keeping business ‘off the books’ by dealing in cash and not giving receipts</li>\n  <li>hiding money, shares or other assets in an offshore bank account (‘offshore tax evasion’)</li>\n</ul>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-8",
+        "title": "Report tax evasion to HMRC"
+      },
+      {
+        "body": "<p>Contact the <a href=\"/contact-official-receiver\">official receiver</a> or <a href=\"/find-an-insolvency-practitioner\">insolvency practitioner</a> if the company you want to complain about:</p>\n\n<ul>\n  <li>has gone into administration</li>\n  <li>has gone into receivership</li>\n</ul>\n\n<p>Check the <a rel=\"external\" href=\"http://wck2.companieshouse.gov.uk\">Companies House register</a> if you do not know the official receiver or insolvency practitioner responsible for the case.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-9",
+        "title": "Complain to the Insolvency Practitioner or Official Receiver "
+      },
+      {
+        "body": "<p>You can apply to have a company restored and complain to the Insolvency Service, so they can consider whether to investigate the dissolved company.</p>\n\n<p>What you should do depends on your situation.</p>\n\n<h2 id=\"apply-to-have-a-company-restored\">Apply to have a company restored</h2>\n\n<p>You can <a href=\"https://www.gov.uk/claiming-money-or-property-from-dissolved-company/restore-company-court-order\">apply to have a company restored</a> if:</p>\n\n<ul>\n  <li>they owe you money</li>\n  <li>you did business with them</li>\n  <li>you worked for them</li>\n  <li>you’re responsible for their employee pension fund</li>\n  <li>you have a shared or competing interest in land</li>\n  <li>you were a shareholder or director when it was dissolved</li>\n</ul>\n\n<h2 id=\"complain-to-the-insolvency-service\">Complain to the Insolvency Service</h2>\n\n<p>You can complain to the Insolvency Service about a dissolved company if:</p>\n\n<ul>\n  <li>the company owes you money from doing something illegal or wrong, for example a scam or fraud</li>\n  <li>there are claims that the company has done something illegal or wrong, even if they do not owe you money</li>\n</ul>\n\n<p>You can either:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"http://www.insolvencydirect.bis.gov.uk/complaintformcib.htm\">complain to the Insolvency Service online</a></li>\n  <li>call or write to the Insolvency Service</li>\n</ul>\n\n<div class=\"contact\">\n<p>Insolvency Service<br>\nTelephone: 0303 003 1744  <br>\n24-hour answerphone<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\n\nCompliance and Targeting\n<br>Investigations and Enforcement Services\n<br>Insolvency Service\n<br>3rd Floor Cannon House\n<br>18 Priory Queensway\n<br>Birmingham\n<br>B4 6FD\n<br>\n</p></div></div>\n\n<h3 id=\"what-happens-next\">What happens next</h3>\n\n<p>If the Insolvency Service decides that your complaint is serious enough, they will either:</p>\n\n<ul>\n  <li>carry out an investigation</li>\n  <li>pass your complaint on to another public body if it relates to the actions of individuals or of other companies</li>\n</ul>\n\n<p>If they find anything wrong and have enough evidence, they may also carry out a criminal investigation if the company has committed an offence.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-10",
+        "title": "A company has been dissolved"
+      }
+    ],
+    "start_button_text": "Find contact details"
+  },
+  "document_type": "simple_smart_answer",
+  "first_published_at": "2018-12-18T11:19:52Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/complain-company",
+        "api_url": "https://www.gov.uk/api/content/complain-company",
+        "base_path": "/complain-company",
+        "content_id": "6fe67c09-c8b0-45df-913c-76e91fb54330",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-08-20T15:27:22Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Complain about a limited company",
+        "web_url": "https://www.gov.uk/complain-company",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/companies-house-guidance-for-limited-companies-partnerships-and-other-company-types",
+        "api_url": "https://www.gov.uk/api/content/government/collections/companies-house-guidance-for-limited-companies-partnerships-and-other-company-types",
+        "base_path": "/government/collections/companies-house-guidance-for-limited-companies-partnerships-and-other-company-types",
+        "content_id": "602e68df-7631-11e4-a3cb-005056011aef",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/complain-company",
+              "api_url": "https://www.gov.uk/api/content/complain-company",
+              "base_path": "/complain-company",
+              "content_id": "6fe67c09-c8b0-45df-913c-76e91fb54330",
+              "document_type": "simple_smart_answer",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2019-08-20T15:27:22Z",
+              "schema_name": "simple_smart_answer",
+              "title": "Complain about a limited company",
+              "web_url": "https://www.gov.uk/complain-company",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-14T11:49:53Z",
+        "schema_name": "document_collection",
+        "title": "Companies House: guidance for limited companies, partnerships and other company types",
+        "web_url": "https://www.gov.uk/government/collections/companies-house-guidance-for-limited-companies-partnerships-and-other-company-types",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/justice/your-rights-legal-support",
+        "api_url": "https://www.gov.uk/api/content/browse/justice/your-rights-legal-support",
+        "base_path": "/browse/justice/your-rights-legal-support",
+        "content_id": "d91316d1-6f52-4350-be20-b2d98ba34b6c",
+        "description": "Includes legal aid, consumer advice, discrimination, work and residential property disputes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:47Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Your rights and legal support",
+        "web_url": "https://www.gov.uk/browse/justice/your-rights-legal-support",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+        "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+        "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-05T14:07:55Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/make-a-complaint-about-the-company",
+        "api_url": "https://www.gov.uk/api/content/needs/make-a-complaint-about-the-company",
+        "base_path": "/needs/make-a-complaint-about-the-company",
+        "content_id": "44cca9f1-d8ba-4e69-9132-c8b74093073c",
+        "details": {
+          "benefit": "so that they don't get away with fraud or serious wrongdoing",
+          "goal": "make a complaint about the company",
+          "justifications": null,
+          "met_when": null,
+          "role": "person who has an issue with a limited company"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-10-26T09:51:22Z",
+        "schema_name": "need",
+        "title": "As a person who has an issue with a limited company, I need to make a complaint about the company, so that so that they don't get away with fraud or serious wrongdoing",
+        "web_url": "https://www.gov.uk/needs/make-a-complaint-about-the-company",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/report-a-disqualified-director",
+        "api_url": "https://www.gov.uk/api/content/report-a-disqualified-director",
+        "base_path": "/report-a-disqualified-director",
+        "content_id": "f36a0996-57d4-47fc-85a6-1b463923d9b2",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/funding-debt",
+              "api_url": "https://www.gov.uk/api/content/browse/business/funding-debt",
+              "base_path": "/browse/business/funding-debt",
+              "content_id": "8c5661a7-dc03-4d80-8f66-69798c2f4dde",
+              "description": "Includes bankruptcy, insolvency and recovering debt",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:29Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business debt and bankruptcy",
+              "web_url": "https://www.gov.uk/browse/business/funding-debt",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-05-15T16:07:10Z",
+        "schema_name": "transaction",
+        "title": "Report a disqualified director",
+        "web_url": "https://www.gov.uk/report-a-disqualified-director",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/company-director-disqualification",
+        "api_url": "https://www.gov.uk/api/content/company-director-disqualification",
+        "base_path": "/company-director-disqualification",
+        "content_id": "a83c652d-a5b4-4835-ba17-25f0abaf5160",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/limited-company",
+              "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+              "base_path": "/browse/business/limited-company",
+              "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+              "description": "Includes registering, setting up, company accounts and tax returns",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:30Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Running a limited company",
+              "web_url": "https://www.gov.uk/browse/business/limited-company",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-01-29T09:54:22Z",
+        "schema_name": "answer",
+        "title": "Company director disqualification",
+        "web_url": "https://www.gov.uk/company-director-disqualification",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/complain-financial-service",
+        "api_url": "https://www.gov.uk/api/content/complain-financial-service",
+        "base_path": "/complain-financial-service",
+        "content_id": "e57ff815-9092-46f6-8937-4059f862dd17",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/justice/your-rights-legal-support",
+              "api_url": "https://www.gov.uk/api/content/browse/justice/your-rights-legal-support",
+              "base_path": "/browse/justice/your-rights-legal-support",
+              "content_id": "d91316d1-6f52-4350-be20-b2d98ba34b6c",
+              "description": "Includes legal aid, consumer advice, discrimination, work and residential property disputes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/justice",
+                    "api_url": "https://www.gov.uk/api/content/browse/justice",
+                    "base_path": "/browse/justice",
+                    "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+                    "description": "Legal processes, courts and the police",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2022-04-06T18:09:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Crime, justice and the law",
+                    "web_url": "https://www.gov.uk/browse/justice",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Your rights and legal support",
+              "web_url": "https://www.gov.uk/browse/justice/your-rights-legal-support",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-18T15:21:03Z",
+        "schema_name": "answer",
+        "title": "Complain about a financial service or product",
+        "web_url": "https://www.gov.uk/complain-financial-service",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/complain-about-insolvency-practitioner",
+        "api_url": "https://www.gov.uk/api/content/complain-about-insolvency-practitioner",
+        "base_path": "/complain-about-insolvency-practitioner",
+        "content_id": "b340dff3-c147-4e33-b8dc-7bd6d6cbe533",
+        "document_type": "transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/funding-debt",
+              "api_url": "https://www.gov.uk/api/content/browse/business/funding-debt",
+              "base_path": "/browse/business/funding-debt",
+              "content_id": "8c5661a7-dc03-4d80-8f66-69798c2f4dde",
+              "description": "Includes bankruptcy, insolvency and recovering debt",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:29Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business debt and bankruptcy",
+              "web_url": "https://www.gov.uk/browse/business/funding-debt",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+              "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+              "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+              "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-10-05T14:07:55Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Court claims, debt and bankruptcy",
+              "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-08-31T23:01:07Z",
+        "schema_name": "transaction",
+        "title": "Complain about an insolvency practitioner",
+        "web_url": "https://www.gov.uk/complain-about-insolvency-practitioner",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA26",
+        "api_path": "/api/content/government/organisations/companies-house",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/companies-house",
+        "base_path": "/government/organisations/companies-house",
+        "content_id": "c36bd301-d0c5-4492-86ad-ee7843b8383b",
+        "details": {
+          "acronym": "Companies House",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db3840f0b649cfaf7c43/s960_Companies_House_Building.GOV_lighter.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db38e5274a7908e35305/s300_Companies_House_Building.GOV_lighter.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Companies House"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Companies House",
+        "web_url": "https://www.gov.uk/government/organisations/companies-house",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D115",
+        "api_path": "/api/content/government/organisations/serious-fraud-office",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/serious-fraud-office",
+        "base_path": "/government/organisations/serious-fraud-office",
+        "content_id": "ebae4517-422f-44dd-9f87-13304c9815cb",
+        "details": {
+          "acronym": "SFO",
+          "brand": "attorney-generals-office",
+          "default_news_image": null,
+          "logo": {
+            "formatted_title": "Serious Fraud Office"
+          },
+          "organisation_govuk_status": {
+            "status": "exempt",
+            "updated_at": null,
+            "url": "http://www.sfo.gov.uk/"
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Serious Fraud Office",
+        "web_url": "https://www.gov.uk/government/organisations/serious-fraud-office",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "EA32",
+        "api_path": "/api/content/government/organisations/insolvency-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/insolvency-service",
+        "base_path": "/government/organisations/insolvency-service",
+        "content_id": "c8406408-8376-45e0-95b4-7e74cef2c260",
+        "details": {
+          "acronym": "",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "The Insolvency <br/>Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "The Insolvency Service",
+        "web_url": "https://www.gov.uk/government/organisations/insolvency-service",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/justice/your-rights-legal-support",
+        "api_url": "https://www.gov.uk/api/content/browse/justice/your-rights-legal-support",
+        "base_path": "/browse/justice/your-rights-legal-support",
+        "content_id": "d91316d1-6f52-4350-be20-b2d98ba34b6c",
+        "description": "Includes legal aid, consumer advice, discrimination, work and residential property disputes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/justice",
+              "api_url": "https://www.gov.uk/api/content/browse/justice",
+              "base_path": "/browse/justice",
+              "content_id": "66e4e3cc-3c35-4272-bacf-afdea2bc4da1",
+              "description": "Legal processes, courts and the police",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2022-04-06T18:09:47Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Crime, justice and the law",
+              "web_url": "https://www.gov.uk/browse/justice",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:47Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Your rights and legal support",
+        "web_url": "https://www.gov.uk/browse/justice/your-rights-legal-support",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/statutory-demands",
+        "api_url": "https://www.gov.uk/api/content/statutory-demands",
+        "base_path": "/statutory-demands",
+        "content_id": "1a7e9cdc-b808-4640-b83f-6337c51b0bb5",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-01T09:12:59Z",
+        "schema_name": "guide",
+        "title": "Make and serve a statutory demand, or challenge one ",
+        "web_url": "https://www.gov.uk/statutory-demands",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/options-if-youre-owed-money",
+        "api_url": "https://www.gov.uk/api/content/options-if-youre-owed-money",
+        "base_path": "/options-if-youre-owed-money",
+        "content_id": "8491c423-f9d3-41c5-8908-736cb88b9cf2",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-08-21T10:00:42Z",
+        "schema_name": "answer",
+        "title": "Options if you're owed money",
+        "web_url": "https://www.gov.uk/options-if-youre-owed-money",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/company-director-disqualification",
+        "api_url": "https://www.gov.uk/api/content/company-director-disqualification",
+        "base_path": "/company-director-disqualification",
+        "content_id": "a83c652d-a5b4-4835-ba17-25f0abaf5160",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-01-29T09:54:22Z",
+        "schema_name": "answer",
+        "title": "Company director disqualification",
+        "web_url": "https://www.gov.uk/company-director-disqualification",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/make-court-claim-for-money",
+        "api_url": "https://www.gov.uk/api/content/make-court-claim-for-money",
+        "base_path": "/make-court-claim-for-money",
+        "content_id": "6fc19509-621a-4b61-8294-49a756d24ced",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-09T00:01:05Z",
+        "schema_name": "guide",
+        "title": "Make a court claim for money",
+        "web_url": "https://www.gov.uk/make-court-claim-for-money",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2019-08-20T15:27:22Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "22995-1634832075.820-10.13.3.253-24770",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "simple_smart_answer",
+  "title": "Complain about a limited company",
+  "updated_at": "2024-03-04T13:39:05Z",
+  "withdrawn_notice": {
+  }
+}

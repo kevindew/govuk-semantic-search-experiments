@@ -1,0 +1,514 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/pay-off-debts",
+  "content_id": "4adb5690-f74d-4295-9346-4d5d6f841061",
+  "description": "Find out what help you can get to help you manage your debts.",
+  "details": {
+    "body": "<p>Find out what help you can get to manage your debts.</p>\n\n<p>You’ll be asked questions about:</p>\n\n<ul>\n  <li>how much you owe</li>\n  <li>the things you own (such as property or a car)</li>\n  <li>help you’ve had with debts in the past</li>\n</ul>\n\n<p>You do not have to give any personal information or financial details.</p>\n\n<p>If you want to speak to someone about your debts you can get <a href=\"/debt-advice\">free, confidential and independent advice from a debt adviser</a>.</p>\n",
+    "external_related_links": [
+
+    ],
+    "nodes": [
+      {
+        "body": "<p>The help you can get depends on what country you live in.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "England or Wales",
+            "next_node": "question-2",
+            "slug": "england-or-wales"
+          },
+          {
+            "label": "Scotland",
+            "next_node": "outcome-1",
+            "slug": "scotland"
+          },
+          {
+            "label": "Northern Ireland",
+            "next_node": "outcome-2",
+            "slug": "northern-ireland"
+          },
+          {
+            "label": "Outside the UK",
+            "next_node": "outcome-3",
+            "slug": "outside-the-uk"
+          }
+        ],
+        "slug": "question-1",
+        "title": "Where do you live?"
+      },
+      {
+        "body": "<p>Your answer will only be used to show options relevant to you.</p>\n\n<p>Include:</p>\n\n<ul>\n  <li>any loans you’ve been given, including money you owe to friends and family</li>\n  <li>credit card debts</li>\n  <li>any late bill payments (such as council tax or utility bills)</li>\n  <li>any late payments on your mortgage</li>\n</ul>\n\n<p>Do not include:</p>\n\n<ul>\n  <li>regular mortgage repayments</li>\n  <li><a href=\"/student-finance/loans-and-grants\">student loans</a></li>\n  <li><a href=\"/budgeting-help-benefits\">budgeting loans</a></li>\n  <li>court fines</li>\n  <li>any child maintenance you owe</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "£30,000 or more",
+            "next_node": "outcome-5",
+            "slug": "30-000-or-more"
+          },
+          {
+            "label": "Less than £30,000",
+            "next_node": "question-4",
+            "slug": "less-than-30-000"
+          },
+          {
+            "label": "I'm not sure",
+            "next_node": "outcome-6",
+            "slug": "i-m-not-sure"
+          }
+        ],
+        "slug": "question-2",
+        "title": "How much do you owe in total?"
+      },
+      {
+        "body": "<p>Estimate what they’re worth now, not the amount you paid for them. A debt adviser will help you work out which assets can help pay off your debts.</p>\n\n<p>Include items such as:</p>\n\n<ul>\n  <li>jewellery (not wedding rings)</li>\n  <li>high value electronic equipment such as games consoles or cameras</li>\n  <li>savings, shares, cryptocurrency</li>\n  <li>property</li>\n</ul>\n\n<p>Do not include:</p>\n\n<ul>\n  <li>vehicles - you’ll be asked about these later</li>\n  <li>tools or equipment you use for work</li>\n  <li>your pension</li>\n  <li>items for your children (such as laptops used for school)</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "£2,000 or more",
+            "next_node": "outcome-5",
+            "slug": "2-000-or-more"
+          },
+          {
+            "label": "Less than £2,000",
+            "next_node": "question-5",
+            "slug": "less-than-2-000"
+          },
+          {
+            "label": "I'm not sure",
+            "next_node": "outcome-6",
+            "slug": "i-m-not-sure"
+          }
+        ],
+        "slug": "question-4",
+        "title": "What's the total value of the things you own?"
+      },
+      {
+        "body": "<p>This is the amount you think your vehicle is worth now, not the amount you paid for it.</p>\n\n<p>Do not include any vehicles you’re still paying for. For example, through a hire purchase or a loan from a dealership.</p>\n\n<p>A <a href=\"/debt-advice\">debt adviser</a> can help you work out if your car can be used to help pay off your debts.</p>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes",
+            "next_node": "outcome-5",
+            "slug": "yes"
+          },
+          {
+            "label": "No",
+            "next_node": "question-7",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-5",
+        "title": "Do you own a vehicle outright that’s worth more than £2,000?"
+      },
+      {
+        "body": "<p>If you’re not sure what arrangements you’ve had, speak to a <a href=\"/debt-advice\">free debt adviser</a>.</p>\n\n<p>The help you can get now depends on if you’ve had any of the following:</p>\n\n<ul>\n  <li>an Individual Voluntary Arrangement (IVA)</li>\n  <li>a Debt Relief Order (DRO)</li>\n  <li>a bankruptcy order</li>\n</ul>\n",
+        "kind": "question",
+        "options": [
+          {
+            "label": "Yes, I have one of these now",
+            "next_node": "outcome-7",
+            "slug": "yes-i-have-one-of-these-now"
+          },
+          {
+            "label": "Yes, in the past 6 years",
+            "next_node": "outcome-8",
+            "slug": "yes-in-the-past-6-years"
+          },
+          {
+            "label": "Yes, more than 6 years ago",
+            "next_node": "outcome-4",
+            "slug": "yes-more-than-6-years-ago"
+          },
+          {
+            "label": "No",
+            "next_node": "outcome-4",
+            "slug": "no"
+          }
+        ],
+        "slug": "question-7",
+        "title": "Have you made arrangements to deal with your debts before?"
+      },
+      {
+        "body": "<p>The rules for getting help with your debts are different if you live in Scotland. You can get help from:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"https://www.citizensadvice.org.uk/scotland/about-us/get-advice-s/\">Citizens Advice Scotland</a></li>\n  <li><a rel=\"external\" href=\"https://www.aib.gov.uk/debt/deal-debt\">Accountant in Bankruptcy (AiB)</a></li>\n  <li><a rel=\"external\" href=\"https://www.moneyhelper.org.uk/en/money-troubles/dealing-with-debt/debt-advice-locator\">Moneyhelper</a></li>\n</ul>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-1",
+        "title": "If you live in Scotland"
+      },
+      {
+        "body": "<p>The rules for getting help with your debts are different if you live in Northern Ireland. You can get help from:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"https://www.economy-ni.gov.uk/topics/insolvency-service\">Insolvency service Northern Ireland</a></li>\n  <li><a rel=\"external\" href=\"https://www.citizensadvice.org.uk/nireland/Debt-and-money/help-with-debt/options-for-dealing-with-debt-ni/\">Citizens Advice</a></li>\n  <li><a rel=\"external\" href=\"https://www.moneyhelper.org.uk/en/money-troubles/dealing-with-debt/options-for-clearing-your-debts-northern-ireland\">MoneyHelper</a></li>\n</ul>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-2",
+        "title": "If you live in Northern Ireland"
+      },
+      {
+        "body": "<p>You might be able to get help with your debts in the UK. <a href=\"/debt-advice\">Get free, confidential and independent advice from a debt adviser</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-3",
+        "title": "If you live outside the UK"
+      },
+      {
+        "body": "<p>Based on your answers, these are the ways you can get help with your debts:</p>\n\n<ul>\n  <li>Breathing Space (Debt Respite Scheme)</li>\n  <li>Debt Relief Order</li>\n  <li>Debt Management Plan</li>\n</ul>\n\n<p>Get free, confidential and independent advice about these options from a <a href=\"/debt-advice\">debt adviser</a>.</p>\n\n<h2 id=\"breathing-space-debt-respite-scheme\">Breathing Space (Debt Respite Scheme)</h2>\n\n<p>If you live in England or Wales, you can get temporary protection from the organisations you owe money to (your ‘creditors’) while you get debt advice and make a plan. This scheme is called <a href=\"/options-for-paying-off-your-debts/breathing-space\">Breathing Space</a>.</p>\n\n<p>You can get temporary protection for up to 60 days.</p>\n\n<h3 id=\"cost\">Cost</h3>\n\n<p>It’s free to use Breathing Space.</p>\n\n<h2 id=\"debt-relief-order\">Debt Relief Order</h2>\n\n<p>A <a href=\"/options-for-paying-off-your-debts/debt-relief-orders\">Debt Relief Order (<abbr title=\"Debt Relief Order\">DRO</abbr>)</a> is a way to deal with your debts if you:</p>\n\n<ul>\n  <li>owe £30,000 or less</li>\n  <li>cannot pay back the money you owe</li>\n  <li>do not own a house or have any spare income</li>\n</ul>\n\n<p>A <abbr title=\"Debt Relief Order\">DRO</abbr> usually lasts 12 months. During that time, you stop making payments towards the debts and your <abbr title=\"Debt Relief Order\">DRO</abbr> is added to the <a href=\"/search-bankruptcy-insolvency-register\">Individual Insolvency Register</a>.</p>\n\n<p>At the end of the 12 months, you will not have to pay these debts anymore.</p>\n\n<p>Your <abbr title=\"Debt Relief Order\">DRO</abbr> is removed from the Insolvency Register 3 months after it ends. Your <abbr title=\"Debt Relief Order\">DRO</abbr> will stay on your credit record for 6 years.</p>\n\n<p>You need to apply for a <abbr title=\"Debt Relief Order\">DRO</abbr> through a <a href=\"/debt-advice\">debt adviser</a>.</p>\n\n<h3 id=\"cost-1\">Cost</h3>\n\n<p>You’ll need to pay a £90 administration fee. Some debt charities can help with this fee.</p>\n\n<h2 id=\"debt-management-plan\">Debt Management Plan</h2>\n\n<p>A <a href=\"/options-for-paying-off-your-debts/debt-management-plans\">Debt Management Plan</a> is an agreement between you and your creditors to pay all of your debts. It will stay on your credit record for 6 years.</p>\n\n<p>Debt Management Plans are usually used when either:</p>\n\n<ul>\n  <li>you can only afford to pay creditors a small amount each month</li>\n  <li>you cannot make repayments now but will be able to make repayments in a few months</li>\n</ul>\n\n<p>You can arrange a plan with your creditors yourself, through a charity or for a fee with a licensed debt management company.</p>\n\n<h3 id=\"cost-2\">Cost</h3>\n\n<p>It’s free to organise a Debt Management Plan yourself or through a charity. The cost varies if you use a debt management company.</p>\n\n<h2 id=\"other-ways-to-pay-off-your-debts\">Other ways to pay off your debts</h2>\n\n<p>You can also apply:</p>\n\n<ul>\n  <li>for an <a href=\"/options-for-paying-off-your-debts/individual-voluntary-arrangements\">Individual Voluntary Arrangement (IVA)</a>\n</li>\n  <li>to <a href=\"/bankruptcy\">become bankrupt</a>\n</li>\n</ul>\n\n<p>Your options depend on the amount of money you owe and value of the things you own. A <a href=\"/debt-advice\">debt adviser</a> will work out the best arrangement for you.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-4",
+        "title": "These are the ways you can get help dealing with your debts"
+      },
+      {
+        "body": "<p>Based on your answers, these are the ways you can get help with your debts:</p>\n\n<ul>\n  <li>Breathing Space (Debt Respite Scheme)</li>\n  <li>bankruptcy</li>\n  <li>Debt Management Plan</li>\n  <li>Individual Voluntary Arrangement</li>\n</ul>\n\n<p>Get free, confidential and independent advice about these options from a <a href=\"/debt-advice\">debt adviser</a>.</p>\n\n<h2 id=\"breathing-space-debt-respite-scheme\">Breathing Space (Debt Respite Scheme)</h2>\n\n<p>If you live in England or Wales, you can get temporary protection from the organisations you owe money to (your ‘creditors’). This gives you time to get debt advice and make a plan. This scheme is called <a href=\"/options-for-paying-off-your-debts/breathing-space\">Breathing Space</a>.</p>\n\n<p>You can get temporary protection for up to 60 days.</p>\n\n<h3 id=\"cost\">Cost</h3>\n\n<p>It’s free to use Breathing Space.</p>\n\n<h2 id=\"bankruptcy\">Bankruptcy</h2>\n\n<p>If you cannot pay off your debts, you can <a href=\"/bankruptcy\">apply to become bankrupt</a>.</p>\n\n<p>Bankruptcy usually lasts 12 months. You’ll pay a fee when you apply and you’ll be released (‘discharged’) from most of your debts at the end.</p>\n\n<p>Speak to a <a href=\"/debt-advice\">debt adviser</a> before you apply for bankruptcy.</p>\n\n<p>When you’re bankrupt:</p>\n\n<ul>\n  <li>\n    <p>you will not pay towards your debts, unless you can afford to</p>\n  </li>\n  <li>\n    <p>things you own (‘assets’) can be used to pay your debts</p>\n  </li>\n  <li>\n    <p>your creditors cannot contact you - an officer of the court (‘official receiver’) will deal with them for you</p>\n  </li>\n  <li>\n    <p>you’ll have <a href=\"/bankruptcy/restrictions\">bankruptcy restrictions</a> around things like borrowing money and managing a business</p>\n  </li>\n</ul>\n\n<p>Your bankruptcy will stay on your credit report for 6 years.</p>\n\n<p>Your name and details will be published in the <a rel=\"external\" href=\"https://www.thegazette.co.uk/\">London Gazette</a> and <a href=\"/search-bankruptcy-insolvency-register\">Insolvency Register</a>.</p>\n\n<h3 id=\"cost-1\">Cost</h3>\n\n<p>You’ll need to pay a £680 administration fee.</p>\n\n<h2 id=\"debt-management-plan\">Debt Management Plan</h2>\n\n<p>A <a href=\"/options-for-paying-off-your-debts/debt-management-plans\">Debt Management Plan</a> is an agreement between you and your creditors to pay all of your debts.</p>\n\n<p>Debt Management Plans are usually used when either:</p>\n\n<ul>\n  <li>\n    <p>you can only afford to pay creditors a small amount each month</p>\n  </li>\n  <li>\n    <p>you cannot make repayments now but will be able to make repayments in a few months</p>\n  </li>\n</ul>\n\n<p>You can arrange a plan with your creditors yourself, through a charity or for a fee with a licensed debt management company.</p>\n\n<p>Your Debt Management Plan will stay on your credit report for 6 years.</p>\n\n<h3 id=\"cost-2\">Cost</h3>\n\n<p>It’s free to organise a Debt Management Plan yourself or through a charity. The cost varies if you use a debt management company.</p>\n\n<h2 id=\"individual-voluntary-arrangement\">Individual Voluntary Arrangement</h2>\n\n<p>An <a href=\"/options-for-paying-off-your-debts/individual-voluntary-arrangements\">Individual Voluntary Arrangement (<abbr title=\"Individual Voluntary Arrangement\">IVA</abbr>)</a> is an agreement with your creditors to pay all or part of your debts. You agree to make regular payments to an insolvency practitioner, who will divide this money between your creditors.</p>\n\n<p>Usually you’ll pay:</p>\n\n<ul>\n  <li>a setup fee</li>\n  <li>a handling fee each time you make a payment</li>\n</ul>\n\n<p>Before you agree to an <abbr title=\"Individual Voluntary Arrangement\">IVA</abbr>, check with your insolvency practitioner how much of your payment will go towards paying off your debts.</p>\n\n<p>Your <abbr title=\"Individual Voluntary Arrangement\">IVA</abbr> will stay on your credit report for 6 years.</p>\n\n<h3 id=\"cost-3\">Cost</h3>\n\n<p>This varies depending on your insolvency practitioner.</p>\n\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-5",
+        "title": "These are the ways you can get help dealing with your debts"
+      },
+      {
+        "body": "<p>If you need help understanding your debts you can get free, confidential and independent advice from a <a href=\"/debt-advice\">debt adviser</a>.</p>\n\n<h2 id=\"breathing-space-debt-respite-scheme\">Breathing Space (Debt Respite Scheme)</h2>\n\n<p>If you live in England or Wales, you can get temporary protection from the organisations you owe money to (your ‘creditors’). This gives you time to get debt advice and make a plan. This scheme is called <a href=\"/options-for-paying-off-your-debts/breathing-space\">Breathing Space</a>.</p>\n\n<p>You can get temporary protection for up to 60 days. It’s free to use Breathing Space.</p>\n\n<h2 id=\"other-options-for-dealing-with-your-debts\">Other options for dealing with your debts</h2>\n\n<p>A <a href=\"/debt-advice\">debt adviser</a> can help you work out how to deal with your debts. They’ll ask you about the amount of money you owe and the value of the things you own.</p>\n\n<p>You may be able to apply for:</p>\n\n<ul>\n  <li>a <a href=\"/options-for-paying-off-your-debts/debt-management-plans\">Debt Management Plan</a>\n</li>\n  <li>an <a href=\"/options-for-paying-off-your-debts/individual-voluntary-arrangements\">Individual Voluntary Arrangement (IVA)</a>\n</li>\n  <li>a <a href=\"/options-for-paying-off-your-debts/debt-relief-orders\">Debt Relief Order</a>\n</li>\n  <li><a rel=\"external\" href=\"https://draft-origin.publishing.service.gov.uk/bankruptcy\">bankruptcy</a></li>\n</ul>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-6",
+        "title": "These are the ways you can get help dealing with your debts"
+      },
+      {
+        "body": "<p>Get free advice from a <a href=\"/debt-advice\">debt adviser</a> if you have one of the following and you’re in financial difficulty:</p>\n\n<ul>\n  <li>a Debt Relief Order (DRO)</li>\n  <li>a bankruptcy order</li>\n  <li>an Individual Voluntary Arrangement (IVA)</li>\n</ul>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-7",
+        "title": "These are the ways you can get help dealing with your debts"
+      },
+      {
+        "body": "<p>If you’ve had a previous debt arrangement, this can change the options available to you.</p>\n\n<p>You can get free, confidential and independent advice about your options from a <a href=\"/debt-advice\">debt adviser</a>.</p>\n\n<h2 id=\"breathing-space-debt-respite-scheme\">Breathing Space (Debt Respite Scheme)</h2>\n\n<p>If you live in England or Wales, you can get temporary protection from the organisations you owe money to (your ‘creditors’). This gives you time to get debt advice and make a plan. This scheme is called <a href=\"/options-for-paying-off-your-debts/breathing-space\">Breathing Space</a>.</p>\n\n<p>You can get temporary protection for up to 60 days. It’s free to use Breathing Space.</p>\n\n<h2 id=\"other-options-for-dealing-with-your-debts\">Other options for dealing with your debts</h2>\n\n<p>A <a href=\"/debt-advice\">debt adviser</a> can help you work out how to deal with your debts. They’ll ask you about the amount of money you owe and the value of the things you own.</p>\n\n<p>You may be able to set up:</p>\n\n<ul>\n  <li>a <a href=\"/options-for-paying-off-your-debts/debt-management-plans\">Debt Management Plan</a>\n</li>\n  <li>an <a href=\"/options-for-paying-off-your-debts/individual-voluntary-arrangements\">Individual Voluntary Arrangement (IVA)</a>\n</li>\n</ul>\n\n<p>If you cannot pay off your debts you may be able to apply to <a href=\"/bankruptcy\">become bankrupt</a>.</p>\n",
+        "kind": "outcome",
+        "options": [
+
+        ],
+        "slug": "outcome-8",
+        "title": "These are the ways you can get help dealing with your debts"
+      }
+    ],
+    "start_button_text": "Start now"
+  },
+  "document_type": "simple_smart_answer",
+  "first_published_at": "2016-02-26T12:35:29Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/pay-off-debts",
+        "api_url": "https://www.gov.uk/api/content/pay-off-debts",
+        "base_path": "/pay-off-debts",
+        "content_id": "4adb5690-f74d-4295-9346-4d5d6f841061",
+        "document_type": "simple_smart_answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-08-24T08:47:28Z",
+        "schema_name": "simple_smart_answer",
+        "title": "Check how you can deal with your debts",
+        "web_url": "https://www.gov.uk/pay-off-debts",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+        "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+        "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-05T14:07:55Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/find-out-which-options-are-available-to-me",
+        "api_url": "https://www.gov.uk/api/content/needs/find-out-which-options-are-available-to-me",
+        "base_path": "/needs/find-out-which-options-are-available-to-me",
+        "content_id": "3f5004c4-b9cb-41fa-924a-fcadddc8a701",
+        "details": {
+          "benefit": "I can pay off my debts ",
+          "goal": "find out which options are available to me ",
+          "justifications": [
+            "The government is legally obliged to provide it",
+            "There is clear demand for it from users"
+          ],
+          "met_when": [
+            "knows what options are available",
+            "knows the financial restrictions of each option",
+            "knows where to go to get further advice",
+            "knows how to apply for each option and how much they cost"
+          ],
+          "role": "person in financial difficulty"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a person in financial difficulty, I need to find out which options are available to me, so that I can pay off my debts (101461)",
+        "web_url": "https://www.gov.uk/needs/find-out-which-options-are-available-to-me",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA32",
+        "api_path": "/api/content/government/organisations/insolvency-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/insolvency-service",
+        "base_path": "/government/organisations/insolvency-service",
+        "content_id": "c8406408-8376-45e0-95b4-7e74cef2c260",
+        "details": {
+          "acronym": "",
+          "brand": "department-for-business-and-trade",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "The Insolvency <br/>Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "The Insolvency Service",
+        "web_url": "https://www.gov.uk/government/organisations/insolvency-service",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/court-claims-debt-bankruptcy",
+        "base_path": "/browse/tax/court-claims-debt-bankruptcy",
+        "content_id": "df2e7a3e-2078-45de-a75a-fd37d027427e",
+        "description": "Includes recovering debts, registering for bankruptcy and as a creditor",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/tax",
+              "api_url": "https://www.gov.uk/api/content/browse/tax",
+              "base_path": "/browse/tax",
+              "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+              "description": "Includes debt and Self Assessment",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:24:51Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Money and tax",
+              "web_url": "https://www.gov.uk/browse/tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-10-05T14:07:55Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/browse/tax/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/options-for-dealing-with-your-debts",
+        "api_url": "https://www.gov.uk/api/content/options-for-dealing-with-your-debts",
+        "base_path": "/options-for-dealing-with-your-debts",
+        "content_id": "76b1dd5f-3915-48a6-a570-78f065c1ad0d",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-29T13:56:26Z",
+        "schema_name": "guide",
+        "title": "Options for dealing with your debts",
+        "web_url": "https://www.gov.uk/options-for-dealing-with-your-debts",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/bankruptcy",
+        "base_path": "/bankruptcy",
+        "content_id": "64aadc14-9bca-40d9-abb6-4f21f9792a05",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-18T10:07:26Z",
+        "schema_name": "guide",
+        "title": "Applying to become bankrupt",
+        "web_url": "https://www.gov.uk/bankruptcy",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/being-made-bankrupt",
+        "api_url": "https://www.gov.uk/api/content/being-made-bankrupt",
+        "base_path": "/being-made-bankrupt",
+        "content_id": "bbc66187-0901-499b-8ecb-8c3084d43b9f",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2016-07-18T11:16:18Z",
+        "schema_name": "guide",
+        "title": "Being made bankrupt",
+        "web_url": "https://www.gov.uk/being-made-bankrupt",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/search-bankruptcy-insolvency-register",
+        "api_url": "https://www.gov.uk/api/content/search-bankruptcy-insolvency-register",
+        "base_path": "/search-bankruptcy-insolvency-register",
+        "content_id": "e7ddddd5-58b1-4f6c-b711-1d4c290239a0",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-19T13:54:06Z",
+        "schema_name": "answer",
+        "title": "Search the bankruptcy and insolvency register",
+        "web_url": "https://www.gov.uk/search-bankruptcy-insolvency-register",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/court-claims-debt-bankruptcy",
+        "api_url": "https://www.gov.uk/api/content/money/court-claims-debt-bankruptcy",
+        "base_path": "/money/court-claims-debt-bankruptcy",
+        "content_id": "7c4cf197-2dba-4a82-83e2-6c8bb332525c",
+        "details": {
+          "internal_name": "Court claims, debt and bankruptcy [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money",
+              "api_url": "https://www.gov.uk/api/content/money",
+              "base_path": "/money",
+              "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+              "description": "",
+              "details": {
+                "internal_name": "Money",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:35:25Z",
+              "schema_name": "taxon",
+              "title": "Money",
+              "web_url": "https://www.gov.uk/money",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:49Z",
+        "schema_name": "taxon",
+        "title": "Court claims, debt and bankruptcy",
+        "web_url": "https://www.gov.uk/money/court-claims-debt-bankruptcy",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-08-24T08:47:28Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1683890328.788-10.13.21.218-32912",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "simple_smart_answer",
+  "title": "Check how you can deal with your debts",
+  "updated_at": "2023-10-05T14:07:57Z",
+  "withdrawn_notice": {
+  }
+}

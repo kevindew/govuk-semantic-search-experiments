@@ -1,0 +1,931 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/employee-directors",
+  "content_id": "b3c0809b-9c33-4c17-b893-828beb1221f0",
+  "description": "Working out a director's National Insurance, using their annual earnings period, what to report to HMRC.",
+  "details": {
+    "body": "<p>Directors are classed as employees and pay National Insurance on annual income from salary and bonuses over £12,570.</p>\n\n<p>Contributions are worked out from their annual earnings rather than from what they earn in each pay period.</p>\n\n<p>There are different rules for <a href=\"/tax-on-dividends\">tax on dividends</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>Companies also pay employer’s National Insurance on directors’ salaries. This applies even if you’re the director of your own company <a href=\"/running-payroll\">running payroll</a> and the only employee.</p>\n</div>\n\n<h2 id=\"if-youre-running-payroll\">If you’re running payroll</h2>\n\n<p>Use payroll software to work out the National Insurance due.</p>\n\n<p>There are 2 different ways of doing this. You may be able to change your method during the tax year depending on your payroll software.</p>\n\n<h3 id=\"standard-annual-earnings-period-method\">Standard annual earnings period method</h3>\n\n<p>This method is common for directors who are paid irregularly.</p>\n\n<ol class=\"steps\">\n<li>\n<p>Each time you pay a director, work out their National Insurance for their total pay over the tax year so far, including bonuses.</p>\n</li>\n<li>\n<p>To work out what contributions they now owe, take off the total employee National Insurance they’ve paid so far this year.</p>\n</li>\n</ol>\n\n<h3 id=\"alternative-method\">Alternative method</h3>\n\n<p>This method is common for directors who are paid regularly.</p>\n\n<ol class=\"steps\">\n<li>\n<p>Each time you pay a director, work out their National Insurance only on their pay for that period, including bonuses.</p>\n</li>\n<li>\n<p>At the end of the tax year, use payroll software to work out whether more employee National Insurance is due and deduct it from their last payment.</p>\n</li>\n</ol>\n\n<h2 id=\"what-to-report-to-hmrc\">What to report to <abbr title=\"HM Revenue and Customs\">HMRC</abbr>\n</h2>\n\n<p>Report directors’ pay and deductions in your <a href=\"/running-payroll/reporting-to-hmrc\">Full Payment Submission</a> (<abbr title=\"Full Payment Submission\">FPS</abbr>).</p>\n\n<p>Put one of the following into the ‘Director’s <abbr title=\"National Insurance contributions\">NIC</abbr> calculation method’ field on your <abbr title=\"Full Payment Submission\">FPS</abbr>:</p>\n\n<ul>\n  <li>‘AN’ if you’re using the ‘standard annual earnings period method’</li>\n  <li>‘AL’ for the ‘alternative method’</li>\n</ul>\n\n<p>Fill in the ‘Week of director’s appointment’ field.</p>\n\n<h2 id=\"when-to-pay\">When to pay</h2>\n\n<p>Contributions are calculated on annual earnings but they’re still paid to <abbr title=\"HM Revenue and Customs\">HMRC</abbr> after you run your usual payroll (for example, weekly, monthly or quarterly).</p>\n\n<h2 id=\"category-letter-changes\">Category letter changes</h2>\n\n<p>The director might be due a National Insurance refund if their <a href=\"/national-insurance-rates-letters/category-letters\">category letter</a> changes (for example, because they reach State Pension age).</p>\n\n<p>Use your payroll software to recalculate their National Insurance, either at the time of the change or the end of the tax year.</p>\n\n<h2 id=\"when-an-employee-stops-being-a-director\">When an employee stops being a director</h2>\n\n<p>After you’ve paid the employee for the last time, tell <abbr title=\"HM Revenue and Customs\">HMRC</abbr> by deleting the ‘Director’s <abbr title=\"National Insurance contributions\">NIC</abbr> calculation method’ entry in the <abbr title=\"Full Payment Submission\">FPS</abbr>.</p>\n\n<p>Work out any National Insurance due using payroll software. Deduct any National Insurance the director owes from their last payment.</p>\n\n<h3 id=\"if-the-director-is-still-your-employee\">If the director is still your employee</h3>\n\n<p>Calculate their National Insurance based on their earnings for the whole of the tax year, as if they were still a director.</p>\n\n<p>From the next tax year, calculate their National Insurance as an employee based on each pay period.</p>\n\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2014-06-12T11:50:05Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/employee-directors",
+        "api_url": "https://www.gov.uk/api/content/employee-directors",
+        "base_path": "/employee-directors",
+        "content_id": "b3c0809b-9c33-4c17-b893-828beb1221f0",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-04-05T23:01:16Z",
+        "schema_name": "answer",
+        "title": "National Insurance for company directors",
+        "web_url": "https://www.gov.uk/employee-directors",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/paye-detailed-information",
+        "api_url": "https://www.gov.uk/api/content/government/collections/paye-detailed-information",
+        "base_path": "/government/collections/paye-detailed-information",
+        "content_id": "4da52a69-6e30-4d2a-898f-321f600b45b2",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/employee-directors",
+              "api_url": "https://www.gov.uk/api/content/employee-directors",
+              "base_path": "/employee-directors",
+              "content_id": "b3c0809b-9c33-4c17-b893-828beb1221f0",
+              "document_type": "answer",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2017-04-05T23:01:16Z",
+              "schema_name": "answer",
+              "title": "National Insurance for company directors",
+              "web_url": "https://www.gov.uk/employee-directors",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-08T00:00:00Z",
+        "schema_name": "document_collection",
+        "title": "PAYE: detailed information",
+        "web_url": "https://www.gov.uk/government/collections/paye-detailed-information",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/employing-people/payroll",
+        "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+        "base_path": "/browse/employing-people/payroll",
+        "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+        "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:57:08Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Payroll",
+        "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/tax/national-insurance",
+        "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+        "base_path": "/browse/tax/national-insurance",
+        "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+        "description": "Voluntary contributions and credits, numbers, rates and classes",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:17Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "National Insurance",
+        "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/national-insurance-rates-letters",
+        "api_url": "https://www.gov.uk/api/content/national-insurance-rates-letters",
+        "base_path": "/national-insurance-rates-letters",
+        "content_id": "0cdbefbb-257a-40f9-97c4-eaef93e163fa",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/payroll",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+              "base_path": "/browse/employing-people/payroll",
+              "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+              "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:57:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Payroll",
+              "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/tax/national-insurance",
+              "api_url": "https://www.gov.uk/api/content/browse/tax/national-insurance",
+              "base_path": "/browse/tax/national-insurance",
+              "content_id": "67a359ef-0241-4776-a6c6-9d84e6b573cc",
+              "description": "Voluntary contributions and credits, numbers, rates and classes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/tax",
+                    "api_url": "https://www.gov.uk/api/content/browse/tax",
+                    "base_path": "/browse/tax",
+                    "content_id": "71255733-af6c-4887-9991-9b288d8d431f",
+                    "description": "Includes debt and Self Assessment",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:24:51Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Money and tax",
+                    "web_url": "https://www.gov.uk/browse/tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:17Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "National Insurance",
+              "web_url": "https://www.gov.uk/browse/tax/national-insurance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-22T13:10:17Z",
+        "schema_name": "guide",
+        "title": "National Insurance rates and categories",
+        "web_url": "https://www.gov.uk/national-insurance-rates-letters",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employment-status",
+        "api_url": "https://www.gov.uk/api/content/employment-status",
+        "base_path": "/employment-status",
+        "content_id": "a42b5782-4b48-4d9e-838c-98fd1e679c2b",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/contracts",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/contracts",
+              "base_path": "/browse/employing-people/contracts",
+              "content_id": "dbad809a-29b0-4be7-b3d9-9b0b302c4f44",
+              "description": "Includes types of worker, employee rights, overtime and changes to contracts",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:38Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Contracts of employment and working hours",
+              "web_url": "https://www.gov.uk/browse/employing-people/contracts",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/contract-working-hours",
+              "api_url": "https://www.gov.uk/api/content/browse/working/contract-working-hours",
+              "base_path": "/browse/working/contract-working-hours",
+              "content_id": "6b2f82a9-17c6-4a26-9c8a-9b4b10234891",
+              "description": "Includes employment status, workers' rights and changes to contracts",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Your contract and working hours",
+              "web_url": "https://www.gov.uk/browse/working/contract-working-hours",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-02-12T10:00:03Z",
+        "schema_name": "guide",
+        "title": "Employment status",
+        "web_url": "https://www.gov.uk/employment-status",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/running-a-limited-company",
+        "api_url": "https://www.gov.uk/api/content/running-a-limited-company",
+        "base_path": "/running-a-limited-company",
+        "content_id": "f7c36783-2477-43e0-9b76-04efd7183706",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/limited-company",
+              "api_url": "https://www.gov.uk/api/content/browse/business/limited-company",
+              "base_path": "/browse/business/limited-company",
+              "content_id": "6fb1566a-e69b-431c-9f08-29a37ac67fcd",
+              "description": "Includes registering, setting up, company accounts and tax returns",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:30Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Running a limited company",
+              "web_url": "https://www.gov.uk/browse/business/limited-company",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-05T16:13:26Z",
+        "schema_name": "guide",
+        "title": "Running a limited company: your responsibilities",
+        "web_url": "https://www.gov.uk/running-a-limited-company",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/running-payroll",
+        "api_url": "https://www.gov.uk/api/content/running-payroll",
+        "base_path": "/running-payroll",
+        "content_id": "88309f75-af24-42e9-b30d-e36157cf918b",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/employing-people/payroll",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+              "base_path": "/browse/employing-people/payroll",
+              "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+              "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:57:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Payroll",
+              "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-29T13:39:14Z",
+        "schema_name": "guide",
+        "title": "Running payroll",
+        "web_url": "https://www.gov.uk/running-payroll",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/employing-people/payroll",
+        "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+        "base_path": "/browse/employing-people/payroll",
+        "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+        "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/employing-people",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+              "base_path": "/browse/employing-people",
+              "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+              "description": "Includes pay, contracts, hiring and redundancies",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-07-09T12:54:33Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Employing people",
+              "web_url": "https://www.gov.uk/browse/employing-people",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:57:08Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Payroll",
+        "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/national-insurance-rates-letters",
+        "api_url": "https://www.gov.uk/api/content/national-insurance-rates-letters",
+        "base_path": "/national-insurance-rates-letters",
+        "content_id": "0cdbefbb-257a-40f9-97c4-eaef93e163fa",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-06-22T13:10:17Z",
+        "schema_name": "guide",
+        "title": "National Insurance rates and categories",
+        "web_url": "https://www.gov.uk/national-insurance-rates-letters",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/running-a-limited-company",
+        "api_url": "https://www.gov.uk/api/content/running-a-limited-company",
+        "base_path": "/running-a-limited-company",
+        "content_id": "f7c36783-2477-43e0-9b76-04efd7183706",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-05T16:13:26Z",
+        "schema_name": "guide",
+        "title": "Running a limited company: your responsibilities",
+        "web_url": "https://www.gov.uk/running-a-limited-company",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/ca44-national-insurance-for-company-directors",
+        "api_url": "https://www.gov.uk/api/content/government/publications/ca44-national-insurance-for-company-directors",
+        "base_path": "/government/publications/ca44-national-insurance-for-company-directors",
+        "content_id": "5efa76c2-7631-11e4-a3cb-005056011aef",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-12-22T11:01:27Z",
+        "schema_name": "publication",
+        "title": "CA44: National Insurance for company directors",
+        "web_url": "https://www.gov.uk/government/publications/ca44-national-insurance-for-company-directors",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/rates-and-thresholds-for-employers-2018-to-2019",
+        "api_url": "https://www.gov.uk/api/content/guidance/rates-and-thresholds-for-employers-2018-to-2019",
+        "base_path": "/guidance/rates-and-thresholds-for-employers-2018-to-2019",
+        "content_id": "56919b57-94a5-4595-8e68-509200816a33",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2019-02-22T10:10:45Z",
+        "schema_name": "detailed_guide",
+        "title": "Rates and thresholds for employers 2018 to 2019",
+        "web_url": "https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2018-to-2019",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/hmrc-tools-and-calculators",
+        "api_url": "https://www.gov.uk/api/content/guidance/hmrc-tools-and-calculators",
+        "base_path": "/guidance/hmrc-tools-and-calculators",
+        "content_id": "84213cb8-d694-4c81-b08f-47555216da6b",
+        "document_type": "detailed_guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-01-05T09:29:19Z",
+        "schema_name": "detailed_guide",
+        "title": "HMRC tools and calculators",
+        "web_url": "https://www.gov.uk/guidance/hmrc-tools-and-calculators",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/money/business-tax-paye-employees-joining-leaving-or-changing-their-circumstances",
+        "api_url": "https://www.gov.uk/api/content/money/business-tax-paye-employees-joining-leaving-or-changing-their-circumstances",
+        "base_path": "/money/business-tax-paye-employees-joining-leaving-or-changing-their-circumstances",
+        "content_id": "f40880fe-982a-469f-b0cb-248d06d7c7e7",
+        "details": {
+          "internal_name": "Employees joining, leaving or changing their circumstances [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/paye",
+              "api_url": "https://www.gov.uk/api/content/money/paye",
+              "base_path": "/money/paye",
+              "content_id": "86f769e5-f0a9-4d6c-8fbc-602dd5f13ad8",
+              "details": {
+                "internal_name": "PAYE [T] (Level 3)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money/business-tax",
+                    "api_url": "https://www.gov.uk/api/content/money/business-tax",
+                    "base_path": "/money/business-tax",
+                    "content_id": "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+                    "details": {
+                      "internal_name": "Business tax [T] (level 2, money)",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/money",
+                          "api_url": "https://www.gov.uk/api/content/money",
+                          "base_path": "/money",
+                          "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Money",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T20:35:25Z",
+                          "schema_name": "taxon",
+                          "title": "Money",
+                          "web_url": "https://www.gov.uk/money",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-05T16:19:49Z",
+                    "schema_name": "taxon",
+                    "title": "Business tax",
+                    "web_url": "https://www.gov.uk/money/business-tax",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:49Z",
+              "schema_name": "taxon",
+              "title": "PAYE",
+              "web_url": "https://www.gov.uk/money/paye",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:50Z",
+        "schema_name": "taxon",
+        "title": "Employees joining, leaving or changing their circumstances",
+        "web_url": "https://www.gov.uk/money/business-tax-paye-employees-joining-leaving-or-changing-their-circumstances",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/business-and-industry/payroll",
+        "api_url": "https://www.gov.uk/api/content/business-and-industry/payroll",
+        "base_path": "/business-and-industry/payroll",
+        "content_id": "2f4d2d6b-e023-4933-bfdf-a23537783f20",
+        "details": {
+          "internal_name": "Payroll",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/employing-people",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/employing-people",
+              "base_path": "/business-and-industry/employing-people",
+              "content_id": "35f5b496-add7-4263-8084-8510461881fe",
+              "details": {
+                "internal_name": "Employing people",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry/running-a-business",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+                    "base_path": "/business-and-industry/running-a-business",
+                    "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+                    "details": {
+                      "internal_name": "Running a business",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/business-and-industry",
+                          "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                          "base_path": "/business-and-industry",
+                          "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Business and industry",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-06-28T09:32:34Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-03T15:41:02Z",
+                          "schema_name": "taxon",
+                          "title": "Business and industry",
+                          "web_url": "https://www.gov.uk/business-and-industry",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Running a business",
+                    "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Employing people",
+              "web_url": "https://www.gov.uk/business-and-industry/employing-people",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:03Z",
+        "schema_name": "taxon",
+        "title": "Payroll",
+        "web_url": "https://www.gov.uk/business-and-industry/payroll",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employment/payroll",
+        "api_url": "https://www.gov.uk/api/content/employment/payroll",
+        "base_path": "/employment/payroll",
+        "content_id": "374b4837-cf2a-4529-a7f1-559d92b3d90d",
+        "details": {
+          "internal_name": "Payroll (level 3, content from mainstream browse, work theme)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/work",
+              "api_url": "https://www.gov.uk/api/content/work",
+              "base_path": "/work",
+              "content_id": "d0f1e5a3-c8f4-4780-8678-994f19104b21",
+              "description": "",
+              "details": {
+                "internal_name": "Work",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:33:40Z",
+              "schema_name": "taxon",
+              "title": "Work",
+              "web_url": "https://www.gov.uk/work",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T11:08:23Z",
+        "schema_name": "taxon",
+        "title": "Payroll",
+        "web_url": "https://www.gov.uk/employment/payroll",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/money/paye",
+        "api_url": "https://www.gov.uk/api/content/money/paye",
+        "base_path": "/money/paye",
+        "content_id": "86f769e5-f0a9-4d6c-8fbc-602dd5f13ad8",
+        "details": {
+          "internal_name": "PAYE [T] (Level 3)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/money/business-tax",
+              "api_url": "https://www.gov.uk/api/content/money/business-tax",
+              "base_path": "/money/business-tax",
+              "content_id": "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+              "details": {
+                "internal_name": "Business tax [T] (level 2, money)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/money",
+                    "api_url": "https://www.gov.uk/api/content/money",
+                    "base_path": "/money",
+                    "content_id": "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Money",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:35:25Z",
+                    "schema_name": "taxon",
+                    "title": "Money",
+                    "web_url": "https://www.gov.uk/money",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-05T16:19:49Z",
+              "schema_name": "taxon",
+              "title": "Business tax",
+              "web_url": "https://www.gov.uk/money/business-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-05T16:19:49Z",
+        "schema_name": "taxon",
+        "title": "PAYE",
+        "web_url": "https://www.gov.uk/money/paye",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-04-05T23:01:16Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1680612560.367-10.13.22.76-10804",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "National Insurance for company directors",
+  "updated_at": "2024-02-26T10:01:52Z",
+  "withdrawn_notice": {
+  }
+}

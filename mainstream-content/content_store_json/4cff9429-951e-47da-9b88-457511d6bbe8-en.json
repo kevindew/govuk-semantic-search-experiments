@@ -1,0 +1,363 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/expenses-benefits-compensation-injuries-at-work",
+  "content_id": "4cff9429-951e-47da-9b88-457511d6bbe8",
+  "description": "Tax and reporting rules for employers providing compensation for injuries at work",
+  "details": {
+    "body": "\n<div class=\"summary\">\n<p>If your employee is injured at work and you pay them compensation, you don’t have to report these payments or pay tax or National Insurance as long as certain conditions apply.</p>\n</div>\n\n<p>You won’t have to report to HM Revenue &amp; Customs or pay tax and National Insurance if:</p>\n\n<ul>\n  <li>the payment is in return for the employee’s agreement not to make a legal claim against you</li>\n  <li>the employee isn’t automatically entitled to the payment under their employment contract</li>\n  <li>you would have had to make the same payment to a member of the public under similar circumstances</li>\n  <li>you and the employee discussed and negotiated appropriate compensation</li>\n</ul>\n\n<h2 id=\"technical-guidance\">Technical guidance</h2>\n\n<p>The following guides contain more detailed information:</p>\n\n<ul>\n  <li>\n    <p><a rel=\"external\" href=\"http://www.hmrc.gov.uk/manuals/eimanual/eim06450.htm\" title=\"Employment income: sick pay and injury payments - injury payments\">employment income: sick pay and injury payments - injury payments</a></p>\n  </li>\n  <li>\n    <p><a rel=\"external\" href=\"http://www.hmrc.gov.uk/manuals/nimmanual/nim02110.htm\" title=\"Class 1 National Insurance: Earnings of employees and office holders - damages\">Class 1 National Insurance: earnings of employees and office holders - damages</a></p>\n  </li>\n</ul>\n",
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-09-13T12:45:46Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/expenses-benefits-compensation-injuries-at-work",
+        "api_url": "https://www.gov.uk/api/content/expenses-benefits-compensation-injuries-at-work",
+        "base_path": "/expenses-benefits-compensation-injuries-at-work",
+        "content_id": "4cff9429-951e-47da-9b88-457511d6bbe8",
+        "document_type": "answer",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2012-10-08T12:30:09Z",
+        "schema_name": "answer",
+        "title": "Expenses and benefits: compensation for injuries at work",
+        "web_url": "https://www.gov.uk/expenses-benefits-compensation-injuries-at-work",
+        "withdrawn": false
+      }
+    ],
+    "meets_user_needs": [
+      {
+        "api_path": "/api/content/needs/report-certain-expenses-and-benefits-to-hmrc",
+        "api_url": "https://www.gov.uk/api/content/needs/report-certain-expenses-and-benefits-to-hmrc",
+        "base_path": "/needs/report-certain-expenses-and-benefits-to-hmrc",
+        "content_id": "a61b0966-4798-4d92-a56f-3d92cd2ad862",
+        "details": {
+          "benefit": "I pay the appropriate tax and National Insurance",
+          "goal": "report certain expenses and benefits to HMRC",
+          "justifications": null,
+          "met_when": null,
+          "role": "someone who provides employee benefits and pays their business expenses or as a company director with expenses and benefits"
+        },
+        "document_type": "need",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "need",
+        "title": "As a someone who provides employee benefits and pays their business expenses or as a company director with expenses and benefits, I need to report certain expenses and benefits to HMRC, so that I pay the appropriate tax and National Insurance (102282)",
+        "web_url": "https://www.gov.uk/needs/report-certain-expenses-and-benefits-to-hmrc",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/employer-reporting-expenses-benefits",
+        "api_url": "https://www.gov.uk/api/content/employer-reporting-expenses-benefits",
+        "base_path": "/employer-reporting-expenses-benefits",
+        "content_id": "6d40aebf-c225-4d3c-a751-fa8f543e27b8",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/expenses-employee-benefits",
+              "api_url": "https://www.gov.uk/api/content/browse/business/expenses-employee-benefits",
+              "base_path": "/browse/business/expenses-employee-benefits",
+              "content_id": "0d72ae71-5930-43ae-89ea-7cf4cee5b122",
+              "description": "Includes company cars and paying tax on employee benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2016-11-18T16:02:29Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Expenses and employee benefits",
+              "web_url": "https://www.gov.uk/browse/business/expenses-employee-benefits",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/employing-people/payroll",
+              "api_url": "https://www.gov.uk/api/content/browse/employing-people/payroll",
+              "base_path": "/browse/employing-people/payroll",
+              "content_id": "66c4f694-4833-409f-9277-9133f935dda0",
+              "description": "PAYE for employers, getting started, reporting and paying HMRC, expenses and benefits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/employing-people",
+                    "api_url": "https://www.gov.uk/api/content/browse/employing-people",
+                    "base_path": "/browse/employing-people",
+                    "content_id": "a0a4c44e-5e8a-44f6-9e64-32ab2c9ba065",
+                    "description": "Includes pay, contracts, hiring and redundancies",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:33Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Employing people",
+                    "web_url": "https://www.gov.uk/browse/employing-people",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:57:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Payroll",
+              "web_url": "https://www.gov.uk/browse/employing-people/payroll",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-28T09:37:42Z",
+        "schema_name": "guide",
+        "title": "Expenses and benefits for employers",
+        "web_url": "https://www.gov.uk/employer-reporting-expenses-benefits",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D25",
+        "api_path": "/api/content/government/organisations/hm-revenue-customs",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+        "base_path": "/government/organisations/hm-revenue-customs",
+        "content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+        "details": {
+          "acronym": "HMRC",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+          },
+          "logo": {
+            "crest": "hmrc",
+            "formatted_title": "HM Revenue<br/>&amp; Customs"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "HM Revenue & Customs",
+        "web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/hmrc-internal-manuals/employment-income-manual",
+        "api_url": "https://www.gov.uk/api/content/hmrc-internal-manuals/employment-income-manual",
+        "base_path": "/hmrc-internal-manuals/employment-income-manual",
+        "content_id": "2f85e33a-3f79-52e8-b7f8-75b38958e568",
+        "document_type": "hmrc_manual",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-02-29T13:52:39Z",
+        "schema_name": "hmrc_manual",
+        "title": "Employment Income Manual",
+        "web_url": "https://www.gov.uk/hmrc-internal-manuals/employment-income-manual",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/compensation-after-accident-or-injury",
+        "api_url": "https://www.gov.uk/api/content/compensation-after-accident-or-injury",
+        "base_path": "/compensation-after-accident-or-injury",
+        "content_id": "5e498966-4f25-4dde-89a6-f8747fd7a65b",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2017-06-27T11:59:07Z",
+        "schema_name": "guide",
+        "title": "Compensation after an accident or injury",
+        "web_url": "https://www.gov.uk/compensation-after-accident-or-injury",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/hmrc-internal-manuals/national-insurance-manual",
+        "api_url": "https://www.gov.uk/api/content/hmrc-internal-manuals/national-insurance-manual",
+        "base_path": "/hmrc-internal-manuals/national-insurance-manual",
+        "content_id": "c69baaf6-fc79-5e99-a970-847c7db52918",
+        "document_type": "hmrc_manual",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2024-01-05T16:31:37Z",
+        "schema_name": "hmrc_manual",
+        "title": "National Insurance Manual",
+        "web_url": "https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/industrial-injuries-disablement-benefit",
+        "api_url": "https://www.gov.uk/api/content/industrial-injuries-disablement-benefit",
+        "base_path": "/industrial-injuries-disablement-benefit",
+        "content_id": "1a886b5b-2576-465b-81fa-8061395fbf0c",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-12T15:10:29Z",
+        "schema_name": "guide",
+        "title": "Industrial Injuries Disablement Benefit",
+        "web_url": "https://www.gov.uk/industrial-injuries-disablement-benefit",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employer-reporting-expenses-benefits",
+        "api_url": "https://www.gov.uk/api/content/employer-reporting-expenses-benefits",
+        "base_path": "/employer-reporting-expenses-benefits",
+        "content_id": "6d40aebf-c225-4d3c-a751-fa8f543e27b8",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-28T09:37:42Z",
+        "schema_name": "guide",
+        "title": "Expenses and benefits for employers",
+        "web_url": "https://www.gov.uk/employer-reporting-expenses-benefits",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/employment/working",
+        "api_url": "https://www.gov.uk/api/content/employment/working",
+        "base_path": "/employment/working",
+        "content_id": "092348a4-b896-4f8f-a0dc-e6d4605a4904",
+        "description": "Includes holidays and finding a job",
+        "details": {
+          "internal_name": "Working, jobs and pensions [M] (merged, level 2, work theme)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/work",
+              "api_url": "https://www.gov.uk/api/content/work",
+              "base_path": "/work",
+              "content_id": "d0f1e5a3-c8f4-4780-8678-994f19104b21",
+              "description": "",
+              "details": {
+                "internal_name": "Work",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:33:40Z",
+              "schema_name": "taxon",
+              "title": "Work",
+              "web_url": "https://www.gov.uk/work",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T11:08:23Z",
+        "schema_name": "taxon",
+        "title": "Working, jobs and pensions",
+        "web_url": "https://www.gov.uk/employment/working",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2012-10-08T12:30:09Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "3591-1504179289.670-10.3.3.1-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "government-frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Expenses and benefits: compensation for injuries at work",
+  "updated_at": "2024-02-29T13:52:55Z",
+  "withdrawn_notice": {
+  }
+}

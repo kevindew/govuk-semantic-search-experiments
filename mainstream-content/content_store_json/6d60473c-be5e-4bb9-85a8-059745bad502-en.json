@@ -1,0 +1,129 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/apply-for-emergency-travel-document",
+  "content_id": "6d60473c-be5e-4bb9-85a8-059745bad502",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2016-01-15T16:48:26Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/apply-for-emergency-travel-document",
+        "api_url": "https://www.gov.uk/api/content/done/apply-for-emergency-travel-document",
+        "base_path": "/done/apply-for-emergency-travel-document",
+        "content_id": "6d60473c-be5e-4bb9-85a8-059745bad502",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-08-26T12:00:51Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Apply for an emergency travel document",
+        "web_url": "https://www.gov.uk/done/apply-for-emergency-travel-document",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/get-a-passport-urgently",
+        "api_url": "https://www.gov.uk/api/content/get-a-passport-urgently",
+        "base_path": "/get-a-passport-urgently",
+        "content_id": "89426190-c98e-4997-8149-7e0f03aecc8d",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/abroad/passports",
+              "api_url": "https://www.gov.uk/api/content/browse/abroad/passports",
+              "base_path": "/browse/abroad/passports",
+              "content_id": "dd842862-e148-4fe3-b363-e57d6a2689aa",
+              "description": "Eligibility, fees, applying, renewing and updating",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:18Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Passports",
+              "web_url": "https://www.gov.uk/browse/abroad/passports",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2016-02-02T08:00:00Z",
+        "schema_name": "answer",
+        "title": "Get a passport urgently",
+        "web_url": "https://www.gov.uk/get-a-passport-urgently",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-08-26T12:00:51Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1686925967.346-10.13.20.85-7233",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Apply for an emergency travel document",
+  "updated_at": "2024-01-08T11:00:07Z",
+  "withdrawn_notice": {
+  }
+}

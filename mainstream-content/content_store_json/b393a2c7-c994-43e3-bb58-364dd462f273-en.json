@@ -1,0 +1,559 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/contact-voa",
+  "content_id": "b393a2c7-c994-43e3-bb58-364dd462f273",
+  "description": "Find contact details for the Valuation Office Agency in England and Wales",
+  "details": {
+    "department_analytics_profile": "",
+    "external_related_links": [
+
+    ],
+    "introductory_paragraph": "<p>Contact the Valuation Office Agency (<abbr title=\"Valuation Office Agency\">VOA</abbr>) if you need help with things like:</p>\n\n<ul>\n  <li>your property’s Council Tax band</li>\n  <li>the rateable value of your property, if you pay business rates</li>\n  <li>Local Housing Allowance and fair rents</li>\n</ul>\n\n<p>Contact your local council instead to <a href=\"/pay-council-tax\">pay your Council Tax</a> or <a href=\"/contact-your-local-council-about-business-rates\">business rates bill</a>.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This service is also available <a href=\"/cysylltu-voa\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n",
+    "more_information": "<p>You can only use this service to find contact details for the <abbr title=\"Valuation Office Agency\">VOA</abbr> in England and Wales. You’ll need to contact:</p>\n\n<ul>\n  <li>\n<a rel=\"external\" href=\"https://www.saa.gov.uk/contact-us/\">Scottish Assessors</a> if your property is in Scotland</li>\n  <li>\n<a rel=\"external\" href=\"https://www.finance-ni.gov.uk/contacts/contact-land-property-services\">Land and Property Services</a> if your property is in Northern Ireland</li>\n</ul>\n\n",
+    "start_button_text": "Start now",
+    "transaction_start_link": "https://www.tax.service.gov.uk/valuation-office-agency-contact-frontend/new-or-existing-enquiry",
+    "variants": [
+
+    ],
+    "will_continue_on": ""
+  },
+  "document_type": "transaction",
+  "first_published_at": "2017-06-21T08:18:45Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/contact-voa",
+        "api_url": "https://www.gov.uk/api/content/contact-voa",
+        "base_path": "/contact-voa",
+        "content_id": "b393a2c7-c994-43e3-bb58-364dd462f273",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-07-06T12:08:30Z",
+        "schema_name": "transaction",
+        "title": "Contact VOA",
+        "web_url": "https://www.gov.uk/contact-voa",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/business/premises-rates",
+        "api_url": "https://www.gov.uk/api/content/browse/business/premises-rates",
+        "base_path": "/browse/business/premises-rates",
+        "content_id": "61dc0b91-3e32-4eaa-9aaf-219410baf81f",
+        "description": "Includes business rates, leases, renting, planning permission, waste, and energy certificates",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-30T10:53:01Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business premises and business rates",
+        "web_url": "https://www.gov.uk/browse/business/premises-rates",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/housing-local-services/council-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/council-tax",
+        "base_path": "/browse/housing-local-services/council-tax",
+        "content_id": "d958a860-3e80-4377-9d97-a491c77dbfc5",
+        "description": "Includes council tax appeals, bands, discounts and reductions",
+        "document_type": "mainstream_browse_page",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Council Tax",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/council-tax",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/council-tax",
+        "api_url": "https://www.gov.uk/api/content/council-tax",
+        "base_path": "/council-tax",
+        "content_id": "428c2bae-56c2-48bd-a917-3d04df0a63fd",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/council-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/council-tax",
+              "base_path": "/browse/housing-local-services/council-tax",
+              "content_id": "d958a860-3e80-4377-9d97-a491c77dbfc5",
+              "description": "Includes council tax appeals, bands, discounts and reductions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Council Tax",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/council-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-11-28T10:02:14Z",
+        "schema_name": "guide",
+        "title": "How Council Tax works",
+        "web_url": "https://www.gov.uk/council-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/council-tax-appeals",
+        "api_url": "https://www.gov.uk/api/content/council-tax-appeals",
+        "base_path": "/council-tax-appeals",
+        "content_id": "96cc0e17-c228-4f0c-97f9-fb505b5d07a1",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/council-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/council-tax",
+              "base_path": "/browse/housing-local-services/council-tax",
+              "content_id": "d958a860-3e80-4377-9d97-a491c77dbfc5",
+              "description": "Includes council tax appeals, bands, discounts and reductions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Council Tax",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/council-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-25T12:33:59Z",
+        "schema_name": "guide",
+        "title": "Appeal a Council Tax bill or fine",
+        "web_url": "https://www.gov.uk/council-tax-appeals",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pay-council-tax",
+        "api_url": "https://www.gov.uk/api/content/pay-council-tax",
+        "base_path": "/pay-council-tax",
+        "content_id": "b7b077e3-e03a-4fea-a6a5-853f145dfcdf",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/council-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/council-tax",
+              "base_path": "/browse/housing-local-services/council-tax",
+              "content_id": "d958a860-3e80-4377-9d97-a491c77dbfc5",
+              "description": "Includes council tax appeals, bands, discounts and reductions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Council Tax",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/council-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2012-05-02T16:27:17Z",
+        "schema_name": "local_transaction",
+        "title": "Pay your Council Tax",
+        "web_url": "https://www.gov.uk/pay-council-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/introduction-to-business-rates",
+        "api_url": "https://www.gov.uk/api/content/introduction-to-business-rates",
+        "base_path": "/introduction-to-business-rates",
+        "content_id": "9de3b790-386a-4f9d-8459-d19090075b0d",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/business/premises-rates",
+              "api_url": "https://www.gov.uk/api/content/browse/business/premises-rates",
+              "base_path": "/browse/business/premises-rates",
+              "content_id": "61dc0b91-3e32-4eaa-9aaf-219410baf81f",
+              "description": "Includes business rates, leases, renting, planning permission, waste, and energy certificates",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/business",
+                    "api_url": "https://www.gov.uk/api/content/browse/business",
+                    "base_path": "/browse/business",
+                    "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+                    "description": "Tools and guidance for businesses",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:21:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Business and self-employed",
+                    "web_url": "https://www.gov.uk/browse/business",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-30T10:53:01Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business premises and business rates",
+              "web_url": "https://www.gov.uk/browse/business/premises-rates",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-01T16:16:08Z",
+        "schema_name": "guide",
+        "title": "Business rates",
+        "web_url": "https://www.gov.uk/introduction-to-business-rates",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "EA87",
+        "api_path": "/api/content/government/organisations/valuation-office-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/valuation-office-agency",
+        "base_path": "/government/organisations/valuation-office-agency",
+        "content_id": "ae98edb5-87b4-4a69-a31a-e0e5298f949d",
+        "details": {
+          "acronym": "VOA",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db26e5274a7908e352e5/s960_VOA-Wingate-Sign.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db27e5274a79051c9268/s300_VOA-Wingate-Sign.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Valuation Office Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Valuation Office Agency",
+        "web_url": "https://www.gov.uk/government/organisations/valuation-office-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/business/premises-rates",
+        "api_url": "https://www.gov.uk/api/content/browse/business/premises-rates",
+        "base_path": "/browse/business/premises-rates",
+        "content_id": "61dc0b91-3e32-4eaa-9aaf-219410baf81f",
+        "description": "Includes business rates, leases, renting, planning permission, waste, and energy certificates",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/business",
+              "api_url": "https://www.gov.uk/api/content/browse/business",
+              "base_path": "/browse/business",
+              "content_id": "2e47e500-8d91-4747-b6d8-cf6524d570f1",
+              "description": "Tools and guidance for businesses",
+              "document_type": "mainstream_browse_page",
+              "links": {
+              },
+              "locale": "en",
+              "public_updated_at": "2021-04-27T12:21:27Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Business and self-employed",
+              "web_url": "https://www.gov.uk/browse/business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-30T10:53:01Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Business premises and business rates",
+        "web_url": "https://www.gov.uk/browse/business/premises-rates",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "suggested_ordered_related_items": [
+      {
+        "api_path": "/api/content/council-tax",
+        "api_url": "https://www.gov.uk/api/content/council-tax",
+        "base_path": "/council-tax",
+        "content_id": "428c2bae-56c2-48bd-a917-3d04df0a63fd",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2022-11-28T10:02:14Z",
+        "schema_name": "guide",
+        "title": "How Council Tax works",
+        "web_url": "https://www.gov.uk/council-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/council-tax-appeals",
+        "api_url": "https://www.gov.uk/api/content/council-tax-appeals",
+        "base_path": "/council-tax-appeals",
+        "content_id": "96cc0e17-c228-4f0c-97f9-fb505b5d07a1",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2014-11-25T12:33:59Z",
+        "schema_name": "guide",
+        "title": "Appeal a Council Tax bill or fine",
+        "web_url": "https://www.gov.uk/council-tax-appeals",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/council-tax-bands",
+        "api_url": "https://www.gov.uk/api/content/council-tax-bands",
+        "base_path": "/council-tax-bands",
+        "content_id": "515c819e-34bd-421d-8261-eaa06c4786c5",
+        "document_type": "transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2015-01-14T13:47:41Z",
+        "schema_name": "transaction",
+        "title": "Check your Council Tax band",
+        "web_url": "https://www.gov.uk/council-tax-bands",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/challenge-council-tax-band",
+        "api_url": "https://www.gov.uk/api/content/challenge-council-tax-band",
+        "base_path": "/challenge-council-tax-band",
+        "content_id": "1a54abc5-26f1-4781-b0c5-a0f8adb5ca58",
+        "document_type": "guide",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-01-09T16:36:51Z",
+        "schema_name": "guide",
+        "title": "Challenge your Council Tax band",
+        "web_url": "https://www.gov.uk/challenge-council-tax-band",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/publications/contacting-your-regional-valuation-office",
+        "api_url": "https://www.gov.uk/api/content/government/publications/contacting-your-regional-valuation-office",
+        "base_path": "/government/publications/contacting-your-regional-valuation-office",
+        "content_id": "0c01ffca-7fec-4746-9c5f-da0035ff7388",
+        "document_type": "guidance",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2018-01-23T15:43:03Z",
+        "schema_name": "publication",
+        "title": "Contacting your Valuation Office",
+        "web_url": "https://www.gov.uk/government/publications/contacting-your-regional-valuation-office",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/business/premises-rates",
+        "api_url": "https://www.gov.uk/api/content/business/premises-rates",
+        "base_path": "/business/premises-rates",
+        "content_id": "68cc0b3c-7f80-4869-9dc7-b2ceef5f4f08",
+        "details": {
+          "internal_name": "Business premises and business rates [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/business-and-industry/running-a-business",
+              "api_url": "https://www.gov.uk/api/content/business-and-industry/running-a-business",
+              "base_path": "/business-and-industry/running-a-business",
+              "content_id": "8aa41155-58ff-4d7d-a11a-7e3ef42863dd",
+              "details": {
+                "internal_name": "Running a business",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/business-and-industry",
+                    "api_url": "https://www.gov.uk/api/content/business-and-industry",
+                    "base_path": "/business-and-industry",
+                    "content_id": "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Business and industry",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {
+                          },
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-03T15:41:02Z",
+                    "schema_name": "taxon",
+                    "title": "Business and industry",
+                    "web_url": "https://www.gov.uk/business-and-industry",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-03T15:41:02Z",
+              "schema_name": "taxon",
+              "title": "Running a business",
+              "web_url": "https://www.gov.uk/business-and-industry/running-a-business",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-09-03T15:41:03Z",
+        "schema_name": "taxon",
+        "title": "Business premises and business rates",
+        "web_url": "https://www.gov.uk/business/premises-rates",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2018-07-06T12:08:30Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "15861-1615564953.569-10.13.1.43-8195",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "transaction",
+  "title": "Contact VOA",
+  "updated_at": "2023-11-10T12:15:46Z",
+  "withdrawn_notice": {
+  }
+}

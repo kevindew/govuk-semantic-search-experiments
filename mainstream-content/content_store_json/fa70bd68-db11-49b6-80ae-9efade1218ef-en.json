@@ -1,0 +1,163 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/done/renew-medical-driving-licence",
+  "content_id": "fa70bd68-db11-49b6-80ae-9efade1218ef",
+  "description": "",
+  "details": {
+    "external_related_links": [
+
+    ]
+  },
+  "document_type": "completed_transaction",
+  "first_published_at": "2016-09-30T14:28:38Z",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/done/renew-medical-driving-licence",
+        "api_url": "https://www.gov.uk/api/content/done/renew-medical-driving-licence",
+        "base_path": "/done/renew-medical-driving-licence",
+        "content_id": "fa70bd68-db11-49b6-80ae-9efade1218ef",
+        "document_type": "completed_transaction",
+        "links": {
+        },
+        "locale": "en",
+        "public_updated_at": "2020-10-22T11:38:32Z",
+        "schema_name": "completed_transaction",
+        "title": "Give feedback on Renew your short-term medical driving licence",
+        "web_url": "https://www.gov.uk/done/renew-medical-driving-licence",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/giving-up-your-driving-licence",
+        "api_url": "https://www.gov.uk/api/content/giving-up-your-driving-licence",
+        "base_path": "/giving-up-your-driving-licence",
+        "content_id": "b68905c5-7ca4-4d3f-8fb2-f4544365e2ed",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/driving/driving-licences",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/driving-licences",
+              "base_path": "/browse/driving/driving-licences",
+              "content_id": "bbbfd4b9-10e4-4cae-b4b9-2797ffa6a036",
+              "description": "Apply for, renew or update your licence, view or share your driving licence, add new categories",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-26T14:10:42Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving licences",
+              "web_url": "https://www.gov.uk/browse/driving/driving-licences",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/driving/disability-health-condition",
+              "api_url": "https://www.gov.uk/api/content/browse/driving/disability-health-condition",
+              "base_path": "/browse/driving/disability-health-condition",
+              "content_id": "bf25c800-46e1-468b-8d79-beec491cfa89",
+              "description": "Check and report your medical condition, get a Blue Badge, mobility scooters and bus passes",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/driving",
+                    "api_url": "https://www.gov.uk/api/content/browse/driving",
+                    "base_path": "/browse/driving",
+                    "content_id": "03531ffd-314b-4fed-9361-fa9816005c31",
+                    "description": "Includes vehicle tax, MOT and driving licences",
+                    "document_type": "mainstream_browse_page",
+                    "links": {
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:47Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Driving and transport",
+                    "web_url": "https://www.gov.uk/browse/driving",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-25T10:48:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Driving with medical conditions, Blue Badges and transport for disabled people",
+              "web_url": "https://www.gov.uk/browse/driving/disability-health-condition",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-05-05T09:54:07Z",
+        "schema_name": "answer",
+        "title": "Voluntarily surrendering your driving licence ",
+        "web_url": "https://www.gov.uk/giving-up-your-driving-licence",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "cabinet-office",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Government Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {
+        },
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2020-10-22T11:38:32Z",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1685629920.291-10.13.30.3-410",
+  "publishing_scheduled_at": null,
+  "rendering_app": "feedback",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "completed_transaction",
+  "title": "Give feedback on Renew your short-term medical driving licence",
+  "updated_at": "2023-09-01T10:27:25Z",
+  "withdrawn_notice": {
+  }
+}
