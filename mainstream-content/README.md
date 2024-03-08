@@ -12,5 +12,14 @@ k exec -it deploy/publishing-api -- rails runner 'puts Edition.where(state: "pub
 
 with a little munging after to remove extra outputs to stdout and fixing line breaks.
 
-Then data retrieved with `ruby retrieve_content_store_json.rb".
+Then create the data with `ruby retrieve_content_store_json.rb`.
 
+## Creating chunked data for search
+
+You will need an OpenAI access token. Add it to .env in this directory with contents like so:
+
+```
+OPENAI_ACCESS_TOKEN=<YOUR_TOKEN>
+```
+
+You can generate the chunked JSON with `ruby create_search_json.rb`
