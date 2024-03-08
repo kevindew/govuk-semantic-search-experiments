@@ -1,0 +1,44 @@
+version: "3.8"
+
+volumes:
+  postgres-15:
+  opensearch-2:
+  qdrant:
+
+services:
+  postgres-15:
+    image: postgres:15
+    environment:
+      POSTGRES_HOST_AUTH_METHOD: trust
+    volumes:
+      - postgres-15:/var/lib/postgresql/data
+    ports:
+      - 54315:5432
+
+  opensearch-2:
+    image: opensearchproject/opensearch:2
+    environment:
+      - discovery.type=single-node
+      - "OPENSEARCH_JAVA_OPTS=-Xms2g -Xmx2g" # Set min and max JVM heap sizes to at least 50% of system RAM
+      - "DISABLE_INSTALL_DEMO_CONFIG=true" # Prevents execution of bundled demo script which installs demo certificates and security configurations to OpenSearch
+      - "DISABLE_SECURITY_PLUGIN=true" # Disables Security plugin
+    ports:
+      - 9200:9200
+    volumes:
+      - opensearch-2:/usr/share/opensearch/data
+
+  qdrant:
+    image: qdrant/qdrant
+    configs:
+      - source: qdrant_config
+        target: /qdrant/config/production.yaml
+    ports:
+      - 6333:6333
+      - 6334:6334
+    volumes:
+      - qdrant:/qdrant/storage
+
+configs:
+  qdrant_config:
+    content: |
+      log_level: INFO

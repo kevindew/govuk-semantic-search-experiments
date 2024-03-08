@@ -3,13 +3,13 @@ require "bundler/inline"
 gemfile do
   source "https://rubygems.org"
 
-  gem "rack" # needed due to: https://github.com/alphagov/gds-api-adapters/pull/1238
-  gem "gds-api-adapters"
   gem "debug"
+  gem "gds-api-adapters"
+  gem "rack" # needed due to: https://github.com/alphagov/gds-api-adapters/pull/1238
 end
 
-require "gds-api-adapters"
 require "debug"
+require "gds-api-adapters"
 
 DESTINATION_DIR = "content_store_json"
 Dir.mkdir(DESTINATION_DIR) unless Dir.exist?(DESTINATION_DIR)
