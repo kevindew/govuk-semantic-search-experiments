@@ -27,7 +27,6 @@ CONTENT_IDS_TO_CHUNK = [
 ]
 OPENAI_EMBEDDING_MODEL = "text-embedding-3-small"
 
-
 def serialize_content_item(content_item, chunks, openai_client)
   record_id = "#{content_item['content_id']}-#{content_item['locale']}"
   title = content_item["title"]
@@ -101,5 +100,3 @@ CONTENT_IDS_TO_CHUNK.each do |content_id|
   filename = "#{content_id}-#{content_item['locale']}.json"
   File.write("#{DESTINATION_DIR}/#{filename}", JSON.pretty_generate(record))
 end
-
-
