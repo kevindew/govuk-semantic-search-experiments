@@ -59,6 +59,7 @@ def serialize_content_item(content_item, chunks, openai_client)
       id: chunk_id,
       content_url:,
       heading_context:,
+      html_content:,
       plain_content:,
       openai_embeddings:,
       digest:
