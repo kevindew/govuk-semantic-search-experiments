@@ -38,14 +38,8 @@ results = opensearch_client.search(
         }
       }
     },
-    fields: [
-      "content_url",
-      "heading_context",
-      "html_content",
-      "plain_content"
-    ],
     # avoid the noise of open ai embeddings
-    _source: false
+    _source: { exclude: %w[openai_embeddings] },
   }
 )
 
