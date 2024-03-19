@@ -3,6 +3,7 @@ version: "3.8"
 volumes:
   pgvector-16:
   opensearch-2:
+  opensearch-2-ml-2:
   qdrant:
 
 services:
@@ -26,6 +27,21 @@ services:
       - 9200:9200
     volumes:
       - opensearch-2:/usr/share/opensearch/data
+
+  opensearch-2-ml:
+    image: opensearchproject/opensearch:2
+    environment:
+      - discovery.type=single-node
+      - plugins.ml_commons.only_run_on_ml_node=false
+      - plugins.ml_commons.model_access_control_enabled=true
+      - plugins.ml_commons.native_memory_threshold=99
+      - "OPENSEARCH_JAVA_OPTS=-Xms2g -Xmx2g" # Set min and max JVM heap sizes to at least 50% of system RAM
+      - "DISABLE_INSTALL_DEMO_CONFIG=true" # Prevents execution of bundled demo script which installs demo certificates and security configurations to OpenSearch
+      - "DISABLE_SECURITY_PLUGIN=true" # Disables Security plugin
+    ports:
+      - 9202:9200
+    volumes:
+      - opensearch-2-ml-2:/usr/share/opensearch/data
 
   qdrant:
     image: qdrant/qdrant
