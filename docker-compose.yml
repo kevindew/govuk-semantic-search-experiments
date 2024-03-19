@@ -1,17 +1,17 @@
 version: "3.8"
 
 volumes:
-  postgres-15:
+  pgvector-16:
   opensearch-2:
   qdrant:
 
 services:
-  postgres-15:
-    image: postgres:15
+  pgvector-16:
+    image: pgvector/pgvector:pg16
     environment:
       POSTGRES_HOST_AUTH_METHOD: trust
     volumes:
-      - postgres-15:/var/lib/postgresql/data
+      - pgvector-16:/var/lib/postgresql/data
     ports:
       - 54315:5432
 
