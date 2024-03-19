@@ -10,7 +10,6 @@ end
 
 require "json"
 require "uri"
-require "pg"
 require "pgvector"
 
 
@@ -50,19 +49,19 @@ create_table_query = <<-SQL
     heading_context text[],
     html_content text,
     plain_content text,
-    openai_embeddings vector (1536),
+    openai_embedding vector (1536),
     digest text
   )
 SQL
 conn.exec(create_table_query)
-conn.exec("CREATE INDEX index_#{TABLE_NAME}_openai_embeddings_hnsw ON #{TABLE_NAME} USING hnsw(openai_embeddings vector_cosine_ops);")
+conn.exec("CREATE INDEX index_#{TABLE_NAME}_openai_embedding_hnsw ON #{TABLE_NAME} USING hnsw(openai_embedding vector_cosine_ops);")
 
 Dir["mainstream_content/chunked_json/*.json"].each do |path|
   chunked_item = JSON.load_file(path)
   chunked_item["chunks"].each do |chunk|
     insert_query = <<~SQL
       INSERT INTO #{TABLE_NAME}
-      (id, content_id, locale, base_path, title, content_url, heading_context, html_content, plain_content, openai_embeddings, digest)
+      (id, content_id, locale, base_path, title, content_url, heading_context, html_content, plain_content, openai_embedding, digest)
       VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11)
     SQL
     conn.exec_params(insert_query, [
@@ -75,7 +74,7 @@ Dir["mainstream_content/chunked_json/*.json"].each do |path|
       "{" + chunk["heading_context"].join(",") + "}", # an array input doesn't get parsed correctly
       chunk["html_content"],
       chunk["plain_content"],
-      chunk["openai_embeddings"],
+      chunk["openai_embedding"],
       chunk["digest"]
     ])
     end

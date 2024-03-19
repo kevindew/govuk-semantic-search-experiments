@@ -33,7 +33,7 @@ client.indices.create(
         heading_context: { type: "text" },
         html_content: { type: "text" },
         plain_content: { type: "text" },
-        openai_embeddings: {
+        openai_embedding: {
           type: "knn_vector",
           dimension: 1536,
           method: {
@@ -53,7 +53,7 @@ Dir["mainstream_content/chunked_json/*.json"].each do |path|
   actions = chunked_item["chunks"].flat_map do |chunk|
     action = { index: { _id: chunk["id"] } }
     document_data = chunked_item.slice(*%w[content_id locale base_path title])
-    chunk_data = chunk.slice(*%w[content_url heading_context html_content plain_content openai_embeddings digest])
+    chunk_data = chunk.slice(*%w[content_url heading_context html_content plain_content openai_embedding digest])
     [action, document_data.merge(chunk_data)]
   end
   client.bulk(index: INDEX_NAME, body: actions)

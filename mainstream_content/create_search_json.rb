@@ -52,7 +52,7 @@ def serialize_content_item(content_item, chunks, openai_client)
     openai_response = openai_client.embeddings(
       parameters: { model: OPENAI_EMBEDDING_MODEL, input: plain_content }
     )
-    openai_embeddings = openai_response.dig("data", 0, "embedding")
+    openai_embedding = openai_response.dig("data", 0, "embedding")
 
 
     {
@@ -61,7 +61,7 @@ def serialize_content_item(content_item, chunks, openai_client)
       heading_context:,
       html_content:,
       plain_content:,
-      openai_embeddings:,
+      openai_embedding:,
       digest:
     }
   end

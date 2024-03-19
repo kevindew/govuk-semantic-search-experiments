@@ -6,13 +6,14 @@ gemfile do
   gem "debug"
   gem "dotenv"
   gem "pg"
+  gem "pgvector"
   gem "ruby-openai"
 end
 
 require "debug"
 require "dotenv/load"
 require "openai"
-require "pg"
+require "pgvector"
 
 DATABASE_URL = ENV.fetch("DATABASE_URL", "postgresql://postgres@localhost:54315/semantic_search_experiments")
 OPENAI_EMBEDDING_MODEL = "text-embedding-3-small"
@@ -27,9 +28,9 @@ openai_response = openai_client.embeddings(
 openai_embedding = openai_response.dig("data", 0, "embedding")
 
 query = <<SQL
-SELECT plain_content, (openai_embeddings <-> $1) as similarity
+SELECT plain_content, (openai_embedding <-> $1) as similarity
 FROM chunked_govuk_content
-ORDER BY openai_embeddings <-> $1 LIMIT 5
+ORDER BY openai_embedding <-> $1 LIMIT 5
 SQL
 
 result = database.exec_params(query, [openai_embedding]).to_a

@@ -36,7 +36,7 @@ Dir["mainstream_content/chunked_json/*.json"].each do |path|
     # so they're easier to guess for checking.
     {
       id: id += 1,
-      vector: chunk["openai_embeddings"],
+      vector: chunk["openai_embedding"],
       payload: document_data.merge(chunk_data)
     }
   end
