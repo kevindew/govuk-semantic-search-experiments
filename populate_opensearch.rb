@@ -4,9 +4,11 @@ gemfile do
   source "https://rubygems.org"
 
   gem "debug"
+  gem "dotenv"
   gem "opensearch-ruby"
 end
 
+require "dotenv/load"
 require "json"
 require "opensearch-ruby"
 
@@ -28,6 +30,7 @@ client.indices.create(
         content_id: { type: "keyword" },
         locale: { type: "keyword" },
         base_path: { type: "keyword" },
+        document_type: { type: "keyword" },
         content_url: { type: "keyword" },
         title: { type: "text" },
         heading_context: { type: "text" },
@@ -48,7 +51,10 @@ client.indices.create(
   }
 )
 
-Dir["mainstream_content/chunked_json/*.json"].each do |path|
+files = Dir["mainstream_content/chunked_json/*.json"]
+
+
+files.each.with_index(1) do |path, index|
   chunked_item = JSON.load_file(path)
   actions = chunked_item["chunks"].flat_map do |chunk|
     action = { index: { _id: chunk["id"] } }
@@ -57,4 +63,7 @@ Dir["mainstream_content/chunked_json/*.json"].each do |path|
     [action, document_data.merge(chunk_data)]
   end
   client.bulk(index: INDEX_NAME, body: actions)
+  puts "Imported #{index} of #{files.count}" if index % 10 == 0
 end
+
+puts "All #{files.count} content items imported"
