@@ -1,5 +1,13 @@
 require_relative "attribute_stripper"
 
+# Issues with this class:
+# - if content starts without a header it seems to mistakenly put the content into the header
+#   (seen with: https://www.gov.uk/api/content/search-house-prices)
+# - title seems redundant, can just do it with application code
+# - would be good to preserve header anchor ids so they can be used in urls
+# - it's hard to work with the headers being hash keys - it'd be easier to have an array of headers - I don't think
+#   we care which level they are just the hierachy
+# - nitpick, but it'd be a bit more idiomatic Ruby if the keys were symbols
 class HtmlHierarchicalChunker
   def initialize(title:, html:)
     @title = title
