@@ -31,8 +31,8 @@ client.indices.create(
         locale: { type: "keyword" },
         base_path: { type: "keyword" },
         document_type: { type: "keyword" },
-        content_url: { type: "keyword" },
         title: { type: "text" },
+        content_url: { type: "keyword" },
         heading_context: { type: "text" },
         html_content: { type: "text" },
         plain_content: { type: "text" },
@@ -53,12 +53,11 @@ client.indices.create(
 
 files = Dir["mainstream_content/chunked_json/*.json"]
 
-
 files.each.with_index(1) do |path, index|
   chunked_item = JSON.load_file(path)
   actions = chunked_item["chunks"].flat_map do |chunk|
     action = { index: { _id: chunk["id"] } }
-    document_data = chunked_item.slice(*%w[content_id locale base_path title])
+    document_data = chunked_item.slice(*%w[content_id locale document_type base_path title])
     chunk_data = chunk.slice(*%w[content_url heading_context html_content plain_content openai_embedding digest])
     [action, document_data.merge(chunk_data)]
   end
