@@ -19,6 +19,7 @@ def print_results_summary(results):
     print()
     for result in results['hits']['hits']:
         print(f"Score: {result['_score']}")
-        print(result['_source']['content_url'])
+        print(f"URL: https://www.gov.uk{result['_source']['content_url']}")
+        print(f"Document type: {result['_source']['document_type']}")
         print(result['_source']['plain_content'])
         print()
