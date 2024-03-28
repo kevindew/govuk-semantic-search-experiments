@@ -21,6 +21,7 @@ embedding = openai_response.data[0].embedding
 
 results = search_client.search(
     index=INDEX_NAME,
+    # Uses the search pipeline as a means to normalize the scores returned from the queries to be comparable
     search_pipeline=HYBRID_SEARCH_PIPELINE,
     body = {
         "size": 5,
