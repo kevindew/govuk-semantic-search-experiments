@@ -81,10 +81,6 @@ def serialize_content_item(content_item, formatted_chunks, openai_client)
     parsed = Nokogiri::HTML::DocumentFragment.parse(html_content)
     heading_context = [title] + headers
     plain_content = (heading_context + [parsed.text]).join("\n")
-    # openai_response = openai_client.embeddings(
-    #   parameters: { model: OPENAI_EMBEDDING_MODEL, input: plain_content }
-    # )
-    # openai_embedding = openai_response.dig("data", 0, "embedding")
 
     {
       id: chunk_id,
@@ -168,7 +164,7 @@ files.each_slice(50).each do |files_chunk|
       content_item = JSON.load_file(file_path)
 
       chunks = case content_item["document_type"]
-               when "answer", "help"
+               when "answer", "help_page"
                  # body content
                  chunks_for_html_string(content_item.dig("details", "body"), content_item["base_path"])
                when "guide"
