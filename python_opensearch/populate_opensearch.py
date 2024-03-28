@@ -4,9 +4,33 @@ load_dotenv()
 import json, pdb, glob
 
 from opensearchpy import helpers as opensearch_helpers
-from search import INDEX_NAME, client
+from search import INDEX_NAME, HYBRID_SEARCH_PIPELINE, client
 
+# based on the docs example: https://opensearch.org/docs/latest/search-plugins/hybrid-search/#step-4-configure-a-search-pipeline
+pipeline_body = {
+    "description": "Post processor to normalize scores for bm25 and knn hybrid search",
+    "phase_results_processors": [
+        {
+            "normalization-processor": {
+                "normalization": {
+                    "technique": "min_max"
+                },
+                "combination": {
+                    "technique": "arithmetic_mean",
+                    "parameters": {
+                        "weights": [
+                            0.3, # bm25 weighting, prefer knn results
+                            0.7 # knn weighting
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}
 
+# I don't think there's an API method to PUT a search pipeline, so using the HTTP client
+client.http.put(f"/_search/pipeline/{HYBRID_SEARCH_PIPELINE}", body=pipeline_body)
 
 # Delete index if it exists
 if client.indices.exists(index=INDEX_NAME):

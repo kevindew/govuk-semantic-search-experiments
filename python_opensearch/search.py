@@ -3,6 +3,7 @@ import os, pdb
 from opensearchpy import OpenSearch
 
 INDEX_NAME = "chunked_govuk_content"
+HYBRID_SEARCH_PIPELINE = "knn_bm25_pipeline"
 EMBEDDING_MODEL = "text-embedding-3-small"
 
 client = OpenSearch(
