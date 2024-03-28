@@ -101,6 +101,7 @@ def serialize_content_item(content_item, formatted_chunks, openai_client)
     content_id: content_item["content_id"],
     locale: content_item["locale"],
     base_path: content_item["base_path"],
+    title: content_item["title"],
     chunks: apply_openai_embedding_to_chunks(serialized_chunks, openai_client),
     document_type: content_item["document_type"],
     openai_embedding_model: OPENAI_EMBEDDING_MODEL
